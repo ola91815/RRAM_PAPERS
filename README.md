@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.03
+## Updated on 2024.08.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 |**2024-04-23**|**Drop-Connect as a Fault-Tolerance Approach for RRAM-based Deep Neural Network Accelerators**|Mingyuan Xiang et.al.|[2404.15498](http://arxiv.org/abs/2404.15498)|null|
 |**2024-03-29**|**Memristor-Based Lightweight Encryption**|Muhammad Ali Siddiqi et.al.|[2404.00125](http://arxiv.org/abs/2404.00125)|null|
 
-<p align=right>(<a href=#updated-on-20240803>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240802>back to top</a>)</p>
 
 ## SYNAPSE
 
@@ -46,7 +46,7 @@
 |**2024-07-08**|**Exploiting Heterogeneity in Timescales for Sparse Recurrent Spiking Neural Networks for Energy-Efficient Edge Computing**|Biswadeep Chakraborty et.al.|[2407.06452](http://arxiv.org/abs/2407.06452)|null|
 |**2024-07-08**|**Cellular diffusion processes in singularly perturbed domains**|Paul C Bressloff et.al.|[2407.05747](http://arxiv.org/abs/2407.05747)|null|
 
-<p align=right>(<a href=#updated-on-20240803>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240802>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
