@@ -84,7 +84,7 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
 
-def get_daily_papers(topic,query="RRAM AND SYNAPSE", max_results=2):
+def get_daily_papers(topic,query="RRAM", max_results=2):
     """
     @param topic: str
     @param query: str
@@ -282,7 +282,7 @@ def json_to_md(filename,md_filename,
         pass
 
     # write data into README.md
-    with open(md_filename,"a+") as f:
+    with open(md_filename,"a+",encoding="utf-8") as f:
 
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
