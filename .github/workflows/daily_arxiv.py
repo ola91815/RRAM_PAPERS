@@ -18,7 +18,7 @@ def sort_papers(papers):
         output[key] = papers[key]
     return output
 
-def get_daily_papers(topic, query="RRAM + synapse", max_results=2):
+def get_daily_papers(topic, query="RRAM", max_results=10):
     """
     @param topic: str
     @param query: str
@@ -145,7 +145,7 @@ if __name__ == "__main__":
 
     # update README.md file
     json_file = "cv-arxiv-daily.json"
-    if ~os.path.exists(json_file):
+    if not os.path.exists(json_file):
         with open(json_file, 'w') as a:
             print("create " + json_file)
 
