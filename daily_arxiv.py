@@ -18,7 +18,7 @@ def sort_papers(papers):
         output[key] = papers[key]
     return output
 
-def get_daily_papers(topic, query="RRAM", max_results=10):
+def get_daily_papers(topic, query="RRAM", max_results=2):
     """
     @param topic: str
     @param query: str
@@ -110,25 +110,25 @@ def json_to_md(filename):
         pass
 
     # write data into README.md
-    with open(md_filename,"a+") as f:
+    with open(md_filename,"a+",encoding="utf-8") as f:
 
         f.write("## Updated on " + DateNow + "\n\n")
 
-    for keyword in data.keys():
-        day_content = data[keyword]
-        if not day_content:
-            continue
-        # the head of each part
-        f.write(f"## {keyword}\n\n")
-        f.write("|Publish Date|Title|Authors|PDF|\n" + "|---|---|---|---|\n")
-        # sort papers by date
-        day_content = sort_papers(day_content)
+        for keyword in data.keys():
+            day_content = data[keyword]
+            if not day_content:
+                continue
+            # the head of each part
+            f.write(f"## {keyword}\n\n")
+            f.write("|Publish Date|Title|Authors|PDF|\n" + "|---|---|---|---|\n")
+            # sort papers by date
+            day_content = sort_papers(day_content)
 
-        for _, v in day_content.items():
-            if v is not None:
-                f.write(v)
+            for _, v in day_content.items():
+                if v is not None:
+                    f.write(v)
 
-        f.write("\n")
+            f.write("\n")
     print("finished")
 
 if __name__ == "__main__":
