@@ -23,7 +23,6 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "RRAM": 
-        filters: ["RRAM",]
+        filters: ["RRAM"]
     "SYNAPSE":
-        filters: ["SYNAPSE",]
-    
+        filters: ["SYNAPSE"]
