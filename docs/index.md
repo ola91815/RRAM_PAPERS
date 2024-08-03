@@ -25,20 +25,20 @@ layout: default
 |**2024-04-23**|**Drop-Connect as a Fault-Tolerance Approach for RRAM-based Deep Neural Network Accelerators**|Mingyuan Xiang et.al.|[2404.15498](http://arxiv.org/abs/2404.15498)|null|
 |**2024-03-29**|**Memristor-Based Lightweight Encryption**|Muhammad Ali Siddiqi et.al.|[2404.00125](http://arxiv.org/abs/2404.00125)|null|
 
-## SYNAPSE
+## 2D MATERIAL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-26**|**The Role of Temporal Hierarchy in Spiking Neural Networks**|Filippo Moro et.al.|[2407.18838](http://arxiv.org/abs/2407.18838)|null|
-|**2024-07-25**|**CSWin-UNet: Transformer UNet with Cross-Shaped Windows for Medical Image Segmentation**|Xiao Liu et.al.|[2407.18070](http://arxiv.org/abs/2407.18070)|null|
-|**2024-07-22**|**Voltage mapping in subcellular nanodomains using electro-diffusion modeling**|Frédéric Paquin-Lefebvre et.al.|[2407.15697](http://arxiv.org/abs/2407.15697)|null|
-|**2024-07-17**|**Continual Learning for Adaptable Car-Following in Dynamic Traffic Environments**|Xianda Chen et.al.|[2407.14247](http://arxiv.org/abs/2407.14247)|null|
-|**2024-07-14**|**SACNet: A Spatially Adaptive Convolution Network for 2D Multi-organ Medical Segmentation**|Lin Zhang et.al.|[2407.10157](http://arxiv.org/abs/2407.10157)|null|
-|**2024-07-11**|**A Comprehensive Convolutional Neural Network Architecture Design using Magnetic Skyrmion and Domain Wall**|Saumya Gupta et.al.|[2407.08469](http://arxiv.org/abs/2407.08469)|null|
-|**2024-07-10**|**Impact of dendritic non-linearities on the computational capabilities of neurons**|Clarissa Lauditi et.al.|[2407.07572](http://arxiv.org/abs/2407.07572)|null|
-|**2024-07-09**|**Neuromimetic metaplasticity for adaptive continual learning**|Suhee Cho et.al.|[2407.07133](http://arxiv.org/abs/2407.07133)|null|
-|**2024-07-08**|**Exploiting Heterogeneity in Timescales for Sparse Recurrent Spiking Neural Networks for Energy-Efficient Edge Computing**|Biswadeep Chakraborty et.al.|[2407.06452](http://arxiv.org/abs/2407.06452)|null|
-|**2024-07-08**|**Cellular diffusion processes in singularly perturbed domains**|Paul C Bressloff et.al.|[2407.05747](http://arxiv.org/abs/2407.05747)|null|
+|**2024-07-31**|**Giant Second-Order Susceptibility in Monolayer WSe2 via Strain Engineering**|Zhizi Guan et.al.|[2407.21296](http://arxiv.org/abs/2407.21296)|null|
+|**2024-07-31**|**Multiple sliding ferroelectricity of rhombohedral-stacked InSe for reconfigurable photovoltaics and imaging applications**|Qingrong Liang et.al.|[2407.21270](http://arxiv.org/abs/2407.21270)|null|
+|**2024-07-29**|**Quantum efficiency and vertical position of quantum emitters in hBN determined by Purcell effect in hybrid metal-dielectric planar photonic structures**|Domitille Gérard et.al.|[2407.20160](http://arxiv.org/abs/2407.20160)|null|
+|**2024-07-27**|**Modified Dirac fermions in the crystalline xenon and graphene Moiré heterostructure**|Hayoon Im et.al.|[2407.19263](http://arxiv.org/abs/2407.19263)|null|
+|**2024-07-26**|**Phase engineering of giant second harmonic generation in Bi $_2$O$_2$ Se**|Zhefeng Lou et.al.|[2407.18458](http://arxiv.org/abs/2407.18458)|null|
+|**2024-07-24**|**Engineering two-dimensional materials from single-layer NbS $_2$**|Timo Knispel et.al.|[2407.17655](http://arxiv.org/abs/2407.17655)|null|
+|**2024-07-23**|**Colossal Magnon Magnetoresistance of Two-Dimensional Magnets**|Caleb M Webb et.al.|[2407.16858](http://arxiv.org/abs/2407.16858)|null|
+|**2024-07-21**|**Electron energy-loss spectrum and exciton band structure of ${\mathrm{WSe}}_{2}$ monolayer studied by ab initio Bethe-Salpeter equation calculations**|Yun-Chen Shih et.al.|[2407.15039](http://arxiv.org/abs/2407.15039)|null|
+|**2024-07-19**|**Fate of transient order parameter domain walls in ultrafast experiments**|Lingxian Kong et.al.|[2407.14250](http://arxiv.org/abs/2407.14250)|null|
+|**2024-07-19**|**Sliding-Reversible Bandgap Modulation in Irreversible Asymmetric Multilayers**|Changming Ke et.al.|[2407.14244](http://arxiv.org/abs/2407.14244)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
