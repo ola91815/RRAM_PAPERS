@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.03
+## Updated on 2024.08.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2020-08-15**|**Breaking Barriers: Maximizing Array Utilization for Compute In-Memory Fabrics**|Brian Crafton et.al.|[2008.06741](http://arxiv.org/abs/2008.06741)|null|
 |**2020-10-14**|**Implementation of Ternary Weights with Resistive RAM Using a Single Sense Operation per Synapse**|Axel Laborieux et.al.|[2007.14234](http://arxiv.org/abs/2007.14234)|null|
 
-<p align=right>(<a href=#updated-on-20240803>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240804>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -226,7 +226,7 @@
 |**2024-07-01**|**A system built for both deterministic transfer processes and contact photolithography**|Huandong Chen et.al.|[2404.13471](http://arxiv.org/abs/2404.13471)|null|
 |**2024-04-19**|**Enhanced interlayer electron transfer by surface treatments in mixed-dimensional van der Waals semiconductor heterostructures**|Takeshi Odagawa et.al.|[2404.12787](http://arxiv.org/abs/2404.12787)|null|
 
-<p align=right>(<a href=#updated-on-20240803>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240804>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
