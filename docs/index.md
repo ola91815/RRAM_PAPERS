@@ -119,6 +119,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-02**|**Dipole orientation reveals single-molecule interactions and dynamics on 2D crystals**|Wei Guo et.al.|[2408.01207](http://arxiv.org/abs/2408.01207)|null|
+|**2024-08-02**|**Controllable and Fast Growth of High-Quality Atomically Thin and Atomically Flat Bi $_2$O$_2$ Se Films**|Yusen Feng et.al.|[2408.00976](http://arxiv.org/abs/2408.00976)|null|
+|**2024-08-01**|**Phonon screening of excitons in atomically thin semiconductors**|Woncheol Lee et.al.|[2408.00924](http://arxiv.org/abs/2408.00924)|null|
+|**2024-07-31**|**Understanding and Tuning Magnetism in van der Waals-type Metal Thiophosphates**|Rabindra Basnet et.al.|[2408.00809](http://arxiv.org/abs/2408.00809)|null|
 |**2024-07-31**|**Giant Second-Order Susceptibility in Monolayer WSe2 via Strain Engineering**|Zhizi Guan et.al.|[2407.21296](http://arxiv.org/abs/2407.21296)|null|
 |**2024-07-31**|**Multiple sliding ferroelectricity of rhombohedral-stacked InSe for reconfigurable photovoltaics and imaging applications**|Qingrong Liang et.al.|[2407.21270](http://arxiv.org/abs/2407.21270)|null|
 |**2024-07-29**|**Quantum efficiency and vertical position of quantum emitters in hBN determined by Purcell effect in hybrid metal-dielectric planar photonic structures**|Domitille Gérard et.al.|[2407.20160](http://arxiv.org/abs/2407.20160)|null|
@@ -215,10 +219,6 @@ layout: default
 |**2024-04-23**|**Reconstructed Electronic Structure in 2D vdW 1T-Ta $S_2$ for Quantum Sensing and Information Science**|S. K. Behera et.al.|[2404.14932](http://arxiv.org/abs/2404.14932)|null|
 |**2024-04-22**|**Unsupervised Learning of Individual Kohn-Sham States: Interpretable Representations and Consequences for Downstream Predictions of Many-Body Effects**|Bowen Hou et.al.|[2404.14601](http://arxiv.org/abs/2404.14601)|null|
 |**2024-04-22**|**Comparison of h-BN and graphene layers as grain boundary materials for granular FePt- $\text{L}1_0$ thin films**|B. S. D. Ch. S. Varaprasad et.al.|[2404.14290](http://arxiv.org/abs/2404.14290)|null|
-|**2024-04-21**|**Tailoring Photoluminescence by Strain-Engineering in Layered Perovskite Flakes**|Davide Spirito et.al.|[2404.13560](http://arxiv.org/abs/2404.13560)|null|
-|**2024-04-21**|**Switchable quantized signal between longitudinal conductance and Hall conductance in dual quantum spin Hall insulator TaIrTe $_4$**|Junwen Lai et.al.|[2404.13519](http://arxiv.org/abs/2404.13519)|null|
-|**2024-07-01**|**A system built for both deterministic transfer processes and contact photolithography**|Huandong Chen et.al.|[2404.13471](http://arxiv.org/abs/2404.13471)|null|
-|**2024-04-19**|**Enhanced interlayer electron transfer by surface treatments in mixed-dimensional van der Waals semiconductor heterostructures**|Takeshi Odagawa et.al.|[2404.12787](http://arxiv.org/abs/2404.12787)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
