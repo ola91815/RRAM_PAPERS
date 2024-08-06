@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.05
+## Updated on 2024.08.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,13 @@
 |**2020-08-15**|**Breaking Barriers: Maximizing Array Utilization for Compute In-Memory Fabrics**|Brian Crafton et.al.|[2008.06741](http://arxiv.org/abs/2008.06741)|null|
 |**2020-10-14**|**Implementation of Ternary Weights with Resistive RAM Using a Single Sense Operation per Synapse**|Axel Laborieux et.al.|[2007.14234](http://arxiv.org/abs/2007.14234)|null|
 
-<p align=right>(<a href=#updated-on-20240805>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240806>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Two-dimensional Keldysh theory for non-resonant strong-field ionization of monolayer 2D materials**|Tsing-Hua Her et.al.|[2408.02569](http://arxiv.org/abs/2408.02569)|null|
 |**2024-08-02**|**Dipole orientation reveals single-molecule interactions and dynamics on 2D crystals**|Wei Guo et.al.|[2408.01207](http://arxiv.org/abs/2408.01207)|null|
 |**2024-08-02**|**Controllable and Fast Growth of High-Quality Atomically Thin and Atomically Flat Bi $_2$O$_2$ Se Films**|Yusen Feng et.al.|[2408.00976](http://arxiv.org/abs/2408.00976)|null|
 |**2024-08-01**|**Phonon screening of excitons in atomically thin semiconductors**|Woncheol Lee et.al.|[2408.00924](http://arxiv.org/abs/2408.00924)|null|
@@ -197,7 +198,7 @@
 |**2024-05-20**|**Exploring the Potential of Two-Dimensional Materials for Innovations in Multifunctional Electrochromic Biochemical Sensors: A Review**|Nadia Anwar et.al.|[2405.12352](http://arxiv.org/abs/2405.12352)|null|
 |**2024-05-21**|**Symmetry-guided data-driven discovery of native quantum defects in two-dimensional materials**|Jeng-Yuan Tsai et.al.|[2405.11379](http://arxiv.org/abs/2405.11379)|null|
 |**2024-05-17**|**Monitoring electrochemical dynamics through single-molecule imaging of hBN surface emitters in organic solvents**|Eveline Mayner et.al.|[2405.10686](http://arxiv.org/abs/2405.10686)|null|
-|**2024-05-16**|**Dynamic In-context Learning with Conversational Models for Data Extraction and Materials Property Prediction**|Chinedu Ekuma et.al.|[2405.10448](http://arxiv.org/abs/2405.10448)|**[link](https://github.com/gmp007/propertyextractor)**|
+|**2024-08-02**|**Dynamic In-context Learning with Conversational Models for Data Extraction and Materials Property Prediction**|Chinedu Ekuma et.al.|[2405.10448](http://arxiv.org/abs/2405.10448)|**[link](https://github.com/gmp007/propertyextractor)**|
 |**2024-05-16**|**Electron delocalization in a 2D Mott insulator**|Cosme G. Ayani et.al.|[2405.09877](http://arxiv.org/abs/2405.09877)|null|
 |**2024-05-17**|**The Detection of Unconventional Quantum Oscillations in Insulating 2D Materials**|Sanfeng Wu et.al.|[2405.09666](http://arxiv.org/abs/2405.09666)|null|
 |**2024-05-15**|**A Comparison of Electronic, Dielectric, and Thermoelectric Properties of Monolayer of HfX2N4(X = Si, Ge) through First-Principles Calculations**|Chayan Das et.al.|[2405.09498](http://arxiv.org/abs/2405.09498)|null|
@@ -224,9 +225,8 @@
 |**2024-04-25**|**Dichalcogenides and difulfides nanostructures for hydrogen storage**|Flavio Bento de Oliveira et.al.|[2404.16761](http://arxiv.org/abs/2404.16761)|null|
 |**2024-04-23**|**Reconstructed Electronic Structure in 2D vdW 1T-Ta $S_2$ for Quantum Sensing and Information Science**|S. K. Behera et.al.|[2404.14932](http://arxiv.org/abs/2404.14932)|null|
 |**2024-04-22**|**Unsupervised Learning of Individual Kohn-Sham States: Interpretable Representations and Consequences for Downstream Predictions of Many-Body Effects**|Bowen Hou et.al.|[2404.14601](http://arxiv.org/abs/2404.14601)|null|
-|**2024-04-22**|**Comparison of h-BN and graphene layers as grain boundary materials for granular FePt- $\text{L}1_0$ thin films**|B. S. D. Ch. S. Varaprasad et.al.|[2404.14290](http://arxiv.org/abs/2404.14290)|null|
 
-<p align=right>(<a href=#updated-on-20240805>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240806>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
