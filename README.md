@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.06
+## Updated on 2024.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,14 @@
 |**2020-08-15**|**Breaking Barriers: Maximizing Array Utilization for Compute In-Memory Fabrics**|Brian Crafton et.al.|[2008.06741](http://arxiv.org/abs/2008.06741)|null|
 |**2020-10-14**|**Implementation of Ternary Weights with Resistive RAM Using a Single Sense Operation per Synapse**|Axel Laborieux et.al.|[2007.14234](http://arxiv.org/abs/2007.14234)|null|
 
-<p align=right>(<a href=#updated-on-20240806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**Competition between Kondo Effect and RKKY Coupling**|Stefan Kettemann et.al.|[2408.03112](http://arxiv.org/abs/2408.03112)|null|
+|**2024-08-06**|**Theory of Magnetoresistance due to Edge Orbital Moment Accumulation**|Hao Sun et.al.|[2408.02887](http://arxiv.org/abs/2408.02887)|null|
 |**2024-08-05**|**Two-dimensional Keldysh theory for non-resonant strong-field ionization of monolayer 2D materials**|Tsing-Hua Her et.al.|[2408.02569](http://arxiv.org/abs/2408.02569)|null|
 |**2024-08-02**|**Dipole orientation reveals single-molecule interactions and dynamics on 2D crystals**|Wei Guo et.al.|[2408.01207](http://arxiv.org/abs/2408.01207)|null|
 |**2024-08-02**|**Controllable and Fast Growth of High-Quality Atomically Thin and Atomically Flat Bi $_2$O$_2$ Se Films**|Yusen Feng et.al.|[2408.00976](http://arxiv.org/abs/2408.00976)|null|
@@ -223,10 +225,8 @@
 |**2024-04-30**|**Origin of Ferroelectricity and Superconductivity with Nontrivial Electronic Topology in Fluorinated Nb2N**|Xin-Zhu Yin et.al.|[2404.18511](http://arxiv.org/abs/2404.18511)|null|
 |**2024-04-27**|**Ultimate charge transport regimes in doping-controlled graphene laminates: phonon-assisted processes revealed by the linear magnetoresistance**|Mohsen Moazzami Gudarzi et.al.|[2404.17738](http://arxiv.org/abs/2404.17738)|null|
 |**2024-04-25**|**Dichalcogenides and difulfides nanostructures for hydrogen storage**|Flavio Bento de Oliveira et.al.|[2404.16761](http://arxiv.org/abs/2404.16761)|null|
-|**2024-04-23**|**Reconstructed Electronic Structure in 2D vdW 1T-Ta $S_2$ for Quantum Sensing and Information Science**|S. K. Behera et.al.|[2404.14932](http://arxiv.org/abs/2404.14932)|null|
-|**2024-04-22**|**Unsupervised Learning of Individual Kohn-Sham States: Interpretable Representations and Consequences for Downstream Predictions of Many-Body Effects**|Bowen Hou et.al.|[2404.14601](http://arxiv.org/abs/2404.14601)|null|
 
-<p align=right>(<a href=#updated-on-20240806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
