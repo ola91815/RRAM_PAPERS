@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.11
+## Updated on 2024.08.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Raman tensor for two-dimensional massive Dirac fermions**|Selçuk Parlak et.al.|[2408.04731](http://arxiv.org/abs/2408.04731)|null|
 |**2024-08-07**|**A Metastable Pentagonal 2D Material Synthesized by Symmetry-Driven Epitaxy**|Lina Liu et.al.|[2408.04095](http://arxiv.org/abs/2408.04095)|null|
 |**2024-08-06**|**Competition between Kondo Effect and RKKY Coupling**|Stefan Kettemann et.al.|[2408.03112](http://arxiv.org/abs/2408.03112)|null|
 |**2024-08-06**|**Theory of Magnetoresistance due to Edge Orbital Moment Accumulation**|Hao Sun et.al.|[2408.02887](http://arxiv.org/abs/2408.02887)|null|
@@ -218,7 +219,6 @@ layout: default
 |**2024-05-03**|**Electron Drag Effect on Thermal Conductivity in Two-dimensional Semiconductors**|Yujie Quan et.al.|[2405.02257](http://arxiv.org/abs/2405.02257)|null|
 |**2024-06-01**|**Planar Hall Effect in Quasi-Two-Dimensional Materials**|Koushik Ghorai et.al.|[2405.00379](http://arxiv.org/abs/2405.00379)|null|
 |**2024-04-30**|**Origin of Ferroelectricity and Superconductivity with Nontrivial Electronic Topology in Fluorinated Nb2N**|Xin-Zhu Yin et.al.|[2404.18511](http://arxiv.org/abs/2404.18511)|null|
-|**2024-04-27**|**Ultimate charge transport regimes in doping-controlled graphene laminates: phonon-assisted processes revealed by the linear magnetoresistance**|Mohsen Moazzami Gudarzi et.al.|[2404.17738](http://arxiv.org/abs/2404.17738)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
