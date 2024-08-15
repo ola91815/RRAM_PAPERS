@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.14
+## Updated on 2024.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,14 @@
 |**2020-08-26**|**An 8-bit In Resistive Memory Computing Core with Regulated Passive Neuron and Bit Line Weight Mapping**|Yewei Zhang et.al.|[2008.11669](http://arxiv.org/abs/2008.11669)|null|
 |**2020-08-15**|**Breaking Barriers: Maximizing Array Utilization for Compute In-Memory Fabrics**|Brian Crafton et.al.|[2008.06741](http://arxiv.org/abs/2008.06741)|null|
 
-<p align=right>(<a href=#updated-on-20240814>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**Improving the Electro-Optical Properties of MoS $_2$ /rGO Hybrid Nanocomposites Using Liquid Crystals**|A. Vasilev et.al.|[2408.07310](http://arxiv.org/abs/2408.07310)|null|
+|**2024-08-13**|**The effect of mixed termination composition in Sc, Ti, and V-based MXenes**|Michal Novotný et.al.|[2408.07189](http://arxiv.org/abs/2408.07189)|null|
 |**2024-08-08**|**Raman tensor for two-dimensional massive Dirac fermions**|Selçuk Parlak et.al.|[2408.04731](http://arxiv.org/abs/2408.04731)|null|
 |**2024-08-07**|**A Metastable Pentagonal 2D Material Synthesized by Symmetry-Driven Epitaxy**|Lina Liu et.al.|[2408.04095](http://arxiv.org/abs/2408.04095)|null|
 |**2024-08-06**|**Competition between Kondo Effect and RKKY Coupling**|Stefan Kettemann et.al.|[2408.03112](http://arxiv.org/abs/2408.03112)|null|
@@ -223,10 +225,8 @@
 |**2024-05-06**|**Atomically thin obstructed atomic insulators with robust edge modes and quantized spin Hall effect**|Rahul Verma et.al.|[2405.03771](http://arxiv.org/abs/2405.03771)|null|
 |**2024-05-06**|**Band structure engineering using a moiré polar substrate**|Xirui Wang et.al.|[2405.03761](http://arxiv.org/abs/2405.03761)|null|
 |**2024-05-03**|**Electron Drag Effect on Thermal Conductivity in Two-dimensional Semiconductors**|Yujie Quan et.al.|[2405.02257](http://arxiv.org/abs/2405.02257)|null|
-|**2024-06-01**|**Planar Hall Effect in Quasi-Two-Dimensional Materials**|Koushik Ghorai et.al.|[2405.00379](http://arxiv.org/abs/2405.00379)|null|
-|**2024-04-30**|**Origin of Ferroelectricity and Superconductivity with Nontrivial Electronic Topology in Fluorinated Nb2N**|Xin-Zhu Yin et.al.|[2404.18511](http://arxiv.org/abs/2404.18511)|null|
 
-<p align=right>(<a href=#updated-on-20240814>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
