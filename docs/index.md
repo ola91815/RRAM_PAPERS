@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.15
+## Updated on 2024.08.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**Free Standing Epitaxial Oxides Through Remote Epitaxy: The Role of the Evolving Graphene Microstructure**|Asraful Haque et.al.|[2408.07920](http://arxiv.org/abs/2408.07920)|null|
 |**2024-08-14**|**Improving the Electro-Optical Properties of MoS $_2$ /rGO Hybrid Nanocomposites Using Liquid Crystals**|A. Vasilev et.al.|[2408.07310](http://arxiv.org/abs/2408.07310)|null|
 |**2024-08-13**|**The effect of mixed termination composition in Sc, Ti, and V-based MXenes**|Michal Novotný et.al.|[2408.07189](http://arxiv.org/abs/2408.07189)|null|
 |**2024-08-08**|**Raman tensor for two-dimensional massive Dirac fermions**|Selçuk Parlak et.al.|[2408.04731](http://arxiv.org/abs/2408.04731)|null|
@@ -146,7 +147,7 @@ layout: default
 |**2024-07-15**|**Nontrivial impact of interlayer coupling on thermal conductivity: opposing trends in in-plane and out-of-plane phonons**|H. F. Feng et.al.|[2407.10435](http://arxiv.org/abs/2407.10435)|null|
 |**2024-07-18**|**Measuring kinetic inductance and superfluid stiffness of two-dimensional superconductors using high-quality transmission-line resonators**|Mary Kreidel et.al.|[2407.09916](http://arxiv.org/abs/2407.09916)|null|
 |**2024-07-09**|**Photonic integrated circuit polarizers based on 2D materials**|David J. Moss et.al.|[2407.06563](http://arxiv.org/abs/2407.06563)|null|
-|**2024-07-08**|**Quantum Noise Spectroscopy of Critical Slowing Down in an Atomically Thin Magnet**|Mark E. Ziffer et.al.|[2407.05614](http://arxiv.org/abs/2407.05614)|null|
+|**2024-08-15**|**Quantum Noise Spectroscopy of Criticality in an Atomically Thin Magnet**|Mark E. Ziffer et.al.|[2407.05614](http://arxiv.org/abs/2407.05614)|null|
 |**2024-07-06**|**Design and Reprogrammability of Zero Modes in 2D Materials from a Single Element**|Daniel Revier et.al.|[2407.04934](http://arxiv.org/abs/2407.04934)|null|
 |**2024-07-05**|**Granular Ta-Te nanowire superconductivity violating the Pauli limit**|Lingxiao Zhao et.al.|[2407.04643](http://arxiv.org/abs/2407.04643)|null|
 |**2024-07-04**|**Exploring control of the emergent exciton insulator state in 1T-TiSe $_2$ monolayer by state-of-the-art theory models**|Hong Tang et.al.|[2407.04033](http://arxiv.org/abs/2407.04033)|null|
@@ -218,7 +219,6 @@ layout: default
 |**2024-05-09**|**MSene: A new large family of two-dimensional transition metal sulfide with MXene structure**|Shu-Xiang Qiao et.al.|[2405.03928](http://arxiv.org/abs/2405.03928)|null|
 |**2024-05-06**|**Atomically thin obstructed atomic insulators with robust edge modes and quantized spin Hall effect**|Rahul Verma et.al.|[2405.03771](http://arxiv.org/abs/2405.03771)|null|
 |**2024-05-06**|**Band structure engineering using a moiré polar substrate**|Xirui Wang et.al.|[2405.03761](http://arxiv.org/abs/2405.03761)|null|
-|**2024-05-03**|**Electron Drag Effect on Thermal Conductivity in Two-dimensional Semiconductors**|Yujie Quan et.al.|[2405.02257](http://arxiv.org/abs/2405.02257)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
