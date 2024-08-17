@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.16
+## Updated on 2024.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2020-08-26**|**An 8-bit In Resistive Memory Computing Core with Regulated Passive Neuron and Bit Line Weight Mapping**|Yewei Zhang et.al.|[2008.11669](http://arxiv.org/abs/2008.11669)|null|
 |**2020-08-15**|**Breaking Barriers: Maximizing Array Utilization for Compute In-Memory Fabrics**|Brian Crafton et.al.|[2008.06741](http://arxiv.org/abs/2008.06741)|null|
 
-<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240817>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -226,7 +226,7 @@
 |**2024-05-06**|**Atomically thin obstructed atomic insulators with robust edge modes and quantized spin Hall effect**|Rahul Verma et.al.|[2405.03771](http://arxiv.org/abs/2405.03771)|null|
 |**2024-05-06**|**Band structure engineering using a moiré polar substrate**|Xirui Wang et.al.|[2405.03761](http://arxiv.org/abs/2405.03761)|null|
 
-<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240817>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
