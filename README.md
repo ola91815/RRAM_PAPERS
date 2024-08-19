@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.18
+## Updated on 2024.08.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,13 @@
 |**2020-08-26**|**An 8-bit In Resistive Memory Computing Core with Regulated Passive Neuron and Bit Line Weight Mapping**|Yewei Zhang et.al.|[2008.11669](http://arxiv.org/abs/2008.11669)|null|
 |**2020-08-15**|**Breaking Barriers: Maximizing Array Utilization for Compute In-Memory Fabrics**|Brian Crafton et.al.|[2008.06741](http://arxiv.org/abs/2008.06741)|null|
 
-<p align=right>(<a href=#updated-on-20240818>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**Substrate-aware computational design of two-dimensional materials**|Arslan Mazitov et.al.|[2408.08663](http://arxiv.org/abs/2408.08663)|null|
 |**2024-08-15**|**Free Standing Epitaxial Oxides Through Remote Epitaxy: The Role of the Evolving Graphene Microstructure**|Asraful Haque et.al.|[2408.07920](http://arxiv.org/abs/2408.07920)|null|
 |**2024-08-14**|**Improving the Electro-Optical Properties of MoS $_2$ /rGO Hybrid Nanocomposites Using Liquid Crystals**|A. Vasilev et.al.|[2408.07310](http://arxiv.org/abs/2408.07310)|null|
 |**2024-08-13**|**The effect of mixed termination composition in Sc, Ti, and V-based MXenes**|Michal Novotný et.al.|[2408.07189](http://arxiv.org/abs/2408.07189)|null|
@@ -224,9 +225,8 @@
 |**2024-05-07**|**Two dimensional semiconductors: optical and electronic properties**|Roberto Rosati et.al.|[2405.04222](http://arxiv.org/abs/2405.04222)|null|
 |**2024-05-09**|**MSene: A new large family of two-dimensional transition metal sulfide with MXene structure**|Shu-Xiang Qiao et.al.|[2405.03928](http://arxiv.org/abs/2405.03928)|null|
 |**2024-05-06**|**Atomically thin obstructed atomic insulators with robust edge modes and quantized spin Hall effect**|Rahul Verma et.al.|[2405.03771](http://arxiv.org/abs/2405.03771)|null|
-|**2024-05-06**|**Band structure engineering using a moiré polar substrate**|Xirui Wang et.al.|[2405.03761](http://arxiv.org/abs/2405.03761)|null|
 
-<p align=right>(<a href=#updated-on-20240818>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
