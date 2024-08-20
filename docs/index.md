@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.19
+## Updated on 2024.08.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**Angstrom-scale ion-beam engineering of ultrathin buried oxides for quantum and neuro-inspired computing**|N. Smirnov et.al.|[2408.10138](http://arxiv.org/abs/2408.10138)|null|
+|**2024-08-19**|**Excitonic-trion population in two-dimensional halide perovskites**|Efstratios Manousakis et.al.|[2408.10097](http://arxiv.org/abs/2408.10097)|null|
+|**2024-08-18**|**Atomic Engineering of Triangular Nanopores in Monolayer hBN: A Decoupled Seeding and Growth Approach**|Dana O. Byrne et.al.|[2408.09355](http://arxiv.org/abs/2408.09355)|null|
 |**2024-08-16**|**Substrate-aware computational design of two-dimensional materials**|Arslan Mazitov et.al.|[2408.08663](http://arxiv.org/abs/2408.08663)|null|
 |**2024-08-15**|**Free Standing Epitaxial Oxides Through Remote Epitaxy: The Role of the Evolving Graphene Microstructure**|Asraful Haque et.al.|[2408.07920](http://arxiv.org/abs/2408.07920)|null|
 |**2024-08-14**|**Improving the Electro-Optical Properties of MoS $_2$ /rGO Hybrid Nanocomposites Using Liquid Crystals**|A. Vasilev et.al.|[2408.07310](http://arxiv.org/abs/2408.07310)|null|
@@ -216,9 +219,6 @@ layout: default
 |**2024-05-09**|**Development and optimization of large-scale integration of 2D material in memristors**|Clotilde Ligaud et.al.|[2405.05693](http://arxiv.org/abs/2405.05693)|null|
 |**2024-05-08**|**2D ferroelectrics and ferroelectrics with 2D: materials and device prospects**|Chloe Leblanc et.al.|[2405.05432](http://arxiv.org/abs/2405.05432)|null|
 |**2024-05-07**|**Orbital magnetization in two-dimensional materials from high-throughput computational screening**|Martin Ovesen et.al.|[2405.04239](http://arxiv.org/abs/2405.04239)|null|
-|**2024-05-07**|**Two dimensional semiconductors: optical and electronic properties**|Roberto Rosati et.al.|[2405.04222](http://arxiv.org/abs/2405.04222)|null|
-|**2024-05-09**|**MSene: A new large family of two-dimensional transition metal sulfide with MXene structure**|Shu-Xiang Qiao et.al.|[2405.03928](http://arxiv.org/abs/2405.03928)|null|
-|**2024-05-06**|**Atomically thin obstructed atomic insulators with robust edge modes and quantized spin Hall effect**|Rahul Verma et.al.|[2405.03771](http://arxiv.org/abs/2405.03771)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
