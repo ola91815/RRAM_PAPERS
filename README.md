@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.22
+## Updated on 2024.08.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2020-08-26**|**An 8-bit In Resistive Memory Computing Core with Regulated Passive Neuron and Bit Line Weight Mapping**|Yewei Zhang et.al.|[2008.11669](http://arxiv.org/abs/2008.11669)|null|
 |**2020-08-15**|**Breaking Barriers: Maximizing Array Utilization for Compute In-Memory Fabrics**|Brian Crafton et.al.|[2008.06741](http://arxiv.org/abs/2008.06741)|null|
 
-<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240823>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -153,7 +153,7 @@
 |**2024-07-23**|**Colossal Magnon Magnetoresistance of Two-Dimensional Magnets**|Caleb M Webb et.al.|[2407.16858](http://arxiv.org/abs/2407.16858)|null|
 |**2024-07-21**|**Electron energy-loss spectrum and exciton band structure of ${\mathrm{WSe}}_{2}$ monolayer studied by ab initio Bethe-Salpeter equation calculations**|Yun-Chen Shih et.al.|[2407.15039](http://arxiv.org/abs/2407.15039)|null|
 |**2024-07-19**|**Fate of transient order parameter domain walls in ultrafast experiments**|Lingxian Kong et.al.|[2407.14250](http://arxiv.org/abs/2407.14250)|null|
-|**2024-07-19**|**Sliding-Reversible Bandgap Modulation in Irreversible Asymmetric Multilayers**|Changming Ke et.al.|[2407.14244](http://arxiv.org/abs/2407.14244)|null|
+|**2024-08-22**|**Sliding-Reversible Bandgap Modulation in Irreversible Asymmetric Multilayers**|Changming Ke et.al.|[2407.14244](http://arxiv.org/abs/2407.14244)|null|
 |**2024-07-19**|**On the Edge Roughness of Two-Dimensional Materials**|Pengjie Shi et.al.|[2407.14134](http://arxiv.org/abs/2407.14134)|null|
 |**2024-07-16**|**Skew-scattering Pockels effect and metallic electro-optics in gapped bilayer graphene**|Da Ma et.al.|[2407.12096](http://arxiv.org/abs/2407.12096)|null|
 |**2024-07-16**|**Interlayer charge transfer in graphene 2D polyimide heterostructures**|Francesca Falorsi et.al.|[2407.11559](http://arxiv.org/abs/2407.11559)|null|
@@ -226,7 +226,7 @@
 |**2024-05-09**|**Detecting the spread of valence band Wannier functions by optical sum rules**|Luis F. Cárdenas-Castillo et.al.|[2405.06146](http://arxiv.org/abs/2405.06146)|null|
 |**2024-05-09**|**First-principles Investigation into the Heterostructures and Moiré Bilayers of Transition Metal Dichalcogenides (TMDCs)**|Yu-Hsiu Lin et.al.|[2405.06096](http://arxiv.org/abs/2405.06096)|null|
 
-<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240823>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

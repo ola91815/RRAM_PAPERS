@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.22
+## Updated on 2024.08.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -147,7 +147,7 @@ layout: default
 |**2024-07-23**|**Colossal Magnon Magnetoresistance of Two-Dimensional Magnets**|Caleb M Webb et.al.|[2407.16858](http://arxiv.org/abs/2407.16858)|null|
 |**2024-07-21**|**Electron energy-loss spectrum and exciton band structure of ${\mathrm{WSe}}_{2}$ monolayer studied by ab initio Bethe-Salpeter equation calculations**|Yun-Chen Shih et.al.|[2407.15039](http://arxiv.org/abs/2407.15039)|null|
 |**2024-07-19**|**Fate of transient order parameter domain walls in ultrafast experiments**|Lingxian Kong et.al.|[2407.14250](http://arxiv.org/abs/2407.14250)|null|
-|**2024-07-19**|**Sliding-Reversible Bandgap Modulation in Irreversible Asymmetric Multilayers**|Changming Ke et.al.|[2407.14244](http://arxiv.org/abs/2407.14244)|null|
+|**2024-08-22**|**Sliding-Reversible Bandgap Modulation in Irreversible Asymmetric Multilayers**|Changming Ke et.al.|[2407.14244](http://arxiv.org/abs/2407.14244)|null|
 |**2024-07-19**|**On the Edge Roughness of Two-Dimensional Materials**|Pengjie Shi et.al.|[2407.14134](http://arxiv.org/abs/2407.14134)|null|
 |**2024-07-16**|**Skew-scattering Pockels effect and metallic electro-optics in gapped bilayer graphene**|Da Ma et.al.|[2407.12096](http://arxiv.org/abs/2407.12096)|null|
 |**2024-07-16**|**Interlayer charge transfer in graphene 2D polyimide heterostructures**|Francesca Falorsi et.al.|[2407.11559](http://arxiv.org/abs/2407.11559)|null|
