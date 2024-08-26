@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.25
+## Updated on 2024.08.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,15 @@
 |**2020-08-26**|**An 8-bit In Resistive Memory Computing Core with Regulated Passive Neuron and Bit Line Weight Mapping**|Yewei Zhang et.al.|[2008.11669](http://arxiv.org/abs/2008.11669)|null|
 |**2020-08-15**|**Breaking Barriers: Maximizing Array Utilization for Compute In-Memory Fabrics**|Brian Crafton et.al.|[2008.06741](http://arxiv.org/abs/2008.06741)|null|
 
-<p align=right>(<a href=#updated-on-20240825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240826>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**Isolation and characterization of atomically thin mica phyllosilicates**|Kristine L. Haley et.al.|[2408.13249](http://arxiv.org/abs/2408.13249)|null|
+|**2024-08-23**|**Direct observation of structural phase transformations during continuous phosphorus deposition on Cu(111)**|Jiří David et.al.|[2408.13090](http://arxiv.org/abs/2408.13090)|null|
+|**2024-08-23**|**Identifying band structure changes of FePS3 across the antiferromagnetic phase transition**|Benjamin Pestka et.al.|[2408.12896](http://arxiv.org/abs/2408.12896)|null|
 |**2024-08-20**|**Insulator-Metal Transition and Magnetic Crossover in Bilayer Graphene**|Amarnath Chakraborty et.al.|[2408.10954](http://arxiv.org/abs/2408.10954)|null|
 |**2024-08-19**|**Enhancement of Photoresponse for InGaAs Infrared Photodetectors Using Plasmonic WO $_{3-x}$/Cs$_y$WO$_{3-x}$ Nanocrystals**|Zach D. Merino et.al.|[2408.10389](http://arxiv.org/abs/2408.10389)|null|
 |**2024-08-19**|**Quantum Transport Straintronics and Mechanical Aharonov-Bohm Effect in Quasi-metallic SWCNTs**|L. Huang et.al.|[2408.10355](http://arxiv.org/abs/2408.10355)|null|
@@ -203,7 +206,7 @@
 |**2024-05-30**|**Oblique spin injection to graphene via geometry controlled magnetic nanowires**|Jesus C. Toscano-Figueroa et.al.|[2405.20491](http://arxiv.org/abs/2405.20491)|null|
 |**2024-05-31**|**Stacking-engineered ferroelectricity and multiferroic order in van der Waals magnets**|Daniel Bennett et.al.|[2405.20069](http://arxiv.org/abs/2405.20069)|null|
 |**2024-05-30**|**Adsorption of Mo and O at S-vacancy on ReS2 surface of ReS2/MoTe2 vdW heterointerface**|Puneet Kumar Shaw et.al.|[2405.19927](http://arxiv.org/abs/2405.19927)|null|
-|**2024-05-30**|**Electric-field-tuned binding energies of trions in silicene, germanene, and stanene monolayers**|Roman Ya. Kezerashvili et.al.|[2405.19655](http://arxiv.org/abs/2405.19655)|null|
+|**2024-08-22**|**Electric-field-tuned binding energies of trions in silicene, germanene, and stanene monolayers**|Roman Ya. Kezerashvili et.al.|[2405.19655](http://arxiv.org/abs/2405.19655)|null|
 |**2024-05-29**|**Ground state phases of the two-dimension electron gas with a unified variational approach**|Conor Smith et.al.|[2405.19397](http://arxiv.org/abs/2405.19397)|null|
 |**2024-05-28**|**Enhanced fractional quantum Hall gaps in a two-dimensional electron gas coupled to a hovering split-ring resonator**|Josefine Enkner et.al.|[2405.18362](http://arxiv.org/abs/2405.18362)|null|
 |**2024-05-25**|**Analytical photoresponses of Schottky contact MoS2 phototransistors**|Jianyong Wei et.al.|[2405.16209](http://arxiv.org/abs/2405.16209)|null|
@@ -222,11 +225,8 @@
 |**2024-05-13**|**Unfolding via Progressive Mesh Approximation**|Lars Zawallich et.al.|[2405.07922](http://arxiv.org/abs/2405.07922)|null|
 |**2024-05-13**|**Gate-controlled superconducting proximity effect of superconductor/ferromagnet van der Waals heterostructures**|G. A. Bobkov et.al.|[2405.07575](http://arxiv.org/abs/2405.07575)|null|
 |**2024-05-11**|**Van der Waals Magnetic Electrode Transfer for Two-Dimensional Spintronic Devices**|Zhongzhong Luo et.al.|[2405.06940](http://arxiv.org/abs/2405.06940)|null|
-|**2024-05-10**|**Quasiparticle and superfluid dynamics in Magic-Angle Graphene**|Elías Portolés et.al.|[2405.06793](http://arxiv.org/abs/2405.06793)|null|
-|**2024-05-09**|**Detecting the spread of valence band Wannier functions by optical sum rules**|Luis F. Cárdenas-Castillo et.al.|[2405.06146](http://arxiv.org/abs/2405.06146)|null|
-|**2024-05-09**|**First-principles Investigation into the Heterostructures and Moiré Bilayers of Transition Metal Dichalcogenides (TMDCs)**|Yu-Hsiu Lin et.al.|[2405.06096](http://arxiv.org/abs/2405.06096)|null|
 
-<p align=right>(<a href=#updated-on-20240825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240826>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
