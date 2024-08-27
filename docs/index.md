@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.26
+## Updated on 2024.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-11**|**Approximate ADCs for In-Memory Computing**|Arkapravo Ghosh et.al.|[2408.06390](http://arxiv.org/abs/2408.06390)|null|
 |**2024-07-29**|**RRAM-Based Bio-Inspired Circuits for Mobile Epileptic Correlation Extraction and Seizure Prediction**|Hao Wang et.al.|[2407.19841](http://arxiv.org/abs/2407.19841)|null|
-|**2024-07-21**|**SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator**|Kwunhang Wong et.al.|[2407.15152](http://arxiv.org/abs/2407.15152)|**[link](https://github.com/u3556440/SNNGX_qSNN_encryption)**|
+|**2024-08-26**|**SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator**|Kwunhang Wong et.al.|[2407.15152](http://arxiv.org/abs/2407.15152)|**[link](https://github.com/u3556440/SNNGX_qSNN_encryption)**|
 |**2024-07-15**|**Assessing the Performance of Stateful Logic in 1-Selector-1-RRAM Crossbar Arrays**|Arjun Tyagi et.al.|[2407.10466](http://arxiv.org/abs/2407.10466)|null|
 |**2024-07-11**|**Efficient Reinforcement Learning On Passive RRAM Crossbar Array**|Arjun Tyagi et.al.|[2407.08242](http://arxiv.org/abs/2407.08242)|null|
 |**2024-07-04**|**Resistive Memory for Computing and Security: Algorithms, Architectures, and Platforms**|Simranjeet Singh et.al.|[2407.03843](http://arxiv.org/abs/2407.03843)|null|
@@ -119,11 +119,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-24**|**Quantum Emission from Coupled Spin Pairs in Hexagonal Boron Nitride**|Song Li et.al.|[2408.13515](http://arxiv.org/abs/2408.13515)|null|
 |**2024-08-23**|**Isolation and characterization of atomically thin mica phyllosilicates**|Kristine L. Haley et.al.|[2408.13249](http://arxiv.org/abs/2408.13249)|null|
 |**2024-08-23**|**Direct observation of structural phase transformations during continuous phosphorus deposition on Cu(111)**|Jiří David et.al.|[2408.13090](http://arxiv.org/abs/2408.13090)|null|
 |**2024-08-23**|**Identifying band structure changes of FePS3 across the antiferromagnetic phase transition**|Benjamin Pestka et.al.|[2408.12896](http://arxiv.org/abs/2408.12896)|null|
 |**2024-08-20**|**Insulator-Metal Transition and Magnetic Crossover in Bilayer Graphene**|Amarnath Chakraborty et.al.|[2408.10954](http://arxiv.org/abs/2408.10954)|null|
-|**2024-08-19**|**Enhancement of Photoresponse for InGaAs Infrared Photodetectors Using Plasmonic WO $_{3-x}$/Cs$_y$WO$_{3-x}$ Nanocrystals**|Zach D. Merino et.al.|[2408.10389](http://arxiv.org/abs/2408.10389)|null|
+|**2024-08-26**|**Enhancement of Photoresponse for InGaAs Infrared Photodetectors Using Plasmonic WO3-x/CsyWO3-x Nanocrystals**|Zach D. Merino et.al.|[2408.10389](http://arxiv.org/abs/2408.10389)|null|
 |**2024-08-19**|**Quantum Transport Straintronics and Mechanical Aharonov-Bohm Effect in Quasi-metallic SWCNTs**|L. Huang et.al.|[2408.10355](http://arxiv.org/abs/2408.10355)|null|
 |**2024-08-21**|**Angstrom-scale ion-beam engineering of ultrathin buried oxides for quantum and neuro-inspired computing**|N. Smirnov et.al.|[2408.10138](http://arxiv.org/abs/2408.10138)|null|
 |**2024-08-19**|**Excitonic-trion population in two-dimensional halide perovskites**|Efstratios Manousakis et.al.|[2408.10097](http://arxiv.org/abs/2408.10097)|null|
@@ -218,7 +219,6 @@ layout: default
 |**2024-05-14**|**Cavity-enhanced superconductivity via band engineering**|Valerii K. Kozin et.al.|[2405.08642](http://arxiv.org/abs/2405.08642)|null|
 |**2024-05-13**|**Unfolding via Progressive Mesh Approximation**|Lars Zawallich et.al.|[2405.07922](http://arxiv.org/abs/2405.07922)|null|
 |**2024-05-13**|**Gate-controlled superconducting proximity effect of superconductor/ferromagnet van der Waals heterostructures**|G. A. Bobkov et.al.|[2405.07575](http://arxiv.org/abs/2405.07575)|null|
-|**2024-05-11**|**Van der Waals Magnetic Electrode Transfer for Two-Dimensional Spintronic Devices**|Zhongzhong Luo et.al.|[2405.06940](http://arxiv.org/abs/2405.06940)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
