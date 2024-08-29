@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.28
+## Updated on 2024.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2020-08-26**|**An 8-bit In Resistive Memory Computing Core with Regulated Passive Neuron and Bit Line Weight Mapping**|Yewei Zhang et.al.|[2008.11669](http://arxiv.org/abs/2008.11669)|null|
 |**2020-08-15**|**Breaking Barriers: Maximizing Array Utilization for Compute In-Memory Fabrics**|Brian Crafton et.al.|[2008.06741](http://arxiv.org/abs/2008.06741)|null|
 
-<p align=right>(<a href=#updated-on-20240828>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240829>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -183,7 +183,7 @@
 |**2024-06-18**|**Ultralow thermal conductance across the [FePt/h-BN/FePt] interface**|chengchao Xu et.al.|[2406.13085](http://arxiv.org/abs/2406.13085)|null|
 |**2024-06-23**|**A hybrid graphene-siliconnitride nanomembrane as a versatile and ultra-widely tunable mechanical device**|Mengqi Fu et.al.|[2406.11596](http://arxiv.org/abs/2406.11596)|null|
 |**2024-06-16**|**Large and layer dependent nonlinear optical absorption of MXene 2D thin films**|David J. Moss et.al.|[2406.11101](http://arxiv.org/abs/2406.11101)|null|
-|**2024-06-16**|**Atomistic theory of twist-angle dependent intralayer and interlayer exciton properties in twisted bilayer materials**|Indrajit Maity et.al.|[2406.11098](http://arxiv.org/abs/2406.11098)|null|
+|**2024-08-28**|**Atomistic theory of twist-angle dependent intralayer and interlayer exciton properties in twisted bilayer materials**|Indrajit Maity et.al.|[2406.11098](http://arxiv.org/abs/2406.11098)|null|
 |**2024-06-13**|**Electric-field-modulated topological phase transition in AlSb/InSe heterobilayers**|D. Q. Fang et.al.|[2406.08999](http://arxiv.org/abs/2406.08999)|null|
 |**2024-06-12**|**Emergence of non-uniform strain induced exciton species in homo- and heterobilayer transition metal dichalcogenides**|Mohammadreza Daqiqshirazi et.al.|[2406.08040](http://arxiv.org/abs/2406.08040)|null|
 |**2024-06-11**|**Strong Repulsive Lifshitz-van der Waals Forces on Suspended Graphene**|Gianluca Vagli et.al.|[2406.07384](http://arxiv.org/abs/2406.07384)|null|
@@ -226,7 +226,7 @@
 |**2024-05-13**|**Unfolding via Progressive Mesh Approximation**|Lars Zawallich et.al.|[2405.07922](http://arxiv.org/abs/2405.07922)|null|
 |**2024-05-13**|**Gate-controlled superconducting proximity effect of superconductor/ferromagnet van der Waals heterostructures**|G. A. Bobkov et.al.|[2405.07575](http://arxiv.org/abs/2405.07575)|null|
 
-<p align=right>(<a href=#updated-on-20240828>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240829>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

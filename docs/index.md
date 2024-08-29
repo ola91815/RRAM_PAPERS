@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.28
+## Updated on 2024.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -177,7 +177,7 @@ layout: default
 |**2024-06-18**|**Ultralow thermal conductance across the [FePt/h-BN/FePt] interface**|chengchao Xu et.al.|[2406.13085](http://arxiv.org/abs/2406.13085)|null|
 |**2024-06-23**|**A hybrid graphene-siliconnitride nanomembrane as a versatile and ultra-widely tunable mechanical device**|Mengqi Fu et.al.|[2406.11596](http://arxiv.org/abs/2406.11596)|null|
 |**2024-06-16**|**Large and layer dependent nonlinear optical absorption of MXene 2D thin films**|David J. Moss et.al.|[2406.11101](http://arxiv.org/abs/2406.11101)|null|
-|**2024-06-16**|**Atomistic theory of twist-angle dependent intralayer and interlayer exciton properties in twisted bilayer materials**|Indrajit Maity et.al.|[2406.11098](http://arxiv.org/abs/2406.11098)|null|
+|**2024-08-28**|**Atomistic theory of twist-angle dependent intralayer and interlayer exciton properties in twisted bilayer materials**|Indrajit Maity et.al.|[2406.11098](http://arxiv.org/abs/2406.11098)|null|
 |**2024-06-13**|**Electric-field-modulated topological phase transition in AlSb/InSe heterobilayers**|D. Q. Fang et.al.|[2406.08999](http://arxiv.org/abs/2406.08999)|null|
 |**2024-06-12**|**Emergence of non-uniform strain induced exciton species in homo- and heterobilayer transition metal dichalcogenides**|Mohammadreza Daqiqshirazi et.al.|[2406.08040](http://arxiv.org/abs/2406.08040)|null|
 |**2024-06-11**|**Strong Repulsive Lifshitz-van der Waals Forces on Suspended Graphene**|Gianluca Vagli et.al.|[2406.07384](http://arxiv.org/abs/2406.07384)|null|
