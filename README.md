@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.04
+## Updated on 2024.09.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,16 @@
 |**2020-08-26**|**An 8-bit In Resistive Memory Computing Core with Regulated Passive Neuron and Bit Line Weight Mapping**|Yewei Zhang et.al.|[2008.11669](http://arxiv.org/abs/2008.11669)|null|
 |**2020-08-15**|**Breaking Barriers: Maximizing Array Utilization for Compute In-Memory Fabrics**|Brian Crafton et.al.|[2008.06741](http://arxiv.org/abs/2008.06741)|null|
 
-<p align=right>(<a href=#updated-on-20240904>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240905>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Exploring nonlinear Rashba effect and spin Hall conductivity in Janus MXenes W2COX (X = S, Se, Te)**|Arjyama Bordoloi et.al.|[2409.02835](http://arxiv.org/abs/2409.02835)|null|
+|**2024-09-04**|**Multiferroicity, Magnetoelectricity, and Piezoelectricity in Two-Dimensional Janus VSBrI Monolayers**|Qiuyue Ma et.al.|[2409.02407](http://arxiv.org/abs/2409.02407)|null|
+|**2024-09-03**|**Probing Noncentrosymmetric 2D Materials by Fourier Space Second Harmonic Imaging**|Lucas Lafeta et.al.|[2409.02071](http://arxiv.org/abs/2409.02071)|null|
+|**2024-09-02**|**Unveiling the impact of organic cation passivation on structural and optoelectronic properties of two-dimensional perovskites thin films**|Israel C. Ribeiro et.al.|[2409.01450](http://arxiv.org/abs/2409.01450)|null|
 |**2024-08-29**|**Nanorobotic actuator based on interlayer sliding ferroelectricity and field-tunable friction**|Hechen Ren et.al.|[2408.16519](http://arxiv.org/abs/2408.16519)|null|
 |**2024-08-29**|**High-yield large-scale suspended graphene membranes over closed cavities for sensor applications**|Sebastian Lukas et.al.|[2408.16408](http://arxiv.org/abs/2408.16408)|null|
 |**2024-08-24**|**Quantum Emission from Coupled Spin Pairs in Hexagonal Boron Nitride**|Song Li et.al.|[2408.13515](http://arxiv.org/abs/2408.13515)|null|
@@ -221,12 +225,8 @@
 |**2024-08-02**|**Dynamic In-context Learning with Conversational Models for Data Extraction and Materials Property Prediction**|Chinedu Ekuma et.al.|[2405.10448](http://arxiv.org/abs/2405.10448)|**[link](https://github.com/gmp007/propertyextractor)**|
 |**2024-05-16**|**Electron delocalization in a 2D Mott insulator**|Cosme G. Ayani et.al.|[2405.09877](http://arxiv.org/abs/2405.09877)|null|
 |**2024-05-17**|**The Detection of Unconventional Quantum Oscillations in Insulating 2D Materials**|Sanfeng Wu et.al.|[2405.09666](http://arxiv.org/abs/2405.09666)|null|
-|**2024-05-15**|**A Comparison of Electronic, Dielectric, and Thermoelectric Properties of Monolayer of HfX2N4(X = Si, Ge) through First-Principles Calculations**|Chayan Das et.al.|[2405.09498](http://arxiv.org/abs/2405.09498)|null|
-|**2024-05-15**|**Exciton self-trapping in twisted hexagonal boron nitride homostructures**|Sébastien Roux et.al.|[2405.09420](http://arxiv.org/abs/2405.09420)|null|
-|**2024-05-19**|**Towards the Quantized Anomalous Hall effect in AlO $_x$-capped MnBi$_2$Te$_4$**|Yongqian Wang et.al.|[2405.08677](http://arxiv.org/abs/2405.08677)|null|
-|**2024-05-14**|**Cavity-enhanced superconductivity via band engineering**|Valerii K. Kozin et.al.|[2405.08642](http://arxiv.org/abs/2405.08642)|null|
 
-<p align=right>(<a href=#updated-on-20240904>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240905>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
