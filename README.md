@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,13 +119,14 @@
 |**2020-08-26**|**An 8-bit In Resistive Memory Computing Core with Regulated Passive Neuron and Bit Line Weight Mapping**|Yewei Zhang et.al.|[2008.11669](http://arxiv.org/abs/2008.11669)|null|
 |**2020-08-15**|**Breaking Barriers: Maximizing Array Utilization for Compute In-Memory Fabrics**|Brian Crafton et.al.|[2008.06741](http://arxiv.org/abs/2008.06741)|null|
 
-<p align=right>(<a href=#updated-on-20240905>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240906>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-04**|**Exploring nonlinear Rashba effect and spin Hall conductivity in Janus MXenes W2COX (X = S, Se, Te)**|Arjyama Bordoloi et.al.|[2409.02835](http://arxiv.org/abs/2409.02835)|null|
+|**2024-09-04**|**Piezoresistive PtSe $_2$ pressure sensors with reliable high sensitivity and their integration into CMOS ASIC substrates**|Sebastian Lukas et.al.|[2409.03053](http://arxiv.org/abs/2409.03053)|null|
+|**2024-09-05**|**Exploring nonlinear Rashba effect and spin Hall conductivity in Janus MXenes W2COX (X = S, Se, Te)**|Arjyama Bordoloi et.al.|[2409.02835](http://arxiv.org/abs/2409.02835)|null|
 |**2024-09-04**|**Multiferroicity, Magnetoelectricity, and Piezoelectricity in Two-Dimensional Janus VSBrI Monolayers**|Qiuyue Ma et.al.|[2409.02407](http://arxiv.org/abs/2409.02407)|null|
 |**2024-09-03**|**Probing Noncentrosymmetric 2D Materials by Fourier Space Second Harmonic Imaging**|Lucas Lafeta et.al.|[2409.02071](http://arxiv.org/abs/2409.02071)|null|
 |**2024-09-02**|**Unveiling the impact of organic cation passivation on structural and optoelectronic properties of two-dimensional perovskites thin films**|Israel C. Ribeiro et.al.|[2409.01450](http://arxiv.org/abs/2409.01450)|null|
@@ -224,9 +225,8 @@
 |**2024-05-17**|**Monitoring electrochemical dynamics through single-molecule imaging of hBN surface emitters in organic solvents**|Eveline Mayner et.al.|[2405.10686](http://arxiv.org/abs/2405.10686)|null|
 |**2024-08-02**|**Dynamic In-context Learning with Conversational Models for Data Extraction and Materials Property Prediction**|Chinedu Ekuma et.al.|[2405.10448](http://arxiv.org/abs/2405.10448)|**[link](https://github.com/gmp007/propertyextractor)**|
 |**2024-05-16**|**Electron delocalization in a 2D Mott insulator**|Cosme G. Ayani et.al.|[2405.09877](http://arxiv.org/abs/2405.09877)|null|
-|**2024-05-17**|**The Detection of Unconventional Quantum Oscillations in Insulating 2D Materials**|Sanfeng Wu et.al.|[2405.09666](http://arxiv.org/abs/2405.09666)|null|
 
-<p align=right>(<a href=#updated-on-20240905>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240906>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
