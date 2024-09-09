@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.08
+## Updated on 2024.09.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,7 +119,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-04**|**Piezoresistive PtSe $_2$ pressure sensors with reliable high sensitivity and their integration into CMOS ASIC substrates**|Sebastian Lukas et.al.|[2409.03053](http://arxiv.org/abs/2409.03053)|null|
+|**2024-09-06**|**Magnetic proximity effect in superconductor/ferromagnet van der Waals heterostructures: dependence on the number of superconducting monolayers**|A. S. Ianovskaia et.al.|[2409.04227](http://arxiv.org/abs/2409.04227)|null|
+|**2024-09-06**|**Long wavelength interdomain phonons and instability of dislocations in small-angle twisted bilayers**|V. V. Enaldiev et.al.|[2409.04166](http://arxiv.org/abs/2409.04166)|null|
+|**2024-09-06**|**Piezoresistive PtSe $_2$ pressure sensors with reliable high sensitivity and their integration into CMOS ASIC substrates**|Sebastian Lukas et.al.|[2409.03053](http://arxiv.org/abs/2409.03053)|null|
 |**2024-09-05**|**Exploring nonlinear Rashba effect and spin Hall conductivity in Janus MXenes W2COX (X = S, Se, Te)**|Arjyama Bordoloi et.al.|[2409.02835](http://arxiv.org/abs/2409.02835)|null|
 |**2024-09-04**|**Multiferroicity, Magnetoelectricity, and Piezoelectricity in Two-Dimensional Janus VSBrI Monolayers**|Qiuyue Ma et.al.|[2409.02407](http://arxiv.org/abs/2409.02407)|null|
 |**2024-09-03**|**Probing Noncentrosymmetric 2D Materials by Fourier Space Second Harmonic Imaging**|Lucas Lafeta et.al.|[2409.02071](http://arxiv.org/abs/2409.02071)|null|
@@ -217,8 +219,6 @@ layout: default
 |**2024-05-20**|**Exploring the Potential of Two-Dimensional Materials for Innovations in Multifunctional Electrochromic Biochemical Sensors: A Review**|Nadia Anwar et.al.|[2405.12352](http://arxiv.org/abs/2405.12352)|null|
 |**2024-05-21**|**Symmetry-guided data-driven discovery of native quantum defects in two-dimensional materials**|Jeng-Yuan Tsai et.al.|[2405.11379](http://arxiv.org/abs/2405.11379)|null|
 |**2024-05-17**|**Monitoring electrochemical dynamics through single-molecule imaging of hBN surface emitters in organic solvents**|Eveline Mayner et.al.|[2405.10686](http://arxiv.org/abs/2405.10686)|null|
-|**2024-08-02**|**Dynamic In-context Learning with Conversational Models for Data Extraction and Materials Property Prediction**|Chinedu Ekuma et.al.|[2405.10448](http://arxiv.org/abs/2405.10448)|**[link](https://github.com/gmp007/propertyextractor)**|
-|**2024-05-16**|**Electron delocalization in a 2D Mott insulator**|Cosme G. Ayani et.al.|[2405.09877](http://arxiv.org/abs/2405.09877)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
