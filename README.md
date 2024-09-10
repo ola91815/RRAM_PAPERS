@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.09
+## Updated on 2024.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,20 @@
 |**2020-08-26**|**An 8-bit In Resistive Memory Computing Core with Regulated Passive Neuron and Bit Line Weight Mapping**|Yewei Zhang et.al.|[2008.11669](http://arxiv.org/abs/2008.11669)|null|
 |**2020-08-15**|**Breaking Barriers: Maximizing Array Utilization for Compute In-Memory Fabrics**|Brian Crafton et.al.|[2008.06741](http://arxiv.org/abs/2008.06741)|null|
 
-<p align=right>(<a href=#updated-on-20240909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240910>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**Recognizing molecular chirality via twisted 2D materials**|Lorenzo Cavicchi et.al.|[2409.05839](http://arxiv.org/abs/2409.05839)|null|
+|**2024-09-08**|**Twisted bilayer graphene for enantiomeric sensing of chiral molecules**|Álvaro Moreno et.al.|[2409.05178](http://arxiv.org/abs/2409.05178)|null|
+|**2024-09-08**|**Multicomponent magneto-orbital order and magneto-orbitons in monolayer VCl3**|Luigi Camerano et.al.|[2409.05056](http://arxiv.org/abs/2409.05056)|null|
+|**2024-09-08**|**Strain in 2D TMDCs induced by metal-assisted exfoliation from the polyvinilalcohol-covered substrate**|T. A. Kamenskaya et.al.|[2409.05008](http://arxiv.org/abs/2409.05008)|null|
+|**2024-09-07**|**Gate-tunable negative differential resistance in multifunctional van der Waals heterostructure**|Richa Mitra et.al.|[2409.04908](http://arxiv.org/abs/2409.04908)|null|
+|**2024-09-07**|**Highly polarized single photon emitter from intrinsic localized excitons in a WSe2/CrSBr heterostructure**|Varghese Alapatt et.al.|[2409.04749](http://arxiv.org/abs/2409.04749)|null|
+|**2024-09-07**|**Ferro-Valleytricity with In-Plane Magnetization**|Yibo Liu et.al.|[2409.04739](http://arxiv.org/abs/2409.04739)|null|
+|**2024-09-06**|**High-Throughput Search and Prediction of Layered 4f-Materials**|Lin Hou et.al.|[2409.04632](http://arxiv.org/abs/2409.04632)|null|
 |**2024-09-06**|**Magnetic proximity effect in superconductor/ferromagnet van der Waals heterostructures: dependence on the number of superconducting monolayers**|A. S. Ianovskaia et.al.|[2409.04227](http://arxiv.org/abs/2409.04227)|null|
 |**2024-09-06**|**Long wavelength interdomain phonons and instability of dislocations in small-angle twisted bilayers**|V. V. Enaldiev et.al.|[2409.04166](http://arxiv.org/abs/2409.04166)|null|
 |**2024-09-06**|**Piezoresistive PtSe $_2$ pressure sensors with reliable high sensitivity and their integration into CMOS ASIC substrates**|Sebastian Lukas et.al.|[2409.03053](http://arxiv.org/abs/2409.03053)|null|
@@ -134,7 +142,7 @@
 |**2024-09-02**|**Unveiling the impact of organic cation passivation on structural and optoelectronic properties of two-dimensional perovskites thin films**|Israel C. Ribeiro et.al.|[2409.01450](http://arxiv.org/abs/2409.01450)|null|
 |**2024-08-29**|**Nanorobotic actuator based on interlayer sliding ferroelectricity and field-tunable friction**|Hechen Ren et.al.|[2408.16519](http://arxiv.org/abs/2408.16519)|null|
 |**2024-08-29**|**High-yield large-scale suspended graphene membranes over closed cavities for sensor applications**|Sebastian Lukas et.al.|[2408.16408](http://arxiv.org/abs/2408.16408)|null|
-|**2024-08-24**|**Quantum Emission from Coupled Spin Pairs in Hexagonal Boron Nitride**|Song Li et.al.|[2408.13515](http://arxiv.org/abs/2408.13515)|null|
+|**2024-09-09**|**Quantum Emission from Coupled Spin Pairs in Hexagonal Boron Nitride**|Song Li et.al.|[2408.13515](http://arxiv.org/abs/2408.13515)|null|
 |**2024-08-23**|**Isolation and characterization of atomically thin mica phyllosilicates**|Kristine L. Haley et.al.|[2408.13249](http://arxiv.org/abs/2408.13249)|null|
 |**2024-08-23**|**Direct observation of structural phase transformations during continuous phosphorus deposition on Cu(111)**|Jiří David et.al.|[2408.13090](http://arxiv.org/abs/2408.13090)|null|
 |**2024-08-23**|**Identifying band structure changes of FePS3 across the antiferromagnetic phase transition**|Benjamin Pestka et.al.|[2408.12896](http://arxiv.org/abs/2408.12896)|null|
@@ -217,16 +225,8 @@
 |**2024-05-31**|**Stacking-engineered ferroelectricity and multiferroic order in van der Waals magnets**|Daniel Bennett et.al.|[2405.20069](http://arxiv.org/abs/2405.20069)|null|
 |**2024-05-30**|**Adsorption of Mo and O at S-vacancy on ReS2 surface of ReS2/MoTe2 vdW heterointerface**|Puneet Kumar Shaw et.al.|[2405.19927](http://arxiv.org/abs/2405.19927)|null|
 |**2024-08-22**|**Electric-field-tuned binding energies of trions in silicene, germanene, and stanene monolayers**|Roman Ya. Kezerashvili et.al.|[2405.19655](http://arxiv.org/abs/2405.19655)|null|
-|**2024-05-29**|**Ground state phases of the two-dimension electron gas with a unified variational approach**|Conor Smith et.al.|[2405.19397](http://arxiv.org/abs/2405.19397)|null|
-|**2024-05-28**|**Enhanced fractional quantum Hall gaps in a two-dimensional electron gas coupled to a hovering split-ring resonator**|Josefine Enkner et.al.|[2405.18362](http://arxiv.org/abs/2405.18362)|null|
-|**2024-05-25**|**Analytical photoresponses of Schottky contact MoS2 phototransistors**|Jianyong Wei et.al.|[2405.16209](http://arxiv.org/abs/2405.16209)|null|
-|**2024-05-24**|**Computational toolkit for predicting thickness of 2D materials using machine learning and autogenerated dataset by large language model**|Chinedu Ekuma et.al.|[2405.15131](http://arxiv.org/abs/2405.15131)|**[link](https://github.com/gmp007/thick2d)**|
-|**2024-05-20**|**Ultraclean suspended graphene by radiolysis of adsorbed water**|Hao Wang et.al.|[2405.12395](http://arxiv.org/abs/2405.12395)|null|
-|**2024-05-20**|**Exploring the Potential of Two-Dimensional Materials for Innovations in Multifunctional Electrochromic Biochemical Sensors: A Review**|Nadia Anwar et.al.|[2405.12352](http://arxiv.org/abs/2405.12352)|null|
-|**2024-05-21**|**Symmetry-guided data-driven discovery of native quantum defects in two-dimensional materials**|Jeng-Yuan Tsai et.al.|[2405.11379](http://arxiv.org/abs/2405.11379)|null|
-|**2024-05-17**|**Monitoring electrochemical dynamics through single-molecule imaging of hBN surface emitters in organic solvents**|Eveline Mayner et.al.|[2405.10686](http://arxiv.org/abs/2405.10686)|null|
 
-<p align=right>(<a href=#updated-on-20240909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240910>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
