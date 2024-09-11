@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.10
+## Updated on 2024.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**The Lynchpin of In-Memory Computing: A Benchmarking Framework for Vector-Matrix Multiplication in RRAMs**|Md Tawsif Rahman Chowdhury et.al.|[2409.06140](http://arxiv.org/abs/2409.06140)|null|
 |**2024-08-11**|**Approximate ADCs for In-Memory Computing**|Arkapravo Ghosh et.al.|[2408.06390](http://arxiv.org/abs/2408.06390)|null|
 |**2024-07-29**|**RRAM-Based Bio-Inspired Circuits for Mobile Epileptic Correlation Extraction and Seizure Prediction**|Hao Wang et.al.|[2407.19841](http://arxiv.org/abs/2407.19841)|null|
 |**2024-08-26**|**SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator**|Kwunhang Wong et.al.|[2407.15152](http://arxiv.org/abs/2407.15152)|**[link](https://github.com/u3556440/SNNGX_qSNN_encryption)**|
@@ -113,12 +114,14 @@ layout: default
 |**2020-10-20**|**NV-Fogstore : Device-aware hybrid caching in fog computing environments**|Khushal Sethi et.al.|[2010.10562](http://arxiv.org/abs/2010.10562)|null|
 |**2020-10-13**|**High Area/Energy Efficiency RRAM CNN Accelerator with Kernel-Reordering Weight Mapping Scheme Based on Pattern Pruning**|Songming Yu et.al.|[2010.06156](http://arxiv.org/abs/2010.06156)|null|
 |**2020-08-26**|**An 8-bit In Resistive Memory Computing Core with Regulated Passive Neuron and Bit Line Weight Mapping**|Yewei Zhang et.al.|[2008.11669](http://arxiv.org/abs/2008.11669)|null|
-|**2020-08-15**|**Breaking Barriers: Maximizing Array Utilization for Compute In-Memory Fabrics**|Brian Crafton et.al.|[2008.06741](http://arxiv.org/abs/2008.06741)|null|
 
 ## 2D MATERIAL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**VQCrystal: Leveraging Vector Quantization for Discovery of Stable Crystal Structures**|ZiJie Qiu et.al.|[2409.06191](http://arxiv.org/abs/2409.06191)|null|
+|**2024-09-10**|**Ferroelectric tuning of the valley polarized metal-semiconductor transition in Mn2P2S3Se3/Sc2CO2 van der Waals heterostructures and application to nonlinear Hall effect devices**|Hanbo Sun et.al.|[2409.06181](http://arxiv.org/abs/2409.06181)|null|
+|**2024-09-09**|**Group-IV Pentaoctite: A New 2D Material Family**|Vanessa D. Kegler et.al.|[2409.05986](http://arxiv.org/abs/2409.05986)|null|
 |**2024-09-09**|**Recognizing molecular chirality via twisted 2D materials**|Lorenzo Cavicchi et.al.|[2409.05839](http://arxiv.org/abs/2409.05839)|null|
 |**2024-09-08**|**Twisted bilayer graphene for enantiomeric sensing of chiral molecules**|Álvaro Moreno et.al.|[2409.05178](http://arxiv.org/abs/2409.05178)|null|
 |**2024-09-08**|**Multicomponent magneto-orbital order and magneto-orbitons in monolayer VCl3**|Luigi Camerano et.al.|[2409.05056](http://arxiv.org/abs/2409.05056)|null|
@@ -216,9 +219,6 @@ layout: default
 |**2024-06-22**|**Dynamical Moiré Systems in Twisted Bilayer Optical Lattices**|Jian-Hua Zeng et.al.|[2405.20732](http://arxiv.org/abs/2405.20732)|null|
 |**2024-05-31**|**Double-sided van der Waals epitaxy of topological insulators across an atomically thin membrane**|Joon Young Park et.al.|[2405.20597](http://arxiv.org/abs/2405.20597)|null|
 |**2024-05-30**|**Oblique spin injection to graphene via geometry controlled magnetic nanowires**|Jesus C. Toscano-Figueroa et.al.|[2405.20491](http://arxiv.org/abs/2405.20491)|null|
-|**2024-05-31**|**Stacking-engineered ferroelectricity and multiferroic order in van der Waals magnets**|Daniel Bennett et.al.|[2405.20069](http://arxiv.org/abs/2405.20069)|null|
-|**2024-05-30**|**Adsorption of Mo and O at S-vacancy on ReS2 surface of ReS2/MoTe2 vdW heterointerface**|Puneet Kumar Shaw et.al.|[2405.19927](http://arxiv.org/abs/2405.19927)|null|
-|**2024-08-22**|**Electric-field-tuned binding energies of trions in silicene, germanene, and stanene monolayers**|Roman Ya. Kezerashvili et.al.|[2405.19655](http://arxiv.org/abs/2405.19655)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
