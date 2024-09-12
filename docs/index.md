@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.11
+## Updated on 2024.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Development of large scale CVD grown two dimensional materials for field-effect transistors, thermally-driven neuromorphic memory, and spintronics applications**|Sameer Kumar Mallik et.al.|[2409.07357](http://arxiv.org/abs/2409.07357)|null|
+|**2024-09-11**|**Moiré exciton polaron engineering via twisted hBN**|Minhyun Cho et.al.|[2409.06999](http://arxiv.org/abs/2409.06999)|null|
+|**2024-09-11**|**General Stacking Theory for Altermagnetism in Bilayer Systems**|Baoru Pan et.al.|[2409.06964](http://arxiv.org/abs/2409.06964)|null|
 |**2024-09-10**|**VQCrystal: Leveraging Vector Quantization for Discovery of Stable Crystal Structures**|ZiJie Qiu et.al.|[2409.06191](http://arxiv.org/abs/2409.06191)|null|
 |**2024-09-10**|**Ferroelectric tuning of the valley polarized metal-semiconductor transition in Mn2P2S3Se3/Sc2CO2 van der Waals heterostructures and application to nonlinear Hall effect devices**|Hanbo Sun et.al.|[2409.06181](http://arxiv.org/abs/2409.06181)|null|
 |**2024-09-09**|**Group-IV Pentaoctite: A New 2D Material Family**|Vanessa D. Kegler et.al.|[2409.05986](http://arxiv.org/abs/2409.05986)|null|
@@ -216,9 +219,6 @@ layout: default
 |**2024-06-03**|**Prediction of dual quantum spin Hall insulator in NbIrTe $_4$ monolayer**|Xiangyang Liu et.al.|[2406.00979](http://arxiv.org/abs/2406.00979)|null|
 |**2024-06-01**|**Sub-wavelength optical lattice in 2D materials**|Supratik Sarkar et.al.|[2406.00464](http://arxiv.org/abs/2406.00464)|null|
 |**2024-05-31**|**Isotope substitution and polytype control for point defects identification: the case of the ultraviolet color center in hexagonal boron nitride**|J. Plo et.al.|[2405.20837](http://arxiv.org/abs/2405.20837)|null|
-|**2024-06-22**|**Dynamical Moiré Systems in Twisted Bilayer Optical Lattices**|Jian-Hua Zeng et.al.|[2405.20732](http://arxiv.org/abs/2405.20732)|null|
-|**2024-05-31**|**Double-sided van der Waals epitaxy of topological insulators across an atomically thin membrane**|Joon Young Park et.al.|[2405.20597](http://arxiv.org/abs/2405.20597)|null|
-|**2024-05-30**|**Oblique spin injection to graphene via geometry controlled magnetic nanowires**|Jesus C. Toscano-Figueroa et.al.|[2405.20491](http://arxiv.org/abs/2405.20491)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
