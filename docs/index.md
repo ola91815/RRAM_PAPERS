@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.12
+## Updated on 2024.09.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,12 +119,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Interlayer Engineering of Lattice Dynamics and Elastic Constants of 2D Layered Nanomaterials under Pressure**|Guoshuai Du et.al.|[2409.07698](http://arxiv.org/abs/2409.07698)|null|
+|**2024-09-12**|**Tuning Charged Localized Excitons in Monolayer WSe2 via Coupling to a Relaxor Ferroelectric**|Qiaohui Zhou et.al.|[2409.07687](http://arxiv.org/abs/2409.07687)|null|
 |**2024-09-11**|**Development of large scale CVD grown two dimensional materials for field-effect transistors, thermally-driven neuromorphic memory, and spintronics applications**|Sameer Kumar Mallik et.al.|[2409.07357](http://arxiv.org/abs/2409.07357)|null|
 |**2024-09-11**|**Moiré exciton polaron engineering via twisted hBN**|Minhyun Cho et.al.|[2409.06999](http://arxiv.org/abs/2409.06999)|null|
 |**2024-09-11**|**General Stacking Theory for Altermagnetism in Bilayer Systems**|Baoru Pan et.al.|[2409.06964](http://arxiv.org/abs/2409.06964)|null|
 |**2024-09-10**|**VQCrystal: Leveraging Vector Quantization for Discovery of Stable Crystal Structures**|ZiJie Qiu et.al.|[2409.06191](http://arxiv.org/abs/2409.06191)|null|
 |**2024-09-10**|**Ferroelectric tuning of the valley polarized metal-semiconductor transition in Mn2P2S3Se3/Sc2CO2 van der Waals heterostructures and application to nonlinear Hall effect devices**|Hanbo Sun et.al.|[2409.06181](http://arxiv.org/abs/2409.06181)|null|
-|**2024-09-09**|**Group-IV Pentaoctite: A New 2D Material Family**|Vanessa D. Kegler et.al.|[2409.05986](http://arxiv.org/abs/2409.05986)|null|
+|**2024-09-11**|**Group-IV Pentaoctite: A New 2D Material Family**|Vanessa D. Kegler et.al.|[2409.05986](http://arxiv.org/abs/2409.05986)|null|
 |**2024-09-09**|**Recognizing molecular chirality via twisted 2D materials**|Lorenzo Cavicchi et.al.|[2409.05839](http://arxiv.org/abs/2409.05839)|null|
 |**2024-09-08**|**Twisted bilayer graphene for enantiomeric sensing of chiral molecules**|Álvaro Moreno et.al.|[2409.05178](http://arxiv.org/abs/2409.05178)|null|
 |**2024-09-08**|**Multicomponent magneto-orbital order and magneto-orbitons in monolayer VCl3**|Luigi Camerano et.al.|[2409.05056](http://arxiv.org/abs/2409.05056)|null|
@@ -217,8 +219,6 @@ layout: default
 |**2024-06-04**|**Versatile polymer method to dry-flip two-dimensional moiré hetero structures for nanoscale surface characterization**|Roop Kumar Mech et.al.|[2406.02819](http://arxiv.org/abs/2406.02819)|null|
 |**2024-06-04**|**Towards improved property prediction of two-dimensional (2D) materials using many-body Quantum Monte Carlo methods**|Daniel Wines et.al.|[2406.02753](http://arxiv.org/abs/2406.02753)|null|
 |**2024-06-03**|**Prediction of dual quantum spin Hall insulator in NbIrTe $_4$ monolayer**|Xiangyang Liu et.al.|[2406.00979](http://arxiv.org/abs/2406.00979)|null|
-|**2024-06-01**|**Sub-wavelength optical lattice in 2D materials**|Supratik Sarkar et.al.|[2406.00464](http://arxiv.org/abs/2406.00464)|null|
-|**2024-05-31**|**Isotope substitution and polytype control for point defects identification: the case of the ultraviolet color center in hexagonal boron nitride**|J. Plo et.al.|[2405.20837](http://arxiv.org/abs/2405.20837)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
