@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.14
+## Updated on 2024.09.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2020-10-13**|**High Area/Energy Efficiency RRAM CNN Accelerator with Kernel-Reordering Weight Mapping Scheme Based on Pattern Pruning**|Songming Yu et.al.|[2010.06156](http://arxiv.org/abs/2010.06156)|null|
 |**2020-08-26**|**An 8-bit In Resistive Memory Computing Core with Regulated Passive Neuron and Bit Line Weight Mapping**|Yewei Zhang et.al.|[2008.11669](http://arxiv.org/abs/2008.11669)|null|
 
-<p align=right>(<a href=#updated-on-20240914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240915>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -226,7 +226,7 @@
 |**2024-06-04**|**Towards improved property prediction of two-dimensional (2D) materials using many-body Quantum Monte Carlo methods**|Daniel Wines et.al.|[2406.02753](http://arxiv.org/abs/2406.02753)|null|
 |**2024-06-03**|**Prediction of dual quantum spin Hall insulator in NbIrTe $_4$ monolayer**|Xiangyang Liu et.al.|[2406.00979](http://arxiv.org/abs/2406.00979)|null|
 
-<p align=right>(<a href=#updated-on-20240914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240915>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
