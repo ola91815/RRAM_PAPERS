@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.15
+## Updated on 2024.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Toward Phonon-Limited Transport in Two-Dimensional Electronics by Oxygen-Free Fabrication**|Subhrajit Mukherjee et.al.|[2409.08453](http://arxiv.org/abs/2409.08453)|null|
 |**2024-09-12**|**Interlayer Engineering of Lattice Dynamics and Elastic Constants of 2D Layered Nanomaterials under Pressure**|Guoshuai Du et.al.|[2409.07698](http://arxiv.org/abs/2409.07698)|null|
 |**2024-09-12**|**Tuning Charged Localized Excitons in Monolayer WSe2 via Coupling to a Relaxor Ferroelectric**|Qiaohui Zhou et.al.|[2409.07687](http://arxiv.org/abs/2409.07687)|null|
 |**2024-09-11**|**Development of large scale CVD grown two dimensional materials for field-effect transistors, thermally-driven neuromorphic memory, and spintronics applications**|Sameer Kumar Mallik et.al.|[2409.07357](http://arxiv.org/abs/2409.07357)|null|
@@ -218,7 +219,6 @@ layout: default
 |**2024-06-05**|**Room-temperature tunable tunneling magnetoresistance in Fe3GaTe2/WSe2/Fe3GaTe2 van der Waals heterostructures**|Haiyang Pan et.al.|[2406.02907](http://arxiv.org/abs/2406.02907)|null|
 |**2024-06-04**|**Versatile polymer method to dry-flip two-dimensional moiré hetero structures for nanoscale surface characterization**|Roop Kumar Mech et.al.|[2406.02819](http://arxiv.org/abs/2406.02819)|null|
 |**2024-06-04**|**Towards improved property prediction of two-dimensional (2D) materials using many-body Quantum Monte Carlo methods**|Daniel Wines et.al.|[2406.02753](http://arxiv.org/abs/2406.02753)|null|
-|**2024-06-03**|**Prediction of dual quantum spin Hall insulator in NbIrTe $_4$ monolayer**|Xiangyang Liu et.al.|[2406.00979](http://arxiv.org/abs/2406.00979)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
