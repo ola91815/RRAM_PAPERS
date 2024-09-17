@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.16
+## Updated on 2024.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -37,7 +37,7 @@
 |**2024-02-06**|**Phase-type distributions for studying variability in resistive memories**|Christian Acal et.al.|[2402.04351](http://arxiv.org/abs/2402.04351)|null|
 |**2024-02-06**|**Homogeneity problem for basis expansion of functional data with applications to resistive memories**|Ana M Aguilera et.al.|[2402.04321](http://arxiv.org/abs/2402.04321)|null|
 |**2024-01-31**|**STAR: An Efficient Softmax Engine for Attention Model with RRAM Crossbar**|Yifeng Zhai et.al.|[2401.17582](http://arxiv.org/abs/2401.17582)|null|
-|**2024-01-17**|**An Energy-efficient Capacitive-Memristive Content Addressable Memory**|Yihan Pan et.al.|[2401.09207](http://arxiv.org/abs/2401.09207)|null|
+|**2024-09-16**|**An Energy-efficient Capacitive-RRAM Content Addressable Memory**|Yihan Pan et.al.|[2401.09207](http://arxiv.org/abs/2401.09207)|null|
 |**2024-01-17**|**CLSA-CIM: A Cross-Layer Scheduling Approach for Computing-in-Memory Architectures**|Rebecca Pelke et.al.|[2401.07671](http://arxiv.org/abs/2401.07671)|null|
 |**2023-12-14**|**DenRAM: Neuromorphic Dendritic Architecture with RRAM for Efficient Temporal Processing with Delays**|Simone DAgostino et.al.|[2312.08960](http://arxiv.org/abs/2312.08960)|null|
 |**2023-10-06**|**Experimental Demonstration of Non-Stateful In-Memory Logic with 1T1R OxRAM Valence Change Mechanism Memristors**|Henriette Padberg et.al.|[2310.16843](http://arxiv.org/abs/2310.16843)|null|
@@ -119,18 +119,22 @@
 |**2020-10-13**|**High Area/Energy Efficiency RRAM CNN Accelerator with Kernel-Reordering Weight Mapping Scheme Based on Pattern Pruning**|Songming Yu et.al.|[2010.06156](http://arxiv.org/abs/2010.06156)|null|
 |**2020-08-26**|**An 8-bit In Resistive Memory Computing Core with Regulated Passive Neuron and Bit Line Weight Mapping**|Yewei Zhang et.al.|[2008.11669](http://arxiv.org/abs/2008.11669)|null|
 
-<p align=right>(<a href=#updated-on-20240916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**Lattice Thermal Conductivity of Sun-Graphyne from Reverse Nonequilibrium Molecular Dynamics Simulations**|Isaac de Macêdo Felix et.al.|[2409.10355](http://arxiv.org/abs/2409.10355)|null|
+|**2024-09-16**|**Quantum light generation with ultra-high spatial resolution in 2D semiconductors via ultra-low energy electron irradiation**|Ajit Kumar Dash et.al.|[2409.10321](http://arxiv.org/abs/2409.10321)|null|
+|**2024-09-15**|**Strong and tunable coupling between antiferromagnetic magnons and surface plasmons**|H. Y. Yuan et.al.|[2409.09710](http://arxiv.org/abs/2409.09710)|null|
+|**2024-09-15**|**Selective Switching Between Two Band-Edge Alignments in Ternary Pentagonal CdSeTe Monolayer: Atom-Valley Locking**|Zhi-Qiang Wen et.al.|[2409.09625](http://arxiv.org/abs/2409.09625)|null|
 |**2024-09-13**|**Toward Phonon-Limited Transport in Two-Dimensional Electronics by Oxygen-Free Fabrication**|Subhrajit Mukherjee et.al.|[2409.08453](http://arxiv.org/abs/2409.08453)|null|
 |**2024-09-12**|**Interlayer Engineering of Lattice Dynamics and Elastic Constants of 2D Layered Nanomaterials under Pressure**|Guoshuai Du et.al.|[2409.07698](http://arxiv.org/abs/2409.07698)|null|
 |**2024-09-12**|**Tuning Charged Localized Excitons in Monolayer WSe2 via Coupling to a Relaxor Ferroelectric**|Qiaohui Zhou et.al.|[2409.07687](http://arxiv.org/abs/2409.07687)|null|
 |**2024-09-11**|**Development of large scale CVD grown two dimensional materials for field-effect transistors, thermally-driven neuromorphic memory, and spintronics applications**|Sameer Kumar Mallik et.al.|[2409.07357](http://arxiv.org/abs/2409.07357)|null|
 |**2024-09-11**|**Moiré exciton polaron engineering via twisted hBN**|Minhyun Cho et.al.|[2409.06999](http://arxiv.org/abs/2409.06999)|null|
-|**2024-09-11**|**General Stacking Theory for Altermagnetism in Bilayer Systems**|Baoru Pan et.al.|[2409.06964](http://arxiv.org/abs/2409.06964)|null|
+|**2024-09-14**|**General Stacking Theory for Altermagnetism in Bilayer Systems**|Baoru Pan et.al.|[2409.06964](http://arxiv.org/abs/2409.06964)|null|
 |**2024-09-10**|**VQCrystal: Leveraging Vector Quantization for Discovery of Stable Crystal Structures**|ZiJie Qiu et.al.|[2409.06191](http://arxiv.org/abs/2409.06191)|null|
 |**2024-09-10**|**Ferroelectric tuning of the valley polarized metal-semiconductor transition in Mn2P2S3Se3/Sc2CO2 van der Waals heterostructures and application to nonlinear Hall effect devices**|Hanbo Sun et.al.|[2409.06181](http://arxiv.org/abs/2409.06181)|null|
 |**2024-09-11**|**Group-IV Pentaoctite: A New 2D Material Family**|Vanessa D. Kegler et.al.|[2409.05986](http://arxiv.org/abs/2409.05986)|null|
@@ -221,12 +225,8 @@
 |**2024-06-06**|**Magnon sensing of NO, NO $_2$ and NH$_3$ gas capture on CrSBr monolayer**|Gonzalo Rivero-Carracedo et.al.|[2406.04067](http://arxiv.org/abs/2406.04067)|null|
 |**2024-06-06**|**Ferroelectricity-tuned band topology and superconductivity in two-dimensional materials and related heterostructures**|Jianyong Chen et.al.|[2406.03700](http://arxiv.org/abs/2406.03700)|null|
 |**2024-06-05**|**Magnetic ground state and strain-mediated chiral-like atomic distortions behavior in two-dimensional rectangular spin lattice**|Yu Liao et.al.|[2406.03554](http://arxiv.org/abs/2406.03554)|null|
-|**2024-06-05**|**Novel functions in silicon photonic chips incorporated with graphene oxide thin films**|David J. Moss et.al.|[2406.03349](http://arxiv.org/abs/2406.03349)|null|
-|**2024-06-05**|**Room-temperature tunable tunneling magnetoresistance in Fe3GaTe2/WSe2/Fe3GaTe2 van der Waals heterostructures**|Haiyang Pan et.al.|[2406.02907](http://arxiv.org/abs/2406.02907)|null|
-|**2024-06-04**|**Versatile polymer method to dry-flip two-dimensional moiré hetero structures for nanoscale surface characterization**|Roop Kumar Mech et.al.|[2406.02819](http://arxiv.org/abs/2406.02819)|null|
-|**2024-06-04**|**Towards improved property prediction of two-dimensional (2D) materials using many-body Quantum Monte Carlo methods**|Daniel Wines et.al.|[2406.02753](http://arxiv.org/abs/2406.02753)|null|
 
-<p align=right>(<a href=#updated-on-20240916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
