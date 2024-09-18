@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.17
+## Updated on 2024.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,13 @@
 |**2020-10-13**|**High Area/Energy Efficiency RRAM CNN Accelerator with Kernel-Reordering Weight Mapping Scheme Based on Pattern Pruning**|Songming Yu et.al.|[2010.06156](http://arxiv.org/abs/2010.06156)|null|
 |**2020-08-26**|**An 8-bit In Resistive Memory Computing Core with Regulated Passive Neuron and Bit Line Weight Mapping**|Yewei Zhang et.al.|[2008.11669](http://arxiv.org/abs/2008.11669)|null|
 
-<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Chiral propagation of plasmons due to competing anisotropies in a twisted photonic heterostructure**|Ze-Hua Tao et.al.|[2409.11066](http://arxiv.org/abs/2409.11066)|null|
 |**2024-09-16**|**Lattice Thermal Conductivity of Sun-Graphyne from Reverse Nonequilibrium Molecular Dynamics Simulations**|Isaac de Macêdo Felix et.al.|[2409.10355](http://arxiv.org/abs/2409.10355)|null|
 |**2024-09-16**|**Quantum light generation with ultra-high spatial resolution in 2D semiconductors via ultra-low energy electron irradiation**|Ajit Kumar Dash et.al.|[2409.10321](http://arxiv.org/abs/2409.10321)|null|
 |**2024-09-15**|**Strong and tunable coupling between antiferromagnetic magnons and surface plasmons**|H. Y. Yuan et.al.|[2409.09710](http://arxiv.org/abs/2409.09710)|null|
@@ -224,9 +225,8 @@
 |**2024-06-06**|**Giant and anisotropic enhancement of spin-charge conversion in double Rashba interface graphene-based quantum system**|Alberto Anadón et.al.|[2406.04110](http://arxiv.org/abs/2406.04110)|null|
 |**2024-06-06**|**Magnon sensing of NO, NO $_2$ and NH$_3$ gas capture on CrSBr monolayer**|Gonzalo Rivero-Carracedo et.al.|[2406.04067](http://arxiv.org/abs/2406.04067)|null|
 |**2024-06-06**|**Ferroelectricity-tuned band topology and superconductivity in two-dimensional materials and related heterostructures**|Jianyong Chen et.al.|[2406.03700](http://arxiv.org/abs/2406.03700)|null|
-|**2024-06-05**|**Magnetic ground state and strain-mediated chiral-like atomic distortions behavior in two-dimensional rectangular spin lattice**|Yu Liao et.al.|[2406.03554](http://arxiv.org/abs/2406.03554)|null|
 
-<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
