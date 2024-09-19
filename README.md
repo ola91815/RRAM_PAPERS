@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**Hardware Acceleration of Kolmogorov-Arnold Network (KAN) for Lightweight Edge Inference**|Wei-Hsing Huang et.al.|[2409.11418](http://arxiv.org/abs/2409.11418)|null|
 |**2024-09-10**|**The Lynchpin of In-Memory Computing: A Benchmarking Framework for Vector-Matrix Multiplication in RRAMs**|Md Tawsif Rahman Chowdhury et.al.|[2409.06140](http://arxiv.org/abs/2409.06140)|null|
 |**2024-08-11**|**Approximate ADCs for In-Memory Computing**|Arkapravo Ghosh et.al.|[2408.06390](http://arxiv.org/abs/2408.06390)|null|
 |**2024-07-29**|**RRAM-Based Bio-Inspired Circuits for Mobile Epileptic Correlation Extraction and Seizure Prediction**|Hao Wang et.al.|[2407.19841](http://arxiv.org/abs/2407.19841)|null|
@@ -117,14 +118,15 @@
 |**2020-10-28**|**Nanoscale plasticity and neuromorphic dynamics in silicon suboxide RRAM**|Mark Buckwell et.al.|[2010.15184](http://arxiv.org/abs/2010.15184)|null|
 |**2020-10-20**|**NV-Fogstore : Device-aware hybrid caching in fog computing environments**|Khushal Sethi et.al.|[2010.10562](http://arxiv.org/abs/2010.10562)|null|
 |**2020-10-13**|**High Area/Energy Efficiency RRAM CNN Accelerator with Kernel-Reordering Weight Mapping Scheme Based on Pattern Pruning**|Songming Yu et.al.|[2010.06156](http://arxiv.org/abs/2010.06156)|null|
-|**2020-08-26**|**An 8-bit In Resistive Memory Computing Core with Regulated Passive Neuron and Bit Line Weight Mapping**|Yewei Zhang et.al.|[2008.11669](http://arxiv.org/abs/2008.11669)|null|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**How does Goldene Stack?**|Marcelo Lopes Pereira, Jr et.al.|[2409.11880](http://arxiv.org/abs/2409.11880)|null|
+|**2024-09-18**|**Three-dimensional valley-contrasting sound**|Haoran Xue et.al.|[2409.11714](http://arxiv.org/abs/2409.11714)|null|
 |**2024-09-17**|**Chiral propagation of plasmons due to competing anisotropies in a twisted photonic heterostructure**|Ze-Hua Tao et.al.|[2409.11066](http://arxiv.org/abs/2409.11066)|null|
 |**2024-09-16**|**Lattice Thermal Conductivity of Sun-Graphyne from Reverse Nonequilibrium Molecular Dynamics Simulations**|Isaac de Macêdo Felix et.al.|[2409.10355](http://arxiv.org/abs/2409.10355)|null|
 |**2024-09-16**|**Quantum light generation with ultra-high spatial resolution in 2D semiconductors via ultra-low energy electron irradiation**|Ajit Kumar Dash et.al.|[2409.10321](http://arxiv.org/abs/2409.10321)|null|
@@ -223,10 +225,8 @@
 |**2024-06-07**|**Defects induce phase transition from dynamic to static rippling in graphene**|Fabian L. Thiemann et.al.|[2406.04775](http://arxiv.org/abs/2406.04775)|null|
 |**2024-06-06**|**Fully spin-polarized two dimensional polar semi-metallic phase in Eu substituted GdI $_2$ monolayer**|Srishti Bhardwaj et.al.|[2406.04122](http://arxiv.org/abs/2406.04122)|null|
 |**2024-06-06**|**Giant and anisotropic enhancement of spin-charge conversion in double Rashba interface graphene-based quantum system**|Alberto Anadón et.al.|[2406.04110](http://arxiv.org/abs/2406.04110)|null|
-|**2024-06-06**|**Magnon sensing of NO, NO $_2$ and NH$_3$ gas capture on CrSBr monolayer**|Gonzalo Rivero-Carracedo et.al.|[2406.04067](http://arxiv.org/abs/2406.04067)|null|
-|**2024-06-06**|**Ferroelectricity-tuned band topology and superconductivity in two-dimensional materials and related heterostructures**|Jianyong Chen et.al.|[2406.03700](http://arxiv.org/abs/2406.03700)|null|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
