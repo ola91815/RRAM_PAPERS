@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.20
+## Updated on 2024.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2020-10-20**|**NV-Fogstore : Device-aware hybrid caching in fog computing environments**|Khushal Sethi et.al.|[2010.10562](http://arxiv.org/abs/2010.10562)|null|
 |**2020-10-13**|**High Area/Energy Efficiency RRAM CNN Accelerator with Kernel-Reordering Weight Mapping Scheme Based on Pattern Pruning**|Songming Yu et.al.|[2010.06156](http://arxiv.org/abs/2010.06156)|null|
 
-<p align=right>(<a href=#updated-on-20240920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240921>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -226,7 +226,7 @@
 |**2024-06-06**|**Fully spin-polarized two dimensional polar semi-metallic phase in Eu substituted GdI $_2$ monolayer**|Srishti Bhardwaj et.al.|[2406.04122](http://arxiv.org/abs/2406.04122)|null|
 |**2024-06-06**|**Giant and anisotropic enhancement of spin-charge conversion in double Rashba interface graphene-based quantum system**|Alberto Anadón et.al.|[2406.04110](http://arxiv.org/abs/2406.04110)|null|
 
-<p align=right>(<a href=#updated-on-20240920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240921>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
