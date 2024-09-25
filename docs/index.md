@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.24
+## Updated on 2024.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -147,7 +147,7 @@ layout: default
 |**2024-09-06**|**Long wavelength interdomain phonons and instability of dislocations in small-angle twisted bilayers**|V. V. Enaldiev et.al.|[2409.04166](http://arxiv.org/abs/2409.04166)|null|
 |**2024-09-06**|**Piezoresistive PtSe $_2$ pressure sensors with reliable high sensitivity and their integration into CMOS ASIC substrates**|Sebastian Lukas et.al.|[2409.03053](http://arxiv.org/abs/2409.03053)|null|
 |**2024-09-05**|**Exploring nonlinear Rashba effect and spin Hall conductivity in Janus MXenes W2COX (X = S, Se, Te)**|Arjyama Bordoloi et.al.|[2409.02835](http://arxiv.org/abs/2409.02835)|null|
-|**2024-09-04**|**Multiferroicity, Magnetoelectricity, and Piezoelectricity in Two-Dimensional Janus VSBrI Monolayers**|Qiuyue Ma et.al.|[2409.02407](http://arxiv.org/abs/2409.02407)|null|
+|**2024-09-24**|**Emergent Multifunctionality in Two-Dimensional Janus VSBrI Monolayer: A Study of Multiferroicity, Magnetoelectricity, and Piezoelectricity**|Qiuyue Ma et.al.|[2409.02407](http://arxiv.org/abs/2409.02407)|null|
 |**2024-09-03**|**Probing Noncentrosymmetric 2D Materials by Fourier Space Second Harmonic Imaging**|Lucas Lafeta et.al.|[2409.02071](http://arxiv.org/abs/2409.02071)|null|
 |**2024-09-02**|**Unveiling the impact of organic cation passivation on structural and optoelectronic properties of two-dimensional perovskites thin films**|Israel C. Ribeiro et.al.|[2409.01450](http://arxiv.org/abs/2409.01450)|null|
 |**2024-08-29**|**Nanorobotic actuator based on interlayer sliding ferroelectricity and field-tunable friction**|Hechen Ren et.al.|[2408.16519](http://arxiv.org/abs/2408.16519)|null|

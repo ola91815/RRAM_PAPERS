@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.24
+## Updated on 2024.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2020-10-20**|**NV-Fogstore : Device-aware hybrid caching in fog computing environments**|Khushal Sethi et.al.|[2010.10562](http://arxiv.org/abs/2010.10562)|null|
 |**2020-10-13**|**High Area/Energy Efficiency RRAM CNN Accelerator with Kernel-Reordering Weight Mapping Scheme Based on Pattern Pruning**|Songming Yu et.al.|[2010.06156](http://arxiv.org/abs/2010.06156)|null|
 
-<p align=right>(<a href=#updated-on-20240924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -153,7 +153,7 @@
 |**2024-09-06**|**Long wavelength interdomain phonons and instability of dislocations in small-angle twisted bilayers**|V. V. Enaldiev et.al.|[2409.04166](http://arxiv.org/abs/2409.04166)|null|
 |**2024-09-06**|**Piezoresistive PtSe $_2$ pressure sensors with reliable high sensitivity and their integration into CMOS ASIC substrates**|Sebastian Lukas et.al.|[2409.03053](http://arxiv.org/abs/2409.03053)|null|
 |**2024-09-05**|**Exploring nonlinear Rashba effect and spin Hall conductivity in Janus MXenes W2COX (X = S, Se, Te)**|Arjyama Bordoloi et.al.|[2409.02835](http://arxiv.org/abs/2409.02835)|null|
-|**2024-09-04**|**Multiferroicity, Magnetoelectricity, and Piezoelectricity in Two-Dimensional Janus VSBrI Monolayers**|Qiuyue Ma et.al.|[2409.02407](http://arxiv.org/abs/2409.02407)|null|
+|**2024-09-24**|**Emergent Multifunctionality in Two-Dimensional Janus VSBrI Monolayer: A Study of Multiferroicity, Magnetoelectricity, and Piezoelectricity**|Qiuyue Ma et.al.|[2409.02407](http://arxiv.org/abs/2409.02407)|null|
 |**2024-09-03**|**Probing Noncentrosymmetric 2D Materials by Fourier Space Second Harmonic Imaging**|Lucas Lafeta et.al.|[2409.02071](http://arxiv.org/abs/2409.02071)|null|
 |**2024-09-02**|**Unveiling the impact of organic cation passivation on structural and optoelectronic properties of two-dimensional perovskites thin films**|Israel C. Ribeiro et.al.|[2409.01450](http://arxiv.org/abs/2409.01450)|null|
 |**2024-08-29**|**Nanorobotic actuator based on interlayer sliding ferroelectricity and field-tunable friction**|Hechen Ren et.al.|[2408.16519](http://arxiv.org/abs/2408.16519)|null|
@@ -226,7 +226,7 @@
 |**2024-06-06**|**Fully spin-polarized two dimensional polar semi-metallic phase in Eu substituted GdI $_2$ monolayer**|Srishti Bhardwaj et.al.|[2406.04122](http://arxiv.org/abs/2406.04122)|null|
 |**2024-06-06**|**Giant and anisotropic enhancement of spin-charge conversion in double Rashba interface graphene-based quantum system**|Alberto Anadón et.al.|[2406.04110](http://arxiv.org/abs/2406.04110)|null|
 
-<p align=right>(<a href=#updated-on-20240924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
