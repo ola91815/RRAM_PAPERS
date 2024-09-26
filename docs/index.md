@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -100,25 +100,26 @@ layout: default
 |**2021-05-13**|**Comprehensive Study of Security and Privacy of Emerging Non-Volatile Memories**|Mohammad Nasim Imtiaz Khan et.al.|[2105.06401](http://arxiv.org/abs/2105.06401)|null|
 |**2021-05-12**|**Statistical Temperature Coefficient Distribution in Analog RRAM Array: Impact on Neuromorphic System and Mitigation Method**|Heng Xu et.al.|[2105.05534](http://arxiv.org/abs/2105.05534)|null|
 |**2021-10-23**|**A Fokker-Planck Approach for Modeling the Stochastic Phenomena in Magnetic and Resistive Random Access Memory Devices**|Debasis Das et.al.|[2105.03691](http://arxiv.org/abs/2105.03691)|null|
-|**2021-04-30**|**Open-Source Memory Compiler for Automatic RRAM Generation and Verification**|Dimitrios Antoniadis et.al.|[2104.14885](http://arxiv.org/abs/2104.14885)|**[link](https://github.com/akdimitri/RRAM_COMPILER)**|
 |**2022-01-17**|**Evaluation of the Sensitivity of RRAM Cells to Optical Fault Injection Attacks**|Dmytro Petryk et.al.|[2103.12435](http://arxiv.org/abs/2103.12435)|null|
 |**2021-03-17**|**Multi-level resistance switching and random telegraph noise analysis of nitride based memristors**|Nikolaos Vasileiadis et.al.|[2103.09931](http://arxiv.org/abs/2103.09931)|null|
-|**2021-02-07**|**CrossStack: A 3-D Reconfigurable RRAM Crossbar Inference Engine**|Jason K. Eshraghian et.al.|[2102.06536](http://arxiv.org/abs/2102.06536)|null|
-|**2021-02-02**|**Enabling Lower-Power Charge-Domain Nonvolatile In-Memory Computing with Ferroelectric FETs**|Guodong Yin et.al.|[2102.01442](http://arxiv.org/abs/2102.01442)|null|
 |**2021-01-24**|**Dynamic Ternary Content-Addressable Memory Is Indeed Promising: Design and Benchmarking Using Nanoelectromechanical Relays**|Hongtao Zhong et.al.|[2101.06375](http://arxiv.org/abs/2101.06375)|null|
-|**2020-12-25**|**Graphene oxide based synaptic memristor device for neuromorphic computing**|Dwipak Prasad Sahu et.al.|[2012.13556](http://arxiv.org/abs/2012.13556)|null|
-|**2021-10-20**|**Hybrid CMOS/Memristor Circuit Design Methodology**|Sachin Maheshwari et.al.|[2012.02267](http://arxiv.org/abs/2012.02267)|null|
-|**2020-11-30**|**Ultra-High-density 3D vertical RRAM with stacked JunctionLess nanowires for In-Memory-Computing applications**|M. Ezzadeen et.al.|[2012.00061](http://arxiv.org/abs/2012.00061)|null|
 |**2021-02-22**|**Switchable domains in point contacts based on transition metal tellurides**|Yu. G. Naidyuk et.al.|[2011.01569](http://arxiv.org/abs/2011.01569)|null|
 |**2020-11-01**|**Addressing Resiliency of In-Memory Floating Point Computation**|Sina Sayyah Ensan et.al.|[2011.00648](http://arxiv.org/abs/2011.00648)|null|
 |**2020-10-28**|**Nanoscale plasticity and neuromorphic dynamics in silicon suboxide RRAM**|Mark Buckwell et.al.|[2010.15184](http://arxiv.org/abs/2010.15184)|null|
 |**2020-10-20**|**NV-Fogstore : Device-aware hybrid caching in fog computing environments**|Khushal Sethi et.al.|[2010.10562](http://arxiv.org/abs/2010.10562)|null|
 |**2020-10-13**|**High Area/Energy Efficiency RRAM CNN Accelerator with Kernel-Reordering Weight Mapping Scheme Based on Pattern Pruning**|Songming Yu et.al.|[2010.06156](http://arxiv.org/abs/2010.06156)|null|
+|**2020-08-26**|**An 8-bit In Resistive Memory Computing Core with Regulated Passive Neuron and Bit Line Weight Mapping**|Yewei Zhang et.al.|[2008.11669](http://arxiv.org/abs/2008.11669)|null|
+|**2020-08-15**|**Breaking Barriers: Maximizing Array Utilization for Compute In-Memory Fabrics**|Brian Crafton et.al.|[2008.06741](http://arxiv.org/abs/2008.06741)|null|
+|**2020-06-23**|**SCARE: Side Channel Attack on In-Memory Computing for Reverse Engineering**|Sina Sayyah Ensan et.al.|[2006.13095](http://arxiv.org/abs/2006.13095)|null|
+|**2020-06-10**|**Methodology for Realizing VMM with Binary RRAM Arrays: Experimental Demonstration of Binarized-ADALINE Using OxRAM Crossbar**|Sandeep Kaur Kingra et.al.|[2006.05657](http://arxiv.org/abs/2006.05657)|null|
+|**2020-06-08**|**Investigating Transient Characteristics of Volatile Hysteresis and Self-Heating of PrMnO $_3$ based RRAM**|J. Sakhuja et.al.|[2006.04636](http://arxiv.org/abs/2006.04636)|null|
+|**2021-02-13**|**Counting Cards: Exploiting Variance and Data Distributions for Robust Compute In-Memory**|Brian Crafton et.al.|[2006.03117](http://arxiv.org/abs/2006.03117)|null|
 
 ## 2D MATERIAL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-19**|**Liquid Metal Oxide-assisted Integration of High-k Dielectrics and Metal Contacts for Two-Dimensional Electronics**|Dasari Venkatakrishnarao et.al.|[2409.12485](http://arxiv.org/abs/2409.12485)|null|
 |**2024-09-18**|**How does Goldene Stack?**|Marcelo Lopes Pereira, Jr et.al.|[2409.11880](http://arxiv.org/abs/2409.11880)|null|
 |**2024-09-18**|**Three-dimensional valley-contrasting sound**|Haoran Xue et.al.|[2409.11714](http://arxiv.org/abs/2409.11714)|null|
 |**2024-09-17**|**Chiral propagation of plasmons due to competing anisotropies in a twisted photonic heterostructure**|Ze-Hua Tao et.al.|[2409.11066](http://arxiv.org/abs/2409.11066)|null|
@@ -147,7 +148,6 @@ layout: default
 |**2024-09-06**|**Long wavelength interdomain phonons and instability of dislocations in small-angle twisted bilayers**|V. V. Enaldiev et.al.|[2409.04166](http://arxiv.org/abs/2409.04166)|null|
 |**2024-09-06**|**Piezoresistive PtSe $_2$ pressure sensors with reliable high sensitivity and their integration into CMOS ASIC substrates**|Sebastian Lukas et.al.|[2409.03053](http://arxiv.org/abs/2409.03053)|null|
 |**2024-09-05**|**Exploring nonlinear Rashba effect and spin Hall conductivity in Janus MXenes W2COX (X = S, Se, Te)**|Arjyama Bordoloi et.al.|[2409.02835](http://arxiv.org/abs/2409.02835)|null|
-|**2024-09-24**|**Emergent Multifunctionality in Two-Dimensional Janus VSBrI Monolayer: A Study of Multiferroicity, Magnetoelectricity, and Piezoelectricity**|Qiuyue Ma et.al.|[2409.02407](http://arxiv.org/abs/2409.02407)|null|
 |**2024-09-03**|**Probing Noncentrosymmetric 2D Materials by Fourier Space Second Harmonic Imaging**|Lucas Lafeta et.al.|[2409.02071](http://arxiv.org/abs/2409.02071)|null|
 |**2024-09-02**|**Unveiling the impact of organic cation passivation on structural and optoelectronic properties of two-dimensional perovskites thin films**|Israel C. Ribeiro et.al.|[2409.01450](http://arxiv.org/abs/2409.01450)|null|
 |**2024-08-29**|**Nanorobotic actuator based on interlayer sliding ferroelectricity and field-tunable friction**|Hechen Ren et.al.|[2408.16519](http://arxiv.org/abs/2408.16519)|null|
