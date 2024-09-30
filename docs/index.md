@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.29
+## Updated on 2024.09.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**RNC: Efficient RRAM-aware NAS and Compilation for DNNs on Resource-Constrained Edge Devices**|Kam Chi Loong et.al.|[2409.18841](http://arxiv.org/abs/2409.18841)|null|
+|**2024-09-26**|**Scanning Thermal Microscopy method for self-heating in non-linear devices and application to current filaments in resistive RAM**|Nele Harnack et.al.|[2409.18210](http://arxiv.org/abs/2409.18210)|null|
 |**2024-09-09**|**Hardware Acceleration of Kolmogorov-Arnold Network (KAN) for Lightweight Edge Inference**|Wei-Hsing Huang et.al.|[2409.11418](http://arxiv.org/abs/2409.11418)|null|
 |**2024-09-10**|**The Lynchpin of In-Memory Computing: A Benchmarking Framework for Vector-Matrix Multiplication in RRAMs**|Md Tawsif Rahman Chowdhury et.al.|[2409.06140](http://arxiv.org/abs/2409.06140)|null|
 |**2024-08-11**|**Approximate ADCs for In-Memory Computing**|Arkapravo Ghosh et.al.|[2408.06390](http://arxiv.org/abs/2408.06390)|null|
@@ -112,13 +114,14 @@ layout: default
 |**2021-02-22**|**Switchable domains in point contacts based on transition metal tellurides**|Yu. G. Naidyuk et.al.|[2011.01569](http://arxiv.org/abs/2011.01569)|null|
 |**2020-11-01**|**Addressing Resiliency of In-Memory Floating Point Computation**|Sina Sayyah Ensan et.al.|[2011.00648](http://arxiv.org/abs/2011.00648)|null|
 |**2020-10-28**|**Nanoscale plasticity and neuromorphic dynamics in silicon suboxide RRAM**|Mark Buckwell et.al.|[2010.15184](http://arxiv.org/abs/2010.15184)|null|
-|**2020-10-20**|**NV-Fogstore : Device-aware hybrid caching in fog computing environments**|Khushal Sethi et.al.|[2010.10562](http://arxiv.org/abs/2010.10562)|null|
-|**2020-10-13**|**High Area/Energy Efficiency RRAM CNN Accelerator with Kernel-Reordering Weight Mapping Scheme Based on Pattern Pruning**|Songming Yu et.al.|[2010.06156](http://arxiv.org/abs/2010.06156)|null|
 
 ## 2D MATERIAL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Multiscale Simulation and Machine Learning Facilitated Design of Two-Dimensional Nanomaterials-Based Tunnel Field-Effect Transistors: A Review**|Chloe Isabella Tsang et.al.|[2409.18965](http://arxiv.org/abs/2409.18965)|null|
+|**2024-09-27**|**Electrical Spectroscopy of Polaritonic Nanoresonators**|Sebastián Castilla et.al.|[2409.18888](http://arxiv.org/abs/2409.18888)|null|
+|**2024-09-27**|**Defect density quantification in monolayer MoS2 using helium atom micro-diffraction**|Aleksandar Radic et.al.|[2409.18637](http://arxiv.org/abs/2409.18637)|null|
 |**2024-09-26**|**Wavelength-dependent anisotropic light-matter interaction in 2D ferroelectric In2Se3**|Divya Jangra et.al.|[2409.17570](http://arxiv.org/abs/2409.17570)|null|
 |**2024-09-19**|**Liquid Metal Oxide-assisted Integration of High-k Dielectrics and Metal Contacts for Two-Dimensional Electronics**|Dasari Venkatakrishnarao et.al.|[2409.12485](http://arxiv.org/abs/2409.12485)|null|
 |**2024-09-18**|**How does Goldene Stack?**|Marcelo Lopes Pereira, Jr et.al.|[2409.11880](http://arxiv.org/abs/2409.11880)|null|
@@ -178,7 +181,7 @@ layout: default
 |**2024-07-31**|**Understanding and Tuning Magnetism in van der Waals-type Metal Thiophosphates**|Rabindra Basnet et.al.|[2408.00809](http://arxiv.org/abs/2408.00809)|null|
 |**2024-07-31**|**Giant Second-Order Susceptibility in Monolayer WSe2 via Strain Engineering**|Zhizi Guan et.al.|[2407.21296](http://arxiv.org/abs/2407.21296)|null|
 |**2024-07-31**|**Multiple sliding ferroelectricity of rhombohedral-stacked InSe for reconfigurable photovoltaics and imaging applications**|Qingrong Liang et.al.|[2407.21270](http://arxiv.org/abs/2407.21270)|null|
-|**2024-07-29**|**Quantum efficiency and vertical position of quantum emitters in hBN determined by Purcell effect in hybrid metal-dielectric planar photonic structures**|Domitille Gérard et.al.|[2407.20160](http://arxiv.org/abs/2407.20160)|null|
+|**2024-09-27**|**Quantum efficiency and vertical position of quantum emitters in hBN determined by Purcell effect in hybrid metal-dielectric planar photonic structures**|Domitille Gérard et.al.|[2407.20160](http://arxiv.org/abs/2407.20160)|null|
 |**2024-07-27**|**Modified Dirac fermions in the crystalline xenon and graphene Moiré heterostructure**|Hayoon Im et.al.|[2407.19263](http://arxiv.org/abs/2407.19263)|null|
 |**2024-07-26**|**Phase engineering of giant second harmonic generation in Bi $_2$O$_2$ Se**|Zhefeng Lou et.al.|[2407.18458](http://arxiv.org/abs/2407.18458)|null|
 |**2024-07-24**|**Engineering two-dimensional materials from single-layer NbS $_2$**|Timo Knispel et.al.|[2407.17655](http://arxiv.org/abs/2407.17655)|null|
@@ -216,9 +219,6 @@ layout: default
 |**2024-06-12**|**Emergence of non-uniform strain induced exciton species in homo- and heterobilayer transition metal dichalcogenides**|Mohammadreza Daqiqshirazi et.al.|[2406.08040](http://arxiv.org/abs/2406.08040)|null|
 |**2024-06-11**|**Strong Repulsive Lifshitz-van der Waals Forces on Suspended Graphene**|Gianluca Vagli et.al.|[2406.07384](http://arxiv.org/abs/2406.07384)|null|
 |**2024-06-10**|**Large Out-of-Plane Piezoelectric Effect in Janus Ferromagnetic Semiconductor Monolayer of CrOFBr**|Qiuyue Ma et.al.|[2406.06265](http://arxiv.org/abs/2406.06265)|null|
-|**2024-06-09**|**Engineering 2D square lattice Hubbard models in 90 $^\circ$ twisted Ge/SnX (X=S, Se) moiré supperlattices**|Qiaoling Xu et.al.|[2406.05626](http://arxiv.org/abs/2406.05626)|null|
-|**2024-06-07**|**Defects induce phase transition from dynamic to static rippling in graphene**|Fabian L. Thiemann et.al.|[2406.04775](http://arxiv.org/abs/2406.04775)|null|
-|**2024-06-06**|**Fully spin-polarized two dimensional polar semi-metallic phase in Eu substituted GdI $_2$ monolayer**|Srishti Bhardwaj et.al.|[2406.04122](http://arxiv.org/abs/2406.04122)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
