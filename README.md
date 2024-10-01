@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.30
+## Updated on 2024.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2020-11-01**|**Addressing Resiliency of In-Memory Floating Point Computation**|Sina Sayyah Ensan et.al.|[2011.00648](http://arxiv.org/abs/2011.00648)|null|
 |**2020-10-28**|**Nanoscale plasticity and neuromorphic dynamics in silicon suboxide RRAM**|Mark Buckwell et.al.|[2010.15184](http://arxiv.org/abs/2010.15184)|null|
 
-<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241001>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -226,7 +226,7 @@
 |**2024-06-11**|**Strong Repulsive Lifshitz-van der Waals Forces on Suspended Graphene**|Gianluca Vagli et.al.|[2406.07384](http://arxiv.org/abs/2406.07384)|null|
 |**2024-06-10**|**Large Out-of-Plane Piezoelectric Effect in Janus Ferromagnetic Semiconductor Monolayer of CrOFBr**|Qiuyue Ma et.al.|[2406.06265](http://arxiv.org/abs/2406.06265)|null|
 
-<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241001>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
