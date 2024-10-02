@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.01
+## Updated on 2024.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,12 +119,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**Helium atom micro-diffraction as a characterisation tool for 2D materials**|Nick von Jeinsen et.al.|[2409.20461](http://arxiv.org/abs/2409.20461)|null|
+|**2024-09-28**|**Coexistence of ferroelectricity and superconductivity in a two-dimensional monolayer**|Jianyong Chen et.al.|[2409.19265](http://arxiv.org/abs/2409.19265)|null|
+|**2024-09-18**|**Closing the reproducibility gap: 2D materials research**|Peter Bøggild et.al.|[2409.18994](http://arxiv.org/abs/2409.18994)|null|
 |**2024-09-25**|**Multiscale Simulation and Machine Learning Facilitated Design of Two-Dimensional Nanomaterials-Based Tunnel Field-Effect Transistors: A Review**|Chloe Isabella Tsang et.al.|[2409.18965](http://arxiv.org/abs/2409.18965)|null|
 |**2024-09-27**|**Electrical Spectroscopy of Polaritonic Nanoresonators**|Sebastián Castilla et.al.|[2409.18888](http://arxiv.org/abs/2409.18888)|null|
 |**2024-09-27**|**Defect density quantification in monolayer MoS2 using helium atom micro-diffraction**|Aleksandar Radic et.al.|[2409.18637](http://arxiv.org/abs/2409.18637)|null|
 |**2024-09-26**|**Wavelength-dependent anisotropic light-matter interaction in 2D ferroelectric In2Se3**|Divya Jangra et.al.|[2409.17570](http://arxiv.org/abs/2409.17570)|null|
 |**2024-09-19**|**Liquid Metal Oxide-assisted Integration of High-k Dielectrics and Metal Contacts for Two-Dimensional Electronics**|Dasari Venkatakrishnarao et.al.|[2409.12485](http://arxiv.org/abs/2409.12485)|null|
-|**2024-09-18**|**How does Goldene Stack?**|Marcelo Lopes Pereira, Jr et.al.|[2409.11880](http://arxiv.org/abs/2409.11880)|null|
+|**2024-10-01**|**How does Goldene Stack?**|Marcelo Lopes Pereira, Jr et.al.|[2409.11880](http://arxiv.org/abs/2409.11880)|null|
 |**2024-09-18**|**Three-dimensional valley-contrasting sound**|Haoran Xue et.al.|[2409.11714](http://arxiv.org/abs/2409.11714)|null|
 |**2024-09-17**|**Chiral propagation of plasmons due to competing anisotropies in a twisted photonic heterostructure**|Ze-Hua Tao et.al.|[2409.11066](http://arxiv.org/abs/2409.11066)|null|
 |**2024-09-16**|**Lattice Thermal Conductivity of Sun-Graphyne from Reverse Nonequilibrium Molecular Dynamics Simulations**|Isaac de Macêdo Felix et.al.|[2409.10355](http://arxiv.org/abs/2409.10355)|null|
@@ -216,9 +219,6 @@ layout: default
 |**2024-06-16**|**Large and layer dependent nonlinear optical absorption of MXene 2D thin films**|David J. Moss et.al.|[2406.11101](http://arxiv.org/abs/2406.11101)|null|
 |**2024-08-28**|**Atomistic theory of twist-angle dependent intralayer and interlayer exciton properties in twisted bilayer materials**|Indrajit Maity et.al.|[2406.11098](http://arxiv.org/abs/2406.11098)|null|
 |**2024-06-13**|**Electric-field-modulated topological phase transition in AlSb/InSe heterobilayers**|D. Q. Fang et.al.|[2406.08999](http://arxiv.org/abs/2406.08999)|null|
-|**2024-06-12**|**Emergence of non-uniform strain induced exciton species in homo- and heterobilayer transition metal dichalcogenides**|Mohammadreza Daqiqshirazi et.al.|[2406.08040](http://arxiv.org/abs/2406.08040)|null|
-|**2024-06-11**|**Strong Repulsive Lifshitz-van der Waals Forces on Suspended Graphene**|Gianluca Vagli et.al.|[2406.07384](http://arxiv.org/abs/2406.07384)|null|
-|**2024-06-10**|**Large Out-of-Plane Piezoelectric Effect in Janus Ferromagnetic Semiconductor Monolayer of CrOFBr**|Qiuyue Ma et.al.|[2406.06265](http://arxiv.org/abs/2406.06265)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
