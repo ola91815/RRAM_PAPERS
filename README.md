@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2020-11-01**|**Addressing Resiliency of In-Memory Floating Point Computation**|Sina Sayyah Ensan et.al.|[2011.00648](http://arxiv.org/abs/2011.00648)|null|
 |**2020-10-28**|**Nanoscale plasticity and neuromorphic dynamics in silicon suboxide RRAM**|Mark Buckwell et.al.|[2010.15184](http://arxiv.org/abs/2010.15184)|null|
 
-<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -226,7 +226,7 @@
 |**2024-08-28**|**Atomistic theory of twist-angle dependent intralayer and interlayer exciton properties in twisted bilayer materials**|Indrajit Maity et.al.|[2406.11098](http://arxiv.org/abs/2406.11098)|null|
 |**2024-06-13**|**Electric-field-modulated topological phase transition in AlSb/InSe heterobilayers**|D. Q. Fang et.al.|[2406.08999](http://arxiv.org/abs/2406.08999)|null|
 
-<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
