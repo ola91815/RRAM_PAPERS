@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.04
+## Updated on 2024.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**Two-dimensional materials as ideal substrates for molecular quantum emitters**|Haiyuan Wang et.al.|[2410.02292](http://arxiv.org/abs/2410.02292)|null|
+|**2024-10-02**|**Magnetically Tuned Metal-Insulator Transition in LaAlO $_3$/SrTiO$_3$ Nanowire Arrays**|Ranjani Ramachandran et.al.|[2410.01937](http://arxiv.org/abs/2410.01937)|null|
 |**2024-10-02**|**First-principles computational methods for quantum defects in two-dimensional materials: A perspective**|Hosung Seo et.al.|[2410.01200](http://arxiv.org/abs/2410.01200)|null|
 |**2024-10-01**|**Structurally induced magnetic transitions in layered dichalcogenides MoQ2 (Q = S, Se, Te) and double hydroxides (M2+)6Al3(OH)18[Na(H2O)6](SO4)2 6H2O (M2+ = Mn2+, Fe2+) under mechanical deformation**|L. M. Volkova et.al.|[2410.00391](http://arxiv.org/abs/2410.00391)|null|
 |**2024-09-30**|**Helium atom micro-diffraction as a characterisation tool for 2D materials**|Nick von Jeinsen et.al.|[2409.20461](http://arxiv.org/abs/2409.20461)|null|
@@ -217,8 +219,6 @@ layout: default
 |**2024-07-02**|**Predicting BN analogue of 8-16-4 graphyne: \textit{In silico} insights into its structural, electronic, optical, and thermal transport properties**|Isaac M. Félix et.al.|[2406.13407](http://arxiv.org/abs/2406.13407)|null|
 |**2024-06-19**|**Optimal pre-train/fine-tune strategies for accurate material property predictions**|Reshma Devi et.al.|[2406.13142](http://arxiv.org/abs/2406.13142)|**[link](https://github.com/sai-mat-group/transfer-learning-material-properties)**|
 |**2024-06-18**|**Ultralow thermal conductance across the [FePt/h-BN/FePt] interface**|chengchao Xu et.al.|[2406.13085](http://arxiv.org/abs/2406.13085)|null|
-|**2024-06-23**|**A hybrid graphene-siliconnitride nanomembrane as a versatile and ultra-widely tunable mechanical device**|Mengqi Fu et.al.|[2406.11596](http://arxiv.org/abs/2406.11596)|null|
-|**2024-06-16**|**Large and layer dependent nonlinear optical absorption of MXene 2D thin films**|David J. Moss et.al.|[2406.11101](http://arxiv.org/abs/2406.11101)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
