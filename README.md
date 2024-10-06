@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.05
+## Updated on 2024.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2020-11-01**|**Addressing Resiliency of In-Memory Floating Point Computation**|Sina Sayyah Ensan et.al.|[2011.00648](http://arxiv.org/abs/2011.00648)|null|
 |**2020-10-28**|**Nanoscale plasticity and neuromorphic dynamics in silicon suboxide RRAM**|Mark Buckwell et.al.|[2010.15184](http://arxiv.org/abs/2010.15184)|null|
 
-<p align=right>(<a href=#updated-on-20241005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -226,7 +226,7 @@
 |**2024-06-19**|**Optimal pre-train/fine-tune strategies for accurate material property predictions**|Reshma Devi et.al.|[2406.13142](http://arxiv.org/abs/2406.13142)|**[link](https://github.com/sai-mat-group/transfer-learning-material-properties)**|
 |**2024-06-18**|**Ultralow thermal conductance across the [FePt/h-BN/FePt] interface**|chengchao Xu et.al.|[2406.13085](http://arxiv.org/abs/2406.13085)|null|
 
-<p align=right>(<a href=#updated-on-20241005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
