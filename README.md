@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.06
+## Updated on 2024.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**A 9T4R RRAM-Based ACAM for Analogue Template Matching at the Edge**|Georgios Papandroulidakis et.al.|[2410.03414](http://arxiv.org/abs/2410.03414)|null|
 |**2024-09-27**|**RNC: Efficient RRAM-aware NAS and Compilation for DNNs on Resource-Constrained Edge Devices**|Kam Chi Loong et.al.|[2409.18841](http://arxiv.org/abs/2409.18841)|**[link](https://github.com/archiiii/rram_nas_comp_pack)**|
 |**2024-09-26**|**Scanning Thermal Microscopy method for self-heating in non-linear devices and application to current filaments in resistive RAM**|Nele Harnack et.al.|[2409.18210](http://arxiv.org/abs/2409.18210)|null|
 |**2024-09-09**|**Hardware Acceleration of Kolmogorov-Arnold Network (KAN) for Lightweight Edge Inference**|Wei-Hsing Huang et.al.|[2409.11418](http://arxiv.org/abs/2409.11418)|null|
@@ -117,9 +118,8 @@
 |**2020-11-30**|**Ultra-High-density 3D vertical RRAM with stacked JunctionLess nanowires for In-Memory-Computing applications**|M. Ezzadeen et.al.|[2012.00061](http://arxiv.org/abs/2012.00061)|null|
 |**2021-02-22**|**Switchable domains in point contacts based on transition metal tellurides**|Yu. G. Naidyuk et.al.|[2011.01569](http://arxiv.org/abs/2011.01569)|null|
 |**2020-11-01**|**Addressing Resiliency of In-Memory Floating Point Computation**|Sina Sayyah Ensan et.al.|[2011.00648](http://arxiv.org/abs/2011.00648)|null|
-|**2020-10-28**|**Nanoscale plasticity and neuromorphic dynamics in silicon suboxide RRAM**|Mark Buckwell et.al.|[2010.15184](http://arxiv.org/abs/2010.15184)|null|
 
-<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -226,7 +226,7 @@
 |**2024-06-19**|**Optimal pre-train/fine-tune strategies for accurate material property predictions**|Reshma Devi et.al.|[2406.13142](http://arxiv.org/abs/2406.13142)|**[link](https://github.com/sai-mat-group/transfer-learning-material-properties)**|
 |**2024-06-18**|**Ultralow thermal conductance across the [FePt/h-BN/FePt] interface**|chengchao Xu et.al.|[2406.13085](http://arxiv.org/abs/2406.13085)|null|
 
-<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
