@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**Activating the Basal Plane of 2D Transition Metal Dichalcogenides via High-Entropy Alloying**|Mohammad Amin Akhound et.al.|[2410.06876](http://arxiv.org/abs/2410.06876)|null|
+|**2024-10-09**|**High proton conductivity through angstrom-porous titania**|Y. Ji et.al.|[2410.06489](http://arxiv.org/abs/2410.06489)|null|
+|**2024-10-07**|**Skin Controlled Electronic and Neuromorphic Tattoos**|Dmitry Kireev et.al.|[2410.05449](http://arxiv.org/abs/2410.05449)|null|
 |**2024-10-03**|**Two-dimensional materials as ideal substrates for molecular quantum emitters**|Haiyuan Wang et.al.|[2410.02292](http://arxiv.org/abs/2410.02292)|null|
 |**2024-10-02**|**Magnetically Tuned Metal-Insulator Transition in LaAlO $_3$/SrTiO$_3$ Nanowire Arrays**|Ranjani Ramachandran et.al.|[2410.01937](http://arxiv.org/abs/2410.01937)|null|
 |**2024-10-02**|**First-principles computational methods for quantum defects in two-dimensional materials: A perspective**|Hosung Seo et.al.|[2410.01200](http://arxiv.org/abs/2410.01200)|null|
@@ -216,9 +219,6 @@ layout: default
 |**2024-06-22**|**Low-Voltage Electron Emission by Graphene-hBN-graphene Heterostructure**|Zhexuan Wang et.al.|[2406.15807](http://arxiv.org/abs/2406.15807)|null|
 |**2024-06-22**|**Construction and Accuracy of Electronic Continuum Models of Incommensurate Bilayer 2D Materials**|Xue Quan et.al.|[2406.15712](http://arxiv.org/abs/2406.15712)|null|
 |**2024-06-20**|**Excitons in nonlinear optical responses: shift current in MoS $_2$ and GeS monolayers**|J. J. Esteve-Paredes et.al.|[2406.14215](http://arxiv.org/abs/2406.14215)|null|
-|**2024-07-02**|**Predicting BN analogue of 8-16-4 graphyne: \textit{In silico} insights into its structural, electronic, optical, and thermal transport properties**|Isaac M. Félix et.al.|[2406.13407](http://arxiv.org/abs/2406.13407)|null|
-|**2024-06-19**|**Optimal pre-train/fine-tune strategies for accurate material property predictions**|Reshma Devi et.al.|[2406.13142](http://arxiv.org/abs/2406.13142)|**[link](https://github.com/sai-mat-group/transfer-learning-material-properties)**|
-|**2024-06-18**|**Ultralow thermal conductance across the [FePt/h-BN/FePt] interface**|chengchao Xu et.al.|[2406.13085](http://arxiv.org/abs/2406.13085)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
