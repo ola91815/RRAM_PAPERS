@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.10
+## Updated on 2024.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,14 @@
 |**2021-02-22**|**Switchable domains in point contacts based on transition metal tellurides**|Yu. G. Naidyuk et.al.|[2011.01569](http://arxiv.org/abs/2011.01569)|null|
 |**2020-11-01**|**Addressing Resiliency of In-Memory Floating Point Computation**|Sina Sayyah Ensan et.al.|[2011.00648](http://arxiv.org/abs/2011.00648)|null|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**Tunable second harmonic generation in 2D materials: comparison of different strategies**|Simone Grillo et.al.|[2410.07661](http://arxiv.org/abs/2410.07661)|null|
+|**2024-10-09**|**The two-dimensional homogeneous electron gas with symmetric dual-gate screening: exchange-correlation functional and other ground-state properties**|Yiqi Yang et.al.|[2410.07445](http://arxiv.org/abs/2410.07445)|null|
 |**2024-10-09**|**Activating the Basal Plane of 2D Transition Metal Dichalcogenides via High-Entropy Alloying**|Mohammad Amin Akhound et.al.|[2410.06876](http://arxiv.org/abs/2410.06876)|null|
 |**2024-10-09**|**High proton conductivity through angstrom-porous titania**|Y. Ji et.al.|[2410.06489](http://arxiv.org/abs/2410.06489)|null|
 |**2024-10-07**|**Skin Controlled Electronic and Neuromorphic Tattoos**|Dmitry Kireev et.al.|[2410.05449](http://arxiv.org/abs/2410.05449)|null|
@@ -223,10 +225,8 @@
 |**2024-06-24**|**Programmable Kondo Effect Formed by Landau Levels**|Hong Chen et.al.|[2406.16283](http://arxiv.org/abs/2406.16283)|null|
 |**2024-06-23**|**Machine-Learning-Enabled Fast Optical Identification and Characterization of 2D Materials**|Polina A. Leger et.al.|[2406.16211](http://arxiv.org/abs/2406.16211)|null|
 |**2024-06-22**|**Low-Voltage Electron Emission by Graphene-hBN-graphene Heterostructure**|Zhexuan Wang et.al.|[2406.15807](http://arxiv.org/abs/2406.15807)|null|
-|**2024-06-22**|**Construction and Accuracy of Electronic Continuum Models of Incommensurate Bilayer 2D Materials**|Xue Quan et.al.|[2406.15712](http://arxiv.org/abs/2406.15712)|null|
-|**2024-06-20**|**Excitons in nonlinear optical responses: shift current in MoS $_2$ and GeS monolayers**|J. J. Esteve-Paredes et.al.|[2406.14215](http://arxiv.org/abs/2406.14215)|null|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
