@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**Hexagonal boron nitride crystal growth in the Li3BN2-BN system**|Camille Maestre et.al.|[2410.11334](http://arxiv.org/abs/2410.11334)|null|
+|**2024-10-10**|**Adaptive AI-Driven Material Synthesis: Towards Autonomous 2D Materials Growth**|Leonardo Sabattini et.al.|[2410.10885](http://arxiv.org/abs/2410.10885)|null|
+|**2024-10-11**|**Electron Energy Loss Spectroscopy of 2D Materials in a Scanning Electron Microscope**|John W. Simonaitis et.al.|[2410.09291](http://arxiv.org/abs/2410.09291)|null|
 |**2024-10-10**|**Tunable second harmonic generation in 2D materials: comparison of different strategies**|Simone Grillo et.al.|[2410.07661](http://arxiv.org/abs/2410.07661)|null|
 |**2024-10-09**|**The two-dimensional homogeneous electron gas with symmetric dual-gate screening: exchange-correlation functional and other ground-state properties**|Yiqi Yang et.al.|[2410.07445](http://arxiv.org/abs/2410.07445)|null|
 |**2024-10-09**|**Activating the Basal Plane of 2D Transition Metal Dichalcogenides via High-Entropy Alloying**|Mohammad Amin Akhound et.al.|[2410.06876](http://arxiv.org/abs/2410.06876)|null|
@@ -216,9 +219,6 @@ layout: default
 |**2024-06-30**|**Magnetic Excitations in Ferromagnetically Coupled Spin-1 Nanographenes**|Elia Turco et.al.|[2407.00728](http://arxiv.org/abs/2407.00728)|null|
 |**2024-06-26**|**Analysis and Applications of a Heralded Electron Source**|Stewart A. Koppell et.al.|[2406.18755](http://arxiv.org/abs/2406.18755)|null|
 |**2024-06-25**|**Moiré lattice of twisted bilayer graphene as template for non-covalent functionalization**|Tobias Dierke et.al.|[2406.17573](http://arxiv.org/abs/2406.17573)|null|
-|**2024-06-24**|**Programmable Kondo Effect Formed by Landau Levels**|Hong Chen et.al.|[2406.16283](http://arxiv.org/abs/2406.16283)|null|
-|**2024-06-23**|**Machine-Learning-Enabled Fast Optical Identification and Characterization of 2D Materials**|Polina A. Leger et.al.|[2406.16211](http://arxiv.org/abs/2406.16211)|null|
-|**2024-06-22**|**Low-Voltage Electron Emission by Graphene-hBN-graphene Heterostructure**|Zhexuan Wang et.al.|[2406.15807](http://arxiv.org/abs/2406.15807)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
