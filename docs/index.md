@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.17
+## Updated on 2024.10.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**Exploring Nanoscale Photoresponse Mechanisms for Enhanced Photothermoelectric Effects in van der Waals Interfaces**|Da Xu et.al.|[2410.13052](http://arxiv.org/abs/2410.13052)|null|
 |**2024-10-15**|**Hexagonal boron nitride crystal growth in the Li3BN2-BN system**|Camille Maestre et.al.|[2410.11334](http://arxiv.org/abs/2410.11334)|null|
 |**2024-10-10**|**Adaptive AI-Driven Material Synthesis: Towards Autonomous 2D Materials Growth**|Leonardo Sabattini et.al.|[2410.10885](http://arxiv.org/abs/2410.10885)|null|
 |**2024-10-11**|**Electron Energy Loss Spectroscopy of 2D Materials in a Scanning Electron Microscope**|John W. Simonaitis et.al.|[2410.09291](http://arxiv.org/abs/2410.09291)|null|
@@ -208,7 +209,7 @@ layout: default
 |**2024-07-16**|**Skew-scattering Pockels effect and metallic electro-optics in gapped bilayer graphene**|Da Ma et.al.|[2407.12096](http://arxiv.org/abs/2407.12096)|null|
 |**2024-07-16**|**Interlayer charge transfer in graphene 2D polyimide heterostructures**|Francesca Falorsi et.al.|[2407.11559](http://arxiv.org/abs/2407.11559)|null|
 |**2024-07-15**|**Nontrivial impact of interlayer coupling on thermal conductivity: opposing trends in in-plane and out-of-plane phonons**|H. F. Feng et.al.|[2407.10435](http://arxiv.org/abs/2407.10435)|null|
-|**2024-07-18**|**Measuring kinetic inductance and superfluid stiffness of two-dimensional superconductors using high-quality transmission-line resonators**|Mary Kreidel et.al.|[2407.09916](http://arxiv.org/abs/2407.09916)|null|
+|**2024-10-17**|**Measuring kinetic inductance and superfluid stiffness of two-dimensional superconductors using high-quality transmission-line resonators**|Mary Kreidel et.al.|[2407.09916](http://arxiv.org/abs/2407.09916)|null|
 |**2024-07-09**|**Photonic integrated circuit polarizers based on 2D materials**|David J. Moss et.al.|[2407.06563](http://arxiv.org/abs/2407.06563)|null|
 |**2024-08-15**|**Quantum Noise Spectroscopy of Criticality in an Atomically Thin Magnet**|Mark E. Ziffer et.al.|[2407.05614](http://arxiv.org/abs/2407.05614)|null|
 |**2024-07-06**|**Design and Reprogrammability of Zero Modes in 2D Materials from a Single Element**|Daniel Revier et.al.|[2407.04934](http://arxiv.org/abs/2407.04934)|null|
@@ -218,7 +219,6 @@ layout: default
 |**2024-07-01**|**Substrate interference and strain in the second harmonic generation from MoSe $_2$ monolayers**|S. Puri et.al.|[2407.01339](http://arxiv.org/abs/2407.01339)|null|
 |**2024-06-30**|**Magnetic Excitations in Ferromagnetically Coupled Spin-1 Nanographenes**|Elia Turco et.al.|[2407.00728](http://arxiv.org/abs/2407.00728)|null|
 |**2024-06-26**|**Analysis and Applications of a Heralded Electron Source**|Stewart A. Koppell et.al.|[2406.18755](http://arxiv.org/abs/2406.18755)|null|
-|**2024-06-25**|**Moiré lattice of twisted bilayer graphene as template for non-covalent functionalization**|Tobias Dierke et.al.|[2406.17573](http://arxiv.org/abs/2406.17573)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
