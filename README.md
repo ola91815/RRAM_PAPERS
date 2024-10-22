@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.21
+## Updated on 2024.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,14 @@
 |**2021-02-22**|**Switchable domains in point contacts based on transition metal tellurides**|Yu. G. Naidyuk et.al.|[2011.01569](http://arxiv.org/abs/2011.01569)|null|
 |**2020-11-01**|**Addressing Resiliency of In-Memory Floating Point Computation**|Sina Sayyah Ensan et.al.|[2011.00648](http://arxiv.org/abs/2011.00648)|null|
 
-<p align=right>(<a href=#updated-on-20241021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241022>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Undulated 2D materials as a platform for large Rashba spin-splitting and persistent spin-helix states**|Sunny Gupta et.al.|[2410.16242](http://arxiv.org/abs/2410.16242)|null|
+|**2024-10-20**|**Robust topological interface states in a lateral magnetic-topological heterostructure**|Qun Niu et.al.|[2410.15292](http://arxiv.org/abs/2410.15292)|null|
 |**2024-10-17**|**A multi-detector neutral helium atom microscope**|Chenyang Zhao et.al.|[2410.13955](http://arxiv.org/abs/2410.13955)|null|
 |**2024-10-16**|**Exploring Nanoscale Photoresponse Mechanisms for Enhanced Photothermoelectric Effects in van der Waals Interfaces**|Da Xu et.al.|[2410.13052](http://arxiv.org/abs/2410.13052)|null|
 |**2024-10-15**|**Hexagonal boron nitride crystal growth in the Li3BN2-BN system**|Camille Maestre et.al.|[2410.11334](http://arxiv.org/abs/2410.11334)|null|
@@ -223,10 +225,8 @@
 |**2024-07-05**|**Granular Ta-Te nanowire superconductivity violating the Pauli limit**|Lingxiao Zhao et.al.|[2407.04643](http://arxiv.org/abs/2407.04643)|null|
 |**2024-07-04**|**Exploring control of the emergent exciton insulator state in 1T-TiSe $_2$ monolayer by state-of-the-art theory models**|Hong Tang et.al.|[2407.04033](http://arxiv.org/abs/2407.04033)|null|
 |**2024-07-01**|**Enhancing resonant second harmonic generation in bilayer WSe2 by layer-dependent exciton-polaron effect**|Soonyoung Cha et.al.|[2407.01854](http://arxiv.org/abs/2407.01854)|null|
-|**2024-07-01**|**Substrate interference and strain in the second harmonic generation from MoSe $_2$ monolayers**|S. Puri et.al.|[2407.01339](http://arxiv.org/abs/2407.01339)|null|
-|**2024-06-30**|**Magnetic Excitations in Ferromagnetically Coupled Spin-1 Nanographenes**|Elia Turco et.al.|[2407.00728](http://arxiv.org/abs/2407.00728)|null|
 
-<p align=right>(<a href=#updated-on-20241021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241022>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
