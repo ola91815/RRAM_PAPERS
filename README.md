@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.22
+## Updated on 2024.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,15 @@
 |**2021-02-22**|**Switchable domains in point contacts based on transition metal tellurides**|Yu. G. Naidyuk et.al.|[2011.01569](http://arxiv.org/abs/2011.01569)|null|
 |**2020-11-01**|**Addressing Resiliency of In-Memory Floating Point Computation**|Sina Sayyah Ensan et.al.|[2011.00648](http://arxiv.org/abs/2011.00648)|null|
 
-<p align=right>(<a href=#updated-on-20241022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**Data-efficient 4D-STEM in SEM: Beyond 2D Materials to Metallic Materials**|Ujjval Bansal et.al.|[2410.17206](http://arxiv.org/abs/2410.17206)|null|
+|**2024-10-22**|**Production of Ultra-Thin and High-Quality Nanosheet Networks via Layer-by-Layer Assembly at Liquid-Liquid Interfaces**|Joseph Neilson et.al.|[2410.16952](http://arxiv.org/abs/2410.16952)|null|
+|**2024-10-22**|**Tunable Quantum Anomalous Hall Effect via Crystal Order in Spin-Splitting Antiferromagnets**|Wenxuan Zhu et.al.|[2410.16587](http://arxiv.org/abs/2410.16587)|null|
 |**2024-10-21**|**Undulated 2D materials as a platform for large Rashba spin-splitting and persistent spin-helix states**|Sunny Gupta et.al.|[2410.16242](http://arxiv.org/abs/2410.16242)|null|
 |**2024-10-20**|**Robust topological interface states in a lateral magnetic-topological heterostructure**|Qun Niu et.al.|[2410.15292](http://arxiv.org/abs/2410.15292)|null|
 |**2024-10-17**|**A multi-detector neutral helium atom microscope**|Chenyang Zhao et.al.|[2410.13955](http://arxiv.org/abs/2410.13955)|null|
@@ -222,11 +225,8 @@
 |**2024-07-09**|**Photonic integrated circuit polarizers based on 2D materials**|David J. Moss et.al.|[2407.06563](http://arxiv.org/abs/2407.06563)|null|
 |**2024-08-15**|**Quantum Noise Spectroscopy of Criticality in an Atomically Thin Magnet**|Mark E. Ziffer et.al.|[2407.05614](http://arxiv.org/abs/2407.05614)|null|
 |**2024-07-06**|**Design and Reprogrammability of Zero Modes in 2D Materials from a Single Element**|Daniel Revier et.al.|[2407.04934](http://arxiv.org/abs/2407.04934)|null|
-|**2024-07-05**|**Granular Ta-Te nanowire superconductivity violating the Pauli limit**|Lingxiao Zhao et.al.|[2407.04643](http://arxiv.org/abs/2407.04643)|null|
-|**2024-07-04**|**Exploring control of the emergent exciton insulator state in 1T-TiSe $_2$ monolayer by state-of-the-art theory models**|Hong Tang et.al.|[2407.04033](http://arxiv.org/abs/2407.04033)|null|
-|**2024-07-01**|**Enhancing resonant second harmonic generation in bilayer WSe2 by layer-dependent exciton-polaron effect**|Soonyoung Cha et.al.|[2407.01854](http://arxiv.org/abs/2407.01854)|null|
 
-<p align=right>(<a href=#updated-on-20241022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
