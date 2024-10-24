@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**Enhanced polariton interactions in suspended WS2 monolayer microcavity**|Laura Polimeno et.al.|[2410.17693](http://arxiv.org/abs/2410.17693)|null|
+|**2024-10-23**|**Dynamic Tuning of Single-Photon Emission in Monolayer WSe2 via Localized Strain Engineering**|Yi Yu et.al.|[2410.17654](http://arxiv.org/abs/2410.17654)|null|
+|**2024-10-23**|**Deterministic formation of carbon-functionalized quantum emitters in hexagonal boron nitride**|Manlin Luo et.al.|[2410.17653](http://arxiv.org/abs/2410.17653)|null|
+|**2024-10-23**|**Undulation-induced moiré superlattices with 1D polarization domains and 1D flat bands in 2D bilayer semiconductors**|Xingfu Li et.al.|[2410.17548](http://arxiv.org/abs/2410.17548)|null|
+|**2024-10-22**|**Telecom-wavelength Single-photon Emitters in Multi-layer InSe**|Huan Zhao et.al.|[2410.17354](http://arxiv.org/abs/2410.17354)|null|
 |**2024-10-22**|**Data-efficient 4D-STEM in SEM: Beyond 2D Materials to Metallic Materials**|Ujjval Bansal et.al.|[2410.17206](http://arxiv.org/abs/2410.17206)|null|
 |**2024-10-22**|**Production of Ultra-Thin and High-Quality Nanosheet Networks via Layer-by-Layer Assembly at Liquid-Liquid Interfaces**|Joseph Neilson et.al.|[2410.16952](http://arxiv.org/abs/2410.16952)|null|
 |**2024-10-22**|**Tunable Quantum Anomalous Hall Effect via Crystal Order in Spin-Splitting Antiferromagnets**|Wenxuan Zhu et.al.|[2410.16587](http://arxiv.org/abs/2410.16587)|null|
@@ -214,11 +219,6 @@ layout: default
 |**2024-07-19**|**On the Edge Roughness of Two-Dimensional Materials**|Pengjie Shi et.al.|[2407.14134](http://arxiv.org/abs/2407.14134)|null|
 |**2024-07-16**|**Skew-scattering Pockels effect and metallic electro-optics in gapped bilayer graphene**|Da Ma et.al.|[2407.12096](http://arxiv.org/abs/2407.12096)|null|
 |**2024-07-16**|**Interlayer charge transfer in graphene 2D polyimide heterostructures**|Francesca Falorsi et.al.|[2407.11559](http://arxiv.org/abs/2407.11559)|null|
-|**2024-07-15**|**Nontrivial impact of interlayer coupling on thermal conductivity: opposing trends in in-plane and out-of-plane phonons**|H. F. Feng et.al.|[2407.10435](http://arxiv.org/abs/2407.10435)|null|
-|**2024-10-17**|**Measuring kinetic inductance and superfluid stiffness of two-dimensional superconductors using high-quality transmission-line resonators**|Mary Kreidel et.al.|[2407.09916](http://arxiv.org/abs/2407.09916)|null|
-|**2024-07-09**|**Photonic integrated circuit polarizers based on 2D materials**|David J. Moss et.al.|[2407.06563](http://arxiv.org/abs/2407.06563)|null|
-|**2024-08-15**|**Quantum Noise Spectroscopy of Criticality in an Atomically Thin Magnet**|Mark E. Ziffer et.al.|[2407.05614](http://arxiv.org/abs/2407.05614)|null|
-|**2024-07-06**|**Design and Reprogrammability of Zero Modes in 2D Materials from a Single Element**|Daniel Revier et.al.|[2407.04934](http://arxiv.org/abs/2407.04934)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
