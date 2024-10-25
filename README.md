@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.24
+## Updated on 2024.10.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,14 @@
 |**2021-02-22**|**Switchable domains in point contacts based on transition metal tellurides**|Yu. G. Naidyuk et.al.|[2011.01569](http://arxiv.org/abs/2011.01569)|null|
 |**2020-11-01**|**Addressing Resiliency of In-Memory Floating Point Computation**|Sina Sayyah Ensan et.al.|[2011.00648](http://arxiv.org/abs/2011.00648)|null|
 
-<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241025>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Experimental observation of spin defects in van der Waals material GeS $_2$**|W. Liu et.al.|[2410.18892](http://arxiv.org/abs/2410.18892)|null|
+|**2024-10-24**|**Scanning tables for the layer groups**|Bernard Field et.al.|[2410.18750](http://arxiv.org/abs/2410.18750)|null|
 |**2024-10-23**|**Enhanced polariton interactions in suspended WS2 monolayer microcavity**|Laura Polimeno et.al.|[2410.17693](http://arxiv.org/abs/2410.17693)|null|
 |**2024-10-23**|**Dynamic Tuning of Single-Photon Emission in Monolayer WSe2 via Localized Strain Engineering**|Yi Yu et.al.|[2410.17654](http://arxiv.org/abs/2410.17654)|null|
 |**2024-10-23**|**Deterministic formation of carbon-functionalized quantum emitters in hexagonal boron nitride**|Manlin Luo et.al.|[2410.17653](http://arxiv.org/abs/2410.17653)|null|
@@ -195,7 +197,7 @@
 |**2024-08-23**|**Identifying band structure changes of FePS3 across the antiferromagnetic phase transition**|Benjamin Pestka et.al.|[2408.12896](http://arxiv.org/abs/2408.12896)|null|
 |**2024-08-20**|**Insulator-Metal Transition and Magnetic Crossover in Bilayer Graphene**|Amarnath Chakraborty et.al.|[2408.10954](http://arxiv.org/abs/2408.10954)|null|
 |**2024-08-26**|**Enhancement of Photoresponse for InGaAs Infrared Photodetectors Using Plasmonic WO3-x/CsyWO3-x Nanocrystals**|Zach D. Merino et.al.|[2408.10389](http://arxiv.org/abs/2408.10389)|null|
-|**2024-08-19**|**Quantum Transport Straintronics and Mechanical Aharonov-Bohm Effect in Quasi-metallic SWCNTs**|L. Huang et.al.|[2408.10355](http://arxiv.org/abs/2408.10355)|null|
+|**2024-10-23**|**Quantum Transport Straintronics and Mechanical Aharonov-Bohm Effect in Quasi-metallic SWCNTs**|L. Huang et.al.|[2408.10355](http://arxiv.org/abs/2408.10355)|null|
 |**2024-08-21**|**Angstrom-scale ion-beam engineering of ultrathin buried oxides for quantum and neuro-inspired computing**|N. Smirnov et.al.|[2408.10138](http://arxiv.org/abs/2408.10138)|null|
 |**2024-08-19**|**Excitonic-trion population in two-dimensional halide perovskites**|Efstratios Manousakis et.al.|[2408.10097](http://arxiv.org/abs/2408.10097)|null|
 |**2024-08-18**|**Atomic Engineering of Triangular Nanopores in Monolayer hBN: A Decoupled Seeding and Growth Approach**|Dana O. Byrne et.al.|[2408.09355](http://arxiv.org/abs/2408.09355)|null|
@@ -223,10 +225,8 @@
 |**2024-07-19**|**Fate of transient order parameter domain walls in ultrafast experiments**|Lingxian Kong et.al.|[2407.14250](http://arxiv.org/abs/2407.14250)|null|
 |**2024-08-22**|**Sliding-Reversible Bandgap Modulation in Irreversible Asymmetric Multilayers**|Changming Ke et.al.|[2407.14244](http://arxiv.org/abs/2407.14244)|null|
 |**2024-07-19**|**On the Edge Roughness of Two-Dimensional Materials**|Pengjie Shi et.al.|[2407.14134](http://arxiv.org/abs/2407.14134)|null|
-|**2024-07-16**|**Skew-scattering Pockels effect and metallic electro-optics in gapped bilayer graphene**|Da Ma et.al.|[2407.12096](http://arxiv.org/abs/2407.12096)|null|
-|**2024-07-16**|**Interlayer charge transfer in graphene 2D polyimide heterostructures**|Francesca Falorsi et.al.|[2407.11559](http://arxiv.org/abs/2407.11559)|null|
 
-<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241025>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
