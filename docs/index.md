@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.25
+## Updated on 2024.10.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -120,7 +120,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-24**|**Experimental observation of spin defects in van der Waals material GeS $_2$**|W. Liu et.al.|[2410.18892](http://arxiv.org/abs/2410.18892)|null|
-|**2024-10-24**|**Scanning tables for the layer groups**|Bernard Field et.al.|[2410.18750](http://arxiv.org/abs/2410.18750)|null|
+|**2024-10-24**|**Scanning tables for the layer groups**|Bernard Field et.al.|[2410.18750](http://arxiv.org/abs/2410.18750)|**[link](https://github.com/Griffin-Group/scanning-tables-layer-group-data)**|
 |**2024-10-23**|**Enhanced polariton interactions in suspended WS2 monolayer microcavity**|Laura Polimeno et.al.|[2410.17693](http://arxiv.org/abs/2410.17693)|null|
 |**2024-10-23**|**Dynamic Tuning of Single-Photon Emission in Monolayer WSe2 via Localized Strain Engineering**|Yi Yu et.al.|[2410.17654](http://arxiv.org/abs/2410.17654)|null|
 |**2024-10-23**|**Deterministic formation of carbon-functionalized quantum emitters in hexagonal boron nitride**|Manlin Luo et.al.|[2410.17653](http://arxiv.org/abs/2410.17653)|null|
