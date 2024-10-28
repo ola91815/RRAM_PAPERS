@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.27
+## Updated on 2024.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2021-02-22**|**Switchable domains in point contacts based on transition metal tellurides**|Yu. G. Naidyuk et.al.|[2011.01569](http://arxiv.org/abs/2011.01569)|null|
 |**2020-11-01**|**Addressing Resiliency of In-Memory Floating Point Computation**|Sina Sayyah Ensan et.al.|[2011.00648](http://arxiv.org/abs/2011.00648)|null|
 
-<p align=right>(<a href=#updated-on-20241027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241028>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -226,7 +226,7 @@
 |**2024-08-22**|**Sliding-Reversible Bandgap Modulation in Irreversible Asymmetric Multilayers**|Changming Ke et.al.|[2407.14244](http://arxiv.org/abs/2407.14244)|null|
 |**2024-07-19**|**On the Edge Roughness of Two-Dimensional Materials**|Pengjie Shi et.al.|[2407.14134](http://arxiv.org/abs/2407.14134)|null|
 
-<p align=right>(<a href=#updated-on-20241027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241028>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
