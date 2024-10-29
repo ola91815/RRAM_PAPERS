@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.28
+## Updated on 2024.10.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-27**|**The maximum storage capacity of open-loop written RRAM is around 4 bits**|Yongxiang Li et.al.|[2410.20332](http://arxiv.org/abs/2410.20332)|null|
 |**2024-10-04**|**A 9T4R RRAM-Based ACAM for Analogue Template Matching at the Edge**|Georgios Papandroulidakis et.al.|[2410.03414](http://arxiv.org/abs/2410.03414)|null|
 |**2024-09-27**|**RNC: Efficient RRAM-aware NAS and Compilation for DNNs on Resource-Constrained Edge Devices**|Kam Chi Loong et.al.|[2409.18841](http://arxiv.org/abs/2409.18841)|**[link](https://github.com/archiiii/rram_nas_comp_pack)**|
 |**2024-09-26**|**Scanning Thermal Microscopy method for self-heating in non-linear devices and application to current filaments in resistive RAM**|Nele Harnack et.al.|[2409.18210](http://arxiv.org/abs/2409.18210)|null|
@@ -117,14 +118,15 @@
 |**2021-10-20**|**Hybrid CMOS/Memristor Circuit Design Methodology**|Sachin Maheshwari et.al.|[2012.02267](http://arxiv.org/abs/2012.02267)|null|
 |**2020-11-30**|**Ultra-High-density 3D vertical RRAM with stacked JunctionLess nanowires for In-Memory-Computing applications**|M. Ezzadeen et.al.|[2012.00061](http://arxiv.org/abs/2012.00061)|null|
 |**2021-02-22**|**Switchable domains in point contacts based on transition metal tellurides**|Yu. G. Naidyuk et.al.|[2011.01569](http://arxiv.org/abs/2011.01569)|null|
-|**2020-11-01**|**Addressing Resiliency of In-Memory Floating Point Computation**|Sina Sayyah Ensan et.al.|[2011.00648](http://arxiv.org/abs/2011.00648)|null|
 
-<p align=right>(<a href=#updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**PARPHOM: PARallel PHOnon calculator for Moiré systems**|Shinjan Mandal et.al.|[2410.21075](http://arxiv.org/abs/2410.21075)|null|
+|**2024-10-27**|**Large Scale Raman Spectrum Calculations in Defective 2D Materials using Deep Learning**|Olivier Malenfant-Thuot et.al.|[2410.20417](http://arxiv.org/abs/2410.20417)|null|
 |**2024-10-24**|**Experimental observation of spin defects in van der Waals material GeS $_2$**|W. Liu et.al.|[2410.18892](http://arxiv.org/abs/2410.18892)|null|
 |**2024-10-24**|**Scanning tables for the layer groups**|Bernard Field et.al.|[2410.18750](http://arxiv.org/abs/2410.18750)|**[link](https://github.com/Griffin-Group/scanning-tables-layer-group-data)**|
 |**2024-10-23**|**Enhanced polariton interactions in suspended WS2 monolayer microcavity**|Laura Polimeno et.al.|[2410.17693](http://arxiv.org/abs/2410.17693)|null|
@@ -223,10 +225,8 @@
 |**2024-07-23**|**Colossal Magnon Magnetoresistance of Two-Dimensional Magnets**|Caleb M Webb et.al.|[2407.16858](http://arxiv.org/abs/2407.16858)|null|
 |**2024-07-21**|**Electron energy-loss spectrum and exciton band structure of ${\mathrm{WSe}}_{2}$ monolayer studied by ab initio Bethe-Salpeter equation calculations**|Yun-Chen Shih et.al.|[2407.15039](http://arxiv.org/abs/2407.15039)|null|
 |**2024-07-19**|**Fate of transient order parameter domain walls in ultrafast experiments**|Lingxian Kong et.al.|[2407.14250](http://arxiv.org/abs/2407.14250)|null|
-|**2024-08-22**|**Sliding-Reversible Bandgap Modulation in Irreversible Asymmetric Multilayers**|Changming Ke et.al.|[2407.14244](http://arxiv.org/abs/2407.14244)|null|
-|**2024-07-19**|**On the Edge Roughness of Two-Dimensional Materials**|Pengjie Shi et.al.|[2407.14134](http://arxiv.org/abs/2407.14134)|null|
 
-<p align=right>(<a href=#updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
