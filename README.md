@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.30
+## Updated on 2024.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2020-11-30**|**Ultra-High-density 3D vertical RRAM with stacked JunctionLess nanowires for In-Memory-Computing applications**|M. Ezzadeen et.al.|[2012.00061](http://arxiv.org/abs/2012.00061)|null|
 |**2021-02-22**|**Switchable domains in point contacts based on transition metal tellurides**|Yu. G. Naidyuk et.al.|[2011.01569](http://arxiv.org/abs/2011.01569)|null|
 
-<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241031>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -161,7 +161,7 @@
 |**2024-09-18**|**Closing the reproducibility gap: 2D materials research**|Peter Bøggild et.al.|[2409.18994](http://arxiv.org/abs/2409.18994)|null|
 |**2024-09-25**|**Multiscale Simulation and Machine Learning Facilitated Design of Two-Dimensional Nanomaterials-Based Tunnel Field-Effect Transistors: A Review**|Chloe Isabella Tsang et.al.|[2409.18965](http://arxiv.org/abs/2409.18965)|null|
 |**2024-09-27**|**Electrical Spectroscopy of Polaritonic Nanoresonators**|Sebastián Castilla et.al.|[2409.18888](http://arxiv.org/abs/2409.18888)|null|
-|**2024-09-27**|**Defect density quantification in monolayer MoS2 using helium atom micro-diffraction**|Aleksandar Radic et.al.|[2409.18637](http://arxiv.org/abs/2409.18637)|null|
+|**2024-10-30**|**Defect density quantification in monolayer MoS2 using helium atom micro-diffraction**|Aleksandar Radic et.al.|[2409.18637](http://arxiv.org/abs/2409.18637)|null|
 |**2024-09-26**|**Wavelength-dependent anisotropic light-matter interaction in 2D ferroelectric In2Se3**|Divya Jangra et.al.|[2409.17570](http://arxiv.org/abs/2409.17570)|null|
 |**2024-09-19**|**Liquid Metal Oxide-assisted Integration of High-k Dielectrics and Metal Contacts for Two-Dimensional Electronics**|Dasari Venkatakrishnarao et.al.|[2409.12485](http://arxiv.org/abs/2409.12485)|null|
 |**2024-10-01**|**How does Goldene Stack?**|Marcelo Lopes Pereira, Jr et.al.|[2409.11880](http://arxiv.org/abs/2409.11880)|null|
@@ -221,12 +221,12 @@
 |**2024-07-31**|**Understanding and Tuning Magnetism in van der Waals-type Metal Thiophosphates**|Rabindra Basnet et.al.|[2408.00809](http://arxiv.org/abs/2408.00809)|null|
 |**2024-10-07**|**Strain-Enabled Giant Second-Order Susceptibility in Monolayer WSe $_2$**|Zhizi Guan et.al.|[2407.21296](http://arxiv.org/abs/2407.21296)|null|
 |**2024-07-31**|**Multiple sliding ferroelectricity of rhombohedral-stacked InSe for reconfigurable photovoltaics and imaging applications**|Qingrong Liang et.al.|[2407.21270](http://arxiv.org/abs/2407.21270)|null|
-|**2024-09-27**|**Quantum efficiency and vertical position of quantum emitters in hBN determined by Purcell effect in hybrid metal-dielectric planar photonic structures**|Domitille Gérard et.al.|[2407.20160](http://arxiv.org/abs/2407.20160)|null|
+|**2024-10-30**|**Quantum efficiency and vertical position of quantum emitters in hBN determined by Purcell effect in hybrid metal-dielectric planar photonic structures**|Domitille Gérard et.al.|[2407.20160](http://arxiv.org/abs/2407.20160)|null|
 |**2024-07-27**|**Modified Dirac fermions in the crystalline xenon and graphene Moiré heterostructure**|Hayoon Im et.al.|[2407.19263](http://arxiv.org/abs/2407.19263)|null|
 |**2024-07-26**|**Phase engineering of giant second harmonic generation in Bi $_2$O$_2$ Se**|Zhefeng Lou et.al.|[2407.18458](http://arxiv.org/abs/2407.18458)|null|
 |**2024-07-24**|**Engineering two-dimensional materials from single-layer NbS $_2$**|Timo Knispel et.al.|[2407.17655](http://arxiv.org/abs/2407.17655)|null|
 
-<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241031>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
