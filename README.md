@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.04
+## Updated on 2024.11.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,16 @@
 |**2020-11-30**|**Ultra-High-density 3D vertical RRAM with stacked JunctionLess nanowires for In-Memory-Computing applications**|M. Ezzadeen et.al.|[2012.00061](http://arxiv.org/abs/2012.00061)|null|
 |**2021-02-22**|**Switchable domains in point contacts based on transition metal tellurides**|Yu. G. Naidyuk et.al.|[2011.01569](http://arxiv.org/abs/2011.01569)|null|
 
-<p align=right>(<a href=#updated-on-20241104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241105>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Ultrafast all-optical generation of pure spin and valley currents**|Deepika Gill et.al.|[2411.02371](http://arxiv.org/abs/2411.02371)|null|
+|**2024-11-04**|**Reproducible Monolayer MoS2 Devices Free of Resist Contamination by Gold Mask Lithography**|Yumeng Liu et.al.|[2411.02205](http://arxiv.org/abs/2411.02205)|null|
+|**2024-11-04**|**Defects in graphite engineered by ion implantation for the self-assembly of gold nanoparticles**|Yumeng Liu et.al.|[2411.02204](http://arxiv.org/abs/2411.02204)|null|
+|**2024-11-01**|**Spintwistronics in Photonic Topological Lattices**|Xinxin Gou et.al.|[2411.00645](http://arxiv.org/abs/2411.00645)|null|
 |**2024-10-29**|**Insulating moiré homobilayers lack a threefold symmetric second harmonic generation**|Luis Enrique Rosas-Hernandez et.al.|[2410.22188](http://arxiv.org/abs/2410.22188)|null|
 |**2024-10-29**|**Low-Dimensional Solid-State Single-Photon Emitters**|Jinli Chen et.al.|[2410.22106](http://arxiv.org/abs/2410.22106)|null|
 |**2024-10-28**|**Terahertz Spin-Light Coupling in Proximitized Dirac Materials**|Konstantin S. Denisov et.al.|[2410.21614](http://arxiv.org/abs/2410.21614)|null|
@@ -221,12 +225,8 @@
 |**2024-07-31**|**Understanding and Tuning Magnetism in van der Waals-type Metal Thiophosphates**|Rabindra Basnet et.al.|[2408.00809](http://arxiv.org/abs/2408.00809)|null|
 |**2024-10-07**|**Strain-Enabled Giant Second-Order Susceptibility in Monolayer WSe $_2$**|Zhizi Guan et.al.|[2407.21296](http://arxiv.org/abs/2407.21296)|null|
 |**2024-07-31**|**Multiple sliding ferroelectricity of rhombohedral-stacked InSe for reconfigurable photovoltaics and imaging applications**|Qingrong Liang et.al.|[2407.21270](http://arxiv.org/abs/2407.21270)|null|
-|**2024-10-30**|**Quantum efficiency and vertical position of quantum emitters in hBN determined by Purcell effect in hybrid metal-dielectric planar photonic structures**|Domitille Gérard et.al.|[2407.20160](http://arxiv.org/abs/2407.20160)|null|
-|**2024-07-27**|**Modified Dirac fermions in the crystalline xenon and graphene Moiré heterostructure**|Hayoon Im et.al.|[2407.19263](http://arxiv.org/abs/2407.19263)|null|
-|**2024-07-26**|**Phase engineering of giant second harmonic generation in Bi $_2$O$_2$ Se**|Zhefeng Lou et.al.|[2407.18458](http://arxiv.org/abs/2407.18458)|null|
-|**2024-07-24**|**Engineering two-dimensional materials from single-layer NbS $_2$**|Timo Knispel et.al.|[2407.17655](http://arxiv.org/abs/2407.17655)|null|
 
-<p align=right>(<a href=#updated-on-20241104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241105>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
