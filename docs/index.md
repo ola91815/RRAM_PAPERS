@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.05
+## Updated on 2024.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**Electron-irradiation effects on monolayer MoS2 at elevated temperatures**|Carsten Speckmann et.al.|[2411.03200](http://arxiv.org/abs/2411.03200)|null|
 |**2024-11-04**|**Ultrafast all-optical generation of pure spin and valley currents**|Deepika Gill et.al.|[2411.02371](http://arxiv.org/abs/2411.02371)|null|
 |**2024-11-04**|**Reproducible Monolayer MoS2 Devices Free of Resist Contamination by Gold Mask Lithography**|Yumeng Liu et.al.|[2411.02205](http://arxiv.org/abs/2411.02205)|null|
 |**2024-11-04**|**Defects in graphite engineered by ion implantation for the self-assembly of gold nanoparticles**|Yumeng Liu et.al.|[2411.02204](http://arxiv.org/abs/2411.02204)|null|
@@ -218,7 +219,6 @@ layout: default
 |**2024-08-01**|**Phonon screening of excitons in atomically thin semiconductors**|Woncheol Lee et.al.|[2408.00924](http://arxiv.org/abs/2408.00924)|null|
 |**2024-07-31**|**Understanding and Tuning Magnetism in van der Waals-type Metal Thiophosphates**|Rabindra Basnet et.al.|[2408.00809](http://arxiv.org/abs/2408.00809)|null|
 |**2024-10-07**|**Strain-Enabled Giant Second-Order Susceptibility in Monolayer WSe $_2$**|Zhizi Guan et.al.|[2407.21296](http://arxiv.org/abs/2407.21296)|null|
-|**2024-07-31**|**Multiple sliding ferroelectricity of rhombohedral-stacked InSe for reconfigurable photovoltaics and imaging applications**|Qingrong Liang et.al.|[2407.21270](http://arxiv.org/abs/2407.21270)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
