@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.06
+## Updated on 2024.11.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,13 @@
 |**2020-11-30**|**Ultra-High-density 3D vertical RRAM with stacked JunctionLess nanowires for In-Memory-Computing applications**|M. Ezzadeen et.al.|[2012.00061](http://arxiv.org/abs/2012.00061)|null|
 |**2021-02-22**|**Switchable domains in point contacts based on transition metal tellurides**|Yu. G. Naidyuk et.al.|[2011.01569](http://arxiv.org/abs/2011.01569)|null|
 
-<p align=right>(<a href=#updated-on-20241106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241107>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**Rational Design Heterobilayers Photocatalysts for Efficient Water Splitting Based on 2D Transition-Metal Dichalcogenide and Their Janus**|Nguyen Tran Gia Bao et.al.|[2411.03396](http://arxiv.org/abs/2411.03396)|null|
 |**2024-11-05**|**Electron-irradiation effects on monolayer MoS2 at elevated temperatures**|Carsten Speckmann et.al.|[2411.03200](http://arxiv.org/abs/2411.03200)|null|
 |**2024-11-04**|**Ultrafast all-optical generation of pure spin and valley currents**|Deepika Gill et.al.|[2411.02371](http://arxiv.org/abs/2411.02371)|null|
 |**2024-11-04**|**Reproducible Monolayer MoS2 Devices Free of Resist Contamination by Gold Mask Lithography**|Yumeng Liu et.al.|[2411.02205](http://arxiv.org/abs/2411.02205)|null|
@@ -224,9 +225,8 @@
 |**2024-08-02**|**Controllable and Fast Growth of High-Quality Atomically Thin and Atomically Flat Bi $_2$O$_2$ Se Films**|Yusen Feng et.al.|[2408.00976](http://arxiv.org/abs/2408.00976)|null|
 |**2024-08-01**|**Phonon screening of excitons in atomically thin semiconductors**|Woncheol Lee et.al.|[2408.00924](http://arxiv.org/abs/2408.00924)|null|
 |**2024-07-31**|**Understanding and Tuning Magnetism in van der Waals-type Metal Thiophosphates**|Rabindra Basnet et.al.|[2408.00809](http://arxiv.org/abs/2408.00809)|null|
-|**2024-10-07**|**Strain-Enabled Giant Second-Order Susceptibility in Monolayer WSe $_2$**|Zhizi Guan et.al.|[2407.21296](http://arxiv.org/abs/2407.21296)|null|
 
-<p align=right>(<a href=#updated-on-20241106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241107>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
