@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.10
+## Updated on 2024.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Predicting Resistive Pulse Signatures in Nanopores by Accurately Modeling Access Regions**|Martin Charron et.al.|[2411.05589](http://arxiv.org/abs/2411.05589)|null|
+|**2024-11-08**|**Gentle tension stabilizes atomically thin metallenes**|Kameyab Raza Abidi et.al.|[2411.05507](http://arxiv.org/abs/2411.05507)|null|
+|**2024-11-08**|**2D versus 3D-like electrical behavior of MXene thin films: insights from weak localization in the role of thickness, interflake coupling and defects**|Sophia Tangui et.al.|[2411.05461](http://arxiv.org/abs/2411.05461)|null|
+|**2024-11-08**|**Vacancy-Induced Quantum Properties in 2D Silicon Carbide: Atomistic insights from semi-local and hybrid DFT calculations**|Abhirup Patra et.al.|[2411.05412](http://arxiv.org/abs/2411.05412)|null|
 |**2024-11-05**|**Rational Design Heterobilayers Photocatalysts for Efficient Water Splitting Based on 2D Transition-Metal Dichalcogenide and Their Janus**|Nguyen Tran Gia Bao et.al.|[2411.03396](http://arxiv.org/abs/2411.03396)|null|
 |**2024-11-05**|**Electron-irradiation effects on monolayer MoS2 at elevated temperatures**|Carsten Speckmann et.al.|[2411.03200](http://arxiv.org/abs/2411.03200)|null|
 |**2024-11-04**|**Ultrafast all-optical generation of pure spin and valley currents**|Deepika Gill et.al.|[2411.02371](http://arxiv.org/abs/2411.02371)|null|
@@ -215,10 +219,6 @@ layout: default
 |**2024-08-06**|**Competition between Kondo Effect and RKKY Coupling**|Stefan Kettemann et.al.|[2408.03112](http://arxiv.org/abs/2408.03112)|null|
 |**2024-08-06**|**Theory of Magnetoresistance due to Edge Orbital Moment Accumulation**|Hao Sun et.al.|[2408.02887](http://arxiv.org/abs/2408.02887)|null|
 |**2024-08-05**|**Two-dimensional Keldysh theory for non-resonant strong-field ionization of monolayer 2D materials**|Tsing-Hua Her et.al.|[2408.02569](http://arxiv.org/abs/2408.02569)|null|
-|**2024-08-02**|**Dipole orientation reveals single-molecule interactions and dynamics on 2D crystals**|Wei Guo et.al.|[2408.01207](http://arxiv.org/abs/2408.01207)|null|
-|**2024-08-02**|**Controllable and Fast Growth of High-Quality Atomically Thin and Atomically Flat Bi $_2$O$_2$ Se Films**|Yusen Feng et.al.|[2408.00976](http://arxiv.org/abs/2408.00976)|null|
-|**2024-08-01**|**Phonon screening of excitons in atomically thin semiconductors**|Woncheol Lee et.al.|[2408.00924](http://arxiv.org/abs/2408.00924)|null|
-|**2024-07-31**|**Understanding and Tuning Magnetism in van der Waals-type Metal Thiophosphates**|Rabindra Basnet et.al.|[2408.00809](http://arxiv.org/abs/2408.00809)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
