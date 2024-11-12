@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.11
+## Updated on 2024.11.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,15 @@
 |**2020-11-30**|**Ultra-High-density 3D vertical RRAM with stacked JunctionLess nanowires for In-Memory-Computing applications**|M. Ezzadeen et.al.|[2012.00061](http://arxiv.org/abs/2012.00061)|null|
 |**2021-02-22**|**Switchable domains in point contacts based on transition metal tellurides**|Yu. G. Naidyuk et.al.|[2011.01569](http://arxiv.org/abs/2011.01569)|null|
 
-<p align=right>(<a href=#updated-on-20241111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241112>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Multifunctional spintronic transistors: Sub-60 mV/dec switching, non-local GMR, and NDR in spin gapless semiconductor and/or spin gapped metal FETs**|Ersoy Şaşıoğlu et.al.|[2411.07216](http://arxiv.org/abs/2411.07216)|null|
+|**2024-11-11**|**Bilayer construction for mixed state phenomena with strong, weak symmetries and symmetry breakings**|Shuangyuan Lu et.al.|[2411.07174](http://arxiv.org/abs/2411.07174)|null|
+|**2024-11-10**|**Multifunctional 2d infrared photodetectors enabled by asymmetric singular metasurfaces**|Valentin Semkin et.al.|[2411.06480](http://arxiv.org/abs/2411.06480)|null|
 |**2024-11-08**|**Predicting Resistive Pulse Signatures in Nanopores by Accurately Modeling Access Regions**|Martin Charron et.al.|[2411.05589](http://arxiv.org/abs/2411.05589)|null|
 |**2024-11-08**|**Gentle tension stabilizes atomically thin metallenes**|Kameyab Raza Abidi et.al.|[2411.05507](http://arxiv.org/abs/2411.05507)|null|
 |**2024-11-08**|**2D versus 3D-like electrical behavior of MXene thin films: insights from weak localization in the role of thickness, interflake coupling and defects**|Sophia Tangui et.al.|[2411.05461](http://arxiv.org/abs/2411.05461)|null|
@@ -134,7 +137,7 @@
 |**2024-11-04**|**Ultrafast all-optical generation of pure spin and valley currents**|Deepika Gill et.al.|[2411.02371](http://arxiv.org/abs/2411.02371)|null|
 |**2024-11-04**|**Reproducible Monolayer MoS2 Devices Free of Resist Contamination by Gold Mask Lithography**|Yumeng Liu et.al.|[2411.02205](http://arxiv.org/abs/2411.02205)|null|
 |**2024-11-04**|**Defects in graphite engineered by ion implantation for the self-assembly of gold nanoparticles**|Yumeng Liu et.al.|[2411.02204](http://arxiv.org/abs/2411.02204)|null|
-|**2024-11-01**|**Spintwistronics in Photonic Topological Lattices**|Xinxin Gou et.al.|[2411.00645](http://arxiv.org/abs/2411.00645)|null|
+|**2024-11-11**|**Spintwistronics: Photonic bilayer topological lattices tuning extreme spin-orbit interactions**|Peng Shi et.al.|[2411.00645](http://arxiv.org/abs/2411.00645)|null|
 |**2024-10-29**|**Insulating moiré homobilayers lack a threefold symmetric second harmonic generation**|Luis Enrique Rosas-Hernandez et.al.|[2410.22188](http://arxiv.org/abs/2410.22188)|null|
 |**2024-10-29**|**Low-Dimensional Solid-State Single-Photon Emitters**|Jinli Chen et.al.|[2410.22106](http://arxiv.org/abs/2410.22106)|null|
 |**2024-10-28**|**Terahertz Spin-Light Coupling in Proximitized Dirac Materials**|Konstantin S. Denisov et.al.|[2410.21614](http://arxiv.org/abs/2410.21614)|null|
@@ -222,11 +225,8 @@
 |**2024-08-13**|**The effect of mixed termination composition in Sc, Ti, and V-based MXenes**|Michal Novotný et.al.|[2408.07189](http://arxiv.org/abs/2408.07189)|null|
 |**2024-08-08**|**Raman tensor for two-dimensional massive Dirac fermions**|Selçuk Parlak et.al.|[2408.04731](http://arxiv.org/abs/2408.04731)|null|
 |**2024-08-07**|**A Metastable Pentagonal 2D Material Synthesized by Symmetry-Driven Epitaxy**|Lina Liu et.al.|[2408.04095](http://arxiv.org/abs/2408.04095)|null|
-|**2024-08-06**|**Competition between Kondo Effect and RKKY Coupling**|Stefan Kettemann et.al.|[2408.03112](http://arxiv.org/abs/2408.03112)|null|
-|**2024-08-06**|**Theory of Magnetoresistance due to Edge Orbital Moment Accumulation**|Hao Sun et.al.|[2408.02887](http://arxiv.org/abs/2408.02887)|null|
-|**2024-08-05**|**Two-dimensional Keldysh theory for non-resonant strong-field ionization of monolayer 2D materials**|Tsing-Hua Her et.al.|[2408.02569](http://arxiv.org/abs/2408.02569)|null|
 
-<p align=right>(<a href=#updated-on-20241111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241112>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
