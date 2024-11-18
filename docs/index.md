@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.17
+## Updated on 2024.11.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**2D Theoretically Twistable Material Database**|Yi Jiang et.al.|[2411.09741](http://arxiv.org/abs/2411.09741)|null|
 |**2024-11-13**|**Two-dimensional Topological Quantum Chemistry and Catalog of Topological Materials**|Urko Petralanda et.al.|[2411.08950](http://arxiv.org/abs/2411.08950)|null|
 |**2024-11-12**|**Two-dimensional room temperature ferromagnetic semiconductors**|Jia-Wen Li et.al.|[2411.07614](http://arxiv.org/abs/2411.07614)|null|
 |**2024-11-11**|**Multifunctional spintronic transistors: Sub-60 mV/dec switching, non-local GMR, and NDR in spin gapless semiconductor and/or spin gapped metal FETs**|Ersoy Şaşıoğlu et.al.|[2411.07216](http://arxiv.org/abs/2411.07216)|null|
@@ -218,7 +219,6 @@ layout: default
 |**2024-08-16**|**Substrate-aware computational design of two-dimensional materials**|Arslan Mazitov et.al.|[2408.08663](http://arxiv.org/abs/2408.08663)|null|
 |**2024-08-15**|**Free Standing Epitaxial Oxides Through Remote Epitaxy: The Role of the Evolving Graphene Microstructure**|Asraful Haque et.al.|[2408.07920](http://arxiv.org/abs/2408.07920)|null|
 |**2024-08-14**|**Improving the Electro-Optical Properties of MoS $_2$ /rGO Hybrid Nanocomposites Using Liquid Crystals**|A. Vasilev et.al.|[2408.07310](http://arxiv.org/abs/2408.07310)|null|
-|**2024-08-13**|**The effect of mixed termination composition in Sc, Ti, and V-based MXenes**|Michal Novotný et.al.|[2408.07189](http://arxiv.org/abs/2408.07189)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
