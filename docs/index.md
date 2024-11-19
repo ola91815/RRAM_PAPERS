@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.18
+## Updated on 2024.11.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-17**|**Observation of giant nonlinear Hall conductivity in Bernal bilayer graphene**|Dmitry V. Chichinadze et.al.|[2411.11156](http://arxiv.org/abs/2411.11156)|null|
+|**2024-11-17**|**Direct imprinting of arbitrary spin textures using programmable structured light in a semiconductor two-dimensional electron gas**|Keito Kikuchi et.al.|[2411.10963](http://arxiv.org/abs/2411.10963)|null|
+|**2024-11-16**|**Effect of Hubbard U corrections on the electronic and magnetic properties of 2D materials: A high-throughput study**|Sahar Pakdel et.al.|[2411.10790](http://arxiv.org/abs/2411.10790)|null|
 |**2024-11-14**|**2D Theoretically Twistable Material Database**|Yi Jiang et.al.|[2411.09741](http://arxiv.org/abs/2411.09741)|null|
 |**2024-11-13**|**Two-dimensional Topological Quantum Chemistry and Catalog of Topological Materials**|Urko Petralanda et.al.|[2411.08950](http://arxiv.org/abs/2411.08950)|null|
 |**2024-11-12**|**Two-dimensional room temperature ferromagnetic semiconductors**|Jia-Wen Li et.al.|[2411.07614](http://arxiv.org/abs/2411.07614)|null|
@@ -155,7 +158,7 @@ layout: default
 |**2024-10-17**|**A multi-detector neutral helium atom microscope**|Chenyang Zhao et.al.|[2410.13955](http://arxiv.org/abs/2410.13955)|null|
 |**2024-10-16**|**Exploring Nanoscale Photoresponse Mechanisms for Enhanced Photothermoelectric Effects in van der Waals Interfaces**|Da Xu et.al.|[2410.13052](http://arxiv.org/abs/2410.13052)|null|
 |**2024-10-15**|**Hexagonal boron nitride crystal growth in the Li3BN2-BN system**|Camille Maestre et.al.|[2410.11334](http://arxiv.org/abs/2410.11334)|null|
-|**2024-10-10**|**Adaptive AI-Driven Material Synthesis: Towards Autonomous 2D Materials Growth**|Leonardo Sabattini et.al.|[2410.10885](http://arxiv.org/abs/2410.10885)|null|
+|**2024-11-18**|**Adaptive AI-Driven Material Synthesis: Towards Autonomous 2D Materials Growth**|Leonardo Sabattini et.al.|[2410.10885](http://arxiv.org/abs/2410.10885)|null|
 |**2024-10-11**|**Electron Energy Loss Spectroscopy of 2D Materials in a Scanning Electron Microscope**|John W. Simonaitis et.al.|[2410.09291](http://arxiv.org/abs/2410.09291)|null|
 |**2024-10-10**|**Tunable second harmonic generation in 2D materials: comparison of different strategies**|Simone Grillo et.al.|[2410.07661](http://arxiv.org/abs/2410.07661)|null|
 |**2024-10-30**|**The two-dimensional homogeneous electron gas with symmetric dual-gate screening: exchange-correlation functional and other ground-state properties**|Yiqi Yang et.al.|[2410.07445](http://arxiv.org/abs/2410.07445)|null|
@@ -216,9 +219,6 @@ layout: default
 |**2024-08-21**|**Angstrom-scale ion-beam engineering of ultrathin buried oxides for quantum and neuro-inspired computing**|N. Smirnov et.al.|[2408.10138](http://arxiv.org/abs/2408.10138)|null|
 |**2024-08-19**|**Excitonic-trion population in two-dimensional halide perovskites**|Efstratios Manousakis et.al.|[2408.10097](http://arxiv.org/abs/2408.10097)|null|
 |**2024-08-18**|**Atomic Engineering of Triangular Nanopores in Monolayer hBN: A Decoupled Seeding and Growth Approach**|Dana O. Byrne et.al.|[2408.09355](http://arxiv.org/abs/2408.09355)|null|
-|**2024-08-16**|**Substrate-aware computational design of two-dimensional materials**|Arslan Mazitov et.al.|[2408.08663](http://arxiv.org/abs/2408.08663)|null|
-|**2024-08-15**|**Free Standing Epitaxial Oxides Through Remote Epitaxy: The Role of the Evolving Graphene Microstructure**|Asraful Haque et.al.|[2408.07920](http://arxiv.org/abs/2408.07920)|null|
-|**2024-08-14**|**Improving the Electro-Optical Properties of MoS $_2$ /rGO Hybrid Nanocomposites Using Liquid Crystals**|A. Vasilev et.al.|[2408.07310](http://arxiv.org/abs/2408.07310)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
