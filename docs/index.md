@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.19
+## Updated on 2024.11.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**Accurate and efficient localized basis sets for two-dimensional materials**|Daniel Bennett et.al.|[2411.12566](http://arxiv.org/abs/2411.12566)|null|
 |**2024-11-17**|**Observation of giant nonlinear Hall conductivity in Bernal bilayer graphene**|Dmitry V. Chichinadze et.al.|[2411.11156](http://arxiv.org/abs/2411.11156)|null|
 |**2024-11-17**|**Direct imprinting of arbitrary spin textures using programmable structured light in a semiconductor two-dimensional electron gas**|Keito Kikuchi et.al.|[2411.10963](http://arxiv.org/abs/2411.10963)|null|
 |**2024-11-16**|**Effect of Hubbard U corrections on the electronic and magnetic properties of 2D materials: A high-throughput study**|Sahar Pakdel et.al.|[2411.10790](http://arxiv.org/abs/2411.10790)|null|
@@ -218,7 +219,6 @@ layout: default
 |**2024-10-23**|**Quantum Transport Straintronics and Mechanical Aharonov-Bohm Effect in Quasi-metallic SWCNTs**|L. Huang et.al.|[2408.10355](http://arxiv.org/abs/2408.10355)|null|
 |**2024-08-21**|**Angstrom-scale ion-beam engineering of ultrathin buried oxides for quantum and neuro-inspired computing**|N. Smirnov et.al.|[2408.10138](http://arxiv.org/abs/2408.10138)|null|
 |**2024-08-19**|**Excitonic-trion population in two-dimensional halide perovskites**|Efstratios Manousakis et.al.|[2408.10097](http://arxiv.org/abs/2408.10097)|null|
-|**2024-08-18**|**Atomic Engineering of Triangular Nanopores in Monolayer hBN: A Decoupled Seeding and Growth Approach**|Dana O. Byrne et.al.|[2408.09355](http://arxiv.org/abs/2408.09355)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
