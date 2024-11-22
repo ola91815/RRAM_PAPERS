@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.21
+## Updated on 2024.11.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -47,7 +47,7 @@ layout: default
 |**2023-09-12**|**Riemannian Anderson Mixing Methods for Minimizing $C^2$ -Functions on Riemannian Manifolds**|Zanyu Li et.al.|[2309.04091](http://arxiv.org/abs/2309.04091)|null|
 |**2023-10-26**|**Mapping of CNNs on multi-core RRAM-based CIM architectures**|Rebecca Pelke et.al.|[2309.03805](http://arxiv.org/abs/2309.03805)|null|
 |**2023-08-19**|**Realizing In-Memory Baseband Processing for Ultra-Fast and Energy-Efficient 6G**|Qunsong Zeng et.al.|[2308.10009](http://arxiv.org/abs/2308.10009)|null|
-|**2023-08-12**|**Instruction Set Architecture (ISA) for Processing-in-Memory DNN Accelerators**|Xiaoming Chen et.al.|[2308.06449](http://arxiv.org/abs/2308.06449)|**[link](https://github.com/wangxy-2000/pimsim-nn)**|
+|**2023-08-12**|**Instruction Set Architecture (ISA) for Processing-in-Memory DNN Accelerators**|Xiaoming Chen et.al.|[2308.06449](http://arxiv.org/abs/2308.06449)|**[link](https://github.com/sunxt99/pimcomp-nn)**|
 |**2023-08-05**|**Graphene-based RRAM devices for neural computing**|Rajalekshmi TR et.al.|[2308.02767](http://arxiv.org/abs/2308.02767)|null|
 |**2023-06-26**|**CIMulator: A Comprehensive Simulation Platform for Computing-In-Memory Circuit Macros with Low Bit-Width and Real Memory Materials**|Hoang-Hiep Le et.al.|[2306.14649](http://arxiv.org/abs/2306.14649)|null|
 |**2023-06-17**|**An account of Natural material based Non Volatile Memory Device**|Farhana Yasmin Rahman et.al.|[2306.10382](http://arxiv.org/abs/2306.10382)|null|
@@ -119,6 +119,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**Photon drag at the junction between metal and 2d semiconductor**|Dmitry Svintsov et.al.|[2411.14075](http://arxiv.org/abs/2411.14075)|null|
+|**2024-11-20**|**Direct X-Ray Measurements of Strain in Monolayer MoS $_{2}$ from Capping Layers and Geometrical Features**|Kathryn Neilson et.al.|[2411.13658](http://arxiv.org/abs/2411.13658)|null|
 |**2024-11-19**|**Nonlinear optics in 2D materials: from classical to quantum**|Liuxin Gu et.al.|[2411.12905](http://arxiv.org/abs/2411.12905)|null|
 |**2024-11-19**|**Accurate and efficient localized basis sets for two-dimensional materials**|Daniel Bennett et.al.|[2411.12566](http://arxiv.org/abs/2411.12566)|null|
 |**2024-11-17**|**Observation of giant nonlinear Hall conductivity in Bernal bilayer graphene**|Dmitry V. Chichinadze et.al.|[2411.11156](http://arxiv.org/abs/2411.11156)|null|
@@ -217,8 +219,6 @@ layout: default
 |**2024-08-23**|**Identifying band structure changes of FePS3 across the antiferromagnetic phase transition**|Benjamin Pestka et.al.|[2408.12896](http://arxiv.org/abs/2408.12896)|null|
 |**2024-08-20**|**Insulator-Metal Transition and Magnetic Crossover in Bilayer Graphene**|Amarnath Chakraborty et.al.|[2408.10954](http://arxiv.org/abs/2408.10954)|null|
 |**2024-08-26**|**Enhancement of Photoresponse for InGaAs Infrared Photodetectors Using Plasmonic WO3-x/CsyWO3-x Nanocrystals**|Zach D. Merino et.al.|[2408.10389](http://arxiv.org/abs/2408.10389)|null|
-|**2024-10-23**|**Quantum Transport Straintronics and Mechanical Aharonov-Bohm Effect in Quasi-metallic SWCNTs**|L. Huang et.al.|[2408.10355](http://arxiv.org/abs/2408.10355)|null|
-|**2024-08-21**|**Angstrom-scale ion-beam engineering of ultrathin buried oxides for quantum and neuro-inspired computing**|N. Smirnov et.al.|[2408.10138](http://arxiv.org/abs/2408.10138)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
