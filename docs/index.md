@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.24
+## Updated on 2024.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -122,7 +122,7 @@ layout: default
 |**2024-11-21**|**Photon drag at the junction between metal and 2d semiconductor**|Dmitry Svintsov et.al.|[2411.14075](http://arxiv.org/abs/2411.14075)|null|
 |**2024-11-20**|**Direct X-Ray Measurements of Strain in Monolayer MoS $_{2}$ from Capping Layers and Geometrical Features**|Kathryn Neilson et.al.|[2411.13658](http://arxiv.org/abs/2411.13658)|null|
 |**2024-11-19**|**Nonlinear optics in 2D materials: from classical to quantum**|Liuxin Gu et.al.|[2411.12905](http://arxiv.org/abs/2411.12905)|null|
-|**2024-11-19**|**Accurate and efficient localized basis sets for two-dimensional materials**|Daniel Bennett et.al.|[2411.12566](http://arxiv.org/abs/2411.12566)|null|
+|**2024-11-22**|**Accurate and efficient localized basis sets for two-dimensional materials**|Daniel Bennett et.al.|[2411.12566](http://arxiv.org/abs/2411.12566)|null|
 |**2024-11-17**|**Observation of giant nonlinear Hall conductivity in Bernal bilayer graphene**|Dmitry V. Chichinadze et.al.|[2411.11156](http://arxiv.org/abs/2411.11156)|null|
 |**2024-11-17**|**Direct imprinting of arbitrary spin textures using programmable structured light in a semiconductor two-dimensional electron gas**|Keito Kikuchi et.al.|[2411.10963](http://arxiv.org/abs/2411.10963)|null|
 |**2024-11-16**|**Effect of Hubbard U corrections on the electronic and magnetic properties of 2D materials: A high-throughput study**|Sahar Pakdel et.al.|[2411.10790](http://arxiv.org/abs/2411.10790)|null|
