@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.26
+## Updated on 2024.11.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2020-11-30**|**Ultra-High-density 3D vertical RRAM with stacked JunctionLess nanowires for In-Memory-Computing applications**|M. Ezzadeen et.al.|[2012.00061](http://arxiv.org/abs/2012.00061)|null|
 |**2021-02-22**|**Switchable domains in point contacts based on transition metal tellurides**|Yu. G. Naidyuk et.al.|[2011.01569](http://arxiv.org/abs/2011.01569)|null|
 
-<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241127>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -213,7 +213,7 @@
 |**2024-09-07**|**Gate-tunable negative differential resistance in multifunctional van der Waals heterostructure**|Richa Mitra et.al.|[2409.04908](http://arxiv.org/abs/2409.04908)|null|
 |**2024-09-07**|**Highly polarized single photon emitter from intrinsic localized excitons in a WSe2/CrSBr heterostructure**|Varghese Alapatt et.al.|[2409.04749](http://arxiv.org/abs/2409.04749)|null|
 |**2024-09-07**|**Ferro-Valleytricity with In-Plane Magnetization**|Yibo Liu et.al.|[2409.04739](http://arxiv.org/abs/2409.04739)|null|
-|**2024-09-06**|**High-Throughput Search and Prediction of Layered 4f-Materials**|Lin Hou et.al.|[2409.04632](http://arxiv.org/abs/2409.04632)|null|
+|**2024-11-26**|**High-Throughput Search and Prediction of Layered 4f-Materials**|Lin Hou et.al.|[2409.04632](http://arxiv.org/abs/2409.04632)|null|
 |**2024-09-06**|**Magnetic proximity effect in superconductor/ferromagnet van der Waals heterostructures: dependence on the number of superconducting monolayers**|A. S. Ianovskaia et.al.|[2409.04227](http://arxiv.org/abs/2409.04227)|null|
 |**2024-09-06**|**Long wavelength interdomain phonons and instability of dislocations in small-angle twisted bilayers**|V. V. Enaldiev et.al.|[2409.04166](http://arxiv.org/abs/2409.04166)|null|
 |**2024-09-06**|**Piezoresistive PtSe $_2$ pressure sensors with reliable high sensitivity and their integration into CMOS ASIC substrates**|Sebastian Lukas et.al.|[2409.03053](http://arxiv.org/abs/2409.03053)|null|
@@ -226,7 +226,7 @@
 |**2024-08-23**|**Isolation and characterization of atomically thin mica phyllosilicates**|Kristine L. Haley et.al.|[2408.13249](http://arxiv.org/abs/2408.13249)|null|
 |**2024-08-23**|**Direct observation of structural phase transformations during continuous phosphorus deposition on Cu(111)**|Jiří David et.al.|[2408.13090](http://arxiv.org/abs/2408.13090)|null|
 
-<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241127>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
