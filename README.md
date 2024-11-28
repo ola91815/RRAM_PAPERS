@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.27
+## Updated on 2024.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2020-11-30**|**Ultra-High-density 3D vertical RRAM with stacked JunctionLess nanowires for In-Memory-Computing applications**|M. Ezzadeen et.al.|[2012.00061](http://arxiv.org/abs/2012.00061)|null|
 |**2021-02-22**|**Switchable domains in point contacts based on transition metal tellurides**|Yu. G. Naidyuk et.al.|[2011.01569](http://arxiv.org/abs/2011.01569)|null|
 
-<p align=right>(<a href=#updated-on-20241127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241128>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -139,7 +139,7 @@
 |**2024-11-13**|**Two-dimensional Topological Quantum Chemistry and Catalog of Topological Materials**|Urko Petralanda et.al.|[2411.08950](http://arxiv.org/abs/2411.08950)|null|
 |**2024-11-12**|**Two-dimensional room temperature ferromagnetic semiconductors**|Jia-Wen Li et.al.|[2411.07614](http://arxiv.org/abs/2411.07614)|null|
 |**2024-11-11**|**Multifunctional spintronic transistors: Sub-60 mV/dec switching, non-local GMR, and NDR in spin gapless semiconductor and/or spin gapped metal FETs**|Ersoy Şaşıoğlu et.al.|[2411.07216](http://arxiv.org/abs/2411.07216)|null|
-|**2024-11-11**|**Bilayer construction for mixed state phenomena with strong, weak symmetries and symmetry breakings**|Shuangyuan Lu et.al.|[2411.07174](http://arxiv.org/abs/2411.07174)|null|
+|**2024-11-27**|**Bilayer construction for mixed state phenomena with strong, weak symmetries and symmetry breakings**|Shuangyuan Lu et.al.|[2411.07174](http://arxiv.org/abs/2411.07174)|null|
 |**2024-11-10**|**Multifunctional 2d infrared photodetectors enabled by asymmetric singular metasurfaces**|Valentin Semkin et.al.|[2411.06480](http://arxiv.org/abs/2411.06480)|null|
 |**2024-11-08**|**Predicting Resistive Pulse Signatures in Nanopores by Accurately Modeling Access Regions**|Martin Charron et.al.|[2411.05589](http://arxiv.org/abs/2411.05589)|null|
 |**2024-11-08**|**Gentle tension stabilizes atomically thin metallenes**|Kameyab Raza Abidi et.al.|[2411.05507](http://arxiv.org/abs/2411.05507)|null|
@@ -226,7 +226,7 @@
 |**2024-08-23**|**Isolation and characterization of atomically thin mica phyllosilicates**|Kristine L. Haley et.al.|[2408.13249](http://arxiv.org/abs/2408.13249)|null|
 |**2024-08-23**|**Direct observation of structural phase transformations during continuous phosphorus deposition on Cu(111)**|Jiří David et.al.|[2408.13090](http://arxiv.org/abs/2408.13090)|null|
 
-<p align=right>(<a href=#updated-on-20241127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241128>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

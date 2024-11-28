@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.27
+## Updated on 2024.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -133,7 +133,7 @@ layout: default
 |**2024-11-13**|**Two-dimensional Topological Quantum Chemistry and Catalog of Topological Materials**|Urko Petralanda et.al.|[2411.08950](http://arxiv.org/abs/2411.08950)|null|
 |**2024-11-12**|**Two-dimensional room temperature ferromagnetic semiconductors**|Jia-Wen Li et.al.|[2411.07614](http://arxiv.org/abs/2411.07614)|null|
 |**2024-11-11**|**Multifunctional spintronic transistors: Sub-60 mV/dec switching, non-local GMR, and NDR in spin gapless semiconductor and/or spin gapped metal FETs**|Ersoy Şaşıoğlu et.al.|[2411.07216](http://arxiv.org/abs/2411.07216)|null|
-|**2024-11-11**|**Bilayer construction for mixed state phenomena with strong, weak symmetries and symmetry breakings**|Shuangyuan Lu et.al.|[2411.07174](http://arxiv.org/abs/2411.07174)|null|
+|**2024-11-27**|**Bilayer construction for mixed state phenomena with strong, weak symmetries and symmetry breakings**|Shuangyuan Lu et.al.|[2411.07174](http://arxiv.org/abs/2411.07174)|null|
 |**2024-11-10**|**Multifunctional 2d infrared photodetectors enabled by asymmetric singular metasurfaces**|Valentin Semkin et.al.|[2411.06480](http://arxiv.org/abs/2411.06480)|null|
 |**2024-11-08**|**Predicting Resistive Pulse Signatures in Nanopores by Accurately Modeling Access Regions**|Martin Charron et.al.|[2411.05589](http://arxiv.org/abs/2411.05589)|null|
 |**2024-11-08**|**Gentle tension stabilizes atomically thin metallenes**|Kameyab Raza Abidi et.al.|[2411.05507](http://arxiv.org/abs/2411.05507)|null|
