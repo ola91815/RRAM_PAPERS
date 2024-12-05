@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.04
+## Updated on 2024.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,17 @@
 |**2020-11-30**|**Ultra-High-density 3D vertical RRAM with stacked JunctionLess nanowires for In-Memory-Computing applications**|M. Ezzadeen et.al.|[2012.00061](http://arxiv.org/abs/2012.00061)|null|
 |**2021-02-22**|**Switchable domains in point contacts based on transition metal tellurides**|Yu. G. Naidyuk et.al.|[2011.01569](http://arxiv.org/abs/2011.01569)|null|
 
-<p align=right>(<a href=#updated-on-20241204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241205>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-02**|**Moire magnetism in CrBr3 multilayers emerging from differential strain**|Fengrui Yao et.al.|[2412.01658](http://arxiv.org/abs/2412.01658)|null|
+|**2024-12-02**|**Electronic correlations in epitaxial graphene: Mott states proximitized to a relativistic electron gas**|Chitran Ghosal et.al.|[2412.01329](http://arxiv.org/abs/2412.01329)|null|
+|**2024-12-02**|**Light-matter interactions in layered materials and heterostructures: from moiré physics and magneto-optical effects to ultrafast dynamics and hybrid meta-photonics**|Luca Sortino et.al.|[2412.01252](http://arxiv.org/abs/2412.01252)|null|
+|**2024-12-02**|**Advances and Challenges of Hexagonal Boron Nitride-based Anticorrosion Coatings**|Onurcan Kaya et.al.|[2412.01220](http://arxiv.org/abs/2412.01220)|null|
+|**2024-11-30**|**Universal Moiré Buckling of Freestanding 2D Bilayers**|Jin Wang et.al.|[2412.00434](http://arxiv.org/abs/2412.00434)|null|
 |**2024-11-25**|**Characterization of Silicon Carbide Biphenylene Network through G0W0-BSE Calculations**|Arushi Singh et.al.|[2411.16520](http://arxiv.org/abs/2411.16520)|null|
 |**2024-11-25**|**Electron Channelling Contrast SEM Imaging of Twist Domains in Transition Metal Dichalcogenide Heterostructures**|Evan Tillotson et.al.|[2411.16248](http://arxiv.org/abs/2411.16248)|null|
 |**2024-11-24**|**Mechanical stability conditions for 3D and 2D crystals under arbitrary load**|Marcin Maździarz et.al.|[2411.15918](http://arxiv.org/abs/2411.15918)|null|
@@ -173,7 +178,7 @@
 |**2024-10-15**|**Hexagonal boron nitride crystal growth in the Li3BN2-BN system**|Camille Maestre et.al.|[2410.11334](http://arxiv.org/abs/2410.11334)|null|
 |**2024-11-18**|**Adaptive AI-Driven Material Synthesis: Towards Autonomous 2D Materials Growth**|Leonardo Sabattini et.al.|[2410.10885](http://arxiv.org/abs/2410.10885)|null|
 |**2024-10-11**|**Electron Energy Loss Spectroscopy of 2D Materials in a Scanning Electron Microscope**|John W. Simonaitis et.al.|[2410.09291](http://arxiv.org/abs/2410.09291)|null|
-|**2024-10-10**|**Tunable second harmonic generation in 2D materials: comparison of different strategies**|Simone Grillo et.al.|[2410.07661](http://arxiv.org/abs/2410.07661)|null|
+|**2024-12-04**|**Tunable second harmonic generation in 2D materials: comparison of different strategies**|Simone Grillo et.al.|[2410.07661](http://arxiv.org/abs/2410.07661)|null|
 |**2024-10-30**|**The two-dimensional homogeneous electron gas with symmetric dual-gate screening: exchange-correlation functional and other ground-state properties**|Yiqi Yang et.al.|[2410.07445](http://arxiv.org/abs/2410.07445)|null|
 |**2024-10-09**|**Activating the Basal Plane of 2D Transition Metal Dichalcogenides via High-Entropy Alloying**|Mohammad Amin Akhound et.al.|[2410.06876](http://arxiv.org/abs/2410.06876)|null|
 |**2024-10-09**|**High proton conductivity through angstrom-porous titania**|Y. Ji et.al.|[2410.06489](http://arxiv.org/abs/2410.06489)|null|
@@ -220,13 +225,8 @@
 |**2024-09-05**|**Exploring nonlinear Rashba effect and spin Hall conductivity in Janus MXenes W2COX (X = S, Se, Te)**|Arjyama Bordoloi et.al.|[2409.02835](http://arxiv.org/abs/2409.02835)|null|
 |**2024-09-03**|**Probing Noncentrosymmetric 2D Materials by Fourier Space Second Harmonic Imaging**|Lucas Lafeta et.al.|[2409.02071](http://arxiv.org/abs/2409.02071)|null|
 |**2024-09-02**|**Unveiling the impact of organic cation passivation on structural and optoelectronic properties of two-dimensional perovskites thin films**|Israel C. Ribeiro et.al.|[2409.01450](http://arxiv.org/abs/2409.01450)|null|
-|**2024-08-29**|**Nanorobotic actuator based on interlayer sliding ferroelectricity and field-tunable friction**|Hechen Ren et.al.|[2408.16519](http://arxiv.org/abs/2408.16519)|null|
-|**2024-08-29**|**High-yield large-scale suspended graphene membranes over closed cavities for sensor applications**|Sebastian Lukas et.al.|[2408.16408](http://arxiv.org/abs/2408.16408)|null|
-|**2024-09-09**|**Quantum Emission from Coupled Spin Pairs in Hexagonal Boron Nitride**|Song Li et.al.|[2408.13515](http://arxiv.org/abs/2408.13515)|null|
-|**2024-08-23**|**Isolation and characterization of atomically thin mica phyllosilicates**|Kristine L. Haley et.al.|[2408.13249](http://arxiv.org/abs/2408.13249)|null|
-|**2024-08-23**|**Direct observation of structural phase transformations during continuous phosphorus deposition on Cu(111)**|Jiří David et.al.|[2408.13090](http://arxiv.org/abs/2408.13090)|null|
 
-<p align=right>(<a href=#updated-on-20241204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241205>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
