@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.08
+## Updated on 2024.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -31,6 +31,7 @@
 |**2024-07-11**|**Efficient Reinforcement Learning On Passive RRAM Crossbar Array**|Arjun Tyagi et.al.|[2407.08242](http://arxiv.org/abs/2407.08242)|null|
 |**2024-07-04**|**Resistive Memory for Computing and Security: Algorithms, Architectures, and Platforms**|Simranjeet Singh et.al.|[2407.03843](http://arxiv.org/abs/2407.03843)|null|
 |**2024-07-04**|**BasisN: Reprogramming-Free RRAM-Based In-Memory-Computing by Basis Combination for Deep Neural Networks**|Amro Eldebiky et.al.|[2407.03738](http://arxiv.org/abs/2407.03738)|null|
+|**2024-12-06**|**NeuroNAS: A Framework for Energy-Efficient Neuromorphic Compute-in-Memory Systems using Hardware-Aware Spiking Neural Architecture Search**|Rachmad Vidya Wicaksana Putra et.al.|[2407.00641](http://arxiv.org/abs/2407.00641)|null|
 |**2024-05-13**|**A Calibratable Model for Fast Energy Estimation of MVM Operations on RRAM Crossbars**|José Cubero-Cascante et.al.|[2405.04326](http://arxiv.org/abs/2405.04326)|null|
 |**2024-05-04**|**Efficient Open Modification Spectral Library Searching in High-Dimensional Space with Multi-Level-Cell Memory**|Keming Fan et.al.|[2405.02756](http://arxiv.org/abs/2405.02756)|null|
 |**2024-04-23**|**Drop-Connect as a Fault-Tolerance Approach for RRAM-based Deep Neural Network Accelerators**|Mingyuan Xiang et.al.|[2404.15498](http://arxiv.org/abs/2404.15498)|null|
@@ -117,14 +118,14 @@
 |**2020-12-25**|**Graphene oxide based synaptic memristor device for neuromorphic computing**|Dwipak Prasad Sahu et.al.|[2012.13556](http://arxiv.org/abs/2012.13556)|null|
 |**2021-10-20**|**Hybrid CMOS/Memristor Circuit Design Methodology**|Sachin Maheshwari et.al.|[2012.02267](http://arxiv.org/abs/2012.02267)|null|
 |**2020-11-30**|**Ultra-High-density 3D vertical RRAM with stacked JunctionLess nanowires for In-Memory-Computing applications**|M. Ezzadeen et.al.|[2012.00061](http://arxiv.org/abs/2012.00061)|null|
-|**2021-02-22**|**Switchable domains in point contacts based on transition metal tellurides**|Yu. G. Naidyuk et.al.|[2011.01569](http://arxiv.org/abs/2011.01569)|null|
 
-<p align=right>(<a href=#updated-on-20241208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241209>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Solid-state qubits in moire superlattices**|Zhigang Song et.al.|[2412.04904](http://arxiv.org/abs/2412.04904)|null|
 |**2024-12-04**|**The Role of Chalcogen Vacancies in Single Photon Emission from Monolayer Tungsten Dichalcogenides**|S. Carin Gavin et.al.|[2412.03686](http://arxiv.org/abs/2412.03686)|null|
 |**2024-12-04**|**The morphology and interface structure of titanium on graphene**|Joachim Dahl Thomsen et.al.|[2412.03480](http://arxiv.org/abs/2412.03480)|null|
 |**2024-12-04**|**Proposal for Superconducting Photodiode**|A. V. Parafilo et.al.|[2412.03087](http://arxiv.org/abs/2412.03087)|null|
@@ -224,9 +225,8 @@
 |**2024-09-07**|**Ferro-Valleytricity with In-Plane Magnetization**|Yibo Liu et.al.|[2409.04739](http://arxiv.org/abs/2409.04739)|null|
 |**2024-11-26**|**High-Throughput Search and Prediction of Layered 4f-Materials**|Lin Hou et.al.|[2409.04632](http://arxiv.org/abs/2409.04632)|null|
 |**2024-09-06**|**Magnetic proximity effect in superconductor/ferromagnet van der Waals heterostructures: dependence on the number of superconducting monolayers**|A. S. Ianovskaia et.al.|[2409.04227](http://arxiv.org/abs/2409.04227)|null|
-|**2024-09-06**|**Long wavelength interdomain phonons and instability of dislocations in small-angle twisted bilayers**|V. V. Enaldiev et.al.|[2409.04166](http://arxiv.org/abs/2409.04166)|null|
 
-<p align=right>(<a href=#updated-on-20241208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241209>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
