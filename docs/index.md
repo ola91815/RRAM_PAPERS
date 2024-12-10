@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.09
+## Updated on 2024.12.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**Can Neural Networks Learn Nanoscale Friction?**|Mahboubeh Shabani et.al.|[2412.06677](http://arxiv.org/abs/2412.06677)|null|
+|**2024-12-09**|**Study the quantum resolution sizes and atomic bonding states of two-dimensional tin monoxide**|Yu Wang et.al.|[2412.06169](http://arxiv.org/abs/2412.06169)|null|
+|**2024-12-08**|**Reduction in Thermal Conductivity of Monolayer MoS2 by Large Mechanical Strains for Efficient Thermal Management**|Jun Liu et.al.|[2412.06048](http://arxiv.org/abs/2412.06048)|null|
+|**2024-12-08**|**Strain-Induced Decoupling Drives Gold-Assisted Exfoliation of Large-Area Monolayer 2D Crystals**|Jakob Ziewer et.al.|[2412.05898](http://arxiv.org/abs/2412.05898)|null|
 |**2024-12-06**|**Solid-state qubits in moire superlattices**|Zhigang Song et.al.|[2412.04904](http://arxiv.org/abs/2412.04904)|null|
 |**2024-12-04**|**The Role of Chalcogen Vacancies in Single Photon Emission from Monolayer Tungsten Dichalcogenides**|S. Carin Gavin et.al.|[2412.03686](http://arxiv.org/abs/2412.03686)|null|
 |**2024-12-04**|**The morphology and interface structure of titanium on graphene**|Joachim Dahl Thomsen et.al.|[2412.03480](http://arxiv.org/abs/2412.03480)|null|
@@ -215,10 +219,6 @@ layout: default
 |**2024-09-08**|**Multicomponent magneto-orbital order and magneto-orbitons in monolayer VCl3**|Luigi Camerano et.al.|[2409.05056](http://arxiv.org/abs/2409.05056)|null|
 |**2024-09-08**|**Strain in 2D TMDCs induced by metal-assisted exfoliation from the polyvinilalcohol-covered substrate**|T. A. Kamenskaya et.al.|[2409.05008](http://arxiv.org/abs/2409.05008)|null|
 |**2024-09-07**|**Gate-tunable negative differential resistance in multifunctional van der Waals heterostructure**|Richa Mitra et.al.|[2409.04908](http://arxiv.org/abs/2409.04908)|null|
-|**2024-09-07**|**Highly polarized single photon emitter from intrinsic localized excitons in a WSe2/CrSBr heterostructure**|Varghese Alapatt et.al.|[2409.04749](http://arxiv.org/abs/2409.04749)|null|
-|**2024-09-07**|**Ferro-Valleytricity with In-Plane Magnetization**|Yibo Liu et.al.|[2409.04739](http://arxiv.org/abs/2409.04739)|null|
-|**2024-11-26**|**High-Throughput Search and Prediction of Layered 4f-Materials**|Lin Hou et.al.|[2409.04632](http://arxiv.org/abs/2409.04632)|null|
-|**2024-09-06**|**Magnetic proximity effect in superconductor/ferromagnet van der Waals heterostructures: dependence on the number of superconducting monolayers**|A. S. Ianovskaia et.al.|[2409.04227](http://arxiv.org/abs/2409.04227)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
