@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.11
+## Updated on 2024.12.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,15 @@
 |**2021-10-20**|**Hybrid CMOS/Memristor Circuit Design Methodology**|Sachin Maheshwari et.al.|[2012.02267](http://arxiv.org/abs/2012.02267)|null|
 |**2020-11-30**|**Ultra-High-density 3D vertical RRAM with stacked JunctionLess nanowires for In-Memory-Computing applications**|M. Ezzadeen et.al.|[2012.00061](http://arxiv.org/abs/2012.00061)|null|
 
-<p align=right>(<a href=#updated-on-20241211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**Interacting Virtual Topological Phases in Defect-Rich 2D Materials**|Felipe Crasto de Lima et.al.|[2412.08607](http://arxiv.org/abs/2412.08607)|null|
+|**2024-12-11**|**Two-gap superconductivity in a Janus MoSeLi monolayer**|J. Seeyangnok et.al.|[2412.08119](http://arxiv.org/abs/2412.08119)|null|
+|**2024-12-10**|**Recent progress on the solid-state materials for photocatalysis**|L. D. Tamang et.al.|[2412.07110](http://arxiv.org/abs/2412.07110)|null|
 |**2024-12-09**|**Can Neural Networks Learn Nanoscale Friction?**|Mahboubeh Shabani et.al.|[2412.06677](http://arxiv.org/abs/2412.06677)|null|
 |**2024-12-09**|**Study the quantum resolution sizes and atomic bonding states of two-dimensional tin monoxide**|Yu Wang et.al.|[2412.06169](http://arxiv.org/abs/2412.06169)|null|
 |**2024-12-08**|**Reduction in Thermal Conductivity of Monolayer MoS2 by Large Mechanical Strains for Efficient Thermal Management**|Jun Liu et.al.|[2412.06048](http://arxiv.org/abs/2412.06048)|null|
@@ -222,11 +225,8 @@
 |**2024-09-11**|**Group-IV Pentaoctite: A New 2D Material Family**|Vanessa D. Kegler et.al.|[2409.05986](http://arxiv.org/abs/2409.05986)|null|
 |**2024-09-09**|**Recognizing molecular chirality via twisted 2D materials**|Lorenzo Cavicchi et.al.|[2409.05839](http://arxiv.org/abs/2409.05839)|null|
 |**2024-09-08**|**Twisted bilayer graphene for enantiomeric sensing of chiral molecules**|Álvaro Moreno et.al.|[2409.05178](http://arxiv.org/abs/2409.05178)|null|
-|**2024-09-08**|**Multicomponent magneto-orbital order and magneto-orbitons in monolayer VCl3**|Luigi Camerano et.al.|[2409.05056](http://arxiv.org/abs/2409.05056)|null|
-|**2024-09-08**|**Strain in 2D TMDCs induced by metal-assisted exfoliation from the polyvinilalcohol-covered substrate**|T. A. Kamenskaya et.al.|[2409.05008](http://arxiv.org/abs/2409.05008)|null|
-|**2024-09-07**|**Gate-tunable negative differential resistance in multifunctional van der Waals heterostructure**|Richa Mitra et.al.|[2409.04908](http://arxiv.org/abs/2409.04908)|null|
 
-<p align=right>(<a href=#updated-on-20241211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
