@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.13
+## Updated on 2024.12.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2021-10-20**|**Hybrid CMOS/Memristor Circuit Design Methodology**|Sachin Maheshwari et.al.|[2012.02267](http://arxiv.org/abs/2012.02267)|null|
 |**2020-11-30**|**Ultra-High-density 3D vertical RRAM with stacked JunctionLess nanowires for In-Memory-Computing applications**|M. Ezzadeen et.al.|[2012.00061](http://arxiv.org/abs/2012.00061)|null|
 
-<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241214>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -226,7 +226,7 @@
 |**2024-09-10**|**VQCrystal: Leveraging Vector Quantization for Discovery of Stable Crystal Structures**|ZiJie Qiu et.al.|[2409.06191](http://arxiv.org/abs/2409.06191)|null|
 |**2024-09-10**|**Ferroelectric tuning of the valley polarized metal-semiconductor transition in Mn2P2S3Se3/Sc2CO2 van der Waals heterostructures and application to nonlinear Hall effect devices**|Hanbo Sun et.al.|[2409.06181](http://arxiv.org/abs/2409.06181)|null|
 
-<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241214>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
