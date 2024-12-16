@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.15
+## Updated on 2024.12.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**A Simplified Model for Predicting and Designing High-Temperature Ambient-Pressure Superconductors**|Yuting Sun et.al.|[2412.09866](http://arxiv.org/abs/2412.09866)|null|
 |**2024-12-12**|**Blister Test to Measure the Out-of-Plane Shear Modulus of Few-Layer Graphene**|Metehan Calis et.al.|[2412.09615](http://arxiv.org/abs/2412.09615)|null|
 |**2024-12-12**|**MaskTerial: A Foundation Model for Automated 2D Material Flake Detection**|Jan-Lucas Uslu et.al.|[2412.09333](http://arxiv.org/abs/2412.09333)|null|
 |**2024-12-12**|**Emerging Ta $_{4}$C$_{3}$ and Mo$_{2}$Ti$_{2}$C$_{3}$ MXene Nanosheets for Ultrafast Photonics**|Michalis Stavrou et.al.|[2412.09270](http://arxiv.org/abs/2412.09270)|null|
@@ -218,7 +219,6 @@ layout: default
 |**2024-09-11**|**Moiré exciton polaron engineering via twisted hBN**|Minhyun Cho et.al.|[2409.06999](http://arxiv.org/abs/2409.06999)|null|
 |**2024-09-14**|**General Stacking Theory for Altermagnetism in Bilayer Systems**|Baoru Pan et.al.|[2409.06964](http://arxiv.org/abs/2409.06964)|null|
 |**2024-09-10**|**VQCrystal: Leveraging Vector Quantization for Discovery of Stable Crystal Structures**|ZiJie Qiu et.al.|[2409.06191](http://arxiv.org/abs/2409.06191)|null|
-|**2024-09-10**|**Ferroelectric tuning of the valley polarized metal-semiconductor transition in Mn2P2S3Se3/Sc2CO2 van der Waals heterostructures and application to nonlinear Hall effect devices**|Hanbo Sun et.al.|[2409.06181](http://arxiv.org/abs/2409.06181)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
