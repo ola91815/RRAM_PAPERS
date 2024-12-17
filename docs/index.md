@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**van der Waals Torque in 2D Materials Induced by Interaction between Many-Body Charge Density Fluctuations**|Zepu Kou et.al.|[2412.11357](http://arxiv.org/abs/2412.11357)|null|
+|**2024-12-13**|**Winding Berry dipole on uniaxially strained graphene/hBN/hBN moiré trilayers**|Angiolo Huaman et.al.|[2412.10584](http://arxiv.org/abs/2412.10584)|null|
 |**2024-12-13**|**A Simplified Model for Predicting and Designing High-Temperature Ambient-Pressure Superconductors**|Yuting Sun et.al.|[2412.09866](http://arxiv.org/abs/2412.09866)|null|
 |**2024-12-12**|**Blister Test to Measure the Out-of-Plane Shear Modulus of Few-Layer Graphene**|Metehan Calis et.al.|[2412.09615](http://arxiv.org/abs/2412.09615)|null|
 |**2024-12-12**|**MaskTerial: A Foundation Model for Automated 2D Material Flake Detection**|Jan-Lucas Uslu et.al.|[2412.09333](http://arxiv.org/abs/2412.09333)|null|
@@ -217,8 +219,6 @@ layout: default
 |**2024-09-12**|**Tuning Charged Localized Excitons in Monolayer WSe2 via Coupling to a Relaxor Ferroelectric**|Qiaohui Zhou et.al.|[2409.07687](http://arxiv.org/abs/2409.07687)|null|
 |**2024-09-11**|**Development of large scale CVD grown two dimensional materials for field-effect transistors, thermally-driven neuromorphic memory, and spintronics applications**|Sameer Kumar Mallik et.al.|[2409.07357](http://arxiv.org/abs/2409.07357)|null|
 |**2024-09-11**|**Moiré exciton polaron engineering via twisted hBN**|Minhyun Cho et.al.|[2409.06999](http://arxiv.org/abs/2409.06999)|null|
-|**2024-09-14**|**General Stacking Theory for Altermagnetism in Bilayer Systems**|Baoru Pan et.al.|[2409.06964](http://arxiv.org/abs/2409.06964)|null|
-|**2024-09-10**|**VQCrystal: Leveraging Vector Quantization for Discovery of Stable Crystal Structures**|ZiJie Qiu et.al.|[2409.06191](http://arxiv.org/abs/2409.06191)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
