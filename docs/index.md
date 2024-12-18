@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.17
+## Updated on 2024.12.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Investigating the Effect of Electrical and Thermal Transport Properties on Oxide-Based Memristors Performance and Reliability**|Armin Gooran-Shoorakchaly et.al.|[2412.12450](http://arxiv.org/abs/2412.12450)|null|
 |**2024-10-27**|**The maximum storage capacity of open-loop written RRAM is around 4 bits**|Yongxiang Li et.al.|[2410.20332](http://arxiv.org/abs/2410.20332)|null|
 |**2024-10-04**|**A 9T4R RRAM-Based ACAM for Analogue Template Matching at the Edge**|Georgios Papandroulidakis et.al.|[2410.03414](http://arxiv.org/abs/2410.03414)|null|
 |**2024-09-27**|**RNC: Efficient RRAM-aware NAS and Compilation for DNNs on Resource-Constrained Edge Devices**|Kam Chi Loong et.al.|[2409.18841](http://arxiv.org/abs/2409.18841)|**[link](https://github.com/archiiii/rram_nas_comp_pack)**|
@@ -113,7 +114,6 @@ layout: default
 |**2021-01-24**|**Dynamic Ternary Content-Addressable Memory Is Indeed Promising: Design and Benchmarking Using Nanoelectromechanical Relays**|Hongtao Zhong et.al.|[2101.06375](http://arxiv.org/abs/2101.06375)|null|
 |**2020-12-25**|**Graphene oxide based synaptic memristor device for neuromorphic computing**|Dwipak Prasad Sahu et.al.|[2012.13556](http://arxiv.org/abs/2012.13556)|null|
 |**2021-10-20**|**Hybrid CMOS/Memristor Circuit Design Methodology**|Sachin Maheshwari et.al.|[2012.02267](http://arxiv.org/abs/2012.02267)|null|
-|**2020-11-30**|**Ultra-High-density 3D vertical RRAM with stacked JunctionLess nanowires for In-Memory-Computing applications**|M. Ezzadeen et.al.|[2012.00061](http://arxiv.org/abs/2012.00061)|null|
 
 ## 2D MATERIAL
 
