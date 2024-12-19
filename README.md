@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.18
+## Updated on 2024.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,15 @@
 |**2020-12-25**|**Graphene oxide based synaptic memristor device for neuromorphic computing**|Dwipak Prasad Sahu et.al.|[2012.13556](http://arxiv.org/abs/2012.13556)|null|
 |**2021-10-20**|**Hybrid CMOS/Memristor Circuit Design Methodology**|Sachin Maheshwari et.al.|[2012.02267](http://arxiv.org/abs/2012.02267)|null|
 
-<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Superconductivity of two-dimensional hydrogenated transition-metal diborides**|Jakkapat Seeyangnok et.al.|[2412.13517](http://arxiv.org/abs/2412.13517)|null|
+|**2024-12-18**|**A versatile method for nano-fabrication on diamond film: flexible diamond metasurfaces as a demonstration**|Yicheng Wang et.al.|[2412.13406](http://arxiv.org/abs/2412.13406)|null|
+|**2024-12-18**|**Advancing Simulations of Coupled Electron and Phonon Nonequilibrium Dynamics Using Adaptive and Multirate Time Integration**|Jia Yao et.al.|[2412.13402](http://arxiv.org/abs/2412.13402)|null|
 |**2024-12-16**|**van der Waals Torque in 2D Materials Induced by Interaction between Many-Body Charge Density Fluctuations**|Zepu Kou et.al.|[2412.11357](http://arxiv.org/abs/2412.11357)|null|
 |**2024-12-13**|**Winding Berry dipole on uniaxially strained graphene/hBN/hBN moiré trilayers**|Angiolo Huaman et.al.|[2412.10584](http://arxiv.org/abs/2412.10584)|null|
 |**2024-12-13**|**A Simplified Model for Predicting and Designing High-Temperature Ambient-Pressure Superconductors**|Yuting Sun et.al.|[2412.09866](http://arxiv.org/abs/2412.09866)|null|
@@ -222,11 +225,8 @@
 |**2024-09-15**|**Selective Switching Between Two Band-Edge Alignments in Ternary Pentagonal CdSeTe Monolayer: Atom-Valley Locking**|Zhi-Qiang Wen et.al.|[2409.09625](http://arxiv.org/abs/2409.09625)|null|
 |**2024-09-13**|**Toward Phonon-Limited Transport in Two-Dimensional Electronics by Oxygen-Free Fabrication**|Subhrajit Mukherjee et.al.|[2409.08453](http://arxiv.org/abs/2409.08453)|null|
 |**2024-09-12**|**Interlayer Engineering of Lattice Dynamics and Elastic Constants of 2D Layered Nanomaterials under Pressure**|Guoshuai Du et.al.|[2409.07698](http://arxiv.org/abs/2409.07698)|null|
-|**2024-09-12**|**Tuning Charged Localized Excitons in Monolayer WSe2 via Coupling to a Relaxor Ferroelectric**|Qiaohui Zhou et.al.|[2409.07687](http://arxiv.org/abs/2409.07687)|null|
-|**2024-09-11**|**Development of large scale CVD grown two dimensional materials for field-effect transistors, thermally-driven neuromorphic memory, and spintronics applications**|Sameer Kumar Mallik et.al.|[2409.07357](http://arxiv.org/abs/2409.07357)|null|
-|**2024-09-11**|**Moiré exciton polaron engineering via twisted hBN**|Minhyun Cho et.al.|[2409.06999](http://arxiv.org/abs/2409.06999)|null|
 
-<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
