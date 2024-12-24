@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.23
+## Updated on 2024.12.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2020-12-25**|**Graphene oxide based synaptic memristor device for neuromorphic computing**|Dwipak Prasad Sahu et.al.|[2012.13556](http://arxiv.org/abs/2012.13556)|null|
 |**2021-10-20**|**Hybrid CMOS/Memristor Circuit Design Methodology**|Sachin Maheshwari et.al.|[2012.02267](http://arxiv.org/abs/2012.02267)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -226,7 +226,7 @@
 |**2024-09-16**|**Quantum light generation with ultra-high spatial resolution in 2D semiconductors via ultra-low energy electron irradiation**|Ajit Kumar Dash et.al.|[2409.10321](http://arxiv.org/abs/2409.10321)|null|
 |**2024-09-15**|**Strong and tunable coupling between antiferromagnetic magnons and surface plasmons**|H. Y. Yuan et.al.|[2409.09710](http://arxiv.org/abs/2409.09710)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
