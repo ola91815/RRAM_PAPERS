@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.25
+## Updated on 2024.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**Field-free current-induced magnetization switching of a room temperature van der Waals magnet for neuromorphic computing**|Chenxi Zhou et.al.|[2412.18429](http://arxiv.org/abs/2412.18429)|null|
+|**2024-12-24**|**Discovery of 2D Materials via Symmetry-Constrained Diffusion Model**|Shihang Xu et.al.|[2412.18414](http://arxiv.org/abs/2412.18414)|null|
+|**2024-12-24**|**PyAtoms: An interactive tool for rapidly simulating atomic scanning tunneling microscopy images of 2D materials, moiré systems and superlattices**|Christopher Gutiérrez et.al.|[2412.18332](http://arxiv.org/abs/2412.18332)|null|
+|**2024-12-24**|**Actuation and mapping of SAW-induced high-frequency wavefields on suspended graphene membranes**|Hande N. Açıkgöz et.al.|[2412.18310](http://arxiv.org/abs/2412.18310)|null|
 |**2024-12-20**|**Direct measurement of the local electrocaloric effect in 2D ferroelectric In ${}_2$Se${}_3$ by Scanning Electrocaloric Thermometry**|Jean Spièce et.al.|[2412.15884](http://arxiv.org/abs/2412.15884)|null|
 |**2024-12-20**|**Strain tuning of the nonlinear anomalous Hall effect in MoS2 monolayer**|Yuebei Xiong et.al.|[2412.15659](http://arxiv.org/abs/2412.15659)|null|
 |**2024-12-19**|**Numerical analysis and simulation of lateral memristive devices: Schottky, ohmic, and multi-dimensional electrode models**|Dilara Abdel et.al.|[2412.15065](http://arxiv.org/abs/2412.15065)|null|
@@ -209,16 +213,12 @@ layout: default
 |**2024-09-28**|**Coexistence of ferroelectricity and superconductivity in a two-dimensional monolayer**|Jianyong Chen et.al.|[2409.19265](http://arxiv.org/abs/2409.19265)|null|
 |**2024-09-18**|**Closing the reproducibility gap: 2D materials research**|Peter Bøggild et.al.|[2409.18994](http://arxiv.org/abs/2409.18994)|null|
 |**2024-09-25**|**Multiscale Simulation and Machine Learning Facilitated Design of Two-Dimensional Nanomaterials-Based Tunnel Field-Effect Transistors: A Review**|Chloe Isabella Tsang et.al.|[2409.18965](http://arxiv.org/abs/2409.18965)|null|
+|**2024-12-24**|**Correlated states in super-moiré materials with a kernel polynomial quantics tensor cross interpolation algorithm**|Adolfo O. Fumega et.al.|[2409.18898](http://arxiv.org/abs/2409.18898)|null|
 |**2024-09-27**|**Electrical Spectroscopy of Polaritonic Nanoresonators**|Sebastián Castilla et.al.|[2409.18888](http://arxiv.org/abs/2409.18888)|null|
 |**2024-10-30**|**Defect density quantification in monolayer MoS2 using helium atom micro-diffraction**|Aleksandar Radic et.al.|[2409.18637](http://arxiv.org/abs/2409.18637)|null|
 |**2024-09-26**|**Wavelength-dependent anisotropic light-matter interaction in 2D ferroelectric In2Se3**|Divya Jangra et.al.|[2409.17570](http://arxiv.org/abs/2409.17570)|null|
 |**2024-09-19**|**Liquid Metal Oxide-assisted Integration of High-k Dielectrics and Metal Contacts for Two-Dimensional Electronics**|Dasari Venkatakrishnarao et.al.|[2409.12485](http://arxiv.org/abs/2409.12485)|null|
 |**2024-10-01**|**How does Goldene Stack?**|Marcelo Lopes Pereira, Jr et.al.|[2409.11880](http://arxiv.org/abs/2409.11880)|null|
-|**2024-09-18**|**Three-dimensional valley-contrasting sound**|Haoran Xue et.al.|[2409.11714](http://arxiv.org/abs/2409.11714)|null|
-|**2024-09-17**|**Chiral propagation of plasmons due to competing anisotropies in a twisted photonic heterostructure**|Ze-Hua Tao et.al.|[2409.11066](http://arxiv.org/abs/2409.11066)|null|
-|**2024-09-16**|**Lattice Thermal Conductivity of Sun-Graphyne from Reverse Nonequilibrium Molecular Dynamics Simulations**|Isaac de Macêdo Felix et.al.|[2409.10355](http://arxiv.org/abs/2409.10355)|null|
-|**2024-09-16**|**Quantum light generation with ultra-high spatial resolution in 2D semiconductors via ultra-low energy electron irradiation**|Ajit Kumar Dash et.al.|[2409.10321](http://arxiv.org/abs/2409.10321)|null|
-|**2024-09-15**|**Strong and tunable coupling between antiferromagnetic magnons and surface plasmons**|H. Y. Yuan et.al.|[2409.09710](http://arxiv.org/abs/2409.09710)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
