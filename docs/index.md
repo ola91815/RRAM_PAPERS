@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.02
+## Updated on 2025.01.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -122,10 +122,10 @@ layout: default
 |**2024-12-30**|**Downscaling of non van der Waals Semimetallic W5N6 with Resistivity Preservation**|Hongze Gao et.al.|[2412.21184](http://arxiv.org/abs/2412.21184)|null|
 |**2024-12-27**|**Tailoring Robust Quantum Anomalous Hall Effect via Entropy-Engineering**|Syeda Amina Shabbir et.al.|[2412.19499](http://arxiv.org/abs/2412.19499)|null|
 |**2024-12-26**|**Switchable magnetic phases in CrSBr $_{1-x}$Cl$_x$ and CrSBr/CrSCl heterostructures**|Alberto M. Ruiz et.al.|[2412.19136](http://arxiv.org/abs/2412.19136)|null|
-|**2024-12-26**|**Discovery of an Ultra-Stable Antiferromagnetic Two-Dimensional CrF3 Phase with Anisotropic Quasi-1D Mechanical, Electronic, and Thermal Properties**|Xin Chen et.al.|[2412.19118](http://arxiv.org/abs/2412.19118)|null|
+|**2025-01-02**|**Discovery of an Ultra-Stable Antiferromagnetic Two-Dimensional CrF3 Phase with Anisotropic Quasi-1D Mechanical, Electronic, and Thermal Properties**|Xin Chen et.al.|[2412.19118](http://arxiv.org/abs/2412.19118)|null|
 |**2024-12-24**|**Field-free current-induced magnetization switching of a room temperature van der Waals magnet for neuromorphic computing**|Chenxi Zhou et.al.|[2412.18429](http://arxiv.org/abs/2412.18429)|null|
 |**2024-12-24**|**Discovery of 2D Materials via Symmetry-Constrained Diffusion Model**|Shihang Xu et.al.|[2412.18414](http://arxiv.org/abs/2412.18414)|null|
-|**2024-12-24**|**PyAtoms: An interactive tool for rapidly simulating atomic scanning tunneling microscopy images of 2D materials, moiré systems and superlattices**|Christopher Gutiérrez et.al.|[2412.18332](http://arxiv.org/abs/2412.18332)|null|
+|**2025-01-02**|**PyAtoms: An interactive tool for rapidly simulating atomic scanning tunneling microscopy images of 2D materials, moiré systems and superlattices**|Christopher Gutiérrez et.al.|[2412.18332](http://arxiv.org/abs/2412.18332)|null|
 |**2024-12-24**|**Actuation and mapping of SAW-induced high-frequency wavefields on suspended graphene membranes**|Hande N. Açıkgöz et.al.|[2412.18310](http://arxiv.org/abs/2412.18310)|null|
 |**2024-12-20**|**Direct measurement of the local electrocaloric effect in 2D ferroelectric In ${}_2$Se${}_3$ by Scanning Electrocaloric Thermometry**|Jean Spièce et.al.|[2412.15884](http://arxiv.org/abs/2412.15884)|null|
 |**2024-12-20**|**Strain tuning of the nonlinear anomalous Hall effect in MoS2 monolayer**|Yuebei Xiong et.al.|[2412.15659](http://arxiv.org/abs/2412.15659)|null|
@@ -210,7 +210,7 @@ layout: default
 |**2024-10-09**|**High proton conductivity through angstrom-porous titania**|Y. Ji et.al.|[2410.06489](http://arxiv.org/abs/2410.06489)|null|
 |**2024-10-07**|**Skin Controlled Electronic and Neuromorphic Tattoos**|Dmitry Kireev et.al.|[2410.05449](http://arxiv.org/abs/2410.05449)|null|
 |**2024-10-03**|**Two-dimensional materials as ideal substrates for molecular quantum emitters**|Haiyuan Wang et.al.|[2410.02292](http://arxiv.org/abs/2410.02292)|null|
-|**2024-10-02**|**Magnetically Tuned Metal-Insulator Transition in LaAlO $_3$/SrTiO$_3$ Nanowire Arrays**|Ranjani Ramachandran et.al.|[2410.01937](http://arxiv.org/abs/2410.01937)|null|
+|**2025-01-01**|**Magnetically Tuned Metal-Insulator Transition in LaAlO $_3$/SrTiO$_3$ Nanowire Arrays**|Ranjani Ramachandran et.al.|[2410.01937](http://arxiv.org/abs/2410.01937)|null|
 |**2024-10-02**|**First-principles computational methods for quantum defects in two-dimensional materials: A perspective**|Hosung Seo et.al.|[2410.01200](http://arxiv.org/abs/2410.01200)|null|
 |**2024-10-01**|**Structurally induced magnetic transitions in layered dichalcogenides MoQ2 (Q = S, Se, Te) and double hydroxides (M2+)6Al3(OH)18[Na(H2O)6](SO4)2 6H2O (M2+ = Mn2+, Fe2+) under mechanical deformation**|L. M. Volkova et.al.|[2410.00391](http://arxiv.org/abs/2410.00391)|null|
 |**2024-09-30**|**Helium atom micro-diffraction as a characterisation tool for 2D materials**|Nick von Jeinsen et.al.|[2409.20461](http://arxiv.org/abs/2409.20461)|null|
