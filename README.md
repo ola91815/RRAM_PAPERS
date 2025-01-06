@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.05
+## Updated on 2025.01.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**GRAMC: General-purpose and reconfigurable analog matrix computing architecture**|Lunshuai Pan et.al.|[2501.01586](http://arxiv.org/abs/2501.01586)|null|
 |**2024-12-17**|**Investigating the Effect of Electrical and Thermal Transport Properties on Oxide-Based Memristors Performance and Reliability**|Armin Gooran-Shoorakchaly et.al.|[2412.12450](http://arxiv.org/abs/2412.12450)|null|
 |**2024-10-27**|**The maximum storage capacity of open-loop written RRAM is around 4 bits**|Yongxiang Li et.al.|[2410.20332](http://arxiv.org/abs/2410.20332)|null|
 |**2024-10-04**|**A 9T4R RRAM-Based ACAM for Analogue Template Matching at the Edge**|Georgios Papandroulidakis et.al.|[2410.03414](http://arxiv.org/abs/2410.03414)|null|
@@ -117,18 +118,23 @@
 |**2021-02-02**|**Enabling Lower-Power Charge-Domain Nonvolatile In-Memory Computing with Ferroelectric FETs**|Guodong Yin et.al.|[2102.01442](http://arxiv.org/abs/2102.01442)|null|
 |**2021-01-24**|**Dynamic Ternary Content-Addressable Memory Is Indeed Promising: Design and Benchmarking Using Nanoelectromechanical Relays**|Hongtao Zhong et.al.|[2101.06375](http://arxiv.org/abs/2101.06375)|null|
 |**2020-12-25**|**Graphene oxide based synaptic memristor device for neuromorphic computing**|Dwipak Prasad Sahu et.al.|[2012.13556](http://arxiv.org/abs/2012.13556)|null|
-|**2021-10-20**|**Hybrid CMOS/Memristor Circuit Design Methodology**|Sachin Maheshwari et.al.|[2012.02267](http://arxiv.org/abs/2012.02267)|null|
 
-<p align=right>(<a href=#updated-on-20250105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**Can structure influence hydrovoltaic energy generation? Insights from the metallic 1T' and semiconducting 2H phases of MoS $_2$**|Kaushik Suvigya et.al.|[2501.01739](http://arxiv.org/abs/2501.01739)|null|
+|**2025-01-02**|**Machine Learning-Driven Insights into Excitonic Effects in 2D Materials**|Ahsan Javed et.al.|[2501.01092](http://arxiv.org/abs/2501.01092)|null|
+|**2025-01-01**|**Gradient polaritonic surface with space-variant switchable light-matter interactions in 2D moire superlattices**|Zhen-Bing Dai et.al.|[2501.00929](http://arxiv.org/abs/2501.00929)|null|
+|**2025-01-01**|**Role of Chalcogen atoms in In Situ Exfoliation for Large-Area 2D Semiconducting Transition Metal Dichalcogenides**|Zhiying Dan et.al.|[2501.00815](http://arxiv.org/abs/2501.00815)|null|
+|**2024-12-31**|**Two-dimensional moiré phonon polaritons**|Hao Shi et.al.|[2501.00313](http://arxiv.org/abs/2501.00313)|null|
+|**2024-12-31**|**Angstrom-scale ionic streaming when electrical double-layer concept fails**|Jiajia Lu et.al.|[2501.00238](http://arxiv.org/abs/2501.00238)|null|
 |**2024-12-30**|**Downscaling of non van der Waals Semimetallic W5N6 with Resistivity Preservation**|Hongze Gao et.al.|[2412.21184](http://arxiv.org/abs/2412.21184)|null|
 |**2024-12-27**|**Tailoring Robust Quantum Anomalous Hall Effect via Entropy-Engineering**|Syeda Amina Shabbir et.al.|[2412.19499](http://arxiv.org/abs/2412.19499)|null|
 |**2024-12-26**|**Switchable magnetic phases in CrSBr $_{1-x}$Cl$_x$ and CrSBr/CrSCl heterostructures**|Alberto M. Ruiz et.al.|[2412.19136](http://arxiv.org/abs/2412.19136)|null|
-|**2025-01-02**|**Discovery of an Ultra-Stable Antiferromagnetic Two-Dimensional CrF3 Phase with Anisotropic Quasi-1D Mechanical, Electronic, and Thermal Properties**|Xin Chen et.al.|[2412.19118](http://arxiv.org/abs/2412.19118)|null|
+|**2025-01-03**|**Discovery of an Ultra-Stable Antiferromagnetic Two-Dimensional CrF3 Phase with Anisotropic Quasi-1D Mechanical, Electronic, and Thermal Properties**|Xin Chen et.al.|[2412.19118](http://arxiv.org/abs/2412.19118)|null|
 |**2024-12-24**|**Field-free current-induced magnetization switching of a room temperature van der Waals magnet for neuromorphic computing**|Chenxi Zhou et.al.|[2412.18429](http://arxiv.org/abs/2412.18429)|null|
 |**2024-12-24**|**Discovery of 2D Materials via Symmetry-Constrained Diffusion Model**|Shihang Xu et.al.|[2412.18414](http://arxiv.org/abs/2412.18414)|null|
 |**2025-01-02**|**PyAtoms: An interactive tool for rapidly simulating atomic scanning tunneling microscopy images of 2D materials, moiré systems and superlattices**|Christopher Gutiérrez et.al.|[2412.18332](http://arxiv.org/abs/2412.18332)|null|
@@ -219,14 +225,8 @@
 |**2025-01-01**|**Magnetically Tuned Metal-Insulator Transition in LaAlO $_3$/SrTiO$_3$ Nanowire Arrays**|Ranjani Ramachandran et.al.|[2410.01937](http://arxiv.org/abs/2410.01937)|null|
 |**2024-10-02**|**First-principles computational methods for quantum defects in two-dimensional materials: A perspective**|Hosung Seo et.al.|[2410.01200](http://arxiv.org/abs/2410.01200)|null|
 |**2024-10-01**|**Structurally induced magnetic transitions in layered dichalcogenides MoQ2 (Q = S, Se, Te) and double hydroxides (M2+)6Al3(OH)18[Na(H2O)6](SO4)2 6H2O (M2+ = Mn2+, Fe2+) under mechanical deformation**|L. M. Volkova et.al.|[2410.00391](http://arxiv.org/abs/2410.00391)|null|
-|**2024-09-30**|**Helium atom micro-diffraction as a characterisation tool for 2D materials**|Nick von Jeinsen et.al.|[2409.20461](http://arxiv.org/abs/2409.20461)|null|
-|**2024-09-28**|**Coexistence of ferroelectricity and superconductivity in a two-dimensional monolayer**|Jianyong Chen et.al.|[2409.19265](http://arxiv.org/abs/2409.19265)|null|
-|**2024-12-24**|**Correlated states in super-moiré materials with a kernel polynomial quantics tensor cross interpolation algorithm**|Adolfo O. Fumega et.al.|[2409.18898](http://arxiv.org/abs/2409.18898)|null|
-|**2024-09-27**|**Electrical Spectroscopy of Polaritonic Nanoresonators**|Sebastián Castilla et.al.|[2409.18888](http://arxiv.org/abs/2409.18888)|null|
-|**2024-10-30**|**Defect density quantification in monolayer MoS2 using helium atom micro-diffraction**|Aleksandar Radic et.al.|[2409.18637](http://arxiv.org/abs/2409.18637)|null|
-|**2024-09-26**|**Wavelength-dependent anisotropic light-matter interaction in 2D ferroelectric In2Se3**|Divya Jangra et.al.|[2409.17570](http://arxiv.org/abs/2409.17570)|null|
 
-<p align=right>(<a href=#updated-on-20250105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
