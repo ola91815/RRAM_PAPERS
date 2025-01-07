@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.06
+## Updated on 2025.01.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-04**|**Monolayer control of spin-charge conversion in van der Waals heterostructures**|K. Abdukayumov et.al.|[2501.02337](http://arxiv.org/abs/2501.02337)|null|
+|**2025-01-04**|**Boosting the Self-driven Properties of 2D Photodetectors through Synergistic Asymmetrical Effects**|Yihong Sun et.al.|[2501.02186](http://arxiv.org/abs/2501.02186)|null|
+|**2025-01-03**|**High-throughput calculations of spin Hall conductivity in non-magnetic 2D materials**|Jiaqi Zhou et.al.|[2501.02110](http://arxiv.org/abs/2501.02110)|null|
 |**2025-01-03**|**Can structure influence hydrovoltaic energy generation? Insights from the metallic 1T' and semiconducting 2H phases of MoS $_2$**|Kaushik Suvigya et.al.|[2501.01739](http://arxiv.org/abs/2501.01739)|null|
 |**2025-01-02**|**Machine Learning-Driven Insights into Excitonic Effects in 2D Materials**|Ahsan Javed et.al.|[2501.01092](http://arxiv.org/abs/2501.01092)|null|
 |**2025-01-01**|**Gradient polaritonic surface with space-variant switchable light-matter interactions in 2D moire superlattices**|Zhen-Bing Dai et.al.|[2501.00929](http://arxiv.org/abs/2501.00929)|null|
@@ -216,9 +219,6 @@ layout: default
 |**2024-10-09**|**High proton conductivity through angstrom-porous titania**|Y. Ji et.al.|[2410.06489](http://arxiv.org/abs/2410.06489)|null|
 |**2024-10-07**|**Skin Controlled Electronic and Neuromorphic Tattoos**|Dmitry Kireev et.al.|[2410.05449](http://arxiv.org/abs/2410.05449)|null|
 |**2024-10-03**|**Two-dimensional materials as ideal substrates for molecular quantum emitters**|Haiyuan Wang et.al.|[2410.02292](http://arxiv.org/abs/2410.02292)|null|
-|**2025-01-01**|**Magnetically Tuned Metal-Insulator Transition in LaAlO $_3$/SrTiO$_3$ Nanowire Arrays**|Ranjani Ramachandran et.al.|[2410.01937](http://arxiv.org/abs/2410.01937)|null|
-|**2024-10-02**|**First-principles computational methods for quantum defects in two-dimensional materials: A perspective**|Hosung Seo et.al.|[2410.01200](http://arxiv.org/abs/2410.01200)|null|
-|**2024-10-01**|**Structurally induced magnetic transitions in layered dichalcogenides MoQ2 (Q = S, Se, Te) and double hydroxides (M2+)6Al3(OH)18[Na(H2O)6](SO4)2 6H2O (M2+ = Mn2+, Fe2+) under mechanical deformation**|L. M. Volkova et.al.|[2410.00391](http://arxiv.org/abs/2410.00391)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
