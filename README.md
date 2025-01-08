@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.07
+## Updated on 2025.01.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2021-01-24**|**Dynamic Ternary Content-Addressable Memory Is Indeed Promising: Design and Benchmarking Using Nanoelectromechanical Relays**|Hongtao Zhong et.al.|[2101.06375](http://arxiv.org/abs/2101.06375)|null|
 |**2020-12-25**|**Graphene oxide based synaptic memristor device for neuromorphic computing**|Dwipak Prasad Sahu et.al.|[2012.13556](http://arxiv.org/abs/2012.13556)|null|
 
-<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -226,7 +226,7 @@
 |**2024-10-07**|**Skin Controlled Electronic and Neuromorphic Tattoos**|Dmitry Kireev et.al.|[2410.05449](http://arxiv.org/abs/2410.05449)|null|
 |**2024-10-03**|**Two-dimensional materials as ideal substrates for molecular quantum emitters**|Haiyuan Wang et.al.|[2410.02292](http://arxiv.org/abs/2410.02292)|null|
 
-<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
