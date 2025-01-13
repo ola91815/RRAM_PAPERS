@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.12
+## Updated on 2025.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,13 @@
 |**2021-01-24**|**Dynamic Ternary Content-Addressable Memory Is Indeed Promising: Design and Benchmarking Using Nanoelectromechanical Relays**|Hongtao Zhong et.al.|[2101.06375](http://arxiv.org/abs/2101.06375)|null|
 |**2020-12-25**|**Graphene oxide based synaptic memristor device for neuromorphic computing**|Dwipak Prasad Sahu et.al.|[2012.13556](http://arxiv.org/abs/2012.13556)|null|
 
-<p align=right>(<a href=#updated-on-20250112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250113>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Hexatic Phase in Covalent Two-Dimensional Silver Iodide**|Thuy An Bui et.al.|[2501.05759](http://arxiv.org/abs/2501.05759)|null|
 |**2025-01-07**|**Magnetic imaging under high pressure with a spin-based quantum sensor integrated in a van der Waals heterostructure**|Z. Mu et.al.|[2501.03640](http://arxiv.org/abs/2501.03640)|null|
 |**2025-01-07**|**Simulation on the Miniaturization and Performance Improvement Study of Gr/MoS2 Based Vertical Field Effect Transistor**|Sirsendu Ghosh et.al.|[2501.03541](http://arxiv.org/abs/2501.03541)|null|
 |**2025-01-06**|**Space Charge Doping Induced Band Modulation in Mono- and Bi-layer Graphene: a nano-ARPES study**|Imtiaz Noor Bhatti et.al.|[2501.03387](http://arxiv.org/abs/2501.03387)|null|
@@ -224,9 +225,8 @@
 |**2024-11-18**|**Adaptive AI-Driven Material Synthesis: Towards Autonomous 2D Materials Growth**|Leonardo Sabattini et.al.|[2410.10885](http://arxiv.org/abs/2410.10885)|null|
 |**2024-10-11**|**Electron Energy Loss Spectroscopy of 2D Materials in a Scanning Electron Microscope**|John W. Simonaitis et.al.|[2410.09291](http://arxiv.org/abs/2410.09291)|null|
 |**2024-12-04**|**Tunable second harmonic generation in 2D materials: comparison of different strategies**|Simone Grillo et.al.|[2410.07661](http://arxiv.org/abs/2410.07661)|null|
-|**2024-10-30**|**The two-dimensional homogeneous electron gas with symmetric dual-gate screening: exchange-correlation functional and other ground-state properties**|Yiqi Yang et.al.|[2410.07445](http://arxiv.org/abs/2410.07445)|null|
 
-<p align=right>(<a href=#updated-on-20250112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250113>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
