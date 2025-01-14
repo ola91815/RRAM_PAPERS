@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.13
+## Updated on 2025.01.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**Influence of carrier density and disorder on the Quantum Hall plateau widths in epitaxial graphene**|Ignacio Figueruelo-Campanero et.al.|[2501.07518](http://arxiv.org/abs/2501.07518)|null|
 |**2025-01-10**|**Hexatic Phase in Covalent Two-Dimensional Silver Iodide**|Thuy An Bui et.al.|[2501.05759](http://arxiv.org/abs/2501.05759)|null|
 |**2025-01-07**|**Magnetic imaging under high pressure with a spin-based quantum sensor integrated in a van der Waals heterostructure**|Z. Mu et.al.|[2501.03640](http://arxiv.org/abs/2501.03640)|null|
 |**2025-01-07**|**Simulation on the Miniaturization and Performance Improvement Study of Gr/MoS2 Based Vertical Field Effect Transistor**|Sirsendu Ghosh et.al.|[2501.03541](http://arxiv.org/abs/2501.03541)|null|
@@ -157,7 +158,7 @@ layout: default
 |**2024-12-11**|**Two-gap superconductivity in a Janus MoSeLi monolayer**|J. Seeyangnok et.al.|[2412.08119](http://arxiv.org/abs/2412.08119)|null|
 |**2024-12-10**|**Recent progress on the solid-state materials for photocatalysis**|L. D. Tamang et.al.|[2412.07110](http://arxiv.org/abs/2412.07110)|null|
 |**2024-12-09**|**Can Neural Networks Learn Nanoscale Friction?**|Mahboubeh Shabani et.al.|[2412.06677](http://arxiv.org/abs/2412.06677)|null|
-|**2025-01-09**|**Study the quantum resolution sizes and atomic bonding states of two-dimensional tin monoxide**|Yu Wang et.al.|[2412.06169](http://arxiv.org/abs/2412.06169)|null|
+|**2025-01-12**|**Study the quantum resolution sizes and atomic bonding states of two-dimensional tin monoxide**|Yu Wang et.al.|[2412.06169](http://arxiv.org/abs/2412.06169)|null|
 |**2024-12-08**|**Reduction in Thermal Conductivity of Monolayer MoS2 by Large Mechanical Strains for Efficient Thermal Management**|Jun Liu et.al.|[2412.06048](http://arxiv.org/abs/2412.06048)|null|
 |**2024-12-08**|**Strain-Induced Decoupling Drives Gold-Assisted Exfoliation of Large-Area Monolayer 2D Crystals**|Jakob Ziewer et.al.|[2412.05898](http://arxiv.org/abs/2412.05898)|null|
 |**2024-12-06**|**Solid-state qubits in moire superlattices**|Zhigang Song et.al.|[2412.04904](http://arxiv.org/abs/2412.04904)|null|
@@ -218,7 +219,6 @@ layout: default
 |**2024-10-15**|**Hexagonal boron nitride crystal growth in the Li3BN2-BN system**|Camille Maestre et.al.|[2410.11334](http://arxiv.org/abs/2410.11334)|null|
 |**2024-11-18**|**Adaptive AI-Driven Material Synthesis: Towards Autonomous 2D Materials Growth**|Leonardo Sabattini et.al.|[2410.10885](http://arxiv.org/abs/2410.10885)|null|
 |**2024-10-11**|**Electron Energy Loss Spectroscopy of 2D Materials in a Scanning Electron Microscope**|John W. Simonaitis et.al.|[2410.09291](http://arxiv.org/abs/2410.09291)|null|
-|**2024-12-04**|**Tunable second harmonic generation in 2D materials: comparison of different strategies**|Simone Grillo et.al.|[2410.07661](http://arxiv.org/abs/2410.07661)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
