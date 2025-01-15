@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.14
+## Updated on 2025.01.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,13 @@
 |**2021-01-24**|**Dynamic Ternary Content-Addressable Memory Is Indeed Promising: Design and Benchmarking Using Nanoelectromechanical Relays**|Hongtao Zhong et.al.|[2101.06375](http://arxiv.org/abs/2101.06375)|null|
 |**2020-12-25**|**Graphene oxide based synaptic memristor device for neuromorphic computing**|Dwipak Prasad Sahu et.al.|[2012.13556](http://arxiv.org/abs/2012.13556)|null|
 
-<p align=right>(<a href=#updated-on-20250114>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250115>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**Electron-phonon coupling and phonon dynamics in single-layer NbSe $_2$ on graphene: the role of moiré phonons**|Amjad Al Taleb et.al.|[2501.08140](http://arxiv.org/abs/2501.08140)|null|
 |**2025-01-13**|**Influence of carrier density and disorder on the Quantum Hall plateau widths in epitaxial graphene**|Ignacio Figueruelo-Campanero et.al.|[2501.07518](http://arxiv.org/abs/2501.07518)|null|
 |**2025-01-10**|**Hexatic Phase in Covalent Two-Dimensional Silver Iodide**|Thuy An Bui et.al.|[2501.05759](http://arxiv.org/abs/2501.05759)|null|
 |**2025-01-07**|**Magnetic imaging under high pressure with a spin-based quantum sensor integrated in a van der Waals heterostructure**|Z. Mu et.al.|[2501.03640](http://arxiv.org/abs/2501.03640)|null|
@@ -223,10 +224,9 @@
 |**2024-10-17**|**A multi-detector neutral helium atom microscope**|Chenyang Zhao et.al.|[2410.13955](http://arxiv.org/abs/2410.13955)|null|
 |**2024-10-16**|**Exploring Nanoscale Photoresponse Mechanisms for Enhanced Photothermoelectric Effects in van der Waals Interfaces**|Da Xu et.al.|[2410.13052](http://arxiv.org/abs/2410.13052)|null|
 |**2024-10-15**|**Hexagonal boron nitride crystal growth in the Li3BN2-BN system**|Camille Maestre et.al.|[2410.11334](http://arxiv.org/abs/2410.11334)|null|
-|**2024-11-18**|**Adaptive AI-Driven Material Synthesis: Towards Autonomous 2D Materials Growth**|Leonardo Sabattini et.al.|[2410.10885](http://arxiv.org/abs/2410.10885)|null|
 |**2024-10-11**|**Electron Energy Loss Spectroscopy of 2D Materials in a Scanning Electron Microscope**|John W. Simonaitis et.al.|[2410.09291](http://arxiv.org/abs/2410.09291)|null|
 
-<p align=right>(<a href=#updated-on-20250114>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250115>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
