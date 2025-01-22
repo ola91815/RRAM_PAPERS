@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.21
+## Updated on 2025.01.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-18**|**High-Throughput, Energy-Efficient RRAM-Based In-Memory Computing LPN Accelerator**|Hao Yue et.al.|[2501.10702](http://arxiv.org/abs/2501.10702)|null|
 |**2025-01-03**|**GRAMC: General-purpose and reconfigurable analog matrix computing architecture**|Lunshuai Pan et.al.|[2501.01586](http://arxiv.org/abs/2501.01586)|null|
 |**2024-12-17**|**Investigating the Effect of Electrical and Thermal Transport Properties on Oxide-Based Memristors Performance and Reliability**|Armin Gooran-Shoorakchaly et.al.|[2412.12450](http://arxiv.org/abs/2412.12450)|null|
 |**2024-10-27**|**The maximum storage capacity of open-loop written RRAM is around 4 bits**|Yongxiang Li et.al.|[2410.20332](http://arxiv.org/abs/2410.20332)|null|
@@ -63,7 +64,7 @@
 |**2023-05-01**|**Integrated Architecture for Neural Networks and Security Primitives using RRAM Crossbar**|Simranjeet Singh et.al.|[2304.13531](http://arxiv.org/abs/2304.13531)|null|
 |**2023-09-30**|**Studies of two-dimensional material resistive random-access memory by kinetic Monte Carlo simulations**|Ying-Chuan Chen et.al.|[2304.11345](http://arxiv.org/abs/2304.11345)|null|
 |**2023-04-04**|**Thermal Crosstalk Analysis in RRAM Passive Crossbar Arrays**|Shubham Pande et.al.|[2304.01439](http://arxiv.org/abs/2304.01439)|null|
-|**2023-03-05**|**A Dual Threshold Analogue Content Addressable Memory**|Patrick Foster et.al.|[2303.02651](http://arxiv.org/abs/2303.02651)|null|
+|**2025-01-21**|**An RRAM-Based Implementation of a Template Matching Circuit for Low-Power Analogue Classification**|Patrick Foster et.al.|[2303.02651](http://arxiv.org/abs/2303.02651)|null|
 |**2023-02-20**|**Variation Enhanced Attacks Against RRAM-based Neuromorphic Computing System**|Hao Lv et.al.|[2302.09902](http://arxiv.org/abs/2302.09902)|null|
 |**2023-01-20**|**A Fully Digital Relaxation-Aware Analog Programming Technique for HfOx RRAM Arrays**|Hamidreza Erfanijazi et.al.|[2301.08516](http://arxiv.org/abs/2301.08516)|null|
 |**2022-12-29**|**Stateful Logic using Phase Change Memory**|Barak Hoffer et.al.|[2212.14377](http://arxiv.org/abs/2212.14377)|null|
@@ -117,14 +118,18 @@
 |**2021-02-07**|**CrossStack: A 3-D Reconfigurable RRAM Crossbar Inference Engine**|Jason K. Eshraghian et.al.|[2102.06536](http://arxiv.org/abs/2102.06536)|null|
 |**2021-02-02**|**Enabling Lower-Power Charge-Domain Nonvolatile In-Memory Computing with Ferroelectric FETs**|Guodong Yin et.al.|[2102.01442](http://arxiv.org/abs/2102.01442)|null|
 |**2021-01-24**|**Dynamic Ternary Content-Addressable Memory Is Indeed Promising: Design and Benchmarking Using Nanoelectromechanical Relays**|Hongtao Zhong et.al.|[2101.06375](http://arxiv.org/abs/2101.06375)|null|
-|**2020-12-25**|**Graphene oxide based synaptic memristor device for neuromorphic computing**|Dwipak Prasad Sahu et.al.|[2012.13556](http://arxiv.org/abs/2012.13556)|null|
 
-<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**Nanoscale functionalization of MoS $_2$ monolayers with DNA origami**|Shen Zhao et.al.|[2501.12029](http://arxiv.org/abs/2501.12029)|null|
+|**2025-01-21**|**Unusual magnetic order, field induced melting and role of spin-lattice coupling in 2D Van der Waals materials: a case study of CrSiTe3**|Smita Gohil et.al.|[2501.12019](http://arxiv.org/abs/2501.12019)|null|
+|**2025-01-20**|**Strain induced topological phase transitions in split and line graphs of bipartite lattices featuring flat bands**|Shivam Sharma et.al.|[2501.11783](http://arxiv.org/abs/2501.11783)|null|
+|**2025-01-20**|**High-throughput calculations of two-dimensional auxetic $M_4X_8$ with magnetism, electrocatalysis, and alkali metal battery applications**|Haidi Wang et.al.|[2501.11242](http://arxiv.org/abs/2501.11242)|null|
+|**2025-01-17**|**Second harmonic generation in silicon nitride waveguides integrated with MoS $_2$ monolayers: the importance of a full vectorial modeling**|Mohd Rehan et.al.|[2501.10575](http://arxiv.org/abs/2501.10575)|null|
 |**2025-01-16**|**Which chromium-sulfur compounds exist as 2D material?**|Affan Safeer et.al.|[2501.09510](http://arxiv.org/abs/2501.09510)|null|
 |**2025-01-16**|**Laser optothermal nanobomb for efficient flattening of nanobubbles in van der Waals materials**|Jia-Tai Huang et.al.|[2501.09322](http://arxiv.org/abs/2501.09322)|null|
 |**2025-01-15**|**Predicting Fundamental Gaps of Chromium-Based 2D Materials Using GW Methods**|Miroslav Kolos et.al.|[2501.09188](http://arxiv.org/abs/2501.09188)|null|
@@ -201,7 +206,7 @@
 |**2024-11-08**|**Gentle tension stabilizes atomically thin metallenes**|Kameyab Raza Abidi et.al.|[2411.05507](http://arxiv.org/abs/2411.05507)|null|
 |**2024-11-08**|**2D versus 3D-like electrical behavior of MXene thin films: insights from weak localization in the role of thickness, interflake coupling and defects**|Sophia Tangui et.al.|[2411.05461](http://arxiv.org/abs/2411.05461)|null|
 |**2024-11-08**|**Vacancy-Induced Quantum Properties in 2D Silicon Carbide: Atomistic insights from semi-local and hybrid DFT calculations**|Abhirup Patra et.al.|[2411.05412](http://arxiv.org/abs/2411.05412)|null|
-|**2024-11-05**|**Rational Design Heterobilayers Photocatalysts for Efficient Water Splitting Based on 2D Transition-Metal Dichalcogenide and Their Janus**|Nguyen Tran Gia Bao et.al.|[2411.03396](http://arxiv.org/abs/2411.03396)|null|
+|**2025-01-21**|**Rational Design Heterobilayers Photocatalysts for Efficient Water Splitting Based on 2D Transition-Metal Dichalcogenide and Their Janus**|Nguyen Tran Gia Bao et.al.|[2411.03396](http://arxiv.org/abs/2411.03396)|null|
 |**2025-01-15**|**Electron-irradiation effects on monolayer MoS2 at elevated temperatures**|Carsten Speckmann et.al.|[2411.03200](http://arxiv.org/abs/2411.03200)|null|
 |**2024-11-04**|**Ultrafast all-optical generation of pure spin and valley currents**|Deepika Gill et.al.|[2411.02371](http://arxiv.org/abs/2411.02371)|null|
 |**2024-11-04**|**Reproducible Monolayer MoS2 Devices Free of Resist Contamination by Gold Mask Lithography**|Yumeng Liu et.al.|[2411.02205](http://arxiv.org/abs/2411.02205)|null|
@@ -220,13 +225,8 @@
 |**2024-10-23**|**Undulation-induced moiré superlattices with 1D polarization domains and 1D flat bands in 2D bilayer semiconductors**|Xingfu Li et.al.|[2410.17548](http://arxiv.org/abs/2410.17548)|null|
 |**2024-10-22**|**Telecom-wavelength Single-photon Emitters in Multi-layer InSe**|Huan Zhao et.al.|[2410.17354](http://arxiv.org/abs/2410.17354)|null|
 |**2024-10-22**|**Data-efficient 4D-STEM in SEM: Beyond 2D Materials to Metallic Materials**|Ujjval Bansal et.al.|[2410.17206](http://arxiv.org/abs/2410.17206)|null|
-|**2024-10-22**|**Production of Ultra-Thin and High-Quality Nanosheet Networks via Layer-by-Layer Assembly at Liquid-Liquid Interfaces**|Joseph Neilson et.al.|[2410.16952](http://arxiv.org/abs/2410.16952)|null|
-|**2024-10-22**|**Tunable Quantum Anomalous Hall Effect via Crystal Order in Spin-Splitting Antiferromagnets**|Wenxuan Zhu et.al.|[2410.16587](http://arxiv.org/abs/2410.16587)|null|
-|**2024-10-21**|**Undulated 2D materials as a platform for large Rashba spin-splitting and persistent spin-helix states**|Sunny Gupta et.al.|[2410.16242](http://arxiv.org/abs/2410.16242)|null|
-|**2024-10-20**|**Robust topological interface states in a lateral magnetic-topological heterostructure**|Qun Niu et.al.|[2410.15292](http://arxiv.org/abs/2410.15292)|null|
-|**2024-10-17**|**A multi-detector neutral helium atom microscope**|Chenyang Zhao et.al.|[2410.13955](http://arxiv.org/abs/2410.13955)|null|
 
-<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
