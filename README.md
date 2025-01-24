@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.23
+## Updated on 2025.01.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-18**|**High-Throughput, Energy-Efficient RRAM-Based In-Memory Computing LPN Accelerator**|Hao Yue et.al.|[2501.10702](http://arxiv.org/abs/2501.10702)|null|
+|**2025-01-23**|**High-Throughput, Energy-Efficient RRAM-Based In-Memory Computing LPN Accelerator**|Hao Yue et.al.|[2501.10702](http://arxiv.org/abs/2501.10702)|null|
 |**2025-01-03**|**GRAMC: General-purpose and reconfigurable analog matrix computing architecture**|Lunshuai Pan et.al.|[2501.01586](http://arxiv.org/abs/2501.01586)|null|
 |**2024-12-17**|**Investigating the Effect of Electrical and Thermal Transport Properties on Oxide-Based Memristors Performance and Reliability**|Armin Gooran-Shoorakchaly et.al.|[2412.12450](http://arxiv.org/abs/2412.12450)|null|
 |**2024-10-27**|**The maximum storage capacity of open-loop written RRAM is around 4 bits**|Yongxiang Li et.al.|[2410.20332](http://arxiv.org/abs/2410.20332)|null|
@@ -119,12 +119,13 @@
 |**2021-02-02**|**Enabling Lower-Power Charge-Domain Nonvolatile In-Memory Computing with Ferroelectric FETs**|Guodong Yin et.al.|[2102.01442](http://arxiv.org/abs/2102.01442)|null|
 |**2021-01-24**|**Dynamic Ternary Content-Addressable Memory Is Indeed Promising: Design and Benchmarking Using Nanoelectromechanical Relays**|Hongtao Zhong et.al.|[2101.06375](http://arxiv.org/abs/2101.06375)|null|
 
-<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-23**|**Liquid Metal-Exfoliated SnO $_2$ -Based Mixed-dimensional Heterostructures for Visible-to-Near-Infrared Photodetection**|Shimul Kanti Nath et.al.|[2501.13378](http://arxiv.org/abs/2501.13378)|null|
 |**2025-01-21**|**Nanoscale functionalization of MoS $_2$ monolayers with DNA origami**|Shen Zhao et.al.|[2501.12029](http://arxiv.org/abs/2501.12029)|null|
 |**2025-01-21**|**Unusual magnetic order, field induced melting and role of spin-lattice coupling in 2D Van der Waals materials: a case study of CrSiTe3**|Smita Gohil et.al.|[2501.12019](http://arxiv.org/abs/2501.12019)|null|
 |**2025-01-20**|**Strain induced topological phase transitions in split and line graphs of bipartite lattices featuring flat bands**|Shivam Sharma et.al.|[2501.11783](http://arxiv.org/abs/2501.11783)|null|
@@ -224,9 +225,8 @@
 |**2024-10-23**|**Deterministic formation of carbon-functionalized quantum emitters in hexagonal boron nitride**|Manlin Luo et.al.|[2410.17653](http://arxiv.org/abs/2410.17653)|null|
 |**2024-10-23**|**Undulation-induced moiré superlattices with 1D polarization domains and 1D flat bands in 2D bilayer semiconductors**|Xingfu Li et.al.|[2410.17548](http://arxiv.org/abs/2410.17548)|null|
 |**2024-10-22**|**Telecom-wavelength Single-photon Emitters in Multi-layer InSe**|Huan Zhao et.al.|[2410.17354](http://arxiv.org/abs/2410.17354)|null|
-|**2024-10-22**|**Data-efficient 4D-STEM in SEM: Beyond 2D Materials to Metallic Materials**|Ujjval Bansal et.al.|[2410.17206](http://arxiv.org/abs/2410.17206)|null|
 
-<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
