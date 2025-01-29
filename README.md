@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.28
+## Updated on 2025.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2021-02-02**|**Enabling Lower-Power Charge-Domain Nonvolatile In-Memory Computing with Ferroelectric FETs**|Guodong Yin et.al.|[2102.01442](http://arxiv.org/abs/2102.01442)|null|
 |**2021-01-24**|**Dynamic Ternary Content-Addressable Memory Is Indeed Promising: Design and Benchmarking Using Nanoelectromechanical Relays**|Hongtao Zhong et.al.|[2101.06375](http://arxiv.org/abs/2101.06375)|null|
 
-<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -226,7 +226,7 @@
 |**2024-10-24**|**Experimental observation of spin defects in van der Waals material GeS $_2$**|W. Liu et.al.|[2410.18892](http://arxiv.org/abs/2410.18892)|null|
 |**2024-10-24**|**Scanning tables for the layer groups**|Bernard Field et.al.|[2410.18750](http://arxiv.org/abs/2410.18750)|**[link](https://github.com/Griffin-Group/scanning-tables-layer-group-data)**|
 
-<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
