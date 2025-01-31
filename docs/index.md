@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.30
+## Updated on 2025.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -18,7 +18,7 @@ layout: default
 |**2025-01-03**|**GRAMC: General-purpose and reconfigurable analog matrix computing architecture**|Lunshuai Pan et.al.|[2501.01586](http://arxiv.org/abs/2501.01586)|null|
 |**2024-12-17**|**Investigating the Effect of Electrical and Thermal Transport Properties on Oxide-Based Memristors Performance and Reliability**|Armin Gooran-Shoorakchaly et.al.|[2412.12450](http://arxiv.org/abs/2412.12450)|null|
 |**2024-10-27**|**The maximum storage capacity of open-loop written RRAM is around 4 bits**|Yongxiang Li et.al.|[2410.20332](http://arxiv.org/abs/2410.20332)|null|
-|**2024-10-04**|**A 9T4R RRAM-Based ACAM for Analogue Template Matching at the Edge**|Georgios Papandroulidakis et.al.|[2410.03414](http://arxiv.org/abs/2410.03414)|null|
+|**2025-01-30**|**A 9T4R RRAM-Based ACAM for Analogue Template Matching at the Edge**|Georgios Papandroulidakis et.al.|[2410.03414](http://arxiv.org/abs/2410.03414)|null|
 |**2024-09-27**|**RNC: Efficient RRAM-aware NAS and Compilation for DNNs on Resource-Constrained Edge Devices**|Kam Chi Loong et.al.|[2409.18841](http://arxiv.org/abs/2409.18841)|**[link](https://github.com/archiiii/rram_nas_comp_pack)**|
 |**2024-09-26**|**Scanning Thermal Microscopy method for self-heating in non-linear devices and application to current filaments in resistive RAM**|Nele Harnack et.al.|[2409.18210](http://arxiv.org/abs/2409.18210)|null|
 |**2024-09-09**|**Hardware Acceleration of Kolmogorov-Arnold Network (KAN) for Lightweight Edge Inference**|Wei-Hsing Huang et.al.|[2409.11418](http://arxiv.org/abs/2409.11418)|null|
@@ -60,7 +60,7 @@ layout: default
 |**2023-05-01**|**Integrated Architecture for Neural Networks and Security Primitives using RRAM Crossbar**|Simranjeet Singh et.al.|[2304.13531](http://arxiv.org/abs/2304.13531)|null|
 |**2023-09-30**|**Studies of two-dimensional material resistive random-access memory by kinetic Monte Carlo simulations**|Ying-Chuan Chen et.al.|[2304.11345](http://arxiv.org/abs/2304.11345)|null|
 |**2023-04-04**|**Thermal Crosstalk Analysis in RRAM Passive Crossbar Arrays**|Shubham Pande et.al.|[2304.01439](http://arxiv.org/abs/2304.01439)|null|
-|**2025-01-21**|**An RRAM-Based Implementation of a Template Matching Circuit for Low-Power Analogue Classification**|Patrick Foster et.al.|[2303.02651](http://arxiv.org/abs/2303.02651)|null|
+|**2025-01-30**|**An RRAM-Based Implementation of a Template Matching Circuit for Low-Power Analogue Classification**|Patrick Foster et.al.|[2303.02651](http://arxiv.org/abs/2303.02651)|null|
 |**2023-02-20**|**Variation Enhanced Attacks Against RRAM-based Neuromorphic Computing System**|Hao Lv et.al.|[2302.09902](http://arxiv.org/abs/2302.09902)|null|
 |**2023-01-20**|**A Fully Digital Relaxation-Aware Analog Programming Technique for HfOx RRAM Arrays**|Hamidreza Erfanijazi et.al.|[2301.08516](http://arxiv.org/abs/2301.08516)|null|
 |**2022-12-29**|**Stateful Logic using Phase Change Memory**|Barak Hoffer et.al.|[2212.14377](http://arxiv.org/abs/2212.14377)|null|
@@ -119,6 +119,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Charge state tuning of spin defects in hexagonal boron nitride**|Jules Fraunié et.al.|[2501.18206](http://arxiv.org/abs/2501.18206)|null|
+|**2025-01-30**|**Spin-dependent dark matter scattering in quasi-two-dimensional magnets**|Giacomo Marocco et.al.|[2501.18120](http://arxiv.org/abs/2501.18120)|null|
 |**2025-01-29**|**Anomalous Raman scattering in layered AgCrP $_2$Se$_6$ : Helical modes and excitation energy-dependent intensities**|Rahul Rao et.al.|[2501.17565](http://arxiv.org/abs/2501.17565)|null|
 |**2025-01-28**|**Quantum Geometric Origin of Strain-Tunable Giant Second-Harmonic Generation in Bi $_2$O$_2$ X (X=S, Se, Te)**|Zhefeng Lou et.al.|[2501.16741](http://arxiv.org/abs/2501.16741)|null|
 |**2025-01-26**|**The Impact of Mechanical Strain on Magnetic and Structural Properties of 2D Materials: A Monte Carlo study**|Aytac Celik et.al.|[2501.15626](http://arxiv.org/abs/2501.15626)|null|
@@ -217,8 +219,6 @@ layout: default
 |**2024-10-29**|**Insulating moiré homobilayers lack a threefold symmetric second harmonic generation**|Luis Enrique Rosas-Hernandez et.al.|[2410.22188](http://arxiv.org/abs/2410.22188)|null|
 |**2024-10-29**|**Low-Dimensional Solid-State Single-Photon Emitters**|Jinli Chen et.al.|[2410.22106](http://arxiv.org/abs/2410.22106)|null|
 |**2024-10-28**|**Terahertz Spin-Light Coupling in Proximitized Dirac Materials**|Konstantin S. Denisov et.al.|[2410.21614](http://arxiv.org/abs/2410.21614)|null|
-|**2024-10-28**|**PARPHOM: PARallel PHOnon calculator for Moiré systems**|Shinjan Mandal et.al.|[2410.21075](http://arxiv.org/abs/2410.21075)|null|
-|**2024-10-27**|**Large Scale Raman Spectrum Calculations in Defective 2D Materials using Deep Learning**|Olivier Malenfant-Thuot et.al.|[2410.20417](http://arxiv.org/abs/2410.20417)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
