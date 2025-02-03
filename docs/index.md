@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.02
+## Updated on 2025.02.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-23**|**High-Throughput, Energy-Efficient RRAM-Based In-Memory Computing LPN Accelerator**|Hao Yue et.al.|[2501.10702](http://arxiv.org/abs/2501.10702)|null|
+|**2025-01-31**|**A RRAM_based In_Memory Computing Architecture for Binary Matrix_Vector Multiplication**|Hao Yue et.al.|[2501.10702](http://arxiv.org/abs/2501.10702)|null|
 |**2025-01-03**|**GRAMC: General-purpose and reconfigurable analog matrix computing architecture**|Lunshuai Pan et.al.|[2501.01586](http://arxiv.org/abs/2501.01586)|null|
 |**2024-12-17**|**Investigating the Effect of Electrical and Thermal Transport Properties on Oxide-Based Memristors Performance and Reliability**|Armin Gooran-Shoorakchaly et.al.|[2412.12450](http://arxiv.org/abs/2412.12450)|null|
 |**2024-10-27**|**The maximum storage capacity of open-loop written RRAM is around 4 bits**|Yongxiang Li et.al.|[2410.20332](http://arxiv.org/abs/2410.20332)|null|
