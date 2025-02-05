@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.04
+## Updated on 2025.02.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**Effect of SOI substrate on silicon nitride resistance switching using MIS structure**|A Mavropoulis et.al.|[2502.02119](http://arxiv.org/abs/2502.02119)|null|
+|**2025-02-03**|**Effect of Al2O3 on the operation of SiNX-based MIS RRAMs**|A. E. Mavropoulis et.al.|[2502.01346](http://arxiv.org/abs/2502.01346)|null|
 |**2025-01-31**|**A RRAM_based In_Memory Computing Architecture for Binary Matrix_Vector Multiplication**|Hao Yue et.al.|[2501.10702](http://arxiv.org/abs/2501.10702)|null|
 |**2025-01-03**|**GRAMC: General-purpose and reconfigurable analog matrix computing architecture**|Lunshuai Pan et.al.|[2501.01586](http://arxiv.org/abs/2501.01586)|null|
 |**2024-12-17**|**Investigating the Effect of Electrical and Thermal Transport Properties on Oxide-Based Memristors Performance and Reliability**|Armin Gooran-Shoorakchaly et.al.|[2412.12450](http://arxiv.org/abs/2412.12450)|null|
@@ -112,13 +114,15 @@ layout: default
 |**2022-01-17**|**Evaluation of the Sensitivity of RRAM Cells to Optical Fault Injection Attacks**|Dmytro Petryk et.al.|[2103.12435](http://arxiv.org/abs/2103.12435)|null|
 |**2021-03-17**|**Multi-level resistance switching and random telegraph noise analysis of nitride based memristors**|Nikolaos Vasileiadis et.al.|[2103.09931](http://arxiv.org/abs/2103.09931)|null|
 |**2021-02-07**|**CrossStack: A 3-D Reconfigurable RRAM Crossbar Inference Engine**|Jason K. Eshraghian et.al.|[2102.06536](http://arxiv.org/abs/2102.06536)|null|
-|**2021-02-02**|**Enabling Lower-Power Charge-Domain Nonvolatile In-Memory Computing with Ferroelectric FETs**|Guodong Yin et.al.|[2102.01442](http://arxiv.org/abs/2102.01442)|null|
-|**2021-01-24**|**Dynamic Ternary Content-Addressable Memory Is Indeed Promising: Design and Benchmarking Using Nanoelectromechanical Relays**|Hongtao Zhong et.al.|[2101.06375](http://arxiv.org/abs/2101.06375)|null|
 
 ## 2D MATERIAL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**Fourier-Tailored Light-Matter Coupling in van der Waals Heterostructures**|Dorte R. Danielsen et.al.|[2502.02114](http://arxiv.org/abs/2502.02114)|null|
+|**2025-02-04**|**Enhanced Non-Ohmic Drain Resistance of 2DFETs at Cryogenic Temperature**|Kwok-Ho Wong et.al.|[2502.02101](http://arxiv.org/abs/2502.02101)|null|
+|**2025-02-01**|**Orbital torques and orbital pumping in two-dimensional rare-earth dichalcogenides**|Mahmoud Zeer et.al.|[2502.00449](http://arxiv.org/abs/2502.00449)|null|
+|**2025-02-01**|**Can 2D materials enable passively $Q$ -switched lasers in the nanoscale?**|Thomas Christopoulos et.al.|[2502.00431](http://arxiv.org/abs/2502.00431)|null|
 |**2025-01-30**|**Charge state tuning of spin defects in hexagonal boron nitride**|Jules Fraunié et.al.|[2501.18206](http://arxiv.org/abs/2501.18206)|null|
 |**2025-01-30**|**Spin-dependent dark matter scattering in quasi-two-dimensional magnets**|Giacomo Marocco et.al.|[2501.18120](http://arxiv.org/abs/2501.18120)|null|
 |**2025-01-29**|**Anomalous Raman scattering in layered AgCrP $_2$Se$_6$ : Helical modes and excitation energy-dependent intensities**|Rahul Rao et.al.|[2501.17565](http://arxiv.org/abs/2501.17565)|null|
@@ -195,7 +199,7 @@ layout: default
 |**2024-11-24**|**Mechanical stability conditions for 3D and 2D crystals under arbitrary load**|Marcin Maździarz et.al.|[2411.15918](http://arxiv.org/abs/2411.15918)|null|
 |**2024-11-21**|**Photon drag at the junction between metal and 2d semiconductor**|Dmitry Svintsov et.al.|[2411.14075](http://arxiv.org/abs/2411.14075)|null|
 |**2024-11-20**|**Direct X-Ray Measurements of Strain in Monolayer MoS $_{2}$ from Capping Layers and Geometrical Features**|Kathryn Neilson et.al.|[2411.13658](http://arxiv.org/abs/2411.13658)|null|
-|**2024-11-19**|**Nonlinear optics in 2D materials: from classical to quantum**|Liuxin Gu et.al.|[2411.12905](http://arxiv.org/abs/2411.12905)|null|
+|**2025-02-04**|**Nonlinear optics in 2D materials: from classical to quantum**|Liuxin Gu et.al.|[2411.12905](http://arxiv.org/abs/2411.12905)|null|
 |**2024-11-22**|**Accurate and efficient localized basis sets for two-dimensional materials**|Daniel Bennett et.al.|[2411.12566](http://arxiv.org/abs/2411.12566)|null|
 |**2024-11-17**|**Observation of giant nonlinear Hall conductivity in Bernal bilayer graphene**|Dmitry V. Chichinadze et.al.|[2411.11156](http://arxiv.org/abs/2411.11156)|null|
 |**2024-11-17**|**Direct imprinting of arbitrary spin textures using programmable structured light in a semiconductor two-dimensional electron gas**|Keito Kikuchi et.al.|[2411.10963](http://arxiv.org/abs/2411.10963)|null|
@@ -215,10 +219,6 @@ layout: default
 |**2024-11-04**|**Ultrafast all-optical generation of pure spin and valley currents**|Deepika Gill et.al.|[2411.02371](http://arxiv.org/abs/2411.02371)|null|
 |**2024-11-04**|**Reproducible Monolayer MoS2 Devices Free of Resist Contamination by Gold Mask Lithography**|Yumeng Liu et.al.|[2411.02205](http://arxiv.org/abs/2411.02205)|null|
 |**2024-11-04**|**Defects in graphite engineered by ion implantation for the self-assembly of gold nanoparticles**|Yumeng Liu et.al.|[2411.02204](http://arxiv.org/abs/2411.02204)|null|
-|**2024-11-11**|**Spintwistronics: Photonic bilayer topological lattices tuning extreme spin-orbit interactions**|Peng Shi et.al.|[2411.00645](http://arxiv.org/abs/2411.00645)|null|
-|**2024-10-29**|**Insulating moiré homobilayers lack a threefold symmetric second harmonic generation**|Luis Enrique Rosas-Hernandez et.al.|[2410.22188](http://arxiv.org/abs/2410.22188)|null|
-|**2024-10-29**|**Low-Dimensional Solid-State Single-Photon Emitters**|Jinli Chen et.al.|[2410.22106](http://arxiv.org/abs/2410.22106)|null|
-|**2024-10-28**|**Terahertz Spin-Light Coupling in Proximitized Dirac Materials**|Konstantin S. Denisov et.al.|[2410.21614](http://arxiv.org/abs/2410.21614)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
