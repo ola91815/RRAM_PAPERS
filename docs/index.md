@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.05
+## Updated on 2025.02.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-05**|**Random Telegraph Noise of MIS and MIOS Silicon Nitride memristors at different resistance states**|N Vasileiadis et.al.|[2502.02994](http://arxiv.org/abs/2502.02994)|null|
 |**2025-02-04**|**Effect of SOI substrate on silicon nitride resistance switching using MIS structure**|A Mavropoulis et.al.|[2502.02119](http://arxiv.org/abs/2502.02119)|null|
 |**2025-02-03**|**Effect of Al2O3 on the operation of SiNX-based MIS RRAMs**|A. E. Mavropoulis et.al.|[2502.01346](http://arxiv.org/abs/2502.01346)|null|
 |**2025-01-31**|**A RRAM_based In_Memory Computing Architecture for Binary Matrix_Vector Multiplication**|Hao Yue et.al.|[2501.10702](http://arxiv.org/abs/2501.10702)|null|
@@ -113,12 +114,14 @@ layout: default
 |**2021-04-30**|**Open-Source Memory Compiler for Automatic RRAM Generation and Verification**|Dimitrios Antoniadis et.al.|[2104.14885](http://arxiv.org/abs/2104.14885)|**[link](https://github.com/akdimitri/RRAM_COMPILER)**|
 |**2022-01-17**|**Evaluation of the Sensitivity of RRAM Cells to Optical Fault Injection Attacks**|Dmytro Petryk et.al.|[2103.12435](http://arxiv.org/abs/2103.12435)|null|
 |**2021-03-17**|**Multi-level resistance switching and random telegraph noise analysis of nitride based memristors**|Nikolaos Vasileiadis et.al.|[2103.09931](http://arxiv.org/abs/2103.09931)|null|
-|**2021-02-07**|**CrossStack: A 3-D Reconfigurable RRAM Crossbar Inference Engine**|Jason K. Eshraghian et.al.|[2102.06536](http://arxiv.org/abs/2102.06536)|null|
 
 ## 2D MATERIAL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-05**|**Electronic properties and transport in metal/2D material/metal vertical junctions**|Gaëlle Bigeard et.al.|[2502.03318](http://arxiv.org/abs/2502.03318)|null|
+|**2025-02-05**|**Separation between long- and short-range part of the Coulomb interaction in low dimensional systems: implications for the macroscopic screening length and the collective charge excitations**|Pierluigi Cudazzo et.al.|[2502.03181](http://arxiv.org/abs/2502.03181)|null|
+|**2025-02-05**|**Electronic origin of stability of 2D 1H-phase Janus transition metal dichalcogenides and beyond**|Lei Li et.al.|[2502.02806](http://arxiv.org/abs/2502.02806)|null|
 |**2025-02-04**|**Fourier-Tailored Light-Matter Coupling in van der Waals Heterostructures**|Dorte R. Danielsen et.al.|[2502.02114](http://arxiv.org/abs/2502.02114)|null|
 |**2025-02-04**|**Enhanced Non-Ohmic Drain Resistance of 2DFETs at Cryogenic Temperature**|Kwok-Ho Wong et.al.|[2502.02101](http://arxiv.org/abs/2502.02101)|null|
 |**2025-02-01**|**Orbital torques and orbital pumping in two-dimensional rare-earth dichalcogenides**|Mahmoud Zeer et.al.|[2502.00449](http://arxiv.org/abs/2502.00449)|null|
@@ -216,9 +219,6 @@ layout: default
 |**2024-11-08**|**Vacancy-Induced Quantum Properties in 2D Silicon Carbide: Atomistic insights from semi-local and hybrid DFT calculations**|Abhirup Patra et.al.|[2411.05412](http://arxiv.org/abs/2411.05412)|null|
 |**2025-01-21**|**Rational Design Heterobilayers Photocatalysts for Efficient Water Splitting Based on 2D Transition-Metal Dichalcogenide and Their Janus**|Nguyen Tran Gia Bao et.al.|[2411.03396](http://arxiv.org/abs/2411.03396)|null|
 |**2025-01-15**|**Electron-irradiation effects on monolayer MoS2 at elevated temperatures**|Carsten Speckmann et.al.|[2411.03200](http://arxiv.org/abs/2411.03200)|null|
-|**2024-11-04**|**Ultrafast all-optical generation of pure spin and valley currents**|Deepika Gill et.al.|[2411.02371](http://arxiv.org/abs/2411.02371)|null|
-|**2024-11-04**|**Reproducible Monolayer MoS2 Devices Free of Resist Contamination by Gold Mask Lithography**|Yumeng Liu et.al.|[2411.02205](http://arxiv.org/abs/2411.02205)|null|
-|**2024-11-04**|**Defects in graphite engineered by ion implantation for the self-assembly of gold nanoparticles**|Yumeng Liu et.al.|[2411.02204](http://arxiv.org/abs/2411.02204)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
