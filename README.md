@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.08
+## Updated on 2025.02.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2021-04-30**|**Open-Source Memory Compiler for Automatic RRAM Generation and Verification**|Dimitrios Antoniadis et.al.|[2104.14885](http://arxiv.org/abs/2104.14885)|**[link](https://github.com/akdimitri/RRAM_COMPILER)**|
 |**2022-01-17**|**Evaluation of the Sensitivity of RRAM Cells to Optical Fault Injection Attacks**|Dmytro Petryk et.al.|[2103.12435](http://arxiv.org/abs/2103.12435)|null|
 
-<p align=right>(<a href=#updated-on-20250208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -226,7 +226,7 @@
 |**2024-11-08**|**2D versus 3D-like electrical behavior of MXene thin films: insights from weak localization in the role of thickness, interflake coupling and defects**|Sophia Tangui et.al.|[2411.05461](http://arxiv.org/abs/2411.05461)|null|
 |**2024-11-08**|**Vacancy-Induced Quantum Properties in 2D Silicon Carbide: Atomistic insights from semi-local and hybrid DFT calculations**|Abhirup Patra et.al.|[2411.05412](http://arxiv.org/abs/2411.05412)|null|
 
-<p align=right>(<a href=#updated-on-20250208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
