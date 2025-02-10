@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.09
+## Updated on 2025.02.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,7 +119,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-06**|**Boosting superconductivity: how nanofaceted surfaces transform the ground state of ultrathin YBa $_2$Cu$_3$O$_{7-δ}$ thin films**|E. Wahlberg et.al.|[2502.03986](http://arxiv.org/abs/2502.03986)|null|
+|**2025-02-07**|**Kerr non-linearity enhances the response of a graphene Josephson bolometer**|Joydip Sarkar et.al.|[2502.04911](http://arxiv.org/abs/2502.04911)|null|
+|**2025-02-07**|**Fundamental Factors Governing Stabilization of Janus 2D-Bulk Heterostructures with Machine Learning**|Tara M. Boland et.al.|[2502.04603](http://arxiv.org/abs/2502.04603)|null|
+|**2025-02-07**|**Boosting superconductivity: how nanofaceted surfaces transform the ground state of ultrathin YBa $_2$Cu$_3$O$_{7-δ}$ thin films**|Eric Wahlberg et.al.|[2502.03986](http://arxiv.org/abs/2502.03986)|null|
 |**2025-02-05**|**Polarons and Exciton-Polarons in Two-Dimensional Polar Materials**|V. Shahnazaryan et.al.|[2502.03657](http://arxiv.org/abs/2502.03657)|null|
 |**2025-02-05**|**Electronic properties and transport in metal/2D material/metal vertical junctions**|Gaëlle Bigeard et.al.|[2502.03318](http://arxiv.org/abs/2502.03318)|null|
 |**2025-02-05**|**Separation between long- and short-range part of the Coulomb interaction in low dimensional systems: implications for the macroscopic screening length and the collective charge excitations**|Pierluigi Cudazzo et.al.|[2502.03181](http://arxiv.org/abs/2502.03181)|null|
@@ -217,8 +219,6 @@ layout: default
 |**2024-11-10**|**Multifunctional 2d infrared photodetectors enabled by asymmetric singular metasurfaces**|Valentin Semkin et.al.|[2411.06480](http://arxiv.org/abs/2411.06480)|null|
 |**2024-11-08**|**Predicting Resistive Pulse Signatures in Nanopores by Accurately Modeling Access Regions**|Martin Charron et.al.|[2411.05589](http://arxiv.org/abs/2411.05589)|null|
 |**2024-11-08**|**Gentle tension stabilizes atomically thin metallenes**|Kameyab Raza Abidi et.al.|[2411.05507](http://arxiv.org/abs/2411.05507)|null|
-|**2024-11-08**|**2D versus 3D-like electrical behavior of MXene thin films: insights from weak localization in the role of thickness, interflake coupling and defects**|Sophia Tangui et.al.|[2411.05461](http://arxiv.org/abs/2411.05461)|null|
-|**2024-11-08**|**Vacancy-Induced Quantum Properties in 2D Silicon Carbide: Atomistic insights from semi-local and hybrid DFT calculations**|Abhirup Patra et.al.|[2411.05412](http://arxiv.org/abs/2411.05412)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
