@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.11
+## Updated on 2025.02.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Low-power Spike-based Wearable Analytics on RRAM Crossbars**|Abhiroop Bhattacharjee et.al.|[2502.06736](http://arxiv.org/abs/2502.06736)|null|
+|**2025-02-09**|**Characterization and Mitigation of ADC Noise by Reference Tuning in RRAM-Based Compute-In-Memory**|Ying-Hao Wei et.al.|[2502.05948](http://arxiv.org/abs/2502.05948)|null|
 |**2025-02-06**|**The Role of Tunneling Oxide in the Low Frequency Noise of Multi-level Silicon Nitride ReRAMs**|Nikolaos Vasileiadis et.al.|[2502.03912](http://arxiv.org/abs/2502.03912)|null|
 |**2025-02-05**|**Random Telegraph Noise of MIS and MIOS Silicon Nitride memristors at different resistance states**|N Vasileiadis et.al.|[2502.02994](http://arxiv.org/abs/2502.02994)|null|
 |**2025-02-04**|**Effect of SOI substrate on silicon nitride resistance switching using MIS structure**|A Mavropoulis et.al.|[2502.02119](http://arxiv.org/abs/2502.02119)|null|
@@ -116,15 +118,15 @@
 |**2021-05-13**|**Comprehensive Study of Security and Privacy of Emerging Non-Volatile Memories**|Mohammad Nasim Imtiaz Khan et.al.|[2105.06401](http://arxiv.org/abs/2105.06401)|null|
 |**2021-05-12**|**Statistical Temperature Coefficient Distribution in Analog RRAM Array: Impact on Neuromorphic System and Mitigation Method**|Heng Xu et.al.|[2105.05534](http://arxiv.org/abs/2105.05534)|null|
 |**2021-10-23**|**A Fokker-Planck Approach for Modeling the Stochastic Phenomena in Magnetic and Resistive Random Access Memory Devices**|Debasis Das et.al.|[2105.03691](http://arxiv.org/abs/2105.03691)|null|
-|**2021-04-30**|**Open-Source Memory Compiler for Automatic RRAM Generation and Verification**|Dimitrios Antoniadis et.al.|[2104.14885](http://arxiv.org/abs/2104.14885)|**[link](https://github.com/akdimitri/RRAM_COMPILER)**|
-|**2022-01-17**|**Evaluation of the Sensitivity of RRAM Cells to Optical Fault Injection Attacks**|Dmytro Petryk et.al.|[2103.12435](http://arxiv.org/abs/2103.12435)|null|
 
-<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Anisotropic resonance energy transfer with strained phosphorene**|J. Oliveira-Cony et.al.|[2502.07121](http://arxiv.org/abs/2502.07121)|null|
+|**2025-02-10**|**Brightening dark excitons and trions in systems with a Mexican-hat energy dispersion: example of InSe**|Lewis J. Burke et.al.|[2502.06473](http://arxiv.org/abs/2502.06473)|null|
 |**2025-02-07**|**Kerr non-linearity enhances the response of a graphene Josephson bolometer**|Joydip Sarkar et.al.|[2502.04911](http://arxiv.org/abs/2502.04911)|null|
 |**2025-02-07**|**Fundamental Factors Governing Stabilization of Janus 2D-Bulk Heterostructures with Machine Learning**|Tara M. Boland et.al.|[2502.04603](http://arxiv.org/abs/2502.04603)|null|
 |**2025-02-07**|**Boosting superconductivity: how nanofaceted surfaces transform the ground state of ultrathin YBa $_2$Cu$_3$O$_{7-δ}$ thin films**|Eric Wahlberg et.al.|[2502.03986](http://arxiv.org/abs/2502.03986)|null|
@@ -223,10 +225,8 @@
 |**2024-11-11**|**Multifunctional spintronic transistors: Sub-60 mV/dec switching, non-local GMR, and NDR in spin gapless semiconductor and/or spin gapped metal FETs**|Ersoy Şaşıoğlu et.al.|[2411.07216](http://arxiv.org/abs/2411.07216)|null|
 |**2024-12-03**|**Bilayer construction for mixed state phenomena with strong, weak symmetries and symmetry breakings**|Shuangyuan Lu et.al.|[2411.07174](http://arxiv.org/abs/2411.07174)|null|
 |**2024-11-10**|**Multifunctional 2d infrared photodetectors enabled by asymmetric singular metasurfaces**|Valentin Semkin et.al.|[2411.06480](http://arxiv.org/abs/2411.06480)|null|
-|**2024-11-08**|**Predicting Resistive Pulse Signatures in Nanopores by Accurately Modeling Access Regions**|Martin Charron et.al.|[2411.05589](http://arxiv.org/abs/2411.05589)|null|
-|**2024-11-08**|**Gentle tension stabilizes atomically thin metallenes**|Kameyab Raza Abidi et.al.|[2411.05507](http://arxiv.org/abs/2411.05507)|null|
 
-<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
