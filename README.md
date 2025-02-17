@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-14**|**A Hybrid Edge Classifier: Combining TinyML-Optimised CNN with RRAM-CMOS ACAM for Energy-Efficient Inference**|Kieran Woodward et.al.|[2502.10089](http://arxiv.org/abs/2502.10089)|null|
 |**2025-02-10**|**Low-power Spike-based Wearable Analytics on RRAM Crossbars**|Abhiroop Bhattacharjee et.al.|[2502.06736](http://arxiv.org/abs/2502.06736)|null|
 |**2025-02-09**|**Characterization and Mitigation of ADC Noise by Reference Tuning in RRAM-Based Compute-In-Memory**|Ying-Hao Wei et.al.|[2502.05948](http://arxiv.org/abs/2502.05948)|null|
 |**2025-02-06**|**The Role of Tunneling Oxide in the Low Frequency Noise of Multi-level Silicon Nitride ReRAMs**|Nikolaos Vasileiadis et.al.|[2502.03912](http://arxiv.org/abs/2502.03912)|null|
@@ -117,7 +118,6 @@
 |**2021-05-26**|**Investigation of Forming Free Bipolar Resistive Switching Characteristics in Al/Mn3O4/FTO RRAM Device**|Vidit Pandey et.al.|[2105.12390](http://arxiv.org/abs/2105.12390)|null|
 |**2021-05-13**|**Comprehensive Study of Security and Privacy of Emerging Non-Volatile Memories**|Mohammad Nasim Imtiaz Khan et.al.|[2105.06401](http://arxiv.org/abs/2105.06401)|null|
 |**2021-05-12**|**Statistical Temperature Coefficient Distribution in Analog RRAM Array: Impact on Neuromorphic System and Mitigation Method**|Heng Xu et.al.|[2105.05534](http://arxiv.org/abs/2105.05534)|null|
-|**2021-10-23**|**A Fokker-Planck Approach for Modeling the Stochastic Phenomena in Magnetic and Resistive Random Access Memory Devices**|Debasis Das et.al.|[2105.03691](http://arxiv.org/abs/2105.03691)|null|
 
 <p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
 
