@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.17
+## Updated on 2025.02.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Identification of Polytypism and Their Dislocations in Bilayer MoS2 Using Correlative Transmission Electron Microscopy and Raman Spectroscopy**|Xin Zhou et.al.|[2502.11977](http://arxiv.org/abs/2502.11977)|null|
+|**2025-02-17**|**Single-Molecule Water Motion on h-BN and Graphene: A Paradigm Shift in Understanding the Behaviour of Water on 2D Material Interfaces**|Philipp Seiler et.al.|[2502.11944](http://arxiv.org/abs/2502.11944)|null|
+|**2025-02-17**|**Uncovering the atomic structure of substitutional platinum dopants in MoS $_2$ with single-sideband ptychography**|David Lamprecht et.al.|[2502.11912](http://arxiv.org/abs/2502.11912)|null|
+|**2025-02-17**|**When Adiabaticity Is Not Enough to Study Topological Phases in Solid-State Physics: Comparing the Berry and Aharonov-Anandan Phases in 2D Materials**|Abdiel de Jesús Espinosa-Champo et.al.|[2502.11875](http://arxiv.org/abs/2502.11875)|null|
+|**2025-02-17**|**Exploring Novel 2D Analogues of Goldene: Electronic, Mechanical, and Optical Properties of Silverene and Copperene**|Emanuel J. A. dos Santos et.al.|[2502.11810](http://arxiv.org/abs/2502.11810)|null|
+|**2025-02-17**|**Computational Study of Magnetic Behaviour in Ni-Adsorbed Nb2C-OF MXene using Density Functional Theory**|Zarah Khan et.al.|[2502.11543](http://arxiv.org/abs/2502.11543)|null|
+|**2025-02-16**|**Imaging current flow and injection in scalable graphene devices through NV-magnetometry**|Kaj Dockx et.al.|[2502.11076](http://arxiv.org/abs/2502.11076)|null|
+|**2025-02-16**|**Organometallic-Inorganic Hybrid MXenes with Tunable Superconductivity**|Qi Fan et.al.|[2502.11035](http://arxiv.org/abs/2502.11035)|null|
+|**2025-02-16**|**Anisotropic Schottky-barrier-height in high-symmetry 2D WSe $_2$ : Momentum-space anisotropy**|Nuo Xu et.al.|[2502.11005](http://arxiv.org/abs/2502.11005)|null|
+|**2025-02-15**|**Two-Dimensional Material Based Photodetector for Near Infrared Detection**|Farhad Larki et.al.|[2502.10680](http://arxiv.org/abs/2502.10680)|null|
 |**2025-02-10**|**Anisotropic resonance energy transfer with strained phosphorene**|J. Oliveira-Cony et.al.|[2502.07121](http://arxiv.org/abs/2502.07121)|null|
 |**2025-02-10**|**Brightening dark excitons and trions in systems with a Mexican-hat energy dispersion: example of InSe**|Lewis J. Burke et.al.|[2502.06473](http://arxiv.org/abs/2502.06473)|null|
 |**2025-02-07**|**Kerr non-linearity enhances the response of a graphene Josephson bolometer**|Joydip Sarkar et.al.|[2502.04911](http://arxiv.org/abs/2502.04911)|null|
@@ -144,7 +154,7 @@ layout: default
 |**2025-01-23**|**Liquid Metal-Exfoliated SnO $_2$ -Based Mixed-dimensional Heterostructures for Visible-to-Near-Infrared Photodetection**|Shimul Kanti Nath et.al.|[2501.13378](http://arxiv.org/abs/2501.13378)|null|
 |**2025-01-21**|**Nanoscale functionalization of MoS $_2$ monolayers with DNA origami**|Shen Zhao et.al.|[2501.12029](http://arxiv.org/abs/2501.12029)|null|
 |**2025-01-21**|**Unusual magnetic order, field induced melting and role of spin-lattice coupling in 2D Van der Waals materials: a case study of CrSiTe3**|Smita Gohil et.al.|[2501.12019](http://arxiv.org/abs/2501.12019)|null|
-|**2025-01-20**|**Strain induced topological phase transitions in split and line graphs of bipartite lattices featuring flat bands**|Shivam Sharma et.al.|[2501.11783](http://arxiv.org/abs/2501.11783)|null|
+|**2025-02-16**|**Strain induced topological phase transitions in split and line graphs of bipartite lattices featuring flat bands**|Shivam Sharma et.al.|[2501.11783](http://arxiv.org/abs/2501.11783)|null|
 |**2025-01-20**|**High-throughput calculations of two-dimensional auxetic $M_4X_8$ with magnetism, electrocatalysis, and alkali metal battery applications**|Haidi Wang et.al.|[2501.11242](http://arxiv.org/abs/2501.11242)|null|
 |**2025-01-17**|**Second harmonic generation in silicon nitride waveguides integrated with MoS $_2$ monolayers: the importance of a full vectorial modeling**|Mohd Rehan et.al.|[2501.10575](http://arxiv.org/abs/2501.10575)|null|
 |**2025-01-16**|**Which chromium-sulfur compounds exist as 2D material?**|Affan Safeer et.al.|[2501.09510](http://arxiv.org/abs/2501.09510)|null|
@@ -209,16 +219,6 @@ layout: default
 |**2024-11-21**|**Photon drag at the junction between metal and 2d semiconductor**|Dmitry Svintsov et.al.|[2411.14075](http://arxiv.org/abs/2411.14075)|null|
 |**2024-11-20**|**Direct X-Ray Measurements of Strain in Monolayer MoS $_{2}$ from Capping Layers and Geometrical Features**|Kathryn Neilson et.al.|[2411.13658](http://arxiv.org/abs/2411.13658)|null|
 |**2025-02-04**|**Nonlinear optics in 2D materials: from classical to quantum**|Liuxin Gu et.al.|[2411.12905](http://arxiv.org/abs/2411.12905)|null|
-|**2024-11-22**|**Accurate and efficient localized basis sets for two-dimensional materials**|Daniel Bennett et.al.|[2411.12566](http://arxiv.org/abs/2411.12566)|null|
-|**2024-11-17**|**Observation of giant nonlinear Hall conductivity in Bernal bilayer graphene**|Dmitry V. Chichinadze et.al.|[2411.11156](http://arxiv.org/abs/2411.11156)|null|
-|**2024-11-17**|**Direct imprinting of arbitrary spin textures using programmable structured light in a semiconductor two-dimensional electron gas**|Keito Kikuchi et.al.|[2411.10963](http://arxiv.org/abs/2411.10963)|null|
-|**2024-11-16**|**Effect of Hubbard U corrections on the electronic and magnetic properties of 2D materials: A high-throughput study**|Sahar Pakdel et.al.|[2411.10790](http://arxiv.org/abs/2411.10790)|null|
-|**2024-11-14**|**2D Theoretically Twistable Material Database**|Yi Jiang et.al.|[2411.09741](http://arxiv.org/abs/2411.09741)|null|
-|**2024-11-13**|**Two-dimensional Topological Quantum Chemistry and Catalog of Topological Materials**|Urko Petralanda et.al.|[2411.08950](http://arxiv.org/abs/2411.08950)|null|
-|**2024-11-12**|**Two-dimensional room temperature ferromagnetic semiconductors**|Jia-Wen Li et.al.|[2411.07614](http://arxiv.org/abs/2411.07614)|null|
-|**2024-11-11**|**Multifunctional spintronic transistors: Sub-60 mV/dec switching, non-local GMR, and NDR in spin gapless semiconductor and/or spin gapped metal FETs**|Ersoy Şaşıoğlu et.al.|[2411.07216](http://arxiv.org/abs/2411.07216)|null|
-|**2024-12-03**|**Bilayer construction for mixed state phenomena with strong, weak symmetries and symmetry breakings**|Shuangyuan Lu et.al.|[2411.07174](http://arxiv.org/abs/2411.07174)|null|
-|**2024-11-10**|**Multifunctional 2d infrared photodetectors enabled by asymmetric singular metasurfaces**|Valentin Semkin et.al.|[2411.06480](http://arxiv.org/abs/2411.06480)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
