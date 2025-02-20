@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.19
+## Updated on 2025.02.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Symmetries at the Anderson transition of correlated two-dimensional electrons**|Mathieu Lizée et.al.|[2502.13878](http://arxiv.org/abs/2502.13878)|null|
+|**2025-02-19**|**Enhancement of temperature of quantum anomalous Hall effect in two-dimensional germanene/magnetic semiconductor heterostructures**|Qing-Han Yang et.al.|[2502.13355](http://arxiv.org/abs/2502.13355)|null|
+|**2025-02-18**|**2D Layered Heterojunctions for Photoelectrocatalysis**|Mengjiao Wang et.al.|[2502.12705](http://arxiv.org/abs/2502.12705)|null|
 |**2025-02-17**|**Identification of Polytypism and Their Dislocations in Bilayer MoS2 Using Correlative Transmission Electron Microscopy and Raman Spectroscopy**|Xin Zhou et.al.|[2502.11977](http://arxiv.org/abs/2502.11977)|null|
 |**2025-02-17**|**Single-Molecule Water Motion on h-BN and Graphene: A Paradigm Shift in Understanding the Behaviour of Water on 2D Material Interfaces**|Philipp Seiler et.al.|[2502.11944](http://arxiv.org/abs/2502.11944)|null|
 |**2025-02-17**|**Uncovering the atomic structure of substitutional platinum dopants in MoS $_2$ with single-sideband ptychography**|David Lamprecht et.al.|[2502.11912](http://arxiv.org/abs/2502.11912)|null|
@@ -216,9 +219,6 @@ layout: default
 |**2024-11-25**|**Characterization of Silicon Carbide Biphenylene Network through G0W0-BSE Calculations**|Arushi Singh et.al.|[2411.16520](http://arxiv.org/abs/2411.16520)|null|
 |**2024-11-25**|**Electron Channelling Contrast SEM Imaging of Twist Domains in Transition Metal Dichalcogenide Heterostructures**|Evan Tillotson et.al.|[2411.16248](http://arxiv.org/abs/2411.16248)|null|
 |**2024-11-24**|**Mechanical stability conditions for 3D and 2D crystals under arbitrary load**|Marcin Maździarz et.al.|[2411.15918](http://arxiv.org/abs/2411.15918)|null|
-|**2024-11-21**|**Photon drag at the junction between metal and 2d semiconductor**|Dmitry Svintsov et.al.|[2411.14075](http://arxiv.org/abs/2411.14075)|null|
-|**2024-11-20**|**Direct X-Ray Measurements of Strain in Monolayer MoS $_{2}$ from Capping Layers and Geometrical Features**|Kathryn Neilson et.al.|[2411.13658](http://arxiv.org/abs/2411.13658)|null|
-|**2025-02-04**|**Nonlinear optics in 2D materials: from classical to quantum**|Liuxin Gu et.al.|[2411.12905](http://arxiv.org/abs/2411.12905)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
