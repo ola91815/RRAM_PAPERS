@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,14 @@
 |**2021-05-13**|**Comprehensive Study of Security and Privacy of Emerging Non-Volatile Memories**|Mohammad Nasim Imtiaz Khan et.al.|[2105.06401](http://arxiv.org/abs/2105.06401)|null|
 |**2021-05-12**|**Statistical Temperature Coefficient Distribution in Analog RRAM Array: Impact on Neuromorphic System and Mitigation Method**|Heng Xu et.al.|[2105.05534](http://arxiv.org/abs/2105.05534)|null|
 
-<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**Exploring the Interaction of BeS Monolayer and Lung Disease Biomarkers: Potential Material for Biosensing Applications**|Sudipta Saha et.al.|[2502.17302](http://arxiv.org/abs/2502.17302)|null|
+|**2025-02-22**|**Klein Tunneling and Fabry-Pérot Resonances in Twisted Bilayer Graphene**|Ayoub Bahlaoui et.al.|[2502.16183](http://arxiv.org/abs/2502.16183)|null|
 |**2025-02-19**|**Symmetries at the Anderson transition of correlated two-dimensional electrons**|Mathieu Lizée et.al.|[2502.13878](http://arxiv.org/abs/2502.13878)|null|
 |**2025-02-19**|**Enhancement of temperature of quantum anomalous Hall effect in two-dimensional germanene/magnetic semiconductor heterostructures**|Qing-Han Yang et.al.|[2502.13355](http://arxiv.org/abs/2502.13355)|null|
 |**2025-02-18**|**2D Layered Heterojunctions for Photoelectrocatalysis**|Mengjiao Wang et.al.|[2502.12705](http://arxiv.org/abs/2502.12705)|null|
@@ -223,10 +225,8 @@
 |**2024-12-02**|**Advances and Challenges of Hexagonal Boron Nitride-based Anticorrosion Coatings**|Onurcan Kaya et.al.|[2412.01220](http://arxiv.org/abs/2412.01220)|null|
 |**2024-11-30**|**Universal Moiré Buckling of Freestanding 2D Bilayers**|Jin Wang et.al.|[2412.00434](http://arxiv.org/abs/2412.00434)|null|
 |**2024-11-25**|**Characterization of Silicon Carbide Biphenylene Network through G0W0-BSE Calculations**|Arushi Singh et.al.|[2411.16520](http://arxiv.org/abs/2411.16520)|null|
-|**2024-11-25**|**Electron Channelling Contrast SEM Imaging of Twist Domains in Transition Metal Dichalcogenide Heterostructures**|Evan Tillotson et.al.|[2411.16248](http://arxiv.org/abs/2411.16248)|null|
-|**2024-11-24**|**Mechanical stability conditions for 3D and 2D crystals under arbitrary load**|Marcin Maździarz et.al.|[2411.15918](http://arxiv.org/abs/2411.15918)|null|
 
-<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
