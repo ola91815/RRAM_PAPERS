@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.26
+## Updated on 2025.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,18 @@
 |**2021-05-13**|**Comprehensive Study of Security and Privacy of Emerging Non-Volatile Memories**|Mohammad Nasim Imtiaz Khan et.al.|[2105.06401](http://arxiv.org/abs/2105.06401)|null|
 |**2021-05-12**|**Statistical Temperature Coefficient Distribution in Analog RRAM Array: Impact on Neuromorphic System and Mitigation Method**|Heng Xu et.al.|[2105.05534](http://arxiv.org/abs/2105.05534)|null|
 
-<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Exchange Coupling Modulation in MN4-Embedded Graphene Layers (M=Mn, Fe, Co, Cu) Under Strain**|Mahnaz Rezaei et.al.|[2502.18897](http://arxiv.org/abs/2502.18897)|null|
+|**2025-02-26**|**Engineering MoS2-MoTe2 Heterojunctions: Enhancing Piezoresponse and Rectification**|Sai Saraswathi Yarajena et.al.|[2502.18884](http://arxiv.org/abs/2502.18884)|null|
+|**2025-02-25**|**Coexisting Triferroic and Multiple Types of Valley Polarization by Structural Phase Transition in Two-Dimensional Materials**|Chao Wu et.al.|[2502.18190](http://arxiv.org/abs/2502.18190)|null|
+|**2025-02-25**|**Distributed Current Injection into a 1D Ballistic Edge Channel**|Kristof Moors et.al.|[2502.17995](http://arxiv.org/abs/2502.17995)|null|
+|**2025-02-25**|**Scalable, universal and conformal direct electrodes microprinting for high-performance van der Waals-integrated two-dimensional electronics and flexible applications**|Nan Cui et.al.|[2502.17861](http://arxiv.org/abs/2502.17861)|null|
+|**2025-02-25**|**Ultralow-temperature ultrafast synthesis of wafer-scale single-crystalline graphene via metal-assisted graphitization of silicon-carbide**|Se H. Kim et.al.|[2502.17799](http://arxiv.org/abs/2502.17799)|null|
 |**2025-02-24**|**Exploring the Interaction of BeS Monolayer and Lung Disease Biomarkers: Potential Material for Biosensing Applications**|Sudipta Saha et.al.|[2502.17302](http://arxiv.org/abs/2502.17302)|null|
 |**2025-02-22**|**Klein Tunneling and Fabry-Pérot Resonances in Twisted Bilayer Graphene**|Ayoub Bahlaoui et.al.|[2502.16183](http://arxiv.org/abs/2502.16183)|null|
 |**2025-02-19**|**Symmetries at the Anderson transition of correlated two-dimensional electrons**|Mathieu Lizée et.al.|[2502.13878](http://arxiv.org/abs/2502.13878)|null|
@@ -219,14 +225,8 @@
 |**2024-12-04**|**The morphology and interface structure of titanium on graphene**|Joachim Dahl Thomsen et.al.|[2412.03480](http://arxiv.org/abs/2412.03480)|null|
 |**2024-12-04**|**Proposal for Superconducting Photodiode**|A. V. Parafilo et.al.|[2412.03087](http://arxiv.org/abs/2412.03087)|null|
 |**2024-12-04**|**Synthesis of metalloborophene nanoribbons on Cu(110)**|Xiao-Ji Weng et.al.|[2412.02992](http://arxiv.org/abs/2412.02992)|null|
-|**2024-12-02**|**Moire magnetism in CrBr3 multilayers emerging from differential strain**|Fengrui Yao et.al.|[2412.01658](http://arxiv.org/abs/2412.01658)|null|
-|**2024-12-02**|**Electronic correlations in epitaxial graphene: Mott states proximitized to a relativistic electron gas**|Chitran Ghosal et.al.|[2412.01329](http://arxiv.org/abs/2412.01329)|null|
-|**2024-12-02**|**Light-matter interactions in layered materials and heterostructures: from moiré physics and magneto-optical effects to ultrafast dynamics and hybrid meta-photonics**|Luca Sortino et.al.|[2412.01252](http://arxiv.org/abs/2412.01252)|null|
-|**2024-12-02**|**Advances and Challenges of Hexagonal Boron Nitride-based Anticorrosion Coatings**|Onurcan Kaya et.al.|[2412.01220](http://arxiv.org/abs/2412.01220)|null|
-|**2024-11-30**|**Universal Moiré Buckling of Freestanding 2D Bilayers**|Jin Wang et.al.|[2412.00434](http://arxiv.org/abs/2412.00434)|null|
-|**2024-11-25**|**Characterization of Silicon Carbide Biphenylene Network through G0W0-BSE Calculations**|Arushi Singh et.al.|[2411.16520](http://arxiv.org/abs/2411.16520)|null|
 
-<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
