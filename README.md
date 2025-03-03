@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.02
+## Updated on 2025.03.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,14 @@
 |**2021-05-26**|**Investigation of Forming Free Bipolar Resistive Switching Characteristics in Al/Mn3O4/FTO RRAM Device**|Vidit Pandey et.al.|[2105.12390](http://arxiv.org/abs/2105.12390)|null|
 |**2021-05-13**|**Comprehensive Study of Security and Privacy of Emerging Non-Volatile Memories**|Mohammad Nasim Imtiaz Khan et.al.|[2105.06401](http://arxiv.org/abs/2105.06401)|null|
 
-<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**Multiple magnetic states, valley electronics, and topological phase transitions in two-dimensional Janus XYZH (X = Sc, Y, La, Y = Cl, Br, I, and Z = S, Se, Te): From monolayers to bilayers**|Xinyu Tian et.al.|[2502.21135](http://arxiv.org/abs/2502.21135)|null|
+|**2025-02-28**|**Theory of Slidetronics in Ferroelectric van der Waals Layers**|Byeoksong Lee et.al.|[2502.20832](http://arxiv.org/abs/2502.20832)|null|
 |**2025-02-26**|**Exchange Coupling Modulation in MN4-Embedded Graphene Layers (M=Mn, Fe, Co, Cu) Under Strain**|Mahnaz Rezaei et.al.|[2502.18897](http://arxiv.org/abs/2502.18897)|null|
 |**2025-02-26**|**Engineering MoS $_2$-MoTe$_2$ Heterojunctions: Enhancing Piezoresponse and Rectification**|Sai Saraswathi Yarajena et.al.|[2502.18884](http://arxiv.org/abs/2502.18884)|null|
 |**2025-02-25**|**Coexisting Triferroic and Multiple Types of Valley Polarization by Structural Phase Transition in Two-Dimensional Materials**|Chao Wu et.al.|[2502.18190](http://arxiv.org/abs/2502.18190)|null|
@@ -223,10 +225,8 @@
 |**2024-12-06**|**Solid-state qubits in moire superlattices**|Zhigang Song et.al.|[2412.04904](http://arxiv.org/abs/2412.04904)|null|
 |**2024-12-04**|**The Role of Chalcogen Vacancies in Single Photon Emission from Monolayer Tungsten Dichalcogenides**|S. Carin Gavin et.al.|[2412.03686](http://arxiv.org/abs/2412.03686)|null|
 |**2024-12-04**|**The morphology and interface structure of titanium on graphene**|Joachim Dahl Thomsen et.al.|[2412.03480](http://arxiv.org/abs/2412.03480)|null|
-|**2024-12-04**|**Proposal for Superconducting Photodiode**|A. V. Parafilo et.al.|[2412.03087](http://arxiv.org/abs/2412.03087)|null|
-|**2024-12-04**|**Synthesis of metalloborophene nanoribbons on Cu(110)**|Xiao-Ji Weng et.al.|[2412.02992](http://arxiv.org/abs/2412.02992)|null|
 
-<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
