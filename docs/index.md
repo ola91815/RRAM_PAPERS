@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.04
+## Updated on 2025.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-27**|**HaLoRA: Hardware-aware Low-Rank Adaptation for Large Language Models Based on Hybrid Compute-in-Memory Architecture**|Taiqiang Wu et.al.|[2502.19747](http://arxiv.org/abs/2502.19747)|null|
+|**2025-03-04**|**HaLoRA: Hardware-aware Low-Rank Adaptation for Large Language Models Based on Hybrid Compute-in-Memory Architecture**|Taiqiang Wu et.al.|[2502.19747](http://arxiv.org/abs/2502.19747)|null|
 |**2025-02-14**|**A Hybrid Edge Classifier: Combining TinyML-Optimised CNN with RRAM-CMOS ACAM for Energy-Efficient Inference**|Kieran Woodward et.al.|[2502.10089](http://arxiv.org/abs/2502.10089)|null|
 |**2025-02-10**|**Low-power Spike-based Wearable Analytics on RRAM Crossbars**|Abhiroop Bhattacharjee et.al.|[2502.06736](http://arxiv.org/abs/2502.06736)|null|
 |**2025-02-09**|**Characterization and Mitigation of ADC Noise by Reference Tuning in RRAM-Based Compute-In-Memory**|Ying-Hao Wei et.al.|[2502.05948](http://arxiv.org/abs/2502.05948)|null|
@@ -146,7 +146,7 @@ layout: default
 |**2025-02-07**|**Kerr non-linearity enhances the response of a graphene Josephson bolometer**|Joydip Sarkar et.al.|[2502.04911](http://arxiv.org/abs/2502.04911)|null|
 |**2025-02-07**|**Fundamental Factors Governing Stabilization of Janus 2D-Bulk Heterostructures with Machine Learning**|Tara M. Boland et.al.|[2502.04603](http://arxiv.org/abs/2502.04603)|null|
 |**2025-02-07**|**Boosting superconductivity: how nanofaceted surfaces transform the ground state of ultrathin YBa $_2$Cu$_3$O$_{7-δ}$ thin films**|Eric Wahlberg et.al.|[2502.03986](http://arxiv.org/abs/2502.03986)|null|
-|**2025-02-05**|**Polarons and Exciton-Polarons in Two-Dimensional Polar Materials**|V. Shahnazaryan et.al.|[2502.03657](http://arxiv.org/abs/2502.03657)|null|
+|**2025-03-04**|**Polarons and Exciton-Polarons in Two-Dimensional Polar Materials**|V. Shahnazaryan et.al.|[2502.03657](http://arxiv.org/abs/2502.03657)|null|
 |**2025-02-05**|**Electronic properties and transport in metal/2D material/metal vertical junctions**|Gaëlle Bigeard et.al.|[2502.03318](http://arxiv.org/abs/2502.03318)|null|
 |**2025-02-05**|**Separation between long- and short-range part of the Coulomb interaction in low dimensional systems: implications for the macroscopic screening length and the collective charge excitations**|Pierluigi Cudazzo et.al.|[2502.03181](http://arxiv.org/abs/2502.03181)|null|
 |**2025-02-05**|**Electronic origin of stability of 2D 1H-phase Janus transition metal dichalcogenides and beyond**|Lei Li et.al.|[2502.02806](http://arxiv.org/abs/2502.02806)|null|
