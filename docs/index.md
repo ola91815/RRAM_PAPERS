@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.05
+## Updated on 2025.03.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**Spin injection and detection in all-van der Waals 2D devices**|Jan Bärenfänger et.al.|[2503.02471](http://arxiv.org/abs/2503.02471)|null|
+|**2025-03-03**|**Flat bands and temperature-driven phase transition in quasi-one-dimensional zigzag chains**|Jisong Gao et.al.|[2503.01535](http://arxiv.org/abs/2503.01535)|null|
+|**2025-03-02**|**Two-Dimensional Graphene-like BeO Sheet: A Promising Deep-Ultraviolet Nonlinear Optical Materials System with Strong and Highly Tunable Second Harmonic Generation**|Linlin Liu et.al.|[2503.00855](http://arxiv.org/abs/2503.00855)|null|
+|**2025-03-01**|**Rapid morphology characterization of two-dimensional TMDs and lateral heterostructures based on deep learning**|Junqi He et.al.|[2503.00470](http://arxiv.org/abs/2503.00470)|null|
 |**2025-02-28**|**Multiple magnetic states, valley electronics, and topological phase transitions in two-dimensional Janus XYZH (X = Sc, Y, La, Y = Cl, Br, I, and Z = S, Se, Te): From monolayers to bilayers**|Xinyu Tian et.al.|[2502.21135](http://arxiv.org/abs/2502.21135)|null|
 |**2025-02-28**|**Theory of Slidetronics in Ferroelectric van der Waals Layers**|Byeoksong Lee et.al.|[2502.20832](http://arxiv.org/abs/2502.20832)|null|
 |**2025-02-26**|**Engineering MoS $_2$-MoTe$_2$ Heterojunctions: Enhancing Piezoresponse and Rectification**|Sai Saraswathi Yarajena et.al.|[2502.18884](http://arxiv.org/abs/2502.18884)|null|
@@ -215,10 +219,6 @@ layout: default
 |**2025-01-12**|**Study the quantum resolution sizes and atomic bonding states of two-dimensional tin monoxide**|Yu Wang et.al.|[2412.06169](http://arxiv.org/abs/2412.06169)|null|
 |**2024-12-08**|**Reduction in Thermal Conductivity of Monolayer MoS2 by Large Mechanical Strains for Efficient Thermal Management**|Jun Liu et.al.|[2412.06048](http://arxiv.org/abs/2412.06048)|null|
 |**2024-12-08**|**Strain-Induced Decoupling Drives Gold-Assisted Exfoliation of Large-Area Monolayer 2D Crystals**|Jakob Ziewer et.al.|[2412.05898](http://arxiv.org/abs/2412.05898)|null|
-|**2024-12-06**|**Solid-state qubits in moire superlattices**|Zhigang Song et.al.|[2412.04904](http://arxiv.org/abs/2412.04904)|null|
-|**2024-12-04**|**The Role of Chalcogen Vacancies in Single Photon Emission from Monolayer Tungsten Dichalcogenides**|S. Carin Gavin et.al.|[2412.03686](http://arxiv.org/abs/2412.03686)|null|
-|**2024-12-04**|**The morphology and interface structure of titanium on graphene**|Joachim Dahl Thomsen et.al.|[2412.03480](http://arxiv.org/abs/2412.03480)|null|
-|**2024-12-04**|**Proposal for Superconducting Photodiode**|A. V. Parafilo et.al.|[2412.03087](http://arxiv.org/abs/2412.03087)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
