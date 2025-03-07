@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.06
+## Updated on 2025.03.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,14 @@
 |**2021-05-26**|**Investigation of Forming Free Bipolar Resistive Switching Characteristics in Al/Mn3O4/FTO RRAM Device**|Vidit Pandey et.al.|[2105.12390](http://arxiv.org/abs/2105.12390)|null|
 |**2021-05-13**|**Comprehensive Study of Security and Privacy of Emerging Non-Volatile Memories**|Mohammad Nasim Imtiaz Khan et.al.|[2105.06401](http://arxiv.org/abs/2105.06401)|null|
 
-<p align=right>(<a href=#updated-on-20250306>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250307>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Twisted heterobilayer photonic crystal based on stacking and selective etching of 2D materials**|Qing Wang et.al.|[2503.04366](http://arxiv.org/abs/2503.04366)|null|
+|**2025-03-06**|**Unveiling the Oxidation Mechanisms of Octa-Penta Graphene: A Multidimensional Exploration from First-Principles to Machine Learning**|Chenyi Zhou et.al.|[2503.04035](http://arxiv.org/abs/2503.04035)|null|
 |**2025-03-05**|**Spin injection and detection in all-van der Waals 2D devices**|Jan Bärenfänger et.al.|[2503.02471](http://arxiv.org/abs/2503.02471)|null|
 |**2025-03-03**|**Flat bands and temperature-driven phase transition in quasi-one-dimensional zigzag chains**|Jisong Gao et.al.|[2503.01535](http://arxiv.org/abs/2503.01535)|null|
 |**2025-03-02**|**Two-Dimensional Graphene-like BeO Sheet: A Promising Deep-Ultraviolet Nonlinear Optical Materials System with Strong and Highly Tunable Second Harmonic Generation**|Linlin Liu et.al.|[2503.00855](http://arxiv.org/abs/2503.00855)|null|
@@ -223,10 +225,8 @@
 |**2024-12-10**|**Recent progress on the solid-state materials for photocatalysis**|L. D. Tamang et.al.|[2412.07110](http://arxiv.org/abs/2412.07110)|null|
 |**2024-12-09**|**Can Neural Networks Learn Nanoscale Friction?**|Mahboubeh Shabani et.al.|[2412.06677](http://arxiv.org/abs/2412.06677)|null|
 |**2025-01-12**|**Study the quantum resolution sizes and atomic bonding states of two-dimensional tin monoxide**|Yu Wang et.al.|[2412.06169](http://arxiv.org/abs/2412.06169)|null|
-|**2024-12-08**|**Reduction in Thermal Conductivity of Monolayer MoS2 by Large Mechanical Strains for Efficient Thermal Management**|Jun Liu et.al.|[2412.06048](http://arxiv.org/abs/2412.06048)|null|
-|**2024-12-08**|**Strain-Induced Decoupling Drives Gold-Assisted Exfoliation of Large-Area Monolayer 2D Crystals**|Jakob Ziewer et.al.|[2412.05898](http://arxiv.org/abs/2412.05898)|null|
 
-<p align=right>(<a href=#updated-on-20250306>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250307>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
