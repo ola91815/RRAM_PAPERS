@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.08
+## Updated on 2025.03.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2021-05-26**|**Investigation of Forming Free Bipolar Resistive Switching Characteristics in Al/Mn3O4/FTO RRAM Device**|Vidit Pandey et.al.|[2105.12390](http://arxiv.org/abs/2105.12390)|null|
 |**2021-05-13**|**Comprehensive Study of Security and Privacy of Emerging Non-Volatile Memories**|Mohammad Nasim Imtiaz Khan et.al.|[2105.06401](http://arxiv.org/abs/2105.06401)|null|
 
-<p align=right>(<a href=#updated-on-20250308>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250309>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -226,7 +226,7 @@
 |**2024-12-09**|**Can Neural Networks Learn Nanoscale Friction?**|Mahboubeh Shabani et.al.|[2412.06677](http://arxiv.org/abs/2412.06677)|null|
 |**2025-01-12**|**Study the quantum resolution sizes and atomic bonding states of two-dimensional tin monoxide**|Yu Wang et.al.|[2412.06169](http://arxiv.org/abs/2412.06169)|null|
 
-<p align=right>(<a href=#updated-on-20250308>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250309>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
