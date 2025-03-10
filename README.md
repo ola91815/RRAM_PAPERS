@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.09
+## Updated on 2025.03.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,13 @@
 |**2021-05-26**|**Investigation of Forming Free Bipolar Resistive Switching Characteristics in Al/Mn3O4/FTO RRAM Device**|Vidit Pandey et.al.|[2105.12390](http://arxiv.org/abs/2105.12390)|null|
 |**2021-05-13**|**Comprehensive Study of Security and Privacy of Emerging Non-Volatile Memories**|Mohammad Nasim Imtiaz Khan et.al.|[2105.06401](http://arxiv.org/abs/2105.06401)|null|
 
-<p align=right>(<a href=#updated-on-20250309>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**Centrifugation theory revisited: Understanding and modelling the centrifugation of 2D nanosheets**|Stuart Goldie et.al.|[2503.05111](http://arxiv.org/abs/2503.05111)|null|
 |**2025-03-06**|**Twisted heterobilayer photonic crystal based on stacking and selective etching of 2D materials**|Qing Wang et.al.|[2503.04366](http://arxiv.org/abs/2503.04366)|null|
 |**2025-03-06**|**Unveiling the Oxidation Mechanisms of Octa-Penta Graphene: A Multidimensional Exploration from First-Principles to Machine Learning**|Chenyi Zhou et.al.|[2503.04035](http://arxiv.org/abs/2503.04035)|null|
 |**2025-03-05**|**Spin injection and detection in all-van der Waals 2D devices**|Jan Bärenfänger et.al.|[2503.02471](http://arxiv.org/abs/2503.02471)|null|
@@ -172,7 +173,7 @@
 |**2025-01-28**|**Quantum Geometric Origin of Strain-Tunable Giant Second-Harmonic Generation in Bi $_2$O$_2$ X (X=S, Se, Te)**|Zhefeng Lou et.al.|[2501.16741](http://arxiv.org/abs/2501.16741)|null|
 |**2025-01-26**|**The Impact of Mechanical Strain on Magnetic and Structural Properties of 2D Materials: A Monte Carlo study**|Aytac Celik et.al.|[2501.15626](http://arxiv.org/abs/2501.15626)|null|
 |**2025-01-25**|**Unravelling The potential of Hybrid Borocarbonitride Biphenylene 2D Network for Thermoelectric Applications: A First Principles Study**|Ajay Kumar Parbati Senapati et.al.|[2501.15158](http://arxiv.org/abs/2501.15158)|null|
-|**2025-01-24**|**Impact of phonon lifetimes on the single-photon indistinguishability in quantum emitters based on 2D materials**|Alexander Steinhoff et.al.|[2501.14656](http://arxiv.org/abs/2501.14656)|null|
+|**2025-03-07**|**Impact of phonon lifetimes on the single-photon indistinguishability in quantum emitters based on 2D materials**|Alexander Steinhoff et.al.|[2501.14656](http://arxiv.org/abs/2501.14656)|null|
 |**2025-01-24**|**Thermal and dimensional stability of photocatalytic material ZnPS $_3$ under extreme environmental conditions**|Abhishek Mukherjee et.al.|[2501.14252](http://arxiv.org/abs/2501.14252)|null|
 |**2025-02-02**|**Selective enhancement of Coulomb interactions in planar Weyl fermions**|Vadym Apalkov et.al.|[2501.14128](http://arxiv.org/abs/2501.14128)|null|
 |**2025-01-23**|**Liquid Metal-Exfoliated SnO $_2$ -Based Mixed-dimensional Heterostructures for Visible-to-Near-Infrared Photodetection**|Shimul Kanti Nath et.al.|[2501.13378](http://arxiv.org/abs/2501.13378)|null|
@@ -224,9 +225,8 @@
 |**2024-12-11**|**Two-gap superconductivity in a Janus MoSeLi monolayer**|J. Seeyangnok et.al.|[2412.08119](http://arxiv.org/abs/2412.08119)|null|
 |**2024-12-10**|**Recent progress on the solid-state materials for photocatalysis**|L. D. Tamang et.al.|[2412.07110](http://arxiv.org/abs/2412.07110)|null|
 |**2024-12-09**|**Can Neural Networks Learn Nanoscale Friction?**|Mahboubeh Shabani et.al.|[2412.06677](http://arxiv.org/abs/2412.06677)|null|
-|**2025-01-12**|**Study the quantum resolution sizes and atomic bonding states of two-dimensional tin monoxide**|Yu Wang et.al.|[2412.06169](http://arxiv.org/abs/2412.06169)|null|
 
-<p align=right>(<a href=#updated-on-20250309>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
