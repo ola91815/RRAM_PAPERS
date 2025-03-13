@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,15 @@
 |**2021-05-26**|**Investigation of Forming Free Bipolar Resistive Switching Characteristics in Al/Mn3O4/FTO RRAM Device**|Vidit Pandey et.al.|[2105.12390](http://arxiv.org/abs/2105.12390)|null|
 |**2021-05-13**|**Comprehensive Study of Security and Privacy of Emerging Non-Volatile Memories**|Mohammad Nasim Imtiaz Khan et.al.|[2105.06401](http://arxiv.org/abs/2105.06401)|null|
 
-<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250313>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**Moiré-Driven Interfacial Thermal Transport in Twisted Transition Metal Dichalcogenides**|Wenwu Jiang et.al.|[2503.09141](http://arxiv.org/abs/2503.09141)|null|
+|**2025-03-12**|**Ultrafast Optical Control of Multi-Valley States in 2D SnS**|Arqum Hashmi et.al.|[2503.09092](http://arxiv.org/abs/2503.09092)|null|
+|**2025-03-11**|**Observation of Topological Armchair Edge States in Photonic Biphenylene Network**|Qi Zhong et.al.|[2503.08022](http://arxiv.org/abs/2503.08022)|null|
 |**2025-03-10**|**Sum frequency generation from real-time simulations in two-dimensional crystals**|Mike N. Pionteck et.al.|[2503.07095](http://arxiv.org/abs/2503.07095)|null|
 |**2025-03-09**|**LLM-Feynman: Leveraging Large Language Models for Universal Scientific Formula and Theory Discovery**|Zhilong Song et.al.|[2503.06512](http://arxiv.org/abs/2503.06512)|null|
 |**2025-03-08**|**Optical Visualization of Carrier Surfing in 2D Monolayers Driven by Surface Acoustic Waves**|Xueqian Sun et.al.|[2503.06081](http://arxiv.org/abs/2503.06081)|null|
@@ -222,11 +225,8 @@
 |**2024-12-13**|**Winding Berry dipole on uniaxially strained graphene/hBN/hBN moiré trilayers**|Angiolo Huaman et.al.|[2412.10584](http://arxiv.org/abs/2412.10584)|null|
 |**2024-12-13**|**A Simplified Model for Predicting and Designing High-Temperature Ambient-Pressure Superconductors**|Yuting Sun et.al.|[2412.09866](http://arxiv.org/abs/2412.09866)|null|
 |**2024-12-12**|**Blister Test to Measure the Out-of-Plane Shear Modulus of Few-Layer Graphene**|Metehan Calis et.al.|[2412.09615](http://arxiv.org/abs/2412.09615)|null|
-|**2024-12-12**|**MaskTerial: A Foundation Model for Automated 2D Material Flake Detection**|Jan-Lucas Uslu et.al.|[2412.09333](http://arxiv.org/abs/2412.09333)|null|
-|**2024-12-12**|**Emerging Ta $_{4}$C$_{3}$ and Mo$_{2}$Ti$_{2}$C$_{3}$ MXene Nanosheets for Ultrafast Photonics**|Michalis Stavrou et.al.|[2412.09270](http://arxiv.org/abs/2412.09270)|null|
-|**2024-12-11**|**Interacting Virtual Topological Phases in Defect-Rich 2D Materials**|Felipe Crasto de Lima et.al.|[2412.08607](http://arxiv.org/abs/2412.08607)|null|
 
-<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250313>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
