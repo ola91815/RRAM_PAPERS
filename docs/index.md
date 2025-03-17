@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.16
+## Updated on 2025.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Controllable Antiferromagnetic-Ferromagnetic phase transition in monolayer MnPSe3 via atomic adsorption of Li, O, and F**|Dong Liu et.al.|[2503.11442](http://arxiv.org/abs/2503.11442)|null|
 |**2025-03-12**|**Moiré-Driven Interfacial Thermal Transport in Twisted Transition Metal Dichalcogenides**|Wenwu Jiang et.al.|[2503.09141](http://arxiv.org/abs/2503.09141)|null|
 |**2025-03-12**|**Ultrafast Optical Control of Multi-Valley States in 2D SnS**|Arqum Hashmi et.al.|[2503.09092](http://arxiv.org/abs/2503.09092)|null|
 |**2025-03-11**|**Observation of Topological Armchair Edge States in Photonic Biphenylene Network**|Qi Zhong et.al.|[2503.08022](http://arxiv.org/abs/2503.08022)|null|
@@ -218,7 +219,6 @@ layout: default
 |**2024-12-16**|**van der Waals Torque in 2D Materials Induced by Interaction between Many-Body Charge Density Fluctuations**|Zepu Kou et.al.|[2412.11357](http://arxiv.org/abs/2412.11357)|null|
 |**2024-12-13**|**Winding Berry dipole on uniaxially strained graphene/hBN/hBN moiré trilayers**|Angiolo Huaman et.al.|[2412.10584](http://arxiv.org/abs/2412.10584)|null|
 |**2024-12-13**|**A Simplified Model for Predicting and Designing High-Temperature Ambient-Pressure Superconductors**|Yuting Sun et.al.|[2412.09866](http://arxiv.org/abs/2412.09866)|null|
-|**2024-12-12**|**Blister Test to Measure the Out-of-Plane Shear Modulus of Few-Layer Graphene**|Metehan Calis et.al.|[2412.09615](http://arxiv.org/abs/2412.09615)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
