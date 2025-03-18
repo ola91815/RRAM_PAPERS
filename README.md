@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.17
+## Updated on 2025.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,21 @@
 |**2021-05-26**|**Investigation of Forming Free Bipolar Resistive Switching Characteristics in Al/Mn3O4/FTO RRAM Device**|Vidit Pandey et.al.|[2105.12390](http://arxiv.org/abs/2105.12390)|null|
 |**2021-05-13**|**Comprehensive Study of Security and Privacy of Emerging Non-Volatile Memories**|Mohammad Nasim Imtiaz Khan et.al.|[2105.06401](http://arxiv.org/abs/2105.06401)|null|
 
-<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Wannier-Function-Based Approach to Coupled Exciton-Phonon-Photon Dynamics in Two-Dimensional Semiconductors**|Alexander Steinhoff et.al.|[2503.13417](http://arxiv.org/abs/2503.13417)|null|
+|**2025-03-17**|**Engineering robust strain transmission in van der Waals heterostructure devices**|John Cenker et.al.|[2503.12773](http://arxiv.org/abs/2503.12773)|null|
+|**2025-03-17**|**Energy Dispersion, Superconductivity and Magnetic Fluctuations in Stacked Altermagnetism Materials**|Jun Chang et.al.|[2503.12710](http://arxiv.org/abs/2503.12710)|null|
+|**2025-03-16**|**A Universal Raman Spectroscopic Framework for Defect Quantification in Mono-to-Multilayer Graphenic Materials: The Graphene Atlas**|Kazunori Fujisawa et.al.|[2503.12459](http://arxiv.org/abs/2503.12459)|null|
+|**2025-03-16**|**Antiferromagnetic two-dimensional transition-metal nitride Co $_2$N$_2$ layer with high N$\rm \acute{\textbf e}$ el temperature and Dirac fermions**|Lujia Tian et.al.|[2503.12413](http://arxiv.org/abs/2503.12413)|null|
+|**2025-03-15**|**Non-van der Waals Heterostructures**|Anastasiia Nihei et.al.|[2503.12209](http://arxiv.org/abs/2503.12209)|null|
+|**2025-03-15**|**Tunable resonant s-p mixing of excitons in van der Waals heterostructures**|Jiayu David Cao et.al.|[2503.11927](http://arxiv.org/abs/2503.11927)|null|
+|**2025-03-14**|**Machine-Learning Interatomic Potential for Twisted Hexagonal Boron Nitride: Accurate Structural Relaxation and Emergent Polarization**|Wilson Nieto Luna et.al.|[2503.11797](http://arxiv.org/abs/2503.11797)|null|
+|**2025-03-06**|**Direct-Write Printed Contacts to Layered and 2D Materials**|Sharadh Jois et.al.|[2503.11691](http://arxiv.org/abs/2503.11691)|null|
 |**2025-03-14**|**Controllable Antiferromagnetic-Ferromagnetic phase transition in monolayer MnPSe3 via atomic adsorption of Li, O, and F**|Dong Liu et.al.|[2503.11442](http://arxiv.org/abs/2503.11442)|null|
 |**2025-03-12**|**Moiré-Driven Interfacial Thermal Transport in Twisted Transition Metal Dichalcogenides**|Wenwu Jiang et.al.|[2503.09141](http://arxiv.org/abs/2503.09141)|null|
 |**2025-03-12**|**Ultrafast Optical Control of Multi-Valley States in 2D SnS**|Arqum Hashmi et.al.|[2503.09092](http://arxiv.org/abs/2503.09092)|null|
@@ -216,17 +225,8 @@
 |**2024-12-24**|**Discovery of 2D Materials via Symmetry-Constrained Diffusion Model**|Shihang Xu et.al.|[2412.18414](http://arxiv.org/abs/2412.18414)|null|
 |**2025-01-02**|**PyAtoms: An interactive tool for rapidly simulating atomic scanning tunneling microscopy images of 2D materials, moiré systems and superlattices**|Christopher Gutiérrez et.al.|[2412.18332](http://arxiv.org/abs/2412.18332)|null|
 |**2024-12-24**|**Actuation and mapping of SAW-induced high-frequency wavefields on suspended graphene membranes**|Hande N. Açıkgöz et.al.|[2412.18310](http://arxiv.org/abs/2412.18310)|null|
-|**2024-12-20**|**Direct measurement of the local electrocaloric effect in 2D ferroelectric In ${}_2$Se${}_3$ by Scanning Electrocaloric Thermometry**|Jean Spièce et.al.|[2412.15884](http://arxiv.org/abs/2412.15884)|null|
-|**2024-12-20**|**Strain tuning of the nonlinear anomalous Hall effect in MoS2 monolayer**|Yuebei Xiong et.al.|[2412.15659](http://arxiv.org/abs/2412.15659)|null|
-|**2024-12-19**|**Numerical analysis and simulation of lateral memristive devices: Schottky, ohmic, and multi-dimensional electrode models**|Dilara Abdel et.al.|[2412.15065](http://arxiv.org/abs/2412.15065)|null|
-|**2024-12-18**|**Superconductivity of two-dimensional hydrogenated transition-metal diborides**|Jakkapat Seeyangnok et.al.|[2412.13517](http://arxiv.org/abs/2412.13517)|null|
-|**2024-12-18**|**A versatile method for nano-fabrication on diamond film: flexible diamond metasurfaces as a demonstration**|Yicheng Wang et.al.|[2412.13406](http://arxiv.org/abs/2412.13406)|null|
-|**2024-12-18**|**Advancing Simulations of Coupled Electron and Phonon Nonequilibrium Dynamics Using Adaptive and Multirate Time Integration**|Jia Yao et.al.|[2412.13402](http://arxiv.org/abs/2412.13402)|null|
-|**2024-12-16**|**van der Waals Torque in 2D Materials Induced by Interaction between Many-Body Charge Density Fluctuations**|Zepu Kou et.al.|[2412.11357](http://arxiv.org/abs/2412.11357)|null|
-|**2024-12-13**|**Winding Berry dipole on uniaxially strained graphene/hBN/hBN moiré trilayers**|Angiolo Huaman et.al.|[2412.10584](http://arxiv.org/abs/2412.10584)|null|
-|**2024-12-13**|**A Simplified Model for Predicting and Designing High-Temperature Ambient-Pressure Superconductors**|Yuting Sun et.al.|[2412.09866](http://arxiv.org/abs/2412.09866)|null|
 
-<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
