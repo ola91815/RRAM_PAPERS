@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.18
+## Updated on 2025.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,15 @@
 |**2021-05-26**|**Investigation of Forming Free Bipolar Resistive Switching Characteristics in Al/Mn3O4/FTO RRAM Device**|Vidit Pandey et.al.|[2105.12390](http://arxiv.org/abs/2105.12390)|null|
 |**2021-05-13**|**Comprehensive Study of Security and Privacy of Emerging Non-Volatile Memories**|Mohammad Nasim Imtiaz Khan et.al.|[2105.06401](http://arxiv.org/abs/2105.06401)|null|
 
-<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**Surface phonons in MoS2**|Aleksandar Radic et.al.|[2503.14464](http://arxiv.org/abs/2503.14464)|null|
+|**2025-03-18**|**Magnetoelastic coupling in intercalated transition metal dichalcogenides**|A. Kar et.al.|[2503.14444](http://arxiv.org/abs/2503.14444)|null|
+|**2025-03-18**|**In situ engineering hexagonal boron nitride in van der Waals heterostructures with selective SF6 etching**|Hitesh Agarwal et.al.|[2503.14238](http://arxiv.org/abs/2503.14238)|null|
 |**2025-03-17**|**Wannier-Function-Based Approach to Coupled Exciton-Phonon-Photon Dynamics in Two-Dimensional Semiconductors**|Alexander Steinhoff et.al.|[2503.13417](http://arxiv.org/abs/2503.13417)|null|
 |**2025-03-17**|**Engineering robust strain transmission in van der Waals heterostructure devices**|John Cenker et.al.|[2503.12773](http://arxiv.org/abs/2503.12773)|null|
 |**2025-03-17**|**Energy Dispersion, Superconductivity and Magnetic Fluctuations in Stacked Altermagnetism Materials**|Jun Chang et.al.|[2503.12710](http://arxiv.org/abs/2503.12710)|null|
@@ -222,11 +225,8 @@
 |**2024-12-26**|**Switchable magnetic phases in CrSBr $_{1-x}$Cl$_x$ and CrSBr/CrSCl heterostructures**|Alberto M. Ruiz et.al.|[2412.19136](http://arxiv.org/abs/2412.19136)|null|
 |**2025-01-03**|**Discovery of an Ultra-Stable Antiferromagnetic Two-Dimensional CrF3 Phase with Anisotropic Quasi-1D Mechanical, Electronic, and Thermal Properties**|Xin Chen et.al.|[2412.19118](http://arxiv.org/abs/2412.19118)|null|
 |**2024-12-24**|**Field-free current-induced magnetization switching of a room temperature van der Waals magnet for neuromorphic computing**|Chenxi Zhou et.al.|[2412.18429](http://arxiv.org/abs/2412.18429)|null|
-|**2024-12-24**|**Discovery of 2D Materials via Symmetry-Constrained Diffusion Model**|Shihang Xu et.al.|[2412.18414](http://arxiv.org/abs/2412.18414)|null|
-|**2025-01-02**|**PyAtoms: An interactive tool for rapidly simulating atomic scanning tunneling microscopy images of 2D materials, moiré systems and superlattices**|Christopher Gutiérrez et.al.|[2412.18332](http://arxiv.org/abs/2412.18332)|null|
-|**2024-12-24**|**Actuation and mapping of SAW-induced high-frequency wavefields on suspended graphene membranes**|Hande N. Açıkgöz et.al.|[2412.18310](http://arxiv.org/abs/2412.18310)|null|
 
-<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
