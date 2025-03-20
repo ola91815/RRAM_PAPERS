@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.19
+## Updated on 2025.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**Exciton Annihilation by Lanthanide Dopants: An Atomic Probe of Sub-Diffraction Exciton Diffusion in Ferromagnetic CrI3**|Kimo Pressler et.al.|[2503.14771](http://arxiv.org/abs/2503.14771)|null|
 |**2025-03-18**|**Surface phonons in MoS2**|Aleksandar Radic et.al.|[2503.14464](http://arxiv.org/abs/2503.14464)|null|
 |**2025-03-18**|**Magnetoelastic coupling in intercalated transition metal dichalcogenides**|A. Kar et.al.|[2503.14444](http://arxiv.org/abs/2503.14444)|null|
 |**2025-03-18**|**In situ engineering hexagonal boron nitride in van der Waals heterostructures with selective SF6 etching**|Hitesh Agarwal et.al.|[2503.14238](http://arxiv.org/abs/2503.14238)|null|
@@ -218,7 +219,6 @@ layout: default
 |**2024-12-27**|**Tailoring Robust Quantum Anomalous Hall Effect via Entropy-Engineering**|Syeda Amina Shabbir et.al.|[2412.19499](http://arxiv.org/abs/2412.19499)|null|
 |**2024-12-26**|**Switchable magnetic phases in CrSBr $_{1-x}$Cl$_x$ and CrSBr/CrSCl heterostructures**|Alberto M. Ruiz et.al.|[2412.19136](http://arxiv.org/abs/2412.19136)|null|
 |**2025-01-03**|**Discovery of an Ultra-Stable Antiferromagnetic Two-Dimensional CrF3 Phase with Anisotropic Quasi-1D Mechanical, Electronic, and Thermal Properties**|Xin Chen et.al.|[2412.19118](http://arxiv.org/abs/2412.19118)|null|
-|**2024-12-24**|**Field-free current-induced magnetization switching of a room temperature van der Waals magnet for neuromorphic computing**|Chenxi Zhou et.al.|[2412.18429](http://arxiv.org/abs/2412.18429)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
