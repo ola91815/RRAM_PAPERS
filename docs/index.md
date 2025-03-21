@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.20
+## Updated on 2025.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Phonons in Electron Crystals with Berry Curvature**|Junkai Dong et.al.|[2503.16390](http://arxiv.org/abs/2503.16390)|null|
+|**2025-03-20**|**Exciton Binding Energies in 2D Materials: Insights from Braneworld Physics**|Antoine Honet et.al.|[2503.16174](http://arxiv.org/abs/2503.16174)|null|
+|**2025-03-20**|**Dynamic Carrier Modulation via Nonlinear Acoustoelectric Transport in van der Waals Heterostructures**|Timothy J. McSorley et.al.|[2503.16033](http://arxiv.org/abs/2503.16033)|null|
+|**2025-03-20**|**Valley Emission and Upconversion in Isotopically Engineered Monolayer WS $_2$ under Resonant Excitation**|Rahul Kesarwani et.al.|[2503.15961](http://arxiv.org/abs/2503.15961)|null|
+|**2025-03-20**|**Optical control of the moiré twist angle**|Zhiren He et.al.|[2503.15882](http://arxiv.org/abs/2503.15882)|null|
 |**2025-03-18**|**Exciton Annihilation by Lanthanide Dopants: An Atomic Probe of Sub-Diffraction Exciton Diffusion in Ferromagnetic CrI3**|Kimo Pressler et.al.|[2503.14771](http://arxiv.org/abs/2503.14771)|null|
 |**2025-03-18**|**Surface phonons in MoS2**|Aleksandar Radic et.al.|[2503.14464](http://arxiv.org/abs/2503.14464)|null|
 |**2025-03-18**|**Magnetoelastic coupling in intercalated transition metal dichalcogenides**|A. Kar et.al.|[2503.14444](http://arxiv.org/abs/2503.14444)|null|
@@ -214,11 +219,6 @@ layout: default
 |**2025-01-01**|**Gradient polaritonic surface with space-variant switchable light-matter interactions in 2D moire superlattices**|Zhen-Bing Dai et.al.|[2501.00929](http://arxiv.org/abs/2501.00929)|null|
 |**2025-01-01**|**Role of Chalcogen atoms in In Situ Exfoliation for Large-Area 2D Semiconducting Transition Metal Dichalcogenides**|Zhiying Dan et.al.|[2501.00815](http://arxiv.org/abs/2501.00815)|null|
 |**2024-12-31**|**Two-dimensional moiré phonon polaritons**|Hao Shi et.al.|[2501.00313](http://arxiv.org/abs/2501.00313)|null|
-|**2024-12-31**|**Angstrom-scale ionic streaming when electrical double-layer concept fails**|Jiajia Lu et.al.|[2501.00238](http://arxiv.org/abs/2501.00238)|null|
-|**2024-12-30**|**Downscaling of non van der Waals Semimetallic W5N6 with Resistivity Preservation**|Hongze Gao et.al.|[2412.21184](http://arxiv.org/abs/2412.21184)|null|
-|**2024-12-27**|**Tailoring Robust Quantum Anomalous Hall Effect via Entropy-Engineering**|Syeda Amina Shabbir et.al.|[2412.19499](http://arxiv.org/abs/2412.19499)|null|
-|**2024-12-26**|**Switchable magnetic phases in CrSBr $_{1-x}$Cl$_x$ and CrSBr/CrSCl heterostructures**|Alberto M. Ruiz et.al.|[2412.19136](http://arxiv.org/abs/2412.19136)|null|
-|**2025-01-03**|**Discovery of an Ultra-Stable Antiferromagnetic Two-Dimensional CrF3 Phase with Anisotropic Quasi-1D Mechanical, Electronic, and Thermal Properties**|Xin Chen et.al.|[2412.19118](http://arxiv.org/abs/2412.19118)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
