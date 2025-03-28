@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.27
+## Updated on 2025.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**Ultrafast Saddletronics**|Sangeeta Sharma et.al.|[2503.21376](http://arxiv.org/abs/2503.21376)|null|
+|**2025-03-27**|**Hot-electron-injection-induced symmetry breaking in bilayer MoS $_2$ probed by second-harmonic generation**|Zhizi Guan et.al.|[2503.21238](http://arxiv.org/abs/2503.21238)|null|
 |**2025-03-20**|**Phonons in Electron Crystals with Berry Curvature**|Junkai Dong et.al.|[2503.16390](http://arxiv.org/abs/2503.16390)|null|
 |**2025-03-20**|**Exciton Binding Energies in 2D Materials: Insights from Braneworld Physics**|Antoine Honet et.al.|[2503.16174](http://arxiv.org/abs/2503.16174)|null|
 |**2025-03-20**|**Dynamic Carrier Modulation via Nonlinear Acoustoelectric Transport in van der Waals Heterostructures**|Timothy J. McSorley et.al.|[2503.16033](http://arxiv.org/abs/2503.16033)|null|
@@ -217,8 +219,6 @@ layout: default
 |**2025-01-03**|**Can structure influence hydrovoltaic energy generation? Insights from the metallic 1T' and semiconducting 2H phases of MoS $_2$**|Kaushik Suvigya et.al.|[2501.01739](http://arxiv.org/abs/2501.01739)|null|
 |**2025-01-02**|**Machine Learning-Driven Insights into Excitonic Effects in 2D Materials**|Ahsan Javed et.al.|[2501.01092](http://arxiv.org/abs/2501.01092)|null|
 |**2025-01-01**|**Gradient polaritonic surface with space-variant switchable light-matter interactions in 2D moire superlattices**|Zhen-Bing Dai et.al.|[2501.00929](http://arxiv.org/abs/2501.00929)|null|
-|**2025-01-01**|**Role of Chalcogen atoms in In Situ Exfoliation for Large-Area 2D Semiconducting Transition Metal Dichalcogenides**|Zhiying Dan et.al.|[2501.00815](http://arxiv.org/abs/2501.00815)|null|
-|**2024-12-31**|**Two-dimensional moiré phonon polaritons**|Hao Shi et.al.|[2501.00313](http://arxiv.org/abs/2501.00313)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
