@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,14 @@
 |**2021-05-25**|**Deep Reinforcement Learning for Radio Resource Allocation and Management in Next Generation Heterogeneous Wireless Networks: A Survey**|Abdulmalik Alwarafy et.al.|[2106.00574](http://arxiv.org/abs/2106.00574)|null|
 |**2021-05-26**|**Investigation of Forming Free Bipolar Resistive Switching Characteristics in Al/Mn3O4/FTO RRAM Device**|Vidit Pandey et.al.|[2105.12390](http://arxiv.org/abs/2105.12390)|null|
 
-<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**First-principles design of stable spin qubits in monolayer MoS2 with elemental defect engineering**|Cailian Yu et.al.|[2503.24163](http://arxiv.org/abs/2503.24163)|null|
+|**2025-03-31**|**First-Principle Investigation On Chromium Decorated Graphene-based Systems for Hydrogen Storage**|Pratyasha Tripathy et.al.|[2503.23902](http://arxiv.org/abs/2503.23902)|null|
 |**2025-03-28**|**The 2D Materials Roadmap**|Wencai Ren et.al.|[2503.22476](http://arxiv.org/abs/2503.22476)|null|
 |**2025-03-27**|**Sub-nm Curvature Unlocks Exceptional Inherent Flexoelectricity in Graphene**|Sathvik Ajay Iyengar et.al.|[2503.21996](http://arxiv.org/abs/2503.21996)|null|
 |**2025-03-27**|**Ultrafast Saddletronics**|Sangeeta Sharma et.al.|[2503.21376](http://arxiv.org/abs/2503.21376)|null|
@@ -223,10 +225,8 @@
 |**2025-01-06**|**Probing Stress and Magnetism at High Pressures with Two-Dimensional Quantum Sensors**|Guanghui He et.al.|[2501.03319](http://arxiv.org/abs/2501.03319)|null|
 |**2025-01-04**|**Monolayer control of spin-charge conversion in van der Waals heterostructures**|K. Abdukayumov et.al.|[2501.02337](http://arxiv.org/abs/2501.02337)|null|
 |**2025-01-04**|**Boosting the Self-driven Properties of 2D Photodetectors through Synergistic Asymmetrical Effects**|Yihong Sun et.al.|[2501.02186](http://arxiv.org/abs/2501.02186)|null|
-|**2025-01-03**|**High-throughput calculations of spin Hall conductivity in non-magnetic 2D materials**|Jiaqi Zhou et.al.|[2501.02110](http://arxiv.org/abs/2501.02110)|null|
-|**2025-01-03**|**Can structure influence hydrovoltaic energy generation? Insights from the metallic 1T' and semiconducting 2H phases of MoS $_2$**|Kaushik Suvigya et.al.|[2501.01739](http://arxiv.org/abs/2501.01739)|null|
 
-<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
