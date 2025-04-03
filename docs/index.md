@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**An anisotropic functional for two-dimensional material systems**|Michael Lorke et.al.|[2504.01684](http://arxiv.org/abs/2504.01684)|null|
+|**2025-04-01**|**TCNQ self-assembly driven by molecular coverage over borophene monolayers**|G. H. Silvestre et.al.|[2504.01238](http://arxiv.org/abs/2504.01238)|null|
+|**2025-03-31**|**Spin-Phonon Relaxation of Boron-Vacancy Centers in Two-Dimensional Boron Nitride Polytypes**|Nasrin Estaji et.al.|[2504.00154](http://arxiv.org/abs/2504.00154)|null|
 |**2025-03-31**|**First-principles design of stable spin qubits in monolayer MoS $_2$ with elemental defect engineering**|Cailian Yu et.al.|[2503.24163](http://arxiv.org/abs/2503.24163)|null|
 |**2025-03-31**|**First-Principle Investigation On Chromium Decorated Graphene-based Systems for Hydrogen Storage**|Pratyasha Tripathy et.al.|[2503.23902](http://arxiv.org/abs/2503.23902)|null|
 |**2025-03-28**|**The 2D Materials Roadmap**|Wencai Ren et.al.|[2503.22476](http://arxiv.org/abs/2503.22476)|null|
@@ -136,7 +139,7 @@ layout: default
 |**2025-03-18**|**In situ engineering hexagonal boron nitride in van der Waals heterostructures with selective SF6 etching**|Hitesh Agarwal et.al.|[2503.14238](http://arxiv.org/abs/2503.14238)|null|
 |**2025-03-17**|**Wannier-Function-Based Approach to Coupled Exciton-Phonon-Photon Dynamics in Two-Dimensional Semiconductors**|Alexander Steinhoff et.al.|[2503.13417](http://arxiv.org/abs/2503.13417)|null|
 |**2025-03-17**|**Engineering robust strain transmission in van der Waals heterostructure devices**|John Cenker et.al.|[2503.12773](http://arxiv.org/abs/2503.12773)|null|
-|**2025-03-17**|**Energy Dispersion, Superconductivity and Magnetic Fluctuations in Stacked Altermagnetism Materials**|Jun Chang et.al.|[2503.12710](http://arxiv.org/abs/2503.12710)|null|
+|**2025-04-02**|**Energy Dispersion, Superconductivity and Magnetic Fluctuations in Stacked Altermagnetism Materials**|Jun Chang et.al.|[2503.12710](http://arxiv.org/abs/2503.12710)|null|
 |**2025-03-16**|**A Universal Raman Spectroscopic Framework for Defect Quantification in Mono-to-Multilayer Graphenic Materials: The Graphene Atlas**|Kazunori Fujisawa et.al.|[2503.12459](http://arxiv.org/abs/2503.12459)|null|
 |**2025-03-16**|**Antiferromagnetic two-dimensional transition-metal nitride Co $_2$N$_2$ layer with high N$\rm \acute{\textbf e}$ el temperature and Dirac fermions**|Lujia Tian et.al.|[2503.12413](http://arxiv.org/abs/2503.12413)|null|
 |**2025-03-15**|**Non-van der Waals Heterostructures**|Anastasiia Nihei et.al.|[2503.12209](http://arxiv.org/abs/2503.12209)|null|
@@ -200,7 +203,7 @@ layout: default
 |**2025-01-25**|**Unravelling The potential of Hybrid Borocarbonitride Biphenylene 2D Network for Thermoelectric Applications: A First Principles Study**|Ajay Kumar Parbati Senapati et.al.|[2501.15158](http://arxiv.org/abs/2501.15158)|null|
 |**2025-03-07**|**Impact of phonon lifetimes on the single-photon indistinguishability in quantum emitters based on 2D materials**|Alexander Steinhoff et.al.|[2501.14656](http://arxiv.org/abs/2501.14656)|null|
 |**2025-01-24**|**Thermal and dimensional stability of photocatalytic material ZnPS $_3$ under extreme environmental conditions**|Abhishek Mukherjee et.al.|[2501.14252](http://arxiv.org/abs/2501.14252)|null|
-|**2025-02-02**|**Selective enhancement of Coulomb interactions in planar Weyl fermions**|Vadym Apalkov et.al.|[2501.14128](http://arxiv.org/abs/2501.14128)|null|
+|**2025-04-02**|**Selective enhancement of Coulomb interactions in planar Weyl fermions**|Vadym Apalkov et.al.|[2501.14128](http://arxiv.org/abs/2501.14128)|null|
 |**2025-01-23**|**Liquid Metal-Exfoliated SnO $_2$ -Based Mixed-dimensional Heterostructures for Visible-to-Near-Infrared Photodetection**|Shimul Kanti Nath et.al.|[2501.13378](http://arxiv.org/abs/2501.13378)|null|
 |**2025-01-21**|**Nanoscale functionalization of MoS $_2$ monolayers with DNA origami**|Shen Zhao et.al.|[2501.12029](http://arxiv.org/abs/2501.12029)|null|
 |**2025-01-21**|**Unusual magnetic order, field induced melting and role of spin-lattice coupling in 2D Van der Waals materials: a case study of CrSiTe3**|Smita Gohil et.al.|[2501.12019](http://arxiv.org/abs/2501.12019)|null|
@@ -216,9 +219,6 @@ layout: default
 |**2025-01-07**|**Magnetic imaging under high pressure with a spin-based quantum sensor integrated in a van der Waals heterostructure**|Z. Mu et.al.|[2501.03640](http://arxiv.org/abs/2501.03640)|null|
 |**2025-01-07**|**Simulation on the Miniaturization and Performance Improvement Study of Gr/MoS2 Based Vertical Field Effect Transistor**|Sirsendu Ghosh et.al.|[2501.03541](http://arxiv.org/abs/2501.03541)|null|
 |**2025-01-06**|**Space Charge Doping Induced Band Modulation in Mono- and Bi-layer Graphene: a nano-ARPES study**|Imtiaz Noor Bhatti et.al.|[2501.03387](http://arxiv.org/abs/2501.03387)|null|
-|**2025-01-06**|**Probing Stress and Magnetism at High Pressures with Two-Dimensional Quantum Sensors**|Guanghui He et.al.|[2501.03319](http://arxiv.org/abs/2501.03319)|null|
-|**2025-01-04**|**Monolayer control of spin-charge conversion in van der Waals heterostructures**|K. Abdukayumov et.al.|[2501.02337](http://arxiv.org/abs/2501.02337)|null|
-|**2025-01-04**|**Boosting the Self-driven Properties of 2D Photodetectors through Synergistic Asymmetrical Effects**|Yihong Sun et.al.|[2501.02186](http://arxiv.org/abs/2501.02186)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
