@@ -119,6 +119,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Complete design of a fully integrated graphene-based compact plasmon coupler for the infrared**|Aswani Natarajan et.al.|[2504.03403](http://arxiv.org/abs/2504.03403)|null|
+|**2025-04-04**|**Evaluation of strain and charge-transfer doping in wet-polymeric transferred monolayer MoS2: implications for field effect transistors**|C. Abinash Bhuyan et.al.|[2504.03275](http://arxiv.org/abs/2504.03275)|null|
+|**2025-04-04**|**On-chip integrated light sources with MoS2/WSe2 moiré superlattices at telecom wavelengths**|Xingyu Huang et.al.|[2504.03267](http://arxiv.org/abs/2504.03267)|null|
+|**2025-04-04**|**Silicon nanoantennas for tailoring the optical properties of MoS2 monolayers**|Danae Katrisioti et.al.|[2504.03264](http://arxiv.org/abs/2504.03264)|null|
 |**2025-04-02**|**An anisotropic functional for two-dimensional material systems**|Michael Lorke et.al.|[2504.01684](http://arxiv.org/abs/2504.01684)|null|
 |**2025-04-01**|**TCNQ self-assembly driven by molecular coverage over borophene monolayers**|G. H. Silvestre et.al.|[2504.01238](http://arxiv.org/abs/2504.01238)|null|
 |**2025-03-31**|**Spin-Phonon Relaxation of Boron-Vacancy Centers in Two-Dimensional Boron Nitride Polytypes**|Nasrin Estaji et.al.|[2504.00154](http://arxiv.org/abs/2504.00154)|null|
@@ -215,10 +219,6 @@ layout: default
 |**2025-01-15**|**Predicting Fundamental Gaps of Chromium-Based 2D Materials Using GW Methods**|Miroslav Kolos et.al.|[2501.09188](http://arxiv.org/abs/2501.09188)|null|
 |**2025-01-14**|**Electron-phonon coupling and phonon dynamics in single-layer NbSe $_2$ on graphene: the role of moiré phonons**|Amjad Al Taleb et.al.|[2501.08140](http://arxiv.org/abs/2501.08140)|null|
 |**2025-01-15**|**Influence of carrier density and disorder on the Quantum Hall plateau widths in epitaxial graphene**|Ignacio Figueruelo-Campanero et.al.|[2501.07518](http://arxiv.org/abs/2501.07518)|null|
-|**2025-01-10**|**Hexatic Phase in Covalent Two-Dimensional Silver Iodide**|Thuy An Bui et.al.|[2501.05759](http://arxiv.org/abs/2501.05759)|null|
-|**2025-01-07**|**Magnetic imaging under high pressure with a spin-based quantum sensor integrated in a van der Waals heterostructure**|Z. Mu et.al.|[2501.03640](http://arxiv.org/abs/2501.03640)|null|
-|**2025-01-07**|**Simulation on the Miniaturization and Performance Improvement Study of Gr/MoS2 Based Vertical Field Effect Transistor**|Sirsendu Ghosh et.al.|[2501.03541](http://arxiv.org/abs/2501.03541)|null|
-|**2025-01-06**|**Space Charge Doping Induced Band Modulation in Mono- and Bi-layer Graphene: a nano-ARPES study**|Imtiaz Noor Bhatti et.al.|[2501.03387](http://arxiv.org/abs/2501.03387)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
