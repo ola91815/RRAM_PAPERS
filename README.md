@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.07
+## Updated on 2025.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**Efficient Calibration for RRAM-based In-Memory Computing using DoRA**|Weirong Dong et.al.|[2504.03763](http://arxiv.org/abs/2504.03763)|null|
 |**2025-03-26**|**The First Hardware Demonstration of a Universal Programmable RRAM-based Probabilistic Computer for Molecular Docking**|Yihan He et.al.|[2503.20254](http://arxiv.org/abs/2503.20254)|null|
 |**2025-03-04**|**HaLoRA: Hardware-aware Low-Rank Adaptation for Large Language Models Based on Hybrid Compute-in-Memory Architecture**|Taiqiang Wu et.al.|[2502.19747](http://arxiv.org/abs/2502.19747)|null|
 |**2025-02-14**|**A Hybrid Edge Classifier: Combining TinyML-Optimised CNN with RRAM-CMOS ACAM for Energy-Efficient Inference**|Kieran Woodward et.al.|[2502.10089](http://arxiv.org/abs/2502.10089)|null|
@@ -116,15 +117,18 @@
 |**2021-07-17**|**Ultra Low Power 3D-Embedded Convolutional Neural Network Cube Based on $α$ -IGZO Nanosheet and Bi-Layer Resistive Memory**|Sunanda Thunder et.al.|[2107.08178](http://arxiv.org/abs/2107.08178)|null|
 |**2021-09-02**|**Model of the Weak Reset Process in HfOx Resistive Memory for Deep Learning Frameworks**|Atreya Majumdar et.al.|[2107.06064](http://arxiv.org/abs/2107.06064)|null|
 |**2021-06-16**|**Improving Inference Lifetime of Neuromorphic Systems via Intelligent Synapse Mapping**|Shihao Song et.al.|[2106.09104](http://arxiv.org/abs/2106.09104)|null|
-|**2021-05-25**|**Deep Reinforcement Learning for Radio Resource Allocation and Management in Next Generation Heterogeneous Wireless Networks: A Survey**|Abdulmalik Alwarafy et.al.|[2106.00574](http://arxiv.org/abs/2106.00574)|null|
 |**2021-05-26**|**Investigation of Forming Free Bipolar Resistive Switching Characteristics in Al/Mn3O4/FTO RRAM Device**|Vidit Pandey et.al.|[2105.12390](http://arxiv.org/abs/2105.12390)|null|
 
-<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**Pyroelectric doping reversal of MoS2 p-n junctions on ferroelectric domain walls probed by photoluminescence**|Javier Fernández-Martínez et.al.|[2504.04886](http://arxiv.org/abs/2504.04886)|null|
+|**2025-04-06**|**Intrinsic Nonreciprocity in Asymmetric Josephson Junctions with Non-Sinusoidal Current-Phase Relations**|R. A. Hovhannisyan et.al.|[2504.04587](http://arxiv.org/abs/2504.04587)|null|
+|**2025-04-06**|**Roadmap for Photonics with 2D Materials**|F. Javier García de Abajo et.al.|[2504.04558](http://arxiv.org/abs/2504.04558)|null|
+|**2025-04-04**|**Tunable Topological Phases in Multilayer Graphene Coupled to a Chiral Cavity**|Sayed Ali Akbar Ghorashi et.al.|[2504.03842](http://arxiv.org/abs/2504.03842)|null|
 |**2025-04-04**|**Complete design of a fully integrated graphene-based compact plasmon coupler for the infrared**|Aswani Natarajan et.al.|[2504.03403](http://arxiv.org/abs/2504.03403)|null|
 |**2025-04-04**|**Evaluation of strain and charge-transfer doping in wet-polymeric transferred monolayer MoS2: implications for field effect transistors**|C. Abinash Bhuyan et.al.|[2504.03275](http://arxiv.org/abs/2504.03275)|null|
 |**2025-04-04**|**On-chip integrated light sources with MoS2/WSe2 moiré superlattices at telecom wavelengths**|Xingyu Huang et.al.|[2504.03267](http://arxiv.org/abs/2504.03267)|null|
@@ -221,12 +225,8 @@
 |**2025-01-20**|**High-throughput calculations of two-dimensional auxetic $M_4X_8$ with magnetism, electrocatalysis, and alkali metal battery applications**|Haidi Wang et.al.|[2501.11242](http://arxiv.org/abs/2501.11242)|null|
 |**2025-01-17**|**Second harmonic generation in silicon nitride waveguides integrated with MoS $_2$ monolayers: the importance of a full vectorial modeling**|Mohd Rehan et.al.|[2501.10575](http://arxiv.org/abs/2501.10575)|null|
 |**2025-01-16**|**Which chromium-sulfur compounds exist as 2D material?**|Affan Safeer et.al.|[2501.09510](http://arxiv.org/abs/2501.09510)|null|
-|**2025-01-16**|**Laser optothermal nanobomb for efficient flattening of nanobubbles in van der Waals materials**|Jia-Tai Huang et.al.|[2501.09322](http://arxiv.org/abs/2501.09322)|null|
-|**2025-01-15**|**Predicting Fundamental Gaps of Chromium-Based 2D Materials Using GW Methods**|Miroslav Kolos et.al.|[2501.09188](http://arxiv.org/abs/2501.09188)|null|
-|**2025-01-14**|**Electron-phonon coupling and phonon dynamics in single-layer NbSe $_2$ on graphene: the role of moiré phonons**|Amjad Al Taleb et.al.|[2501.08140](http://arxiv.org/abs/2501.08140)|null|
-|**2025-01-15**|**Influence of carrier density and disorder on the Quantum Hall plateau widths in epitaxial graphene**|Ignacio Figueruelo-Campanero et.al.|[2501.07518](http://arxiv.org/abs/2501.07518)|null|
 
-<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
