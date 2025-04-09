@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Dispersion-corrected Machine Learning Potentials for 2D van der Waals Materials**|Mikkel Ohm Sauer et.al.|[2504.05754](http://arxiv.org/abs/2504.05754)|null|
+|**2025-04-07**|**Towards "on-demand" van der Waals epitaxy with hpc-driven online ensemble sampling**|Soumendu Bagchi et.al.|[2504.05539](http://arxiv.org/abs/2504.05539)|null|
 |**2025-04-07**|**Pyroelectric doping reversal of MoS2 p-n junctions on ferroelectric domain walls probed by photoluminescence**|Javier Fernández-Martínez et.al.|[2504.04886](http://arxiv.org/abs/2504.04886)|null|
 |**2025-04-06**|**Intrinsic Nonreciprocity in Asymmetric Josephson Junctions with Non-Sinusoidal Current-Phase Relations**|R. A. Hovhannisyan et.al.|[2504.04587](http://arxiv.org/abs/2504.04587)|null|
 |**2025-04-06**|**Roadmap for Photonics with 2D Materials**|F. Javier García de Abajo et.al.|[2504.04558](http://arxiv.org/abs/2504.04558)|null|
@@ -133,6 +135,7 @@ layout: default
 |**2025-03-31**|**First-principles design of stable spin qubits in monolayer MoS $_2$ with elemental defect engineering**|Cailian Yu et.al.|[2503.24163](http://arxiv.org/abs/2503.24163)|null|
 |**2025-04-04**|**First-Principle Investigation On Chromium Decorated Graphene-based Systems for Hydrogen Storage**|Pratyasha Tripathy et.al.|[2503.23902](http://arxiv.org/abs/2503.23902)|null|
 |**2025-03-28**|**The 2D Materials Roadmap**|Wencai Ren et.al.|[2503.22476](http://arxiv.org/abs/2503.22476)|null|
+|**2025-04-08**|**Momentum-Space AC Josephson Effect and Intervalley Coherence in Multilayer Graphene**|Mainak Das et.al.|[2503.22003](http://arxiv.org/abs/2503.22003)|null|
 |**2025-03-27**|**Sub-nm Curvature Unlocks Exceptional Inherent Flexoelectricity in Graphene**|Sathvik Ajay Iyengar et.al.|[2503.21996](http://arxiv.org/abs/2503.21996)|null|
 |**2025-03-27**|**Ultrafast Saddletronics**|Sangeeta Sharma et.al.|[2503.21376](http://arxiv.org/abs/2503.21376)|null|
 |**2025-04-01**|**Hot-electron-injection-induced symmetry breaking in bilayer MoS $_2$ probed by second-harmonic generation**|Zhizi Guan et.al.|[2503.21238](http://arxiv.org/abs/2503.21238)|null|
@@ -216,9 +219,6 @@ layout: default
 |**2025-01-21**|**Nanoscale functionalization of MoS $_2$ monolayers with DNA origami**|Shen Zhao et.al.|[2501.12029](http://arxiv.org/abs/2501.12029)|null|
 |**2025-01-21**|**Unusual magnetic order, field induced melting and role of spin-lattice coupling in 2D Van der Waals materials: a case study of CrSiTe3**|Smita Gohil et.al.|[2501.12019](http://arxiv.org/abs/2501.12019)|null|
 |**2025-02-16**|**Strain induced topological phase transitions in split and line graphs of bipartite lattices featuring flat bands**|Shivam Sharma et.al.|[2501.11783](http://arxiv.org/abs/2501.11783)|null|
-|**2025-01-20**|**High-throughput calculations of two-dimensional auxetic $M_4X_8$ with magnetism, electrocatalysis, and alkali metal battery applications**|Haidi Wang et.al.|[2501.11242](http://arxiv.org/abs/2501.11242)|null|
-|**2025-01-17**|**Second harmonic generation in silicon nitride waveguides integrated with MoS $_2$ monolayers: the importance of a full vectorial modeling**|Mohd Rehan et.al.|[2501.10575](http://arxiv.org/abs/2501.10575)|null|
-|**2025-01-16**|**Which chromium-sulfur compounds exist as 2D material?**|Affan Safeer et.al.|[2501.09510](http://arxiv.org/abs/2501.09510)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
