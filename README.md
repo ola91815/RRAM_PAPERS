@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,15 +119,15 @@
 |**2021-06-16**|**Improving Inference Lifetime of Neuromorphic Systems via Intelligent Synapse Mapping**|Shihao Song et.al.|[2106.09104](http://arxiv.org/abs/2106.09104)|null|
 |**2021-05-26**|**Investigation of Forming Free Bipolar Resistive Switching Characteristics in Al/Mn3O4/FTO RRAM Device**|Vidit Pandey et.al.|[2105.12390](http://arxiv.org/abs/2105.12390)|null|
 
-<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-08**|**Dispersion-corrected Machine Learning Potentials for 2D van der Waals Materials**|Mikkel Ohm Sauer et.al.|[2504.05754](http://arxiv.org/abs/2504.05754)|null|
-|**2025-04-07**|**Towards "on-demand" van der Waals epitaxy with hpc-driven online ensemble sampling**|Soumendu Bagchi et.al.|[2504.05539](http://arxiv.org/abs/2504.05539)|null|
-|**2025-04-07**|**Pyroelectric doping reversal of MoS2 p-n junctions on ferroelectric domain walls probed by photoluminescence**|Javier Fernández-Martínez et.al.|[2504.04886](http://arxiv.org/abs/2504.04886)|null|
+|**2025-04-09**|**Towards "on-demand" van der Waals epitaxy with hpc-driven online ensemble sampling**|Soumendu Bagchi et.al.|[2504.05539](http://arxiv.org/abs/2504.05539)|null|
+|**2025-04-08**|**Pyroelectric doping reversal of MoS2 p-n junctions on ferroelectric domain walls probed by photoluminescence**|Javier Fernández-Martínez et.al.|[2504.04886](http://arxiv.org/abs/2504.04886)|null|
 |**2025-04-06**|**Intrinsic Nonreciprocity in Asymmetric Josephson Junctions with Non-Sinusoidal Current-Phase Relations**|R. A. Hovhannisyan et.al.|[2504.04587](http://arxiv.org/abs/2504.04587)|null|
 |**2025-04-06**|**Roadmap for Photonics with 2D Materials**|F. Javier García de Abajo et.al.|[2504.04558](http://arxiv.org/abs/2504.04558)|null|
 |**2025-04-04**|**Tunable Topological Phases in Multilayer Graphene Coupled to a Chiral Cavity**|Sayed Ali Akbar Ghorashi et.al.|[2504.03842](http://arxiv.org/abs/2504.03842)|null|
@@ -226,7 +226,7 @@
 |**2025-01-21**|**Unusual magnetic order, field induced melting and role of spin-lattice coupling in 2D Van der Waals materials: a case study of CrSiTe3**|Smita Gohil et.al.|[2501.12019](http://arxiv.org/abs/2501.12019)|null|
 |**2025-02-16**|**Strain induced topological phase transitions in split and line graphs of bipartite lattices featuring flat bands**|Shivam Sharma et.al.|[2501.11783](http://arxiv.org/abs/2501.11783)|null|
 
-<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
