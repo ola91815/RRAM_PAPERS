@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2021-06-16**|**Improving Inference Lifetime of Neuromorphic Systems via Intelligent Synapse Mapping**|Shihao Song et.al.|[2106.09104](http://arxiv.org/abs/2106.09104)|null|
 |**2021-05-26**|**Investigation of Forming Free Bipolar Resistive Switching Characteristics in Al/Mn3O4/FTO RRAM Device**|Vidit Pandey et.al.|[2105.12390](http://arxiv.org/abs/2105.12390)|null|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -129,7 +129,7 @@
 |**2025-04-09**|**Towards "on-demand" van der Waals epitaxy with hpc-driven online ensemble sampling**|Soumendu Bagchi et.al.|[2504.05539](http://arxiv.org/abs/2504.05539)|null|
 |**2025-04-08**|**Pyroelectric doping reversal of MoS2 p-n junctions on ferroelectric domain walls probed by photoluminescence**|Javier Fernández-Martínez et.al.|[2504.04886](http://arxiv.org/abs/2504.04886)|null|
 |**2025-04-06**|**Intrinsic Nonreciprocity in Asymmetric Josephson Junctions with Non-Sinusoidal Current-Phase Relations**|R. A. Hovhannisyan et.al.|[2504.04587](http://arxiv.org/abs/2504.04587)|null|
-|**2025-04-06**|**Roadmap for Photonics with 2D Materials**|F. Javier García de Abajo et.al.|[2504.04558](http://arxiv.org/abs/2504.04558)|null|
+|**2025-04-09**|**Roadmap for Photonics with 2D Materials**|F. Javier García de Abajo et.al.|[2504.04558](http://arxiv.org/abs/2504.04558)|null|
 |**2025-04-04**|**Tunable Topological Phases in Multilayer Graphene Coupled to a Chiral Cavity**|Sayed Ali Akbar Ghorashi et.al.|[2504.03842](http://arxiv.org/abs/2504.03842)|null|
 |**2025-04-04**|**Complete design of a fully integrated graphene-based compact plasmon coupler for the infrared**|Aswani Natarajan et.al.|[2504.03403](http://arxiv.org/abs/2504.03403)|null|
 |**2025-04-04**|**Evaluation of strain and charge-transfer doping in wet-polymeric transferred monolayer MoS2: implications for field effect transistors**|C. Abinash Bhuyan et.al.|[2504.03275](http://arxiv.org/abs/2504.03275)|null|
@@ -162,7 +162,7 @@
 |**2025-03-15**|**Non-van der Waals Heterostructures**|Anastasiia Nihei et.al.|[2503.12209](http://arxiv.org/abs/2503.12209)|null|
 |**2025-03-15**|**Tunable resonant s-p mixing of excitons in van der Waals heterostructures**|Jiayu David Cao et.al.|[2503.11927](http://arxiv.org/abs/2503.11927)|null|
 |**2025-03-14**|**Machine-Learning Interatomic Potential for Twisted Hexagonal Boron Nitride: Accurate Structural Relaxation and Emergent Polarization**|Wilson Nieto Luna et.al.|[2503.11797](http://arxiv.org/abs/2503.11797)|null|
-|**2025-03-06**|**Direct-Write Printed Contacts to Layered and 2D Materials**|Sharadh Jois et.al.|[2503.11691](http://arxiv.org/abs/2503.11691)|null|
+|**2025-04-10**|**Direct-Write Printed Contacts to Layered and 2D Materials**|Sharadh Jois et.al.|[2503.11691](http://arxiv.org/abs/2503.11691)|null|
 |**2025-03-14**|**Controllable Antiferromagnetic-Ferromagnetic phase transition in monolayer MnPSe3 via atomic adsorption of Li, O, and F**|Dong Liu et.al.|[2503.11442](http://arxiv.org/abs/2503.11442)|null|
 |**2025-03-12**|**Moiré-Driven Interfacial Thermal Transport in Twisted Transition Metal Dichalcogenides**|Wenwu Jiang et.al.|[2503.09141](http://arxiv.org/abs/2503.09141)|null|
 |**2025-03-12**|**Ultrafast Optical Control of Multi-Valley States in 2D SnS**|Arqum Hashmi et.al.|[2503.09092](http://arxiv.org/abs/2503.09092)|null|
@@ -226,7 +226,7 @@
 |**2025-01-21**|**Unusual magnetic order, field induced melting and role of spin-lattice coupling in 2D Van der Waals materials: a case study of CrSiTe3**|Smita Gohil et.al.|[2501.12019](http://arxiv.org/abs/2501.12019)|null|
 |**2025-02-16**|**Strain induced topological phase transitions in split and line graphs of bipartite lattices featuring flat bands**|Shivam Sharma et.al.|[2501.11783](http://arxiv.org/abs/2501.11783)|null|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
