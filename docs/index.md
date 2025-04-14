@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.13
+## Updated on 2025.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Light-Induced Spin Slanting in 2D Multiferroic Magnet**|Jiangyu Zhao et.al.|[2504.08185](http://arxiv.org/abs/2504.08185)|null|
+|**2025-04-10**|**Two-dimensional perovskites with maximum symmetry enable exciton diffusion length exceeding 2 micrometers**|Jin Hou et.al.|[2504.08121](http://arxiv.org/abs/2504.08121)|null|
+|**2025-03-28**|**Hybridization of edge modes with substrate phonons**|Azat F. Aminov et.al.|[2504.08082](http://arxiv.org/abs/2504.08082)|null|
+|**2025-04-03**|**Unraveling the dynamics of conductive filaments in MoS ${_2}$ based memristors by operando transmission electron microscopy**|Ke Ran et.al.|[2504.07980](http://arxiv.org/abs/2504.07980)|null|
 |**2025-04-08**|**Dispersion-corrected Machine Learning Potentials for 2D van der Waals Materials**|Mikkel Ohm Sauer et.al.|[2504.05754](http://arxiv.org/abs/2504.05754)|null|
 |**2025-04-09**|**Towards "on-demand" van der Waals epitaxy with hpc-driven online ensemble sampling**|Soumendu Bagchi et.al.|[2504.05539](http://arxiv.org/abs/2504.05539)|null|
 |**2025-04-08**|**Pyroelectric doping reversal of MoS2 p-n junctions on ferroelectric domain walls probed by photoluminescence**|Javier Fernández-Martínez et.al.|[2504.04886](http://arxiv.org/abs/2504.04886)|null|
@@ -215,10 +219,6 @@ layout: default
 |**2025-03-07**|**Impact of phonon lifetimes on the single-photon indistinguishability in quantum emitters based on 2D materials**|Alexander Steinhoff et.al.|[2501.14656](http://arxiv.org/abs/2501.14656)|null|
 |**2025-01-24**|**Thermal and dimensional stability of photocatalytic material ZnPS $_3$ under extreme environmental conditions**|Abhishek Mukherjee et.al.|[2501.14252](http://arxiv.org/abs/2501.14252)|null|
 |**2025-04-02**|**Selective enhancement of Coulomb interactions in planar Weyl fermions**|Vadym Apalkov et.al.|[2501.14128](http://arxiv.org/abs/2501.14128)|null|
-|**2025-01-23**|**Liquid Metal-Exfoliated SnO $_2$ -Based Mixed-dimensional Heterostructures for Visible-to-Near-Infrared Photodetection**|Shimul Kanti Nath et.al.|[2501.13378](http://arxiv.org/abs/2501.13378)|null|
-|**2025-01-21**|**Nanoscale functionalization of MoS $_2$ monolayers with DNA origami**|Shen Zhao et.al.|[2501.12029](http://arxiv.org/abs/2501.12029)|null|
-|**2025-01-21**|**Unusual magnetic order, field induced melting and role of spin-lattice coupling in 2D Van der Waals materials: a case study of CrSiTe3**|Smita Gohil et.al.|[2501.12019](http://arxiv.org/abs/2501.12019)|null|
-|**2025-02-16**|**Strain induced topological phase transitions in split and line graphs of bipartite lattices featuring flat bands**|Shivam Sharma et.al.|[2501.11783](http://arxiv.org/abs/2501.11783)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
