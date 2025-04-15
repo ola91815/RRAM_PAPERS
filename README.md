@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.14
+## Updated on 2025.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,8 +28,8 @@
 |**2025-02-05**|**Random Telegraph Noise of MIS and MIOS Silicon Nitride memristors at different resistance states**|N Vasileiadis et.al.|[2502.02994](http://arxiv.org/abs/2502.02994)|null|
 |**2025-02-04**|**Effect of SOI substrate on silicon nitride resistance switching using MIS structure**|A Mavropoulis et.al.|[2502.02119](http://arxiv.org/abs/2502.02119)|null|
 |**2025-02-03**|**Effect of Al2O3 on the operation of SiNX-based MIS RRAMs**|A. E. Mavropoulis et.al.|[2502.01346](http://arxiv.org/abs/2502.01346)|null|
-|**2025-01-31**|**A RRAM_based In_Memory Computing Architecture for Binary Matrix_Vector Multiplication**|Hao Yue et.al.|[2501.10702](http://arxiv.org/abs/2501.10702)|null|
-|**2025-01-03**|**GRAMC: General-purpose and reconfigurable analog matrix computing architecture**|Lunshuai Pan et.al.|[2501.01586](http://arxiv.org/abs/2501.01586)|null|
+|**2025-04-14**|**An RRAM compute-in-memory architecture for energy-efffcient binary matrix-vector multiplication processing**|Hao Yue et.al.|[2501.10702](http://arxiv.org/abs/2501.10702)|null|
+|**2025-04-14**|**GRAMC: General-purpose and reconfigurable analog matrix computing architecture**|Lunshuai Pan et.al.|[2501.01586](http://arxiv.org/abs/2501.01586)|null|
 |**2024-12-17**|**Investigating the Effect of Electrical and Thermal Transport Properties on Oxide-Based Memristors Performance and Reliability**|Armin Gooran-Shoorakchaly et.al.|[2412.12450](http://arxiv.org/abs/2412.12450)|null|
 |**2024-10-27**|**The maximum storage capacity of open-loop written RRAM is around 4 bits**|Yongxiang Li et.al.|[2410.20332](http://arxiv.org/abs/2410.20332)|null|
 |**2025-01-30**|**A 9T4R RRAM-Based ACAM for Analogue Template Matching at the Edge**|Georgios Papandroulidakis et.al.|[2410.03414](http://arxiv.org/abs/2410.03414)|null|
@@ -119,7 +119,7 @@
 |**2021-06-16**|**Improving Inference Lifetime of Neuromorphic Systems via Intelligent Synapse Mapping**|Shihao Song et.al.|[2106.09104](http://arxiv.org/abs/2106.09104)|null|
 |**2021-05-26**|**Investigation of Forming Free Bipolar Resistive Switching Characteristics in Al/Mn3O4/FTO RRAM Device**|Vidit Pandey et.al.|[2105.12390](http://arxiv.org/abs/2105.12390)|null|
 
-<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -141,7 +141,7 @@
 |**2025-04-04**|**Silicon nanoantennas for tailoring the optical properties of MoS2 monolayers**|Danae Katrisioti et.al.|[2504.03264](http://arxiv.org/abs/2504.03264)|null|
 |**2025-04-02**|**An anisotropic functional for two-dimensional material systems**|Michael Lorke et.al.|[2504.01684](http://arxiv.org/abs/2504.01684)|null|
 |**2025-04-01**|**TCNQ self-assembly driven by molecular coverage over borophene monolayers**|G. H. Silvestre et.al.|[2504.01238](http://arxiv.org/abs/2504.01238)|null|
-|**2025-03-31**|**Spin-Phonon Relaxation of Boron-Vacancy Centers in Two-Dimensional Boron Nitride Polytypes**|Nasrin Estaji et.al.|[2504.00154](http://arxiv.org/abs/2504.00154)|null|
+|**2025-04-13**|**Spin-Phonon Relaxation of Boron-Vacancy Centers in Two-Dimensional Boron Nitride Polytypes**|Nasrin Estaji et.al.|[2504.00154](http://arxiv.org/abs/2504.00154)|null|
 |**2025-03-31**|**First-principles design of stable spin qubits in monolayer MoS $_2$ with elemental defect engineering**|Cailian Yu et.al.|[2503.24163](http://arxiv.org/abs/2503.24163)|null|
 |**2025-04-04**|**First-Principle Investigation On Chromium Decorated Graphene-based Systems for Hydrogen Storage**|Pratyasha Tripathy et.al.|[2503.23902](http://arxiv.org/abs/2503.23902)|null|
 |**2025-03-28**|**The 2D Materials Roadmap**|Wencai Ren et.al.|[2503.22476](http://arxiv.org/abs/2503.22476)|null|
@@ -226,7 +226,7 @@
 |**2025-01-24**|**Thermal and dimensional stability of photocatalytic material ZnPS $_3$ under extreme environmental conditions**|Abhishek Mukherjee et.al.|[2501.14252](http://arxiv.org/abs/2501.14252)|null|
 |**2025-04-02**|**Selective enhancement of Coulomb interactions in planar Weyl fermions**|Vadym Apalkov et.al.|[2501.14128](http://arxiv.org/abs/2501.14128)|null|
 
-<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
