@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,15 +119,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Strain effect on optical properties and quantum weight of 2D magnetic topological insulators MnBi $_2$X$_4$ (X = Te, Se, S)**|Nguyen Tuan Hung et.al.|[2504.10879](http://arxiv.org/abs/2504.10879)|null|
+|**2025-04-15**|**Room-Temperature Hybrid 2D-3D Quantum Spin System for Enhanced Magnetic Sensing and Many-Body Dynamics**|Haoyu Sun et.al.|[2504.10815](http://arxiv.org/abs/2504.10815)|null|
+|**2025-04-14**|**MoS2 Based 2D Material Photodetector Array with high Pixel Density**|Russell L. T. Schwartz et.al.|[2504.10711](http://arxiv.org/abs/2504.10711)|null|
+|**2025-04-14**|**Zero-shot Autonomous Microscopy for Scalable and Intelligent Characterization of 2D Materials**|Jingyun Yang et.al.|[2504.10281](http://arxiv.org/abs/2504.10281)|null|
+|**2025-04-13**|**Harnessing Machine Learning for Quantum-Accurate Predictions of Non-Equilibrium Behavior in 2D Materials**|Yue Zhang et.al.|[2504.09686](http://arxiv.org/abs/2504.09686)|null|
+|**2025-04-13**|**Organic-Inorganic Polaritonics: Linking Frenkel and Wannier-Mott Excitons**|V. G. M. Duarte et.al.|[2504.09631](http://arxiv.org/abs/2504.09631)|null|
+|**2025-04-11**|**Analog Quantum Simulation of Dirac Hamiltonians in Circuit QED Using Rabi Driven Qubits**|Gal Gumpel et.al.|[2504.08944](http://arxiv.org/abs/2504.08944)|null|
 |**2025-04-11**|**Light-Induced Spin Slanting in 2D Multiferroic Magnet**|Jiangyu Zhao et.al.|[2504.08185](http://arxiv.org/abs/2504.08185)|null|
-|**2025-04-10**|**Two-dimensional perovskites with maximum symmetry enable exciton diffusion length exceeding 2 micrometers**|Jin Hou et.al.|[2504.08121](http://arxiv.org/abs/2504.08121)|null|
+|**2025-04-14**|**Two-dimensional perovskites with maximum symmetry enable exciton diffusion length exceeding 2 micrometers**|Jin Hou et.al.|[2504.08121](http://arxiv.org/abs/2504.08121)|null|
 |**2025-03-28**|**Hybridization of edge modes with substrate phonons**|Azat F. Aminov et.al.|[2504.08082](http://arxiv.org/abs/2504.08082)|null|
 |**2025-04-03**|**Unraveling the dynamics of conductive filaments in MoS ${_2}$ based memristors by operando transmission electron microscopy**|Ke Ran et.al.|[2504.07980](http://arxiv.org/abs/2504.07980)|null|
 |**2025-04-08**|**Dispersion-corrected Machine Learning Potentials for 2D van der Waals Materials**|Mikkel Ohm Sauer et.al.|[2504.05754](http://arxiv.org/abs/2504.05754)|null|
 |**2025-04-09**|**Towards "on-demand" van der Waals epitaxy with hpc-driven online ensemble sampling**|Soumendu Bagchi et.al.|[2504.05539](http://arxiv.org/abs/2504.05539)|null|
 |**2025-04-08**|**Pyroelectric doping reversal of MoS2 p-n junctions on ferroelectric domain walls probed by photoluminescence**|Javier Fernández-Martínez et.al.|[2504.04886](http://arxiv.org/abs/2504.04886)|null|
 |**2025-04-06**|**Intrinsic Nonreciprocity in Asymmetric Josephson Junctions with Non-Sinusoidal Current-Phase Relations**|R. A. Hovhannisyan et.al.|[2504.04587](http://arxiv.org/abs/2504.04587)|null|
-|**2025-04-09**|**Roadmap for Photonics with 2D Materials**|F. Javier García de Abajo et.al.|[2504.04558](http://arxiv.org/abs/2504.04558)|null|
+|**2025-04-14**|**Roadmap for Photonics with 2D Materials**|F. Javier García de Abajo et.al.|[2504.04558](http://arxiv.org/abs/2504.04558)|null|
 |**2025-04-04**|**Tunable Topological Phases in Multilayer Graphene Coupled to a Chiral Cavity**|Sayed Ali Akbar Ghorashi et.al.|[2504.03842](http://arxiv.org/abs/2504.03842)|null|
 |**2025-04-04**|**Complete design of a fully integrated graphene-based compact plasmon coupler for the infrared**|Aswani Natarajan et.al.|[2504.03403](http://arxiv.org/abs/2504.03403)|null|
 |**2025-04-04**|**Evaluation of strain and charge-transfer doping in wet-polymeric transferred monolayer MoS2: implications for field effect transistors**|C. Abinash Bhuyan et.al.|[2504.03275](http://arxiv.org/abs/2504.03275)|null|
@@ -212,13 +219,6 @@ layout: default
 |**2025-02-01**|**Can 2D materials enable passively $Q$ -switched lasers in the nanoscale?**|Thomas Christopoulos et.al.|[2502.00431](http://arxiv.org/abs/2502.00431)|null|
 |**2025-01-30**|**Charge state tuning of spin defects in hexagonal boron nitride**|Jules Fraunié et.al.|[2501.18206](http://arxiv.org/abs/2501.18206)|null|
 |**2025-01-30**|**Spin-dependent dark matter scattering in quasi-two-dimensional magnets**|Giacomo Marocco et.al.|[2501.18120](http://arxiv.org/abs/2501.18120)|null|
-|**2025-01-29**|**Anomalous Raman scattering in layered AgCrP $_2$Se$_6$ : Helical modes and excitation energy-dependent intensities**|Rahul Rao et.al.|[2501.17565](http://arxiv.org/abs/2501.17565)|null|
-|**2025-01-28**|**Quantum Geometric Origin of Strain-Tunable Giant Second-Harmonic Generation in Bi $_2$O$_2$ X (X=S, Se, Te)**|Zhefeng Lou et.al.|[2501.16741](http://arxiv.org/abs/2501.16741)|null|
-|**2025-01-26**|**The Impact of Mechanical Strain on Magnetic and Structural Properties of 2D Materials: A Monte Carlo study**|Aytac Celik et.al.|[2501.15626](http://arxiv.org/abs/2501.15626)|null|
-|**2025-01-25**|**Unravelling The potential of Hybrid Borocarbonitride Biphenylene 2D Network for Thermoelectric Applications: A First Principles Study**|Ajay Kumar Parbati Senapati et.al.|[2501.15158](http://arxiv.org/abs/2501.15158)|null|
-|**2025-03-07**|**Impact of phonon lifetimes on the single-photon indistinguishability in quantum emitters based on 2D materials**|Alexander Steinhoff et.al.|[2501.14656](http://arxiv.org/abs/2501.14656)|null|
-|**2025-01-24**|**Thermal and dimensional stability of photocatalytic material ZnPS $_3$ under extreme environmental conditions**|Abhishek Mukherjee et.al.|[2501.14252](http://arxiv.org/abs/2501.14252)|null|
-|**2025-04-02**|**Selective enhancement of Coulomb interactions in planar Weyl fermions**|Vadym Apalkov et.al.|[2501.14128](http://arxiv.org/abs/2501.14128)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
