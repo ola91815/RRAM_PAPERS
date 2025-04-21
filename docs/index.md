@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.20
+## Updated on 2025.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -40,7 +40,7 @@ layout: default
 |**2024-07-11**|**Efficient Reinforcement Learning On Passive RRAM Crossbar Array**|Arjun Tyagi et.al.|[2407.08242](http://arxiv.org/abs/2407.08242)|null|
 |**2024-07-04**|**Resistive Memory for Computing and Security: Algorithms, Architectures, and Platforms**|Simranjeet Singh et.al.|[2407.03843](http://arxiv.org/abs/2407.03843)|null|
 |**2024-07-04**|**BasisN: Reprogramming-Free RRAM-Based In-Memory-Computing by Basis Combination for Deep Neural Networks**|Amro Eldebiky et.al.|[2407.03738](http://arxiv.org/abs/2407.03738)|null|
-|**2024-12-06**|**NeuroNAS: A Framework for Energy-Efficient Neuromorphic Compute-in-Memory Systems using Hardware-Aware Spiking Neural Architecture Search**|Rachmad Vidya Wicaksana Putra et.al.|[2407.00641](http://arxiv.org/abs/2407.00641)|null|
+|**2025-04-18**|**NeuroNAS: Enhancing Efficiency of Neuromorphic In-Memory Computing for Intelligent Mobile Agents through Hardware-Aware Spiking Neural Architecture Search**|Rachmad Vidya Wicaksana Putra et.al.|[2407.00641](http://arxiv.org/abs/2407.00641)|null|
 |**2024-05-13**|**A Calibratable Model for Fast Energy Estimation of MVM Operations on RRAM Crossbars**|José Cubero-Cascante et.al.|[2405.04326](http://arxiv.org/abs/2405.04326)|null|
 |**2024-05-04**|**Efficient Open Modification Spectral Library Searching in High-Dimensional Space with Multi-Level-Cell Memory**|Keming Fan et.al.|[2405.02756](http://arxiv.org/abs/2405.02756)|null|
 |**2024-04-23**|**Drop-Connect as a Fault-Tolerance Approach for RRAM-based Deep Neural Network Accelerators**|Mingyuan Xiang et.al.|[2404.15498](http://arxiv.org/abs/2404.15498)|null|
