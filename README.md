@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.21
+## Updated on 2025.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2021-06-16**|**Improving Inference Lifetime of Neuromorphic Systems via Intelligent Synapse Mapping**|Shihao Song et.al.|[2106.09104](http://arxiv.org/abs/2106.09104)|null|
 |**2021-05-26**|**Investigation of Forming Free Bipolar Resistive Switching Characteristics in Al/Mn3O4/FTO RRAM Device**|Vidit Pandey et.al.|[2105.12390](http://arxiv.org/abs/2105.12390)|null|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -226,7 +226,7 @@
 |**2025-02-01**|**Can 2D materials enable passively $Q$ -switched lasers in the nanoscale?**|Thomas Christopoulos et.al.|[2502.00431](http://arxiv.org/abs/2502.00431)|null|
 |**2025-01-30**|**Charge state tuning of spin defects in hexagonal boron nitride**|Jules Fraunié et.al.|[2501.18206](http://arxiv.org/abs/2501.18206)|null|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
