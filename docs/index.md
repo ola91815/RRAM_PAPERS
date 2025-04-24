@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,7 +119,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-22**|**Full Crystallographic Imaging of Hexagonal Boron Nitride Monolayers with Phonon-Enhanced Sum-Frequency Microscopy**|Niclas S. Mueller et.al.|[2504.15939](http://arxiv.org/abs/2504.15939)|null|
+|**2025-04-23**|**Terahertz field effect in a two-dimensional semiconductor MoS2**|Tomoki Hiraoka et.al.|[2504.16333](http://arxiv.org/abs/2504.16333)|null|
+|**2025-04-22**|**High-throughput screening of 2D materials identifies p-type monolayer WS $_2$ as potential ultra-high mobility semiconductor**|Viet-Anh Ha et.al.|[2504.16208](http://arxiv.org/abs/2504.16208)|null|
+|**2025-04-23**|**Full Crystallographic Imaging of Hexagonal Boron Nitride Monolayers with Phonon-Enhanced Sum-Frequency Microscopy**|Niclas S. Mueller et.al.|[2504.15939](http://arxiv.org/abs/2504.15939)|null|
 |**2025-04-15**|**Integrated photonics incorporating 2D materials for practical applications**|David J. Moss et.al.|[2504.11668](http://arxiv.org/abs/2504.11668)|null|
 |**2025-04-15**|**Strain effect on optical properties and quantum weight of 2D magnetic topological insulators MnBi $_2$X$_4$ (X = Te, Se, S)**|Nguyen Tuan Hung et.al.|[2504.10879](http://arxiv.org/abs/2504.10879)|null|
 |**2025-04-15**|**Room-Temperature Hybrid 2D-3D Quantum Spin System for Enhanced Magnetic Sensing and Many-Body Dynamics**|Haoyu Sun et.al.|[2504.10815](http://arxiv.org/abs/2504.10815)|null|
@@ -217,8 +219,6 @@ layout: default
 |**2025-02-05**|**Electronic origin of stability of 2D 1H-phase Janus transition metal dichalcogenides and beyond**|Lei Li et.al.|[2502.02806](http://arxiv.org/abs/2502.02806)|null|
 |**2025-02-04**|**Fourier-Tailored Light-Matter Coupling in van der Waals Heterostructures**|Dorte R. Danielsen et.al.|[2502.02114](http://arxiv.org/abs/2502.02114)|null|
 |**2025-02-04**|**Enhanced Non-Ohmic Drain Resistance of 2DFETs at Cryogenic Temperature**|Kwok-Ho Wong et.al.|[2502.02101](http://arxiv.org/abs/2502.02101)|null|
-|**2025-02-01**|**Orbital torques and orbital pumping in two-dimensional rare-earth dichalcogenides**|Mahmoud Zeer et.al.|[2502.00449](http://arxiv.org/abs/2502.00449)|null|
-|**2025-02-01**|**Can 2D materials enable passively $Q$ -switched lasers in the nanoscale?**|Thomas Christopoulos et.al.|[2502.00431](http://arxiv.org/abs/2502.00431)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
