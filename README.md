@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.28
+## Updated on 2025.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,13 @@
 |**2021-06-16**|**Improving Inference Lifetime of Neuromorphic Systems via Intelligent Synapse Mapping**|Shihao Song et.al.|[2106.09104](http://arxiv.org/abs/2106.09104)|null|
 |**2021-05-26**|**Investigation of Forming Free Bipolar Resistive Switching Characteristics in Al/Mn3O4/FTO RRAM Device**|Vidit Pandey et.al.|[2105.12390](http://arxiv.org/abs/2105.12390)|null|
 
-<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-26**|**Planar Nernst effect from hidden band geometry in layered two-dimensional materials**|Rahul Biswas et.al.|[2504.18885](http://arxiv.org/abs/2504.18885)|null|
 |**2025-04-23**|**Terahertz field effect in a two-dimensional semiconductor MoS2**|Tomoki Hiraoka et.al.|[2504.16333](http://arxiv.org/abs/2504.16333)|null|
 |**2025-04-22**|**High-throughput screening of 2D materials identifies p-type monolayer WS $_2$ as potential ultra-high mobility semiconductor**|Viet-Anh Ha et.al.|[2504.16208](http://arxiv.org/abs/2504.16208)|null|
 |**2025-04-23**|**Full Crystallographic Imaging of Hexagonal Boron Nitride Monolayers with Phonon-Enhanced Sum-Frequency Microscopy**|Niclas S. Mueller et.al.|[2504.15939](http://arxiv.org/abs/2504.15939)|null|
@@ -155,7 +156,7 @@
 |**2025-04-13**|**Spin-Phonon Relaxation of Boron-Vacancy Centers in Two-Dimensional Boron Nitride Polytypes**|Nasrin Estaji et.al.|[2504.00154](http://arxiv.org/abs/2504.00154)|null|
 |**2025-03-31**|**First-principles design of stable spin qubits in monolayer MoS $_2$ with elemental defect engineering**|Cailian Yu et.al.|[2503.24163](http://arxiv.org/abs/2503.24163)|null|
 |**2025-04-04**|**First-Principle Investigation On Chromium Decorated Graphene-based Systems for Hydrogen Storage**|Pratyasha Tripathy et.al.|[2503.23902](http://arxiv.org/abs/2503.23902)|null|
-|**2025-03-28**|**The 2D Materials Roadmap**|Wencai Ren et.al.|[2503.22476](http://arxiv.org/abs/2503.22476)|null|
+|**2025-04-28**|**The 2D Materials Roadmap**|Wencai Ren et.al.|[2503.22476](http://arxiv.org/abs/2503.22476)|null|
 |**2025-04-08**|**Momentum-Space AC Josephson Effect and Intervalley Coherence in Multilayer Graphene**|Mainak Das et.al.|[2503.22003](http://arxiv.org/abs/2503.22003)|null|
 |**2025-03-27**|**Sub-nm Curvature Unlocks Exceptional Inherent Flexoelectricity in Graphene**|Sathvik Ajay Iyengar et.al.|[2503.21996](http://arxiv.org/abs/2503.21996)|null|
 |**2025-03-27**|**Ultrafast Saddletronics**|Sangeeta Sharma et.al.|[2503.21376](http://arxiv.org/abs/2503.21376)|null|
@@ -224,9 +225,8 @@
 |**2025-02-05**|**Separation between long- and short-range part of the Coulomb interaction in low dimensional systems: implications for the macroscopic screening length and the collective charge excitations**|Pierluigi Cudazzo et.al.|[2502.03181](http://arxiv.org/abs/2502.03181)|null|
 |**2025-02-05**|**Electronic origin of stability of 2D 1H-phase Janus transition metal dichalcogenides and beyond**|Lei Li et.al.|[2502.02806](http://arxiv.org/abs/2502.02806)|null|
 |**2025-02-04**|**Fourier-Tailored Light-Matter Coupling in van der Waals Heterostructures**|Dorte R. Danielsen et.al.|[2502.02114](http://arxiv.org/abs/2502.02114)|null|
-|**2025-02-04**|**Enhanced Non-Ohmic Drain Resistance of 2DFETs at Cryogenic Temperature**|Kwok-Ho Wong et.al.|[2502.02101](http://arxiv.org/abs/2502.02101)|null|
 
-<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
