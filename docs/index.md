@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.30
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**Towards a $\cos(2\varphi)$ Josephson element using aluminum junctions with well-transmitted channels**|J. Griesmar et.al.|[2504.21494](http://arxiv.org/abs/2504.21494)|null|
 |**2025-04-26**|**Planar Nernst effect from hidden band geometry in layered two-dimensional materials**|Rahul Biswas et.al.|[2504.18885](http://arxiv.org/abs/2504.18885)|null|
 |**2025-04-23**|**Terahertz field effect in a two-dimensional semiconductor MoS2**|Tomoki Hiraoka et.al.|[2504.16333](http://arxiv.org/abs/2504.16333)|null|
 |**2025-04-22**|**High-throughput screening of 2D materials identifies p-type monolayer WS $_2$ as potential ultra-high mobility semiconductor**|Viet-Anh Ha et.al.|[2504.16208](http://arxiv.org/abs/2504.16208)|null|
@@ -218,7 +219,6 @@ layout: default
 |**2025-02-05**|**Electronic properties and transport in metal/2D material/metal vertical junctions**|Gaëlle Bigeard et.al.|[2502.03318](http://arxiv.org/abs/2502.03318)|null|
 |**2025-02-05**|**Separation between long- and short-range part of the Coulomb interaction in low dimensional systems: implications for the macroscopic screening length and the collective charge excitations**|Pierluigi Cudazzo et.al.|[2502.03181](http://arxiv.org/abs/2502.03181)|null|
 |**2025-02-05**|**Electronic origin of stability of 2D 1H-phase Janus transition metal dichalcogenides and beyond**|Lei Li et.al.|[2502.02806](http://arxiv.org/abs/2502.02806)|null|
-|**2025-02-04**|**Fourier-Tailored Light-Matter Coupling in van der Waals Heterostructures**|Dorte R. Danielsen et.al.|[2502.02114](http://arxiv.org/abs/2502.02114)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
