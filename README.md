@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.06
+## Updated on 2025.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,13 @@
 |**2021-06-16**|**Improving Inference Lifetime of Neuromorphic Systems via Intelligent Synapse Mapping**|Shihao Song et.al.|[2106.09104](http://arxiv.org/abs/2106.09104)|null|
 |**2021-05-26**|**Investigation of Forming Free Bipolar Resistive Switching Characteristics in Al/Mn3O4/FTO RRAM Device**|Vidit Pandey et.al.|[2105.12390](http://arxiv.org/abs/2105.12390)|null|
 
-<p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**Atom-by-atom Imaging of Moiré Phasons using Electron Ptychography**|Yichao Zhang et.al.|[2505.03060](http://arxiv.org/abs/2505.03060)|null|
 |**2025-05-05**|**Electron density modulation in monolayer $MoS_{2}$ along the phase transition of a relaxor ferroelectric substrate**|D. Hernández-Pinilla et.al.|[2505.02454](http://arxiv.org/abs/2505.02454)|null|
 |**2025-05-04**|**Simple scaling rules governing work functions of two-dimensional materials**|James C. Ellenbogen et.al.|[2505.02249](http://arxiv.org/abs/2505.02249)|null|
 |**2025-05-04**|**Two-dimensional M2X2 family with emerging semiconducting, semimetallic, and magnetic properties**|Yasin Yekta et.al.|[2505.02240](http://arxiv.org/abs/2505.02240)|null|
@@ -224,9 +225,8 @@
 |**2025-02-07**|**Kerr non-linearity enhances the response of a graphene Josephson bolometer**|Joydip Sarkar et.al.|[2502.04911](http://arxiv.org/abs/2502.04911)|null|
 |**2025-02-07**|**Fundamental Factors Governing Stabilization of Janus 2D-Bulk Heterostructures with Machine Learning**|Tara M. Boland et.al.|[2502.04603](http://arxiv.org/abs/2502.04603)|null|
 |**2025-02-07**|**Boosting superconductivity: how nanofaceted surfaces transform the ground state of ultrathin YBa $_2$Cu$_3$O$_{7-δ}$ thin films**|Eric Wahlberg et.al.|[2502.03986](http://arxiv.org/abs/2502.03986)|null|
-|**2025-03-04**|**Polarons and Exciton-Polarons in Two-Dimensional Polar Materials**|V. Shahnazaryan et.al.|[2502.03657](http://arxiv.org/abs/2502.03657)|null|
 
-<p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
