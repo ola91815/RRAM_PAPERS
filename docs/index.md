@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Electronic and Optical Properties of the Recently Synthesized 2D Vivianites (Vivianenes): Insights from First-Principles Calculations**|Raphael Benjamim de Oliveira et.al.|[2505.05282](http://arxiv.org/abs/2505.05282)|null|
+|**2025-05-08**|**Giant Tunneling Magnetoresistance in Graphene/ $h$-BN Based van der Waals Magnetic Tunnel Junctions via 3$d$ Transition Metal Intercalation**|Zhi Yan et.al.|[2505.04878](http://arxiv.org/abs/2505.04878)|null|
 |**2025-05-07**|**TBA-enabled spin-coating of a percolatively connected GO nanosieve for thru-hole epitaxy: tuning GO flake stacking and coverage to control GaN nucleation**|Gunhoon Beak et.al.|[2505.04454](http://arxiv.org/abs/2505.04454)|null|
 |**2025-05-07**|**Defect engineering and effect of vacancy concentration on the electrochemical performance of V-based MXenes**|Leiqiang Qin et.al.|[2505.04226](http://arxiv.org/abs/2505.04226)|null|
 |**2025-05-05**|**Atom-by-atom Imaging of Moiré Phasons using Electron Ptychography**|Yichao Zhang et.al.|[2505.03060](http://arxiv.org/abs/2505.03060)|null|
@@ -217,8 +219,6 @@ layout: default
 |**2025-02-16**|**Anisotropic Schottky-barrier-height in high-symmetry 2D WSe $_2$ : Momentum-space anisotropy**|Nuo Xu et.al.|[2502.11005](http://arxiv.org/abs/2502.11005)|null|
 |**2025-02-15**|**Two-Dimensional Material Based Photodetector for Near Infrared Detection**|Farhad Larki et.al.|[2502.10680](http://arxiv.org/abs/2502.10680)|null|
 |**2025-02-10**|**Anisotropic resonance energy transfer with strained phosphorene**|J. Oliveira-Cony et.al.|[2502.07121](http://arxiv.org/abs/2502.07121)|null|
-|**2025-02-10**|**Brightening dark excitons and trions in systems with a Mexican-hat energy dispersion: example of InSe**|Lewis J. Burke et.al.|[2502.06473](http://arxiv.org/abs/2502.06473)|null|
-|**2025-02-07**|**Kerr non-linearity enhances the response of a graphene Josephson bolometer**|Joydip Sarkar et.al.|[2502.04911](http://arxiv.org/abs/2502.04911)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
