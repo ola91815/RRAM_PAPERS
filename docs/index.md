@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.11
+## Updated on 2025.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Above-room-temperature ferromagnetism in large-area epitaxial Fe3GaTe2/graphene van der Waals heterostructures**|Tauqir Shinwari et.al.|[2505.06128](http://arxiv.org/abs/2505.06128)|null|
+|**2025-05-09**|**Directed light emission from monolayers on 2D materials via optical interferences**|Pavel Trofimov et.al.|[2505.05865](http://arxiv.org/abs/2505.05865)|null|
 |**2025-05-08**|**Electronic and Optical Properties of the Recently Synthesized 2D Vivianites (Vivianenes): Insights from First-Principles Calculations**|Raphael Benjamim de Oliveira et.al.|[2505.05282](http://arxiv.org/abs/2505.05282)|null|
 |**2025-05-08**|**Giant Tunneling Magnetoresistance in Graphene/ $h$-BN Based van der Waals Magnetic Tunnel Junctions via 3$d$ Transition Metal Intercalation**|Zhi Yan et.al.|[2505.04878](http://arxiv.org/abs/2505.04878)|null|
 |**2025-05-07**|**TBA-enabled spin-coating of a percolatively connected GO nanosieve for thru-hole epitaxy: tuning GO flake stacking and coverage to control GaN nucleation**|Gunhoon Beak et.al.|[2505.04454](http://arxiv.org/abs/2505.04454)|null|
@@ -217,8 +219,6 @@ layout: default
 |**2025-02-16**|**Imaging current flow and injection in scalable graphene devices through NV-magnetometry**|Kaj Dockx et.al.|[2502.11076](http://arxiv.org/abs/2502.11076)|null|
 |**2025-02-16**|**Organometallic-Inorganic Hybrid MXenes with Tunable Superconductivity**|Qi Fan et.al.|[2502.11035](http://arxiv.org/abs/2502.11035)|null|
 |**2025-02-16**|**Anisotropic Schottky-barrier-height in high-symmetry 2D WSe $_2$ : Momentum-space anisotropy**|Nuo Xu et.al.|[2502.11005](http://arxiv.org/abs/2502.11005)|null|
-|**2025-02-15**|**Two-Dimensional Material Based Photodetector for Near Infrared Detection**|Farhad Larki et.al.|[2502.10680](http://arxiv.org/abs/2502.10680)|null|
-|**2025-02-10**|**Anisotropic resonance energy transfer with strained phosphorene**|J. Oliveira-Cony et.al.|[2502.07121](http://arxiv.org/abs/2502.07121)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
