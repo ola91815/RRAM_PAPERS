@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,16 @@
 |**2021-07-17**|**Ultra Low Power 3D-Embedded Convolutional Neural Network Cube Based on $α$ -IGZO Nanosheet and Bi-Layer Resistive Memory**|Sunanda Thunder et.al.|[2107.08178](http://arxiv.org/abs/2107.08178)|null|
 |**2021-09-02**|**Model of the Weak Reset Process in HfOx Resistive Memory for Deep Learning Frameworks**|Atreya Majumdar et.al.|[2107.06064](http://arxiv.org/abs/2107.06064)|null|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Assembly of High-Performance van der Waals Devices Using Commercial Polyvinyl Chloride Films**|Son T. Le et.al.|[2505.08579](http://arxiv.org/abs/2505.08579)|null|
+|**2025-05-13**|**Modelling of time-dependent electrostatic effects and AFM-based surface conductivity characterization**|Mario Navarro-Rodriguez et.al.|[2505.08249](http://arxiv.org/abs/2505.08249)|null|
+|**2025-05-12**|**Colossal anomalous Stark shift in defect emission of undulated 2D materials**|Sunny Gupta et.al.|[2505.08096](http://arxiv.org/abs/2505.08096)|null|
+|**2025-05-12**|**Electronic structure of monolayer-CrTe $_2$ : an antiferromagnetic 2D van der Waals material**|Olivia Armitage et.al.|[2505.07942](http://arxiv.org/abs/2505.07942)|null|
 |**2025-05-12**|**PtyRAD: A High-performance and Flexible Ptychographic Reconstruction Framework with Automatic Differentiation**|Chia-Hao Lee et.al.|[2505.07814](http://arxiv.org/abs/2505.07814)|null|
 |**2025-05-12**|**Unraveling Mn intercalation and diffusion in NbSe $_2$ bilayers through DFTB simulations**|Bruno Ipaves et.al.|[2505.07781](http://arxiv.org/abs/2505.07781)|null|
 |**2025-05-12**|**Charge transfer between van der Waals coupled metallic 2D layers**|Bharti Matta et.al.|[2505.07382](http://arxiv.org/abs/2505.07382)|null|
@@ -155,10 +159,10 @@
 |**2025-04-11**|**Analog Quantum Simulation of Dirac Hamiltonians in Circuit QED Using Rabi Driven Qubits**|Gal Gumpel et.al.|[2504.08944](http://arxiv.org/abs/2504.08944)|null|
 |**2025-04-11**|**Light-Induced Spin Slanting in 2D Multiferroic Magnet**|Jiangyu Zhao et.al.|[2504.08185](http://arxiv.org/abs/2504.08185)|null|
 |**2025-04-14**|**Two-dimensional perovskites with maximum symmetry enable exciton diffusion length exceeding 2 micrometers**|Jin Hou et.al.|[2504.08121](http://arxiv.org/abs/2504.08121)|null|
-|**2025-03-28**|**Hybridization of edge modes with substrate phonons**|Azat F. Aminov et.al.|[2504.08082](http://arxiv.org/abs/2504.08082)|null|
+|**2025-05-13**|**Hybridization of edge modes with substrate phonons**|Azat F. Aminov et.al.|[2504.08082](http://arxiv.org/abs/2504.08082)|null|
 |**2025-04-03**|**Unraveling the dynamics of conductive filaments in MoS ${_2}$ based memristors by operando transmission electron microscopy**|Ke Ran et.al.|[2504.07980](http://arxiv.org/abs/2504.07980)|null|
 |**2025-04-08**|**Dispersion-corrected Machine Learning Potentials for 2D van der Waals Materials**|Mikkel Ohm Sauer et.al.|[2504.05754](http://arxiv.org/abs/2504.05754)|null|
-|**2025-05-07**|**Towards "on-demand" van der Waals epitaxy with hpc-driven online ensemble sampling**|Soumendu Bagchi et.al.|[2504.05539](http://arxiv.org/abs/2504.05539)|null|
+|**2025-05-13**|**Towards "on-demand" van der Waals epitaxy with hpc-driven online ensemble sampling**|Soumendu Bagchi et.al.|[2504.05539](http://arxiv.org/abs/2504.05539)|null|
 |**2025-04-08**|**Pyroelectric doping reversal of MoS2 p-n junctions on ferroelectric domain walls probed by photoluminescence**|Javier Fernández-Martínez et.al.|[2504.04886](http://arxiv.org/abs/2504.04886)|null|
 |**2025-04-06**|**Intrinsic Nonreciprocity in Asymmetric Josephson Junctions with Non-Sinusoidal Current-Phase Relations**|R. A. Hovhannisyan et.al.|[2504.04587](http://arxiv.org/abs/2504.04587)|null|
 |**2025-04-14**|**Roadmap for Photonics with 2D Materials**|F. Javier García de Abajo et.al.|[2504.04558](http://arxiv.org/abs/2504.04558)|null|
@@ -221,12 +225,8 @@
 |**2025-02-18**|**2D Layered Heterojunctions for Photoelectrocatalysis**|Mengjiao Wang et.al.|[2502.12705](http://arxiv.org/abs/2502.12705)|null|
 |**2025-02-17**|**Identification of Polytypism and Their Dislocations in Bilayer MoS2 Using Correlative Transmission Electron Microscopy and Raman Spectroscopy**|Xin Zhou et.al.|[2502.11977](http://arxiv.org/abs/2502.11977)|null|
 |**2025-02-17**|**Single-Molecule Water Motion on h-BN and Graphene: A Paradigm Shift in Understanding the Behaviour of Water on 2D Material Interfaces**|Philipp Seiler et.al.|[2502.11944](http://arxiv.org/abs/2502.11944)|null|
-|**2025-02-17**|**Uncovering the atomic structure of substitutional platinum dopants in MoS $_2$ with single-sideband ptychography**|David Lamprecht et.al.|[2502.11912](http://arxiv.org/abs/2502.11912)|null|
-|**2025-04-28**|**When Adiabaticity Is Not Enough to Study Topological Phases in Solid-State Physics: Comparing the Berry and Aharonov-Anandan Phases in 2D Materials**|Abdiel de Jesús Espinosa-Champo et.al.|[2502.11875](http://arxiv.org/abs/2502.11875)|null|
-|**2025-02-17**|**Exploring Novel 2D Analogues of Goldene: Electronic, Mechanical, and Optical Properties of Silverene and Copperene**|Emanuel J. A. dos Santos et.al.|[2502.11810](http://arxiv.org/abs/2502.11810)|null|
-|**2025-02-17**|**Computational Study of Magnetic Behaviour in Ni-Adsorbed Nb2C-OF MXene using Density Functional Theory**|Zarah Khan et.al.|[2502.11543](http://arxiv.org/abs/2502.11543)|null|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
