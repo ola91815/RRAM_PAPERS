@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,17 +119,19 @@
 |**2021-07-17**|**Ultra Low Power 3D-Embedded Convolutional Neural Network Cube Based on $α$ -IGZO Nanosheet and Bi-Layer Resistive Memory**|Sunanda Thunder et.al.|[2107.08178](http://arxiv.org/abs/2107.08178)|null|
 |**2021-09-02**|**Model of the Weak Reset Process in HfOx Resistive Memory for Deep Learning Frameworks**|Atreya Majumdar et.al.|[2107.06064](http://arxiv.org/abs/2107.06064)|null|
 
-<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**A Framework for Identifying Non-van der Waals 2D Materials**|Shota Ono et.al.|[2505.09853](http://arxiv.org/abs/2505.09853)|null|
+|**2025-05-14**|**Reduction of fully screened magnetoplasmons in a laterally confined anisotropic two-dimensional electron system to an isotropic one**|D. A. Rodionov et.al.|[2505.09758](http://arxiv.org/abs/2505.09758)|null|
 |**2025-05-13**|**Assembly of High-Performance van der Waals Devices Using Commercial Polyvinyl Chloride Films**|Son T. Le et.al.|[2505.08579](http://arxiv.org/abs/2505.08579)|null|
 |**2025-05-13**|**Modelling of time-dependent electrostatic effects and AFM-based surface conductivity characterization**|Mario Navarro-Rodriguez et.al.|[2505.08249](http://arxiv.org/abs/2505.08249)|null|
 |**2025-05-12**|**Colossal anomalous Stark shift in defect emission of undulated 2D materials**|Sunny Gupta et.al.|[2505.08096](http://arxiv.org/abs/2505.08096)|null|
 |**2025-05-12**|**Electronic structure of monolayer-CrTe $_2$ : an antiferromagnetic 2D van der Waals material**|Olivia Armitage et.al.|[2505.07942](http://arxiv.org/abs/2505.07942)|null|
-|**2025-05-12**|**PtyRAD: A High-performance and Flexible Ptychographic Reconstruction Framework with Automatic Differentiation**|Chia-Hao Lee et.al.|[2505.07814](http://arxiv.org/abs/2505.07814)|null|
+|**2025-05-12**|**PtyRAD: A High-performance and Flexible Ptychographic Reconstruction Framework with Automatic Differentiation**|Chia-Hao Lee et.al.|[2505.07814](http://arxiv.org/abs/2505.07814)|**[link](https://github.com/chiahao3/ptyrad)**|
 |**2025-05-12**|**Unraveling Mn intercalation and diffusion in NbSe $_2$ bilayers through DFTB simulations**|Bruno Ipaves et.al.|[2505.07781](http://arxiv.org/abs/2505.07781)|null|
 |**2025-05-12**|**Charge transfer between van der Waals coupled metallic 2D layers**|Bharti Matta et.al.|[2505.07382](http://arxiv.org/abs/2505.07382)|null|
 |**2025-05-10**|**Inverse Design of Broadband Antennas for Terahertz Devices Based on 2D Materials**|M. Lukianov et.al.|[2505.06480](http://arxiv.org/abs/2505.06480)|null|
@@ -223,10 +225,8 @@
 |**2025-02-22**|**Klein Tunneling and Fabry-Pérot Resonances in Twisted Bilayer Graphene**|Ayoub Bahlaoui et.al.|[2502.16183](http://arxiv.org/abs/2502.16183)|null|
 |**2025-02-19**|**Enhancement of temperature of quantum anomalous Hall effect in two-dimensional germanene/magnetic semiconductor heterostructures**|Qing-Han Yang et.al.|[2502.13355](http://arxiv.org/abs/2502.13355)|null|
 |**2025-02-18**|**2D Layered Heterojunctions for Photoelectrocatalysis**|Mengjiao Wang et.al.|[2502.12705](http://arxiv.org/abs/2502.12705)|null|
-|**2025-02-17**|**Identification of Polytypism and Their Dislocations in Bilayer MoS2 Using Correlative Transmission Electron Microscopy and Raman Spectroscopy**|Xin Zhou et.al.|[2502.11977](http://arxiv.org/abs/2502.11977)|null|
-|**2025-02-17**|**Single-Molecule Water Motion on h-BN and Graphene: A Paradigm Shift in Understanding the Behaviour of Water on 2D Material Interfaces**|Philipp Seiler et.al.|[2502.11944](http://arxiv.org/abs/2502.11944)|null|
 
-<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
