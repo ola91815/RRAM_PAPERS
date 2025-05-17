@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.16
+## Updated on 2025.05.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2021-07-17**|**Ultra Low Power 3D-Embedded Convolutional Neural Network Cube Based on $α$ -IGZO Nanosheet and Bi-Layer Resistive Memory**|Sunanda Thunder et.al.|[2107.08178](http://arxiv.org/abs/2107.08178)|null|
 |**2021-09-02**|**Model of the Weak Reset Process in HfOx Resistive Memory for Deep Learning Frameworks**|Atreya Majumdar et.al.|[2107.06064](http://arxiv.org/abs/2107.06064)|null|
 
-<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -226,7 +226,7 @@
 |**2025-02-19**|**Enhancement of temperature of quantum anomalous Hall effect in two-dimensional germanene/magnetic semiconductor heterostructures**|Qing-Han Yang et.al.|[2502.13355](http://arxiv.org/abs/2502.13355)|null|
 |**2025-02-18**|**2D Layered Heterojunctions for Photoelectrocatalysis**|Mengjiao Wang et.al.|[2502.12705](http://arxiv.org/abs/2502.12705)|null|
 
-<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
