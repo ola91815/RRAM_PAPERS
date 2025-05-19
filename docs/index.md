@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.18
+## Updated on 2025.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Scalable thru-hole epitaxy of GaN through self-adjusting $h$ -BN masks via solution-processed 2D stacks**|Jongwoo Ha et.al.|[2505.11045](http://arxiv.org/abs/2505.11045)|null|
 |**2025-05-14**|**A Framework for Identifying Non-van der Waals 2D Materials**|Shota Ono et.al.|[2505.09853](http://arxiv.org/abs/2505.09853)|null|
 |**2025-05-14**|**Reduction of fully screened magnetoplasmons in a laterally confined anisotropic two-dimensional electron system to an isotropic one**|D. A. Rodionov et.al.|[2505.09758](http://arxiv.org/abs/2505.09758)|null|
 |**2025-05-13**|**Assembly of High-Performance van der Waals Devices Using Commercial Polyvinyl Chloride Films**|Son T. Le et.al.|[2505.08579](http://arxiv.org/abs/2505.08579)|null|
@@ -218,7 +219,6 @@ layout: default
 |**2025-02-24**|**Exploring the Interaction of BeS Monolayer and Lung Disease Biomarkers: Potential Material for Biosensing Applications**|Sudipta Saha et.al.|[2502.17302](http://arxiv.org/abs/2502.17302)|null|
 |**2025-02-22**|**Klein Tunneling and Fabry-Pérot Resonances in Twisted Bilayer Graphene**|Ayoub Bahlaoui et.al.|[2502.16183](http://arxiv.org/abs/2502.16183)|null|
 |**2025-02-19**|**Enhancement of temperature of quantum anomalous Hall effect in two-dimensional germanene/magnetic semiconductor heterostructures**|Qing-Han Yang et.al.|[2502.13355](http://arxiv.org/abs/2502.13355)|null|
-|**2025-02-18**|**2D Layered Heterojunctions for Photoelectrocatalysis**|Mengjiao Wang et.al.|[2502.12705](http://arxiv.org/abs/2502.12705)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
