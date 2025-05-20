@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.19
+## Updated on 2025.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Thermal transport mapping in twisted double bilayer graphene**|Jean Spièce et.al.|[2505.12957](http://arxiv.org/abs/2505.12957)|null|
+|**2025-05-19**|**Resolving self-cavity effects in two-dimensional quantum materials**|Marios H. Michael et.al.|[2505.12799](http://arxiv.org/abs/2505.12799)|null|
+|**2025-05-18**|**Thermal and thermoelectric transport in monolayer h-NbN: Roles of four-phonon scattering and tensile strain**|Himanshu Murari et.al.|[2505.12520](http://arxiv.org/abs/2505.12520)|null|
 |**2025-05-16**|**Scalable thru-hole epitaxy of GaN through self-adjusting $h$ -BN masks via solution-processed 2D stacks**|Jongwoo Ha et.al.|[2505.11045](http://arxiv.org/abs/2505.11045)|null|
 |**2025-05-14**|**A Framework for Identifying Non-van der Waals 2D Materials**|Shota Ono et.al.|[2505.09853](http://arxiv.org/abs/2505.09853)|null|
 |**2025-05-14**|**Reduction of fully screened magnetoplasmons in a laterally confined anisotropic two-dimensional electron system to an isotropic one**|D. A. Rodionov et.al.|[2505.09758](http://arxiv.org/abs/2505.09758)|null|
@@ -216,9 +219,6 @@ layout: default
 |**2025-02-25**|**Distributed Current Injection into a 1D Ballistic Edge Channel**|Kristof Moors et.al.|[2502.17995](http://arxiv.org/abs/2502.17995)|null|
 |**2025-02-25**|**Scalable, universal and conformal direct electrodes microprinting for high-performance van der Waals-integrated two-dimensional electronics and flexible applications**|Nan Cui et.al.|[2502.17861](http://arxiv.org/abs/2502.17861)|null|
 |**2025-02-25**|**Ultralow-temperature ultrafast synthesis of wafer-scale single-crystalline graphene via metal-assisted graphitization of silicon-carbide**|Se H. Kim et.al.|[2502.17799](http://arxiv.org/abs/2502.17799)|null|
-|**2025-02-24**|**Exploring the Interaction of BeS Monolayer and Lung Disease Biomarkers: Potential Material for Biosensing Applications**|Sudipta Saha et.al.|[2502.17302](http://arxiv.org/abs/2502.17302)|null|
-|**2025-02-22**|**Klein Tunneling and Fabry-Pérot Resonances in Twisted Bilayer Graphene**|Ayoub Bahlaoui et.al.|[2502.16183](http://arxiv.org/abs/2502.16183)|null|
-|**2025-02-19**|**Enhancement of temperature of quantum anomalous Hall effect in two-dimensional germanene/magnetic semiconductor heterostructures**|Qing-Han Yang et.al.|[2502.13355](http://arxiv.org/abs/2502.13355)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
