@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-20**|**Optimizing Binary and Ternary Neural Network Inference on RRAM Crossbars using CIM-Explorer**|Rebecca Pelke et.al.|[2505.14303](http://arxiv.org/abs/2505.14303)|null|
+|**2025-05-20**|**Optimizing Binary and Ternary Neural Network Inference on RRAM Crossbars using CIM-Explorer**|Rebecca Pelke et.al.|[2505.14303](http://arxiv.org/abs/2505.14303)|**[link](https://github.com/rpelke/cim-e)**|
 |**2025-05-12**|**Evaluating the Scalability of Binary and Ternary CNN Workloads on RRAM-based Compute-in-Memory Accelerators**|José Cubero-Cascante et.al.|[2505.07490](http://arxiv.org/abs/2505.07490)|null|
 |**2025-05-11**|**Electroforming Kinetics in HfOx/Ti RRAM: Mechanisms Behind Compositional and Thermal Engineering**|Manasa Kaniselvan et.al.|[2505.06809](http://arxiv.org/abs/2505.06809)|null|
 |**2025-04-02**|**Efficient Calibration for RRAM-based In-Memory Computing using DoRA**|Weirong Dong et.al.|[2504.03763](http://arxiv.org/abs/2504.03763)|null|
@@ -119,6 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**Exciton-defect interaction and optical properties from a first-principles T-matrix approach**|Yang-hao Chan et.al.|[2505.15523](http://arxiv.org/abs/2505.15523)|null|
 |**2025-05-20**|**Probing and Tuning Strain-localized Exciton Emission in 2D Material Bubbles at Room Temperature**|Junze Zhou et.al.|[2505.13783](http://arxiv.org/abs/2505.13783)|null|
 |**2025-05-19**|**Thermal transport mapping in twisted double bilayer graphene**|Jean Spièce et.al.|[2505.12957](http://arxiv.org/abs/2505.12957)|null|
 |**2025-05-19**|**Resolving self-cavity effects in two-dimensional quantum materials**|Marios H. Michael et.al.|[2505.12799](http://arxiv.org/abs/2505.12799)|null|
@@ -218,7 +219,6 @@ layout: default
 |**2025-02-26**|**Engineering MoS $_2$-MoTe$_2$ Heterojunctions: Enhancing Piezoresponse and Rectification**|Sai Saraswathi Yarajena et.al.|[2502.18884](http://arxiv.org/abs/2502.18884)|null|
 |**2025-02-25**|**Coexisting Triferroic and Multiple Types of Valley Polarization by Structural Phase Transition in Two-Dimensional Materials**|Chao Wu et.al.|[2502.18190](http://arxiv.org/abs/2502.18190)|null|
 |**2025-02-25**|**Distributed Current Injection into a 1D Ballistic Edge Channel**|Kristof Moors et.al.|[2502.17995](http://arxiv.org/abs/2502.17995)|null|
-|**2025-02-25**|**Scalable, universal and conformal direct electrodes microprinting for high-performance van der Waals-integrated two-dimensional electronics and flexible applications**|Nan Cui et.al.|[2502.17861](http://arxiv.org/abs/2502.17861)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
