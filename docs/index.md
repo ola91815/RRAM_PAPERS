@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.29
+## Updated on 2025.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,7 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-28**|**Sr $_2$NbO$_4$: A $4d$ analogue of the layered perovskite Sr$_2$VO$_4$**|Leonid S. Taran et.al.|[2505.21995](http://arxiv.org/abs/2505.21995)|null|
+|**2025-05-29**|**Sr $_2$NbO$_4$: A $4d$ analogue of the layered perovskite Sr$_2$VO$_4$**|Leonid S. Taran et.al.|[2505.21995](http://arxiv.org/abs/2505.21995)|null|
 |**2025-05-28**|**Dual-Polarization SHG Interferometry for Imaging Antiparallel Domains and Stacking Angles of 2D Heterocrystals**|Juseung Oh et.al.|[2505.21922](http://arxiv.org/abs/2505.21922)|null|
 |**2025-05-24**|**Self-patterning of Liquid Field's Metal for Enhanced Performance of Two-dimensional Semiconductor**|Kwanghee Han et.al.|[2505.18794](http://arxiv.org/abs/2505.18794)|null|
 |**2025-05-23**|**Nucleation and Antiphase Twin Control in Bi $_2$Se$_3$ via Step-Terminated Al$_2$O$_3$ Substrates**|Alessandro R. Mazza et.al.|[2505.18103](http://arxiv.org/abs/2505.18103)|null|
@@ -133,7 +133,7 @@ layout: default
 |**2025-05-14**|**A Framework for Identifying Non-van der Waals 2D Materials**|Shota Ono et.al.|[2505.09853](http://arxiv.org/abs/2505.09853)|null|
 |**2025-05-14**|**Reduction of fully screened magnetoplasmons in a laterally confined anisotropic two-dimensional electron system to an isotropic one**|D. A. Rodionov et.al.|[2505.09758](http://arxiv.org/abs/2505.09758)|null|
 |**2025-05-13**|**Assembly of High-Performance van der Waals Devices Using Commercial Polyvinyl Chloride Films**|Son T. Le et.al.|[2505.08579](http://arxiv.org/abs/2505.08579)|null|
-|**2025-05-13**|**Modelling of time-dependent electrostatic effects and AFM-based surface conductivity characterization**|Mario Navarro-Rodriguez et.al.|[2505.08249](http://arxiv.org/abs/2505.08249)|null|
+|**2025-05-29**|**Modelling of time-dependent electrostatic effects and AFM-based surface conductivity characterization**|Mario Navarro-Rodriguez et.al.|[2505.08249](http://arxiv.org/abs/2505.08249)|null|
 |**2025-05-12**|**Colossal anomalous Stark shift in defect emission of undulated 2D materials**|Sunny Gupta et.al.|[2505.08096](http://arxiv.org/abs/2505.08096)|null|
 |**2025-05-12**|**Electronic structure of monolayer-CrTe $_2$ : an antiferromagnetic 2D van der Waals material**|Olivia Armitage et.al.|[2505.07942](http://arxiv.org/abs/2505.07942)|null|
 |**2025-05-12**|**PtyRAD: A High-performance and Flexible Ptychographic Reconstruction Framework with Automatic Differentiation**|Chia-Hao Lee et.al.|[2505.07814](http://arxiv.org/abs/2505.07814)|**[link](https://github.com/chiahao3/ptyrad)**|
