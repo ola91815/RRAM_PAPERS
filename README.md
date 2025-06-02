@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.01
+## Updated on 2025.06.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2021-08-30**|**Realization of A Non-Markov Chain in A Single 2D Crystal RRAM**|Rongjie Zhang et.al.|[2108.13244](http://arxiv.org/abs/2108.13244)|null|
 |**2021-08-17**|**Edge AI without Compromise: Efficient, Versatile and Accurate Neurocomputing in Resistive Random-Access Memory**|Weier Wan et.al.|[2108.07879](http://arxiv.org/abs/2108.07879)|null|
 
-<p align=right>(<a href=#updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -200,7 +200,6 @@
 |**2025-03-20**|**Valley Emission and Upconversion in Isotopically Engineered Monolayer WS $_2$ under Resonant Excitation**|Rahul Kesarwani et.al.|[2503.15961](http://arxiv.org/abs/2503.15961)|null|
 |**2025-03-20**|**Optical control of the moiré twist angle**|Zhiren He et.al.|[2503.15882](http://arxiv.org/abs/2503.15882)|null|
 |**2025-03-18**|**Exciton Annihilation by Lanthanide Dopants: An Atomic Probe of Sub-Diffraction Exciton Diffusion in Ferromagnetic CrI3**|Kimo Pressler et.al.|[2503.14771](http://arxiv.org/abs/2503.14771)|null|
-|**2025-03-18**|**Surface phonons in MoS2**|Aleksandar Radic et.al.|[2503.14464](http://arxiv.org/abs/2503.14464)|null|
 |**2025-03-18**|**Magnetoelastic coupling in intercalated transition metal dichalcogenides**|A. Kar et.al.|[2503.14444](http://arxiv.org/abs/2503.14444)|null|
 |**2025-03-18**|**In situ engineering hexagonal boron nitride in van der Waals heterostructures with selective SF6 etching**|Hitesh Agarwal et.al.|[2503.14238](http://arxiv.org/abs/2503.14238)|null|
 |**2025-03-17**|**Wannier-Function-Based Approach to Coupled Exciton-Phonon-Photon Dynamics in Two-Dimensional Semiconductors**|Alexander Steinhoff et.al.|[2503.13417](http://arxiv.org/abs/2503.13417)|null|
@@ -225,8 +224,9 @@
 |**2025-03-03**|**Flat bands and temperature-driven phase transition in quasi-one-dimensional zigzag chains**|Jisong Gao et.al.|[2503.01535](http://arxiv.org/abs/2503.01535)|null|
 |**2025-03-02**|**Two-Dimensional Graphene-like BeO Sheet: A Promising Deep-Ultraviolet Nonlinear Optical Materials System with Strong and Highly Tunable Second Harmonic Generation**|Linlin Liu et.al.|[2503.00855](http://arxiv.org/abs/2503.00855)|null|
 |**2025-03-01**|**Rapid morphology characterization of two-dimensional TMDs and lateral heterostructures based on deep learning**|Junqi He et.al.|[2503.00470](http://arxiv.org/abs/2503.00470)|**[link](https://github.com/TripHawkers/OM-real-time-inference)**|
+|**2025-02-28**|**Multiple magnetic states, valley electronics, and topological phase transitions in two-dimensional Janus XYZH (X = Sc, Y, La, Y = Cl, Br, I, and Z = S, Se, Te): From monolayers to bilayers**|Xinyu Tian et.al.|[2502.21135](http://arxiv.org/abs/2502.21135)|null|
 
-<p align=right>(<a href=#updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
