@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.03
+## Updated on 2025.06.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Hybrid SLC-MLC RRAM Mixed-Signal Processing-in-Memory Architecture for Transformer Acceleration via Gradient Redistribution**|Chang Eun Song et.al.|[2506.00020](http://arxiv.org/abs/2506.00020)|null|
 |**2025-05-23**|**Bruno: Backpropagation Running Undersampled for Novel device Optimization**|Luca Fehlings et.al.|[2505.17791](http://arxiv.org/abs/2505.17791)|null|
 |**2025-05-20**|**Optimizing Binary and Ternary Neural Network Inference on RRAM Crossbars using CIM-Explorer**|Rebecca Pelke et.al.|[2505.14303](http://arxiv.org/abs/2505.14303)|**[link](https://github.com/rpelke/cim-e)**|
 |**2025-05-26**|**Evaluating the Scalability of Binary and Ternary CNN Workloads on RRAM-based Compute-in-Memory Accelerators**|José Cubero-Cascante et.al.|[2505.07490](http://arxiv.org/abs/2505.07490)|null|
@@ -117,14 +118,19 @@
 |**2021-09-27**|**Superior Resistance Switching in Monolayer MoS2 Channel Based Gated Binary Resistive RAM via Gate-Bias Dependence and a Unique Forming Process**|Ansh et.al.|[2109.12937](http://arxiv.org/abs/2109.12937)|null|
 |**2021-08-30**|**Exploiting the Electrothermal Timescale in PrMnO3 RRAM for a compact, clock-less neuron exhibiting biological spiking patterns**|Omkar Phadke et.al.|[2108.13389](http://arxiv.org/abs/2108.13389)|null|
 |**2021-08-30**|**Realization of A Non-Markov Chain in A Single 2D Crystal RRAM**|Rongjie Zhang et.al.|[2108.13244](http://arxiv.org/abs/2108.13244)|null|
-|**2021-08-17**|**Edge AI without Compromise: Efficient, Versatile and Accurate Neurocomputing in Resistive Random-Access Memory**|Weier Wan et.al.|[2108.07879](http://arxiv.org/abs/2108.07879)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-02**|**First-Principles and Machine Learning Investigation of the Structural and Optoelectronic Properties of Dodecaphenylyne: A Novel Carbon Allotrope**|Kleuton A. L. Lima et.al.|[2506.02218](http://arxiv.org/abs/2506.02218)|null|
+|**2025-06-02**|**Tunable magnons in a dual-gated 2D antiferromagnet**|Nele Stetzuhn et.al.|[2506.02185](http://arxiv.org/abs/2506.02185)|null|
+|**2025-06-03**|**Fully characterized linear magnetoelectric response of 2D monolayers from high-throughput first-principles calculations**|John Mangeri et.al.|[2506.01515](http://arxiv.org/abs/2506.01515)|null|
+|**2025-06-02**|**2D material exciton-polariton transport on 2D photonic crystals**|Xin Xie et.al.|[2506.01259](http://arxiv.org/abs/2506.01259)|null|
+|**2025-06-01**|**Tunable Itinerant Ferromagnetism in the Two-Dimensional FePd $_2$Te$_2$ Hosting 1D Spin Chains**|Alberto M. Ruiz et.al.|[2506.01009](http://arxiv.org/abs/2506.01009)|null|
+|**2025-05-31**|**Resonant interlayer coupling in NbSe $_2$ -graphite epitaxial moir{é} superlattices**|S. Mo et.al.|[2506.00449](http://arxiv.org/abs/2506.00449)|null|
 |**2025-05-29**|**Sr $_2$NbO$_4$: A $4d$ analogue of the layered perovskite Sr$_2$VO$_4$**|Leonid S. Taran et.al.|[2505.21995](http://arxiv.org/abs/2505.21995)|null|
 |**2025-05-28**|**Dual-Polarization SHG Interferometry for Imaging Antiparallel Domains and Stacking Angles of 2D Heterocrystals**|Juseung Oh et.al.|[2505.21922](http://arxiv.org/abs/2505.21922)|null|
 |**2025-05-24**|**Self-patterning of Liquid Field's Metal for Enhanced Performance of Two-dimensional Semiconductor**|Kwanghee Han et.al.|[2505.18794](http://arxiv.org/abs/2505.18794)|null|
@@ -219,14 +225,8 @@
 |**2025-03-08**|**Optical Visualization of Carrier Surfing in 2D Monolayers Driven by Surface Acoustic Waves**|Xueqian Sun et.al.|[2503.06081](http://arxiv.org/abs/2503.06081)|null|
 |**2025-03-07**|**Centrifugation theory revisited: Understanding and modelling the centrifugation of 2D nanosheets**|Stuart Goldie et.al.|[2503.05111](http://arxiv.org/abs/2503.05111)|null|
 |**2025-03-06**|**Twisted heterobilayer photonic crystal based on stacking and selective etching of 2D materials**|Qing Wang et.al.|[2503.04366](http://arxiv.org/abs/2503.04366)|null|
-|**2025-03-06**|**Unveiling the Oxidation Mechanisms of Octa-Penta Graphene: A Multidimensional Exploration from First-Principles to Machine Learning**|Chenyi Zhou et.al.|[2503.04035](http://arxiv.org/abs/2503.04035)|null|
-|**2025-03-05**|**Spin injection and detection in all-van der Waals 2D devices**|Jan Bärenfänger et.al.|[2503.02471](http://arxiv.org/abs/2503.02471)|null|
-|**2025-03-03**|**Flat bands and temperature-driven phase transition in quasi-one-dimensional zigzag chains**|Jisong Gao et.al.|[2503.01535](http://arxiv.org/abs/2503.01535)|null|
-|**2025-03-02**|**Two-Dimensional Graphene-like BeO Sheet: A Promising Deep-Ultraviolet Nonlinear Optical Materials System with Strong and Highly Tunable Second Harmonic Generation**|Linlin Liu et.al.|[2503.00855](http://arxiv.org/abs/2503.00855)|null|
-|**2025-03-01**|**Rapid morphology characterization of two-dimensional TMDs and lateral heterostructures based on deep learning**|Junqi He et.al.|[2503.00470](http://arxiv.org/abs/2503.00470)|**[link](https://github.com/TripHawkers/OM-real-time-inference)**|
-|**2025-02-28**|**Multiple magnetic states, valley electronics, and topological phase transitions in two-dimensional Janus XYZH (X = Sc, Y, La, Y = Cl, Br, I, and Z = S, Se, Te): From monolayers to bilayers**|Xinyu Tian et.al.|[2502.21135](http://arxiv.org/abs/2502.21135)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
