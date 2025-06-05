@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Quantum-Hall Spectroscopy of Elliptically Deformed Graphene Nanobubble Qubits**|Myung-Chul Jung et.al.|[2506.03948](http://arxiv.org/abs/2506.03948)|null|
+|**2025-06-04**|**Direct laser ablation of 2D material films for fabricating multi-functional flexible and transparent devices**|Yigit Sozen et.al.|[2506.03730](http://arxiv.org/abs/2506.03730)|null|
 |**2025-06-02**|**First-Principles and Machine Learning Investigation of the Structural and Optoelectronic Properties of Dodecaphenylyne: A Novel Carbon Allotrope**|Kleuton A. L. Lima et.al.|[2506.02218](http://arxiv.org/abs/2506.02218)|null|
 |**2025-06-02**|**Tunable magnons in a dual-gated 2D antiferromagnet**|Nele Stetzuhn et.al.|[2506.02185](http://arxiv.org/abs/2506.02185)|null|
 |**2025-06-03**|**Fully characterized linear magnetoelectric response of 2D monolayers from high-throughput first-principles calculations**|John Mangeri et.al.|[2506.01515](http://arxiv.org/abs/2506.01515)|null|
@@ -210,7 +212,6 @@ layout: default
 |**2025-03-15**|**Non-van der Waals Heterostructures**|Anastasiia Nihei et.al.|[2503.12209](http://arxiv.org/abs/2503.12209)|null|
 |**2025-03-15**|**Tunable resonant s-p mixing of excitons in van der Waals heterostructures**|Jiayu David Cao et.al.|[2503.11927](http://arxiv.org/abs/2503.11927)|null|
 |**2025-03-14**|**Machine-Learning Interatomic Potential for Twisted Hexagonal Boron Nitride: Accurate Structural Relaxation and Emergent Polarization**|Wilson Nieto Luna et.al.|[2503.11797](http://arxiv.org/abs/2503.11797)|null|
-|**2025-04-10**|**Direct-Write Printed Contacts to Layered and 2D Materials**|Sharadh Jois et.al.|[2503.11691](http://arxiv.org/abs/2503.11691)|null|
 |**2025-03-14**|**Controllable Antiferromagnetic-Ferromagnetic phase transition in monolayer MnPSe3 via atomic adsorption of Li, O, and F**|Dong Liu et.al.|[2503.11442](http://arxiv.org/abs/2503.11442)|null|
 |**2025-03-12**|**Ultrafast Optical Control of Multi-Valley States in 2D SnS**|Arqum Hashmi et.al.|[2503.09092](http://arxiv.org/abs/2503.09092)|null|
 |**2025-03-11**|**Observation of Topological Armchair Edge States in Photonic Biphenylene Network**|Qi Zhong et.al.|[2503.08022](http://arxiv.org/abs/2503.08022)|null|
@@ -218,7 +219,6 @@ layout: default
 |**2025-03-09**|**LLM-Feynman: Leveraging Large Language Models for Universal Scientific Formula and Theory Discovery**|Zhilong Song et.al.|[2503.06512](http://arxiv.org/abs/2503.06512)|null|
 |**2025-03-08**|**Optical Visualization of Carrier Surfing in 2D Monolayers Driven by Surface Acoustic Waves**|Xueqian Sun et.al.|[2503.06081](http://arxiv.org/abs/2503.06081)|null|
 |**2025-03-07**|**Centrifugation theory revisited: Understanding and modelling the centrifugation of 2D nanosheets**|Stuart Goldie et.al.|[2503.05111](http://arxiv.org/abs/2503.05111)|null|
-|**2025-03-06**|**Twisted heterobilayer photonic crystal based on stacking and selective etching of 2D materials**|Qing Wang et.al.|[2503.04366](http://arxiv.org/abs/2503.04366)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
