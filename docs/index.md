@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.06
+## Updated on 2025.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Substrate pre-sputtering for layer-by-layer van der Waals epitaxy of 2D materials**|A. Rajan et.al.|[2506.04388](http://arxiv.org/abs/2506.04388)|null|
 |**2025-06-04**|**Quantum-Hall Spectroscopy of Elliptically Deformed Graphene Nanobubble Qubits**|Myung-Chul Jung et.al.|[2506.03948](http://arxiv.org/abs/2506.03948)|null|
 |**2025-06-04**|**Direct laser ablation of 2D material films for fabricating multi-functional flexible and transparent devices**|Yigit Sozen et.al.|[2506.03730](http://arxiv.org/abs/2506.03730)|null|
 |**2025-06-02**|**First-Principles and Machine Learning Investigation of the Structural and Optoelectronic Properties of Dodecaphenylyne: A Novel Carbon Allotrope**|Kleuton A. L. Lima et.al.|[2506.02218](http://arxiv.org/abs/2506.02218)|null|
@@ -218,7 +219,6 @@ layout: default
 |**2025-03-10**|**Sum frequency generation from real-time simulations in two-dimensional crystals**|Mike N. Pionteck et.al.|[2503.07095](http://arxiv.org/abs/2503.07095)|null|
 |**2025-03-09**|**LLM-Feynman: Leveraging Large Language Models for Universal Scientific Formula and Theory Discovery**|Zhilong Song et.al.|[2503.06512](http://arxiv.org/abs/2503.06512)|null|
 |**2025-03-08**|**Optical Visualization of Carrier Surfing in 2D Monolayers Driven by Surface Acoustic Waves**|Xueqian Sun et.al.|[2503.06081](http://arxiv.org/abs/2503.06081)|null|
-|**2025-03-07**|**Centrifugation theory revisited: Understanding and modelling the centrifugation of 2D nanosheets**|Stuart Goldie et.al.|[2503.05111](http://arxiv.org/abs/2503.05111)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
