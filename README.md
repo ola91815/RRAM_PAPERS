@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.07
+## Updated on 2025.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,13 @@
 |**2021-08-30**|**Exploiting the Electrothermal Timescale in PrMnO3 RRAM for a compact, clock-less neuron exhibiting biological spiking patterns**|Omkar Phadke et.al.|[2108.13389](http://arxiv.org/abs/2108.13389)|null|
 |**2021-08-30**|**Realization of A Non-Markov Chain in A Single 2D Crystal RRAM**|Rongjie Zhang et.al.|[2108.13244](http://arxiv.org/abs/2108.13244)|null|
 
-<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**Symmetry Classification for Alternating Excitons in Two-Dimensional Altermagnets**|Jiayu David Cao et.al.|[2506.05753](http://arxiv.org/abs/2506.05753)|null|
 |**2025-06-04**|**Substrate pre-sputtering for layer-by-layer van der Waals epitaxy of 2D materials**|A. Rajan et.al.|[2506.04388](http://arxiv.org/abs/2506.04388)|null|
 |**2025-06-04**|**Quantum-Hall Spectroscopy of Elliptically Deformed Graphene Nanobubble Qubits**|Myung-Chul Jung et.al.|[2506.03948](http://arxiv.org/abs/2506.03948)|null|
 |**2025-06-04**|**Direct laser ablation of 2D material films for fabricating multi-functional flexible and transparent devices**|Yigit Sozen et.al.|[2506.03730](http://arxiv.org/abs/2506.03730)|null|
@@ -224,9 +225,8 @@
 |**2025-03-11**|**Observation of Topological Armchair Edge States in Photonic Biphenylene Network**|Qi Zhong et.al.|[2503.08022](http://arxiv.org/abs/2503.08022)|null|
 |**2025-03-10**|**Sum frequency generation from real-time simulations in two-dimensional crystals**|Mike N. Pionteck et.al.|[2503.07095](http://arxiv.org/abs/2503.07095)|null|
 |**2025-03-09**|**LLM-Feynman: Leveraging Large Language Models for Universal Scientific Formula and Theory Discovery**|Zhilong Song et.al.|[2503.06512](http://arxiv.org/abs/2503.06512)|null|
-|**2025-03-08**|**Optical Visualization of Carrier Surfing in 2D Monolayers Driven by Surface Acoustic Waves**|Xueqian Sun et.al.|[2503.06081](http://arxiv.org/abs/2503.06081)|null|
 
-<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
