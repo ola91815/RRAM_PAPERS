@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,18 @@
 |**2021-08-30**|**Exploiting the Electrothermal Timescale in PrMnO3 RRAM for a compact, clock-less neuron exhibiting biological spiking patterns**|Omkar Phadke et.al.|[2108.13389](http://arxiv.org/abs/2108.13389)|null|
 |**2021-08-30**|**Realization of A Non-Markov Chain in A Single 2D Crystal RRAM**|Rongjie Zhang et.al.|[2108.13244](http://arxiv.org/abs/2108.13244)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Predicting aqueous and electrochemical stability of 2D materials from extended Pourbaix analyses**|Stefano Americo et.al.|[2506.07839](http://arxiv.org/abs/2506.07839)|null|
+|**2025-06-09**|**Erbium-implanted WS2 flakes with room-temperature photon emission at telecom wavelengths**|Guadalupe García-Arellano et.al.|[2506.07746](http://arxiv.org/abs/2506.07746)|null|
+|**2025-06-09**|**Structure-Informed Learning of Flat Band 2D Materials**|Xiangwen Wang et.al.|[2506.07518](http://arxiv.org/abs/2506.07518)|null|
+|**2025-06-08**|**Accelerating Two-Dimensional Materials Research via a Universal Interatomic Potential and Large Language Model Agent**|Haidi Wang et.al.|[2506.07043](http://arxiv.org/abs/2506.07043)|null|
+|**2025-06-07**|**Electronic structure and transport in materials with flat bands: 2D materials and quasicrystals**|Guy Trambly de Laissardière et.al.|[2506.06721](http://arxiv.org/abs/2506.06721)|null|
+|**2025-06-07**|**Lithography defined semiconductor moires with anomalous in-gap quantum Hall states**|Wei Pan et.al.|[2506.06627](http://arxiv.org/abs/2506.06627)|null|
 |**2025-06-06**|**Symmetry Classification for Alternating Excitons in Two-Dimensional Altermagnets**|Jiayu David Cao et.al.|[2506.05753](http://arxiv.org/abs/2506.05753)|null|
 |**2025-06-04**|**Substrate pre-sputtering for layer-by-layer van der Waals epitaxy of 2D materials**|A. Rajan et.al.|[2506.04388](http://arxiv.org/abs/2506.04388)|null|
 |**2025-06-04**|**Quantum-Hall Spectroscopy of Elliptically Deformed Graphene Nanobubble Qubits**|Myung-Chul Jung et.al.|[2506.03948](http://arxiv.org/abs/2506.03948)|null|
@@ -219,14 +225,8 @@
 |**2025-03-16**|**Antiferromagnetic two-dimensional transition-metal nitride Co $_2$N$_2$ layer with high N$\rm \acute{\textbf e}$ el temperature and Dirac fermions**|Lujia Tian et.al.|[2503.12413](http://arxiv.org/abs/2503.12413)|null|
 |**2025-03-15**|**Non-van der Waals Heterostructures**|Anastasiia Nihei et.al.|[2503.12209](http://arxiv.org/abs/2503.12209)|null|
 |**2025-03-15**|**Tunable resonant s-p mixing of excitons in van der Waals heterostructures**|Jiayu David Cao et.al.|[2503.11927](http://arxiv.org/abs/2503.11927)|null|
-|**2025-03-14**|**Machine-Learning Interatomic Potential for Twisted Hexagonal Boron Nitride: Accurate Structural Relaxation and Emergent Polarization**|Wilson Nieto Luna et.al.|[2503.11797](http://arxiv.org/abs/2503.11797)|null|
-|**2025-03-14**|**Controllable Antiferromagnetic-Ferromagnetic phase transition in monolayer MnPSe3 via atomic adsorption of Li, O, and F**|Dong Liu et.al.|[2503.11442](http://arxiv.org/abs/2503.11442)|null|
-|**2025-03-12**|**Ultrafast Optical Control of Multi-Valley States in 2D SnS**|Arqum Hashmi et.al.|[2503.09092](http://arxiv.org/abs/2503.09092)|null|
-|**2025-03-11**|**Observation of Topological Armchair Edge States in Photonic Biphenylene Network**|Qi Zhong et.al.|[2503.08022](http://arxiv.org/abs/2503.08022)|null|
-|**2025-03-10**|**Sum frequency generation from real-time simulations in two-dimensional crystals**|Mike N. Pionteck et.al.|[2503.07095](http://arxiv.org/abs/2503.07095)|null|
-|**2025-03-09**|**LLM-Feynman: Leveraging Large Language Models for Universal Scientific Formula and Theory Discovery**|Zhilong Song et.al.|[2503.06512](http://arxiv.org/abs/2503.06512)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
