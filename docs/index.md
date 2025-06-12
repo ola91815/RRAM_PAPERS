@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Current Crowding in a High-Efficiency Black Phosphorus Light-Emitting Diode Using a Reflective Back Contact**|Julien Brodeur et.al.|[2506.09835](http://arxiv.org/abs/2506.09835)|null|
 |**2025-06-09**|**Predicting aqueous and electrochemical stability of 2D materials from extended Pourbaix analyses**|Stefano Americo et.al.|[2506.07839](http://arxiv.org/abs/2506.07839)|null|
 |**2025-06-09**|**Erbium-implanted WS2 flakes with room-temperature photon emission at telecom wavelengths**|Guadalupe García-Arellano et.al.|[2506.07746](http://arxiv.org/abs/2506.07746)|null|
 |**2025-06-09**|**Structure-Informed Learning of Flat Band 2D Materials**|Xiangwen Wang et.al.|[2506.07518](http://arxiv.org/abs/2506.07518)|null|
@@ -218,7 +219,6 @@ layout: default
 |**2025-03-16**|**A Universal Raman Spectroscopic Framework for Defect Quantification in Mono-to-Multilayer Graphenic Materials: The Graphene Atlas**|Kazunori Fujisawa et.al.|[2503.12459](http://arxiv.org/abs/2503.12459)|null|
 |**2025-03-16**|**Antiferromagnetic two-dimensional transition-metal nitride Co $_2$N$_2$ layer with high N$\rm \acute{\textbf e}$ el temperature and Dirac fermions**|Lujia Tian et.al.|[2503.12413](http://arxiv.org/abs/2503.12413)|null|
 |**2025-03-15**|**Non-van der Waals Heterostructures**|Anastasiia Nihei et.al.|[2503.12209](http://arxiv.org/abs/2503.12209)|null|
-|**2025-03-15**|**Tunable resonant s-p mixing of excitons in van der Waals heterostructures**|Jiayu David Cao et.al.|[2503.11927](http://arxiv.org/abs/2503.11927)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
