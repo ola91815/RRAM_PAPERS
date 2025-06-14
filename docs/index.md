@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.13
+## Updated on 2025.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -122,7 +122,7 @@ layout: default
 |**2025-06-12**|**GEARS H: Accurate machine-learned Hamiltonians for next-generation device-scale modeling**|Anubhab Haldar et.al.|[2506.10298](http://arxiv.org/abs/2506.10298)|null|
 |**2025-06-11**|**Electron-magnon coupling at the interface of a "twin-twisted" antiferromagnet**|Yue Sun et.al.|[2506.10080](http://arxiv.org/abs/2506.10080)|null|
 |**2025-06-11**|**Current Crowding in a High-Efficiency Black Phosphorus Light-Emitting Diode Using a Reflective Back Contact**|Julien Brodeur et.al.|[2506.09835](http://arxiv.org/abs/2506.09835)|null|
-|**2025-06-09**|**Predicting aqueous and electrochemical stability of 2D materials from extended Pourbaix analyses**|Stefano Americo et.al.|[2506.07839](http://arxiv.org/abs/2506.07839)|null|
+|**2025-06-09**|**Predicting aqueous and electrochemical stability of 2D materials from extended Pourbaix analyses**|Stefano Americo et.al.|[2506.07839](http://arxiv.org/abs/2506.07839)|**[link](https://github.com/surfpbx/surfpbx)**|
 |**2025-06-09**|**Erbium-implanted WS2 flakes with room-temperature photon emission at telecom wavelengths**|Guadalupe García-Arellano et.al.|[2506.07746](http://arxiv.org/abs/2506.07746)|null|
 |**2025-06-09**|**Structure-Informed Learning of Flat Band 2D Materials**|Xiangwen Wang et.al.|[2506.07518](http://arxiv.org/abs/2506.07518)|null|
 |**2025-06-08**|**Accelerating Two-Dimensional Materials Research via a Universal Interatomic Potential and Large Language Model Agent**|Haidi Wang et.al.|[2506.07043](http://arxiv.org/abs/2506.07043)|null|
