@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.15
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,13 @@
 |**2021-08-30**|**Exploiting the Electrothermal Timescale in PrMnO3 RRAM for a compact, clock-less neuron exhibiting biological spiking patterns**|Omkar Phadke et.al.|[2108.13389](http://arxiv.org/abs/2108.13389)|null|
 |**2021-08-30**|**Realization of A Non-Markov Chain in A Single 2D Crystal RRAM**|Rongjie Zhang et.al.|[2108.13244](http://arxiv.org/abs/2108.13244)|null|
 
-<p align=right>(<a href=#updated-on-20250615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**Exploring light-induced phases of 2D materials in a modulated 1D quasicrystal**|Yifei Bai et.al.|[2506.11984](http://arxiv.org/abs/2506.11984)|null|
 |**2025-06-12**|**GEARS H: Accurate machine-learned Hamiltonians for next-generation device-scale modeling**|Anubhab Haldar et.al.|[2506.10298](http://arxiv.org/abs/2506.10298)|null|
 |**2025-06-11**|**Electron-magnon coupling at the interface of a "twin-twisted" antiferromagnet**|Yue Sun et.al.|[2506.10080](http://arxiv.org/abs/2506.10080)|null|
 |**2025-06-11**|**Current Crowding in a High-Efficiency Black Phosphorus Light-Emitting Diode Using a Reflective Back Contact**|Julien Brodeur et.al.|[2506.09835](http://arxiv.org/abs/2506.09835)|null|
@@ -224,9 +225,8 @@
 |**2025-03-17**|**Wannier-Function-Based Approach to Coupled Exciton-Phonon-Photon Dynamics in Two-Dimensional Semiconductors**|Alexander Steinhoff et.al.|[2503.13417](http://arxiv.org/abs/2503.13417)|null|
 |**2025-03-17**|**Engineering robust strain transmission in van der Waals heterostructure devices**|John Cenker et.al.|[2503.12773](http://arxiv.org/abs/2503.12773)|null|
 |**2025-04-02**|**Energy Dispersion, Superconductivity and Magnetic Fluctuations in Stacked Altermagnetism Materials**|Jun Chang et.al.|[2503.12710](http://arxiv.org/abs/2503.12710)|null|
-|**2025-03-16**|**A Universal Raman Spectroscopic Framework for Defect Quantification in Mono-to-Multilayer Graphenic Materials: The Graphene Atlas**|Kazunori Fujisawa et.al.|[2503.12459](http://arxiv.org/abs/2503.12459)|null|
 
-<p align=right>(<a href=#updated-on-20250615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
