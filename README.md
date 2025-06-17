@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Reconfigurable Digital RRAM Logic Enables In-Situ Pruning and Learning for Edge AI**|Songqi Wang et.al.|[2506.13151](http://arxiv.org/abs/2506.13151)|null|
 |**2025-05-20**|**Hybrid SLC-MLC RRAM Mixed-Signal Processing-in-Memory Architecture for Transformer Acceleration via Gradient Redistribution**|Chang Eun Song et.al.|[2506.00020](http://arxiv.org/abs/2506.00020)|null|
 |**2025-05-23**|**Bruno: Backpropagation Running Undersampled for Novel device Optimization**|Luca Fehlings et.al.|[2505.17791](http://arxiv.org/abs/2505.17791)|null|
 |**2025-05-20**|**Optimizing Binary and Ternary Neural Network Inference on RRAM Crossbars using CIM-Explorer**|Rebecca Pelke et.al.|[2505.14303](http://arxiv.org/abs/2505.14303)|**[link](https://github.com/rpelke/cim-e)**|
@@ -117,15 +118,15 @@
 |**2021-10-07**|**Optimization of the multi-mem response of topotactic redox La $_{1/2}$Sr$_{1/2}$Mn$_{1/2}$Co$_{1/2}$O$_{3-x}$**|W. Román Acevedo et.al.|[2110.03507](http://arxiv.org/abs/2110.03507)|null|
 |**2021-09-27**|**Superior Resistance Switching in Monolayer MoS2 Channel Based Gated Binary Resistive RAM via Gate-Bias Dependence and a Unique Forming Process**|Ansh et.al.|[2109.12937](http://arxiv.org/abs/2109.12937)|null|
 |**2021-08-30**|**Exploiting the Electrothermal Timescale in PrMnO3 RRAM for a compact, clock-less neuron exhibiting biological spiking patterns**|Omkar Phadke et.al.|[2108.13389](http://arxiv.org/abs/2108.13389)|null|
-|**2021-08-30**|**Realization of A Non-Markov Chain in A Single 2D Crystal RRAM**|Rongjie Zhang et.al.|[2108.13244](http://arxiv.org/abs/2108.13244)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-13**|**Exploring light-induced phases of 2D materials in a modulated 1D quasicrystal**|Yifei Bai et.al.|[2506.11984](http://arxiv.org/abs/2506.11984)|null|
+|**2025-06-15**|**Large Scale Manufacture of Phase Pure Two-Dimensional Metallic MoS2 Nanosheets**|Ziwei Jeffrey Yang et.al.|[2506.12799](http://arxiv.org/abs/2506.12799)|null|
+|**2025-06-16**|**Exploring light-induced phases of 2D materials in a modulated 1D quasicrystal**|Yifei Bai et.al.|[2506.11984](http://arxiv.org/abs/2506.11984)|null|
 |**2025-06-12**|**GEARS H: Accurate machine-learned Hamiltonians for next-generation device-scale modeling**|Anubhab Haldar et.al.|[2506.10298](http://arxiv.org/abs/2506.10298)|null|
 |**2025-06-11**|**Electron-magnon coupling at the interface of a "twin-twisted" antiferromagnet**|Yue Sun et.al.|[2506.10080](http://arxiv.org/abs/2506.10080)|null|
 |**2025-06-11**|**Current Crowding in a High-Efficiency Black Phosphorus Light-Emitting Diode Using a Reflective Back Contact**|Julien Brodeur et.al.|[2506.09835](http://arxiv.org/abs/2506.09835)|null|
@@ -224,9 +225,8 @@
 |**2025-03-18**|**In situ engineering hexagonal boron nitride in van der Waals heterostructures with selective SF6 etching**|Hitesh Agarwal et.al.|[2503.14238](http://arxiv.org/abs/2503.14238)|null|
 |**2025-03-17**|**Wannier-Function-Based Approach to Coupled Exciton-Phonon-Photon Dynamics in Two-Dimensional Semiconductors**|Alexander Steinhoff et.al.|[2503.13417](http://arxiv.org/abs/2503.13417)|null|
 |**2025-03-17**|**Engineering robust strain transmission in van der Waals heterostructure devices**|John Cenker et.al.|[2503.12773](http://arxiv.org/abs/2503.12773)|null|
-|**2025-04-02**|**Energy Dispersion, Superconductivity and Magnetic Fluctuations in Stacked Altermagnetism Materials**|Jun Chang et.al.|[2503.12710](http://arxiv.org/abs/2503.12710)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
