@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,13 @@
 |**2021-09-27**|**Superior Resistance Switching in Monolayer MoS2 Channel Based Gated Binary Resistive RAM via Gate-Bias Dependence and a Unique Forming Process**|Ansh et.al.|[2109.12937](http://arxiv.org/abs/2109.12937)|null|
 |**2021-08-30**|**Exploiting the Electrothermal Timescale in PrMnO3 RRAM for a compact, clock-less neuron exhibiting biological spiking patterns**|Omkar Phadke et.al.|[2108.13389](http://arxiv.org/abs/2108.13389)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Movable Dirac Points with Ferroelectrics: Kink States and Berry Curvature Dipoles**|Konstantin S. Denisov et.al.|[2506.13960](http://arxiv.org/abs/2506.13960)|null|
 |**2025-06-15**|**Large Scale Manufacture of Phase Pure Two-Dimensional Metallic MoS2 Nanosheets**|Ziwei Jeffrey Yang et.al.|[2506.12799](http://arxiv.org/abs/2506.12799)|null|
 |**2025-06-16**|**Exploring light-induced phases of 2D materials in a modulated 1D quasicrystal**|Yifei Bai et.al.|[2506.11984](http://arxiv.org/abs/2506.11984)|null|
 |**2025-06-12**|**GEARS H: Accurate machine-learned Hamiltonians for next-generation device-scale modeling**|Anubhab Haldar et.al.|[2506.10298](http://arxiv.org/abs/2506.10298)|null|
@@ -224,9 +225,8 @@
 |**2025-03-18**|**Magnetoelastic coupling in intercalated transition metal dichalcogenides**|A. Kar et.al.|[2503.14444](http://arxiv.org/abs/2503.14444)|null|
 |**2025-03-18**|**In situ engineering hexagonal boron nitride in van der Waals heterostructures with selective SF6 etching**|Hitesh Agarwal et.al.|[2503.14238](http://arxiv.org/abs/2503.14238)|null|
 |**2025-03-17**|**Wannier-Function-Based Approach to Coupled Exciton-Phonon-Photon Dynamics in Two-Dimensional Semiconductors**|Alexander Steinhoff et.al.|[2503.13417](http://arxiv.org/abs/2503.13417)|null|
-|**2025-03-17**|**Engineering robust strain transmission in van der Waals heterostructure devices**|John Cenker et.al.|[2503.12773](http://arxiv.org/abs/2503.12773)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
