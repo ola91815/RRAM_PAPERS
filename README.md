@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.22
+## Updated on 2025.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -82,7 +82,7 @@
 |**2023-04-04**|**Thermal Crosstalk Analysis in RRAM Passive Crossbar Arrays**|Shubham Pande et.al.|[2304.01439](http://arxiv.org/abs/2304.01439)|null|
 |**2025-01-30**|**An RRAM-Based Implementation of a Template Matching Circuit for Low-Power Analogue Classification**|Patrick Foster et.al.|[2303.02651](http://arxiv.org/abs/2303.02651)|null|
 |**2023-02-20**|**Variation Enhanced Attacks Against RRAM-based Neuromorphic Computing System**|Hao Lv et.al.|[2302.09902](http://arxiv.org/abs/2302.09902)|null|
-|**2023-01-20**|**A Fully Digital Relaxation-Aware Analog Programming Technique for HfOx RRAM Arrays**|Hamidreza Erfanijazi et.al.|[2301.08516](http://arxiv.org/abs/2301.08516)|null|
+|**2025-06-20**|**A Fully Digital Relaxation-Aware Analog Programming Technique for HfOx RRAM Arrays**|Hamidreza Erfanijazi et.al.|[2301.08516](http://arxiv.org/abs/2301.08516)|null|
 |**2022-12-29**|**Stateful Logic using Phase Change Memory**|Barak Hoffer et.al.|[2212.14377](http://arxiv.org/abs/2212.14377)|null|
 |**2022-11-27**|**CorrectNet: Robustness Enhancement of Analog In-Memory Computing for Neural Networks by Error Suppression and Compensation**|Amro Eldebiky et.al.|[2211.14917](http://arxiv.org/abs/2211.14917)|null|
 |**2022-11-10**|**NEON: Enabling Efficient Support for Nonlinear Operations in Resistive RAM-based Neural Network Accelerators**|Aditya Manglik et.al.|[2211.05730](http://arxiv.org/abs/2211.05730)|null|
@@ -119,12 +119,15 @@
 |**2021-09-27**|**Superior Resistance Switching in Monolayer MoS2 Channel Based Gated Binary Resistive RAM via Gate-Bias Dependence and a Unique Forming Process**|Ansh et.al.|[2109.12937](http://arxiv.org/abs/2109.12937)|null|
 |**2021-08-30**|**Exploiting the Electrothermal Timescale in PrMnO3 RRAM for a compact, clock-less neuron exhibiting biological spiking patterns**|Omkar Phadke et.al.|[2108.13389](http://arxiv.org/abs/2108.13389)|null|
 
-<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**A many-body characterization of the fundamental gap in monolayer CrI $_3$**|Daniel Staros et.al.|[2506.17038](http://arxiv.org/abs/2506.17038)|null|
+|**2025-06-19**|**Unraveling the nature of excitons in the 2D magnetic semiconductor CrSBr**|Maciej Smiertka et.al.|[2506.16426](http://arxiv.org/abs/2506.16426)|null|
+|**2025-06-19**|**Bi2Te3-Sb2Te3-Bi2Te3 Lateral Heterostructures Grown by Molecular Beam Epitaxy**|Puspendu Guha et.al.|[2506.16149](http://arxiv.org/abs/2506.16149)|null|
 |**2025-06-16**|**Movable Dirac Points with Ferroelectrics: Kink States and Berry Curvature Dipoles**|Konstantin S. Denisov et.al.|[2506.13960](http://arxiv.org/abs/2506.13960)|null|
 |**2025-06-15**|**Large Scale Manufacture of Phase Pure Two-Dimensional Metallic MoS2 Nanosheets**|Ziwei Jeffrey Yang et.al.|[2506.12799](http://arxiv.org/abs/2506.12799)|null|
 |**2025-06-16**|**Exploring light-induced phases of 2D materials in a modulated 1D quasicrystal**|Yifei Bai et.al.|[2506.11984](http://arxiv.org/abs/2506.11984)|null|
@@ -222,11 +225,8 @@
 |**2025-03-20**|**Valley Emission and Upconversion in Isotopically Engineered Monolayer WS $_2$ under Resonant Excitation**|Rahul Kesarwani et.al.|[2503.15961](http://arxiv.org/abs/2503.15961)|null|
 |**2025-03-20**|**Optical control of the moiré twist angle**|Zhiren He et.al.|[2503.15882](http://arxiv.org/abs/2503.15882)|null|
 |**2025-03-18**|**Exciton Annihilation by Lanthanide Dopants: An Atomic Probe of Sub-Diffraction Exciton Diffusion in Ferromagnetic CrI3**|Kimo Pressler et.al.|[2503.14771](http://arxiv.org/abs/2503.14771)|null|
-|**2025-03-18**|**Magnetoelastic coupling in intercalated transition metal dichalcogenides**|A. Kar et.al.|[2503.14444](http://arxiv.org/abs/2503.14444)|null|
-|**2025-03-18**|**In situ engineering hexagonal boron nitride in van der Waals heterostructures with selective SF6 etching**|Hitesh Agarwal et.al.|[2503.14238](http://arxiv.org/abs/2503.14238)|null|
-|**2025-03-17**|**Wannier-Function-Based Approach to Coupled Exciton-Phonon-Photon Dynamics in Two-Dimensional Semiconductors**|Alexander Steinhoff et.al.|[2503.13417](http://arxiv.org/abs/2503.13417)|null|
 
-<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
