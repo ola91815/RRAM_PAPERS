@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Giant orbital magnetization in two-dimensional materials**|Martin Ovesen et.al.|[2506.18563](http://arxiv.org/abs/2506.18563)|null|
+|**2025-06-23**|**Wide-field Hyperspectral Optical Microscopy for Rapid Characterization of Two-Dimensional Semiconductors and Heterostructures**|Zhenghan Peng et.al.|[2506.18342](http://arxiv.org/abs/2506.18342)|null|
+|**2025-06-20**|**Raman scattering from moiré phonons**|Vitor Dantas et.al.|[2506.17408](http://arxiv.org/abs/2506.17408)|null|
 |**2025-06-20**|**A many-body characterization of the fundamental gap in monolayer CrI $_3$**|Daniel Staros et.al.|[2506.17038](http://arxiv.org/abs/2506.17038)|null|
 |**2025-06-19**|**Unraveling the nature of excitons in the 2D magnetic semiconductor CrSBr**|Maciej Smiertka et.al.|[2506.16426](http://arxiv.org/abs/2506.16426)|null|
 |**2025-06-19**|**Bi2Te3-Sb2Te3-Bi2Te3 Lateral Heterostructures Grown by Molecular Beam Epitaxy**|Puspendu Guha et.al.|[2506.16149](http://arxiv.org/abs/2506.16149)|null|
@@ -216,9 +219,6 @@ layout: default
 |**2025-03-20**|**Phonons in Electron Crystals with Berry Curvature**|Junkai Dong et.al.|[2503.16390](http://arxiv.org/abs/2503.16390)|null|
 |**2025-03-20**|**Exciton Binding Energies in 2D Materials: Insights from Braneworld Physics**|Antoine Honet et.al.|[2503.16174](http://arxiv.org/abs/2503.16174)|null|
 |**2025-03-20**|**Dynamic Carrier Modulation via Nonlinear Acoustoelectric Transport in van der Waals Heterostructures**|Timothy J. McSorley et.al.|[2503.16033](http://arxiv.org/abs/2503.16033)|null|
-|**2025-03-20**|**Valley Emission and Upconversion in Isotopically Engineered Monolayer WS $_2$ under Resonant Excitation**|Rahul Kesarwani et.al.|[2503.15961](http://arxiv.org/abs/2503.15961)|null|
-|**2025-03-20**|**Optical control of the moiré twist angle**|Zhiren He et.al.|[2503.15882](http://arxiv.org/abs/2503.15882)|null|
-|**2025-03-18**|**Exciton Annihilation by Lanthanide Dopants: An Atomic Probe of Sub-Diffraction Exciton Diffusion in Ferromagnetic CrI3**|Kimo Pressler et.al.|[2503.14771](http://arxiv.org/abs/2503.14771)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
