@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,15 @@
 |**2021-09-27**|**Superior Resistance Switching in Monolayer MoS2 Channel Based Gated Binary Resistive RAM via Gate-Bias Dependence and a Unique Forming Process**|Ansh et.al.|[2109.12937](http://arxiv.org/abs/2109.12937)|null|
 |**2021-08-30**|**Exploiting the Electrothermal Timescale in PrMnO3 RRAM for a compact, clock-less neuron exhibiting biological spiking patterns**|Omkar Phadke et.al.|[2108.13389](http://arxiv.org/abs/2108.13389)|null|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Voltage-Induced Oxidation for Enhanced Purity and Reproducibility of Quantum Emission in Monolayer 2D Materials**|Sung-Joon Leea et.al.|[2506.19659](http://arxiv.org/abs/2506.19659)|null|
+|**2025-06-24**|**Broadband photonic structures to achieve high coupling efficiencies and Purcell factors with dark and interlayer excitons in 2D materials**|Maria Carolina Volpato et.al.|[2506.19214](http://arxiv.org/abs/2506.19214)|null|
+|**2025-06-23**|**Absence of reflectivity of the phonon-polariton at the SiC surface from the metal mask edge**|V. S. Ivchenko et.al.|[2506.19080](http://arxiv.org/abs/2506.19080)|null|
 |**2025-06-23**|**Giant orbital magnetization in two-dimensional materials**|Martin Ovesen et.al.|[2506.18563](http://arxiv.org/abs/2506.18563)|null|
 |**2025-06-23**|**Wide-field Hyperspectral Optical Microscopy for Rapid Characterization of Two-Dimensional Semiconductors and Heterostructures**|Zhenghan Peng et.al.|[2506.18342](http://arxiv.org/abs/2506.18342)|null|
 |**2025-06-20**|**Raman scattering from moiré phonons**|Vitor Dantas et.al.|[2506.17408](http://arxiv.org/abs/2506.17408)|null|
@@ -222,11 +225,8 @@
 |**2025-03-27**|**Sub-nm Curvature Unlocks Exceptional Inherent Flexoelectricity in Graphene**|Sathvik Ajay Iyengar et.al.|[2503.21996](http://arxiv.org/abs/2503.21996)|null|
 |**2025-03-27**|**Ultrafast Saddletronics**|Sangeeta Sharma et.al.|[2503.21376](http://arxiv.org/abs/2503.21376)|null|
 |**2025-04-01**|**Hot-electron-injection-induced symmetry breaking in bilayer MoS $_2$ probed by second-harmonic generation**|Zhizi Guan et.al.|[2503.21238](http://arxiv.org/abs/2503.21238)|null|
-|**2025-03-20**|**Phonons in Electron Crystals with Berry Curvature**|Junkai Dong et.al.|[2503.16390](http://arxiv.org/abs/2503.16390)|null|
-|**2025-03-20**|**Exciton Binding Energies in 2D Materials: Insights from Braneworld Physics**|Antoine Honet et.al.|[2503.16174](http://arxiv.org/abs/2503.16174)|null|
-|**2025-03-20**|**Dynamic Carrier Modulation via Nonlinear Acoustoelectric Transport in van der Waals Heterostructures**|Timothy J. McSorley et.al.|[2503.16033](http://arxiv.org/abs/2503.16033)|null|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
