@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.26
+## Updated on 2025.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,14 @@
 |**2021-09-27**|**Superior Resistance Switching in Monolayer MoS2 Channel Based Gated Binary Resistive RAM via Gate-Bias Dependence and a Unique Forming Process**|Ansh et.al.|[2109.12937](http://arxiv.org/abs/2109.12937)|null|
 |**2021-08-30**|**Exploiting the Electrothermal Timescale in PrMnO3 RRAM for a compact, clock-less neuron exhibiting biological spiking patterns**|Omkar Phadke et.al.|[2108.13389](http://arxiv.org/abs/2108.13389)|null|
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Computational Design of Two-Dimensional MoSi $_2$N$_4$ Family Field-Effect Transistor for Future Ångström-Scale CMOS Technology Nodes**|Che Chen Tho et.al.|[2506.21366](http://arxiv.org/abs/2506.21366)|null|
+|**2025-06-25**|**High Temperature Quantum Emission from Covalently Functionalized van der Waals Heterostructures**|S. Carin Gavin et.al.|[2506.20847](http://arxiv.org/abs/2506.20847)|null|
 |**2025-06-25**|**Visualizing intercalation effects in 2D materials using AFM based techniques**|Karmen Kapustić et.al.|[2506.20467](http://arxiv.org/abs/2506.20467)|null|
 |**2025-06-25**|**Voltage-Induced Oxidation for Enhanced Purity and Reproducibility of Quantum Emission in Monolayer 2D Materials**|Sung-Joon Lee et.al.|[2506.19659](http://arxiv.org/abs/2506.19659)|null|
 |**2025-06-24**|**Broadband photonic structures to achieve high coupling efficiencies and Purcell factors with dark and interlayer excitons in 2D materials**|Maria Carolina Volpato et.al.|[2506.19214](http://arxiv.org/abs/2506.19214)|null|
@@ -223,10 +225,8 @@
 |**2025-04-04**|**First-Principle Investigation On Chromium Decorated Graphene-based Systems for Hydrogen Storage**|Pratyasha Tripathy et.al.|[2503.23902](http://arxiv.org/abs/2503.23902)|null|
 |**2025-04-28**|**The 2D Materials Roadmap**|Wencai Ren et.al.|[2503.22476](http://arxiv.org/abs/2503.22476)|null|
 |**2025-04-08**|**Momentum-Space AC Josephson Effect and Intervalley Coherence in Multilayer Graphene**|Mainak Das et.al.|[2503.22003](http://arxiv.org/abs/2503.22003)|null|
-|**2025-03-27**|**Sub-nm Curvature Unlocks Exceptional Inherent Flexoelectricity in Graphene**|Sathvik Ajay Iyengar et.al.|[2503.21996](http://arxiv.org/abs/2503.21996)|null|
-|**2025-03-27**|**Ultrafast Saddletronics**|Sangeeta Sharma et.al.|[2503.21376](http://arxiv.org/abs/2503.21376)|null|
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
