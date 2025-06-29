@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.28
+## Updated on 2025.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2021-09-27**|**Superior Resistance Switching in Monolayer MoS2 Channel Based Gated Binary Resistive RAM via Gate-Bias Dependence and a Unique Forming Process**|Ansh et.al.|[2109.12937](http://arxiv.org/abs/2109.12937)|null|
 |**2021-08-30**|**Exploiting the Electrothermal Timescale in PrMnO3 RRAM for a compact, clock-less neuron exhibiting biological spiking patterns**|Omkar Phadke et.al.|[2108.13389](http://arxiv.org/abs/2108.13389)|null|
 
-<p align=right>(<a href=#updated-on-20250628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250629>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -226,7 +226,7 @@
 |**2025-04-28**|**The 2D Materials Roadmap**|Wencai Ren et.al.|[2503.22476](http://arxiv.org/abs/2503.22476)|null|
 |**2025-04-08**|**Momentum-Space AC Josephson Effect and Intervalley Coherence in Multilayer Graphene**|Mainak Das et.al.|[2503.22003](http://arxiv.org/abs/2503.22003)|null|
 
-<p align=right>(<a href=#updated-on-20250628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250629>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
