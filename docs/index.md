@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**The Bulk Penetration of Edge Properties in Two-Dimensional Materials**|Markus Kari et.al.|[2506.21965](http://arxiv.org/abs/2506.21965)|null|
+|**2025-06-11**|**2D semiconductors as integrated light sources for plasmonic waveguides**|Christian Frydendahl et.al.|[2506.21806](http://arxiv.org/abs/2506.21806)|null|
 |**2025-06-26**|**Computational Design of Two-Dimensional MoSi $_2$N$_4$ Family Field-Effect Transistor for Future Ångström-Scale CMOS Technology Nodes**|Che Chen Tho et.al.|[2506.21366](http://arxiv.org/abs/2506.21366)|null|
 |**2025-06-25**|**High Temperature Quantum Emission from Covalently Functionalized van der Waals Heterostructures**|S. Carin Gavin et.al.|[2506.20847](http://arxiv.org/abs/2506.20847)|null|
 |**2025-06-25**|**Visualizing intercalation effects in 2D materials using AFM based techniques**|Karmen Kapustić et.al.|[2506.20467](http://arxiv.org/abs/2506.20467)|null|
@@ -200,7 +202,6 @@ layout: default
 |**2025-04-11**|**Analog Quantum Simulation of Dirac Hamiltonians in Circuit QED Using Rabi Driven Qubits**|Gal Gumpel et.al.|[2504.08944](http://arxiv.org/abs/2504.08944)|null|
 |**2025-04-11**|**Light-Induced Spin Slanting in 2D Multiferroic Magnet**|Jiangyu Zhao et.al.|[2504.08185](http://arxiv.org/abs/2504.08185)|null|
 |**2025-04-14**|**Two-dimensional perovskites with maximum symmetry enable exciton diffusion length exceeding 2 micrometers**|Jin Hou et.al.|[2504.08121](http://arxiv.org/abs/2504.08121)|null|
-|**2025-05-13**|**Hybridization of edge modes with substrate phonons**|Azat F. Aminov et.al.|[2504.08082](http://arxiv.org/abs/2504.08082)|null|
 |**2025-04-03**|**Unraveling the dynamics of conductive filaments in MoS ${_2}$ based memristors by operando transmission electron microscopy**|Ke Ran et.al.|[2504.07980](http://arxiv.org/abs/2504.07980)|null|
 |**2025-04-08**|**Dispersion-corrected Machine Learning Potentials for 2D van der Waals Materials**|Mikkel Ohm Sauer et.al.|[2504.05754](http://arxiv.org/abs/2504.05754)|null|
 |**2025-05-13**|**Towards "on-demand" van der Waals epitaxy with hpc-driven online ensemble sampling**|Soumendu Bagchi et.al.|[2504.05539](http://arxiv.org/abs/2504.05539)|null|
@@ -218,7 +219,6 @@ layout: default
 |**2025-03-31**|**First-principles design of stable spin qubits in monolayer MoS $_2$ with elemental defect engineering**|Cailian Yu et.al.|[2503.24163](http://arxiv.org/abs/2503.24163)|null|
 |**2025-04-04**|**First-Principle Investigation On Chromium Decorated Graphene-based Systems for Hydrogen Storage**|Pratyasha Tripathy et.al.|[2503.23902](http://arxiv.org/abs/2503.23902)|null|
 |**2025-04-28**|**The 2D Materials Roadmap**|Wencai Ren et.al.|[2503.22476](http://arxiv.org/abs/2503.22476)|null|
-|**2025-04-08**|**Momentum-Space AC Josephson Effect and Intervalley Coherence in Multilayer Graphene**|Mainak Das et.al.|[2503.22003](http://arxiv.org/abs/2503.22003)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
