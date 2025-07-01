@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Characterization of WSe $_2$ films using reflection Kikuchi diffraction in the scanning electron microscope and multivariate statistical analyses**|Tianbi Zhang et.al.|[2506.22575](http://arxiv.org/abs/2506.22575)|null|
 |**2025-06-27**|**The Bulk Penetration of Edge Properties in Two-Dimensional Materials**|Markus Kari et.al.|[2506.21965](http://arxiv.org/abs/2506.21965)|null|
 |**2025-06-11**|**2D semiconductors as integrated light sources for plasmonic waveguides**|Christian Frydendahl et.al.|[2506.21806](http://arxiv.org/abs/2506.21806)|null|
 |**2025-06-26**|**Computational Design of Two-Dimensional MoSi $_2$N$_4$ Family Field-Effect Transistor for Future Ångström-Scale CMOS Technology Nodes**|Che Chen Tho et.al.|[2506.21366](http://arxiv.org/abs/2506.21366)|null|
@@ -218,7 +219,6 @@ layout: default
 |**2025-04-13**|**Spin-Phonon Relaxation of Boron-Vacancy Centers in Two-Dimensional Boron Nitride Polytypes**|Nasrin Estaji et.al.|[2504.00154](http://arxiv.org/abs/2504.00154)|null|
 |**2025-03-31**|**First-principles design of stable spin qubits in monolayer MoS $_2$ with elemental defect engineering**|Cailian Yu et.al.|[2503.24163](http://arxiv.org/abs/2503.24163)|null|
 |**2025-04-04**|**First-Principle Investigation On Chromium Decorated Graphene-based Systems for Hydrogen Storage**|Pratyasha Tripathy et.al.|[2503.23902](http://arxiv.org/abs/2503.23902)|null|
-|**2025-04-28**|**The 2D Materials Roadmap**|Wencai Ren et.al.|[2503.22476](http://arxiv.org/abs/2503.22476)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
