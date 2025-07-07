@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.06
+## Updated on 2025.07.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2021-09-27**|**Superior Resistance Switching in Monolayer MoS2 Channel Based Gated Binary Resistive RAM via Gate-Bias Dependence and a Unique Forming Process**|Ansh et.al.|[2109.12937](http://arxiv.org/abs/2109.12937)|null|
 |**2021-08-30**|**Exploiting the Electrothermal Timescale in PrMnO3 RRAM for a compact, clock-less neuron exhibiting biological spiking patterns**|Omkar Phadke et.al.|[2108.13389](http://arxiv.org/abs/2108.13389)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -226,7 +226,7 @@
 |**2025-04-04**|**Silicon nanoantennas for tailoring the optical properties of MoS2 monolayers**|Danae Katrisioti et.al.|[2504.03264](http://arxiv.org/abs/2504.03264)|null|
 |**2025-04-02**|**An anisotropic functional for two-dimensional material systems**|Michael Lorke et.al.|[2504.01684](http://arxiv.org/abs/2504.01684)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
