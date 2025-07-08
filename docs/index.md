@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**$\varphi$ -Adapt: A Physics-Informed Adaptation Learning Approach to 2D Quantum Material Discovery**|Hoang-Quan Nguyen et.al.|[2507.05184](http://arxiv.org/abs/2507.05184)|null|
+|**2025-07-07**|**Unlocking high coercivity at room temperature in phase modified MoS $_2$**|Zainab Chowdhry et.al.|[2507.04905](http://arxiv.org/abs/2507.04905)|null|
+|**2025-07-06**|**Acoustoelectric superlattices**|Eli Meril et.al.|[2507.04399](http://arxiv.org/abs/2507.04399)|null|
+|**2025-07-04**|**Enhancing thermoelectric efficiency of multilayer graphene by nanomeshing**|Mehrdad Rahimi et.al.|[2507.03436](http://arxiv.org/abs/2507.03436)|null|
 |**2025-07-03**|**Time- and Polarization-Resolved Extreme Ultraviolet Momentum Microscopy**|Sotirios Fragkos et.al.|[2507.02371](http://arxiv.org/abs/2507.02371)|null|
 |**2025-07-01**|**Autonomous Fabrication of Tailored Defect Structures in 2D Materials using Machine Learning-enabled Scanning Transmission Electron Microscopy**|Zijie Wu et.al.|[2507.01194](http://arxiv.org/abs/2507.01194)|null|
 |**2025-07-01**|**Ab-initio-NEGF Fundamental Roadmap for Carbon-Nanotube and Two-Dimensional-Material MOSFETs at the Scaling and VDD Limit**|Aryan Afzalian et.al.|[2507.00599](http://arxiv.org/abs/2507.00599)|null|
@@ -207,7 +211,6 @@ layout: default
 |**2025-04-11**|**Analog Quantum Simulation of Dirac Hamiltonians in Circuit QED Using Rabi Driven Qubits**|Gal Gumpel et.al.|[2504.08944](http://arxiv.org/abs/2504.08944)|null|
 |**2025-04-11**|**Light-Induced Spin Slanting in 2D Multiferroic Magnet**|Jiangyu Zhao et.al.|[2504.08185](http://arxiv.org/abs/2504.08185)|null|
 |**2025-04-14**|**Two-dimensional perovskites with maximum symmetry enable exciton diffusion length exceeding 2 micrometers**|Jin Hou et.al.|[2504.08121](http://arxiv.org/abs/2504.08121)|null|
-|**2025-04-03**|**Unraveling the dynamics of conductive filaments in MoS ${_2}$ based memristors by operando transmission electron microscopy**|Ke Ran et.al.|[2504.07980](http://arxiv.org/abs/2504.07980)|null|
 |**2025-04-08**|**Dispersion-corrected Machine Learning Potentials for 2D van der Waals Materials**|Mikkel Ohm Sauer et.al.|[2504.05754](http://arxiv.org/abs/2504.05754)|null|
 |**2025-05-13**|**Towards "on-demand" van der Waals epitaxy with hpc-driven online ensemble sampling**|Soumendu Bagchi et.al.|[2504.05539](http://arxiv.org/abs/2504.05539)|null|
 |**2025-04-08**|**Pyroelectric doping reversal of MoS2 p-n junctions on ferroelectric domain walls probed by photoluminescence**|Javier Fernández-Martínez et.al.|[2504.04886](http://arxiv.org/abs/2504.04886)|null|
@@ -216,9 +219,6 @@ layout: default
 |**2025-05-12**|**Tunable Topological Phases in Multilayer Graphene Coupled to a Chiral Cavity**|Sayed Ali Akbar Ghorashi et.al.|[2504.03842](http://arxiv.org/abs/2504.03842)|null|
 |**2025-04-04**|**Complete design of a fully integrated graphene-based compact plasmon coupler for the infrared**|Aswani Natarajan et.al.|[2504.03403](http://arxiv.org/abs/2504.03403)|null|
 |**2025-04-04**|**Evaluation of strain and charge-transfer doping in wet-polymeric transferred monolayer MoS2: implications for field effect transistors**|C. Abinash Bhuyan et.al.|[2504.03275](http://arxiv.org/abs/2504.03275)|null|
-|**2025-04-04**|**On-chip integrated light sources with MoS2/WSe2 moiré superlattices at telecom wavelengths**|Xingyu Huang et.al.|[2504.03267](http://arxiv.org/abs/2504.03267)|null|
-|**2025-04-04**|**Silicon nanoantennas for tailoring the optical properties of MoS2 monolayers**|Danae Katrisioti et.al.|[2504.03264](http://arxiv.org/abs/2504.03264)|null|
-|**2025-04-02**|**An anisotropic functional for two-dimensional material systems**|Michael Lorke et.al.|[2504.01684](http://arxiv.org/abs/2504.01684)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
