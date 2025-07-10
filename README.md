@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,16 +119,17 @@
 |**2021-09-27**|**Superior Resistance Switching in Monolayer MoS2 Channel Based Gated Binary Resistive RAM via Gate-Bias Dependence and a Unique Forming Process**|Ansh et.al.|[2109.12937](http://arxiv.org/abs/2109.12937)|null|
 |**2021-08-30**|**Exploiting the Electrothermal Timescale in PrMnO3 RRAM for a compact, clock-less neuron exhibiting biological spiking patterns**|Omkar Phadke et.al.|[2108.13389](http://arxiv.org/abs/2108.13389)|null|
 
-<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Bilayer graphene as a template for manufacturing novel 2D materials**|Arkady V. Krasheninnikov et.al.|[2507.06447](http://arxiv.org/abs/2507.06447)|null|
 |**2025-07-08**|**Defect migration and phase transformations in 2D iron chloride inside bilayer graphene**|Qiunan Liu et.al.|[2507.05665](http://arxiv.org/abs/2507.05665)|null|
 |**2025-07-07**|**Identifying Exceptional Points in Two-Dimensional Excitons Coupled to an Open Optical Cavity**|Ben Johns et.al.|[2507.05493](http://arxiv.org/abs/2507.05493)|null|
 |**2025-07-07**|**$\varphi$ -Adapt: A Physics-Informed Adaptation Learning Approach to 2D Quantum Material Discovery**|Hoang-Quan Nguyen et.al.|[2507.05184](http://arxiv.org/abs/2507.05184)|null|
-|**2025-07-07**|**Unlocking high coercivity at room temperature in phase modified MoS $_2$**|Zainab Chowdhry et.al.|[2507.04905](http://arxiv.org/abs/2507.04905)|null|
+|**2025-07-09**|**Unlocking high coercivity at room temperature in phase modified MoS $_2$**|Zainab Chowdhry et.al.|[2507.04905](http://arxiv.org/abs/2507.04905)|null|
 |**2025-07-06**|**Acoustoelectric superlattices**|Eli Meril et.al.|[2507.04399](http://arxiv.org/abs/2507.04399)|null|
 |**2025-07-04**|**Enhancing thermoelectric efficiency of multilayer graphene by nanomeshing**|Mehrdad Rahimi et.al.|[2507.03436](http://arxiv.org/abs/2507.03436)|null|
 |**2025-07-03**|**Time- and Polarization-Resolved Extreme Ultraviolet Momentum Microscopy**|Sotirios Fragkos et.al.|[2507.02371](http://arxiv.org/abs/2507.02371)|null|
@@ -224,9 +225,8 @@
 |**2025-04-08**|**Pyroelectric doping reversal of MoS2 p-n junctions on ferroelectric domain walls probed by photoluminescence**|Javier Fernández-Martínez et.al.|[2504.04886](http://arxiv.org/abs/2504.04886)|null|
 |**2025-04-06**|**Intrinsic Nonreciprocity in Asymmetric Josephson Junctions with Non-Sinusoidal Current-Phase Relations**|R. A. Hovhannisyan et.al.|[2504.04587](http://arxiv.org/abs/2504.04587)|null|
 |**2025-04-14**|**Roadmap for Photonics with 2D Materials**|F. Javier García de Abajo et.al.|[2504.04558](http://arxiv.org/abs/2504.04558)|null|
-|**2025-05-12**|**Tunable Topological Phases in Multilayer Graphene Coupled to a Chiral Cavity**|Sayed Ali Akbar Ghorashi et.al.|[2504.03842](http://arxiv.org/abs/2504.03842)|null|
 
-<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
