@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,16 @@
 |**2021-09-27**|**Superior Resistance Switching in Monolayer MoS2 Channel Based Gated Binary Resistive RAM via Gate-Bias Dependence and a Unique Forming Process**|Ansh et.al.|[2109.12937](http://arxiv.org/abs/2109.12937)|null|
 |**2021-08-30**|**Exploiting the Electrothermal Timescale in PrMnO3 RRAM for a compact, clock-less neuron exhibiting biological spiking patterns**|Omkar Phadke et.al.|[2108.13389](http://arxiv.org/abs/2108.13389)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Reversible local strain engineering of $\mathrm{WS}_2$ using a micro-mechanical spring**|Eric Herrmann et.al.|[2507.07784](http://arxiv.org/abs/2507.07784)|null|
+|**2025-07-10**|**Superlubricity of Borophene: Tribological Properties in Comparison to hBN**|Antoine Hinaut et.al.|[2507.07716](http://arxiv.org/abs/2507.07716)|null|
+|**2025-07-10**|**Toward All 2D-based Printed Raindrop Triboelectric Nanogenerators**|Foad Ghasemi et.al.|[2507.07504](http://arxiv.org/abs/2507.07504)|null|
+|**2025-07-10**|**Mass-transport-limited reaction rates and molecular diffusion in the van der Waals gap beneath graphene**|Hossein Mirdamadi et.al.|[2507.07479](http://arxiv.org/abs/2507.07479)|null|
 |**2025-07-08**|**Bilayer graphene as a template for manufacturing novel 2D materials**|Arkady V. Krasheninnikov et.al.|[2507.06447](http://arxiv.org/abs/2507.06447)|null|
 |**2025-07-08**|**Defect migration and phase transformations in 2D iron chloride inside bilayer graphene**|Qiunan Liu et.al.|[2507.05665](http://arxiv.org/abs/2507.05665)|null|
 |**2025-07-07**|**Identifying Exceptional Points in Two-Dimensional Excitons Coupled to an Open Optical Cavity**|Ben Johns et.al.|[2507.05493](http://arxiv.org/abs/2507.05493)|null|
@@ -221,12 +225,8 @@
 |**2025-04-11**|**Light-Induced Spin Slanting in 2D Multiferroic Magnet**|Jiangyu Zhao et.al.|[2504.08185](http://arxiv.org/abs/2504.08185)|null|
 |**2025-04-14**|**Two-dimensional perovskites with maximum symmetry enable exciton diffusion length exceeding 2 micrometers**|Jin Hou et.al.|[2504.08121](http://arxiv.org/abs/2504.08121)|null|
 |**2025-04-08**|**Dispersion-corrected Machine Learning Potentials for 2D van der Waals Materials**|Mikkel Ohm Sauer et.al.|[2504.05754](http://arxiv.org/abs/2504.05754)|null|
-|**2025-05-13**|**Towards "on-demand" van der Waals epitaxy with hpc-driven online ensemble sampling**|Soumendu Bagchi et.al.|[2504.05539](http://arxiv.org/abs/2504.05539)|null|
-|**2025-04-08**|**Pyroelectric doping reversal of MoS2 p-n junctions on ferroelectric domain walls probed by photoluminescence**|Javier Fernández-Martínez et.al.|[2504.04886](http://arxiv.org/abs/2504.04886)|null|
-|**2025-04-06**|**Intrinsic Nonreciprocity in Asymmetric Josephson Junctions with Non-Sinusoidal Current-Phase Relations**|R. A. Hovhannisyan et.al.|[2504.04587](http://arxiv.org/abs/2504.04587)|null|
-|**2025-04-14**|**Roadmap for Photonics with 2D Materials**|F. Javier García de Abajo et.al.|[2504.04558](http://arxiv.org/abs/2504.04558)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
