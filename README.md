@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2021-09-27**|**Superior Resistance Switching in Monolayer MoS2 Channel Based Gated Binary Resistive RAM via Gate-Bias Dependence and a Unique Forming Process**|Ansh et.al.|[2109.12937](http://arxiv.org/abs/2109.12937)|null|
 |**2021-08-30**|**Exploiting the Electrothermal Timescale in PrMnO3 RRAM for a compact, clock-less neuron exhibiting biological spiking patterns**|Omkar Phadke et.al.|[2108.13389](http://arxiv.org/abs/2108.13389)|null|
 
-<p align=right>(<a href=#updated-on-20250713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -194,7 +194,7 @@
 |**2025-05-29**|**Modelling of time-dependent electrostatic effects and AFM-based surface conductivity characterization**|Mario Navarro-Rodriguez et.al.|[2505.08249](http://arxiv.org/abs/2505.08249)|null|
 |**2025-05-12**|**Colossal anomalous Stark shift in defect emission of undulated 2D materials**|Sunny Gupta et.al.|[2505.08096](http://arxiv.org/abs/2505.08096)|null|
 |**2025-05-12**|**Electronic structure of monolayer-CrTe $_2$ : an antiferromagnetic 2D van der Waals material**|Olivia Armitage et.al.|[2505.07942](http://arxiv.org/abs/2505.07942)|null|
-|**2025-05-12**|**PtyRAD: A High-performance and Flexible Ptychographic Reconstruction Framework with Automatic Differentiation**|Chia-Hao Lee et.al.|[2505.07814](http://arxiv.org/abs/2505.07814)|**[link](https://github.com/chiahao3/ptyrad)**|
+|**2025-07-11**|**PtyRAD: A High-performance and Flexible Ptychographic Reconstruction Framework with Automatic Differentiation**|Chia-Hao Lee et.al.|[2505.07814](http://arxiv.org/abs/2505.07814)|**[link](https://github.com/chiahao3/ptyrad)**|
 |**2025-05-12**|**Unraveling Mn intercalation and diffusion in NbSe $_2$ bilayers through DFTB simulations**|Bruno Ipaves et.al.|[2505.07781](http://arxiv.org/abs/2505.07781)|null|
 |**2025-05-12**|**Charge transfer between van der Waals coupled metallic 2D layers**|Bharti Matta et.al.|[2505.07382](http://arxiv.org/abs/2505.07382)|null|
 |**2025-05-10**|**Inverse Design of Broadband Antennas for Terahertz Devices Based on 2D Materials**|M. Lukianov et.al.|[2505.06480](http://arxiv.org/abs/2505.06480)|null|
@@ -226,7 +226,7 @@
 |**2025-04-14**|**Two-dimensional perovskites with maximum symmetry enable exciton diffusion length exceeding 2 micrometers**|Jin Hou et.al.|[2504.08121](http://arxiv.org/abs/2504.08121)|null|
 |**2025-04-08**|**Dispersion-corrected Machine Learning Potentials for 2D van der Waals Materials**|Mikkel Ohm Sauer et.al.|[2504.05754](http://arxiv.org/abs/2504.05754)|null|
 
-<p align=right>(<a href=#updated-on-20250713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
