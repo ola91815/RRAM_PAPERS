@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -30,7 +30,7 @@ layout: default
 |**2025-02-05**|**Random Telegraph Noise of MIS and MIOS Silicon Nitride memristors at different resistance states**|N Vasileiadis et.al.|[2502.02994](http://arxiv.org/abs/2502.02994)|null|
 |**2025-02-04**|**Effect of SOI substrate on silicon nitride resistance switching using MIS structure**|A Mavropoulis et.al.|[2502.02119](http://arxiv.org/abs/2502.02119)|null|
 |**2025-02-03**|**Effect of Al2O3 on the operation of SiNX-based MIS RRAMs**|A. E. Mavropoulis et.al.|[2502.01346](http://arxiv.org/abs/2502.01346)|null|
-|**2025-04-14**|**An RRAM compute-in-memory architecture for energy-efffcient binary matrix-vector multiplication processing**|Hao Yue et.al.|[2501.10702](http://arxiv.org/abs/2501.10702)|null|
+|**2025-07-12**|**An RRAM compute-in-memory architecture for high energy-efficient processing of binary matrix-vector multiplication in cryptography**|Hao Yue et.al.|[2501.10702](http://arxiv.org/abs/2501.10702)|null|
 |**2025-04-14**|**GRAMC: General-purpose and reconfigurable analog matrix computing architecture**|Lunshuai Pan et.al.|[2501.01586](http://arxiv.org/abs/2501.01586)|null|
 |**2024-12-17**|**Investigating the Effect of Electrical and Thermal Transport Properties on Oxide-Based Memristors Performance and Reliability**|Armin Gooran-Shoorakchaly et.al.|[2412.12450](http://arxiv.org/abs/2412.12450)|null|
 |**2024-10-27**|**The maximum storage capacity of open-loop written RRAM is around 4 bits**|Yongxiang Li et.al.|[2410.20332](http://arxiv.org/abs/2410.20332)|null|
@@ -119,6 +119,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Strain and Correlation Modulated Magnetic Anisotropy and Dzyaloshinskii--Moriya Interaction in 2D H-FeTe $_2$**|Dimple Rani et.al.|[2507.10477](http://arxiv.org/abs/2507.10477)|null|
+|**2025-07-14**|**4D-MISR: A unified model for low-dose super-resolution imaging via feature fusion**|Zifei Wang et.al.|[2507.09953](http://arxiv.org/abs/2507.09953)|null|
+|**2025-07-13**|**Unlocking Altermagnetism in Antiferromagnetic 2D Films via Adsorption**|Dong Liu et.al.|[2507.09518](http://arxiv.org/abs/2507.09518)|null|
+|**2025-07-12**|**First-principles design for strain-tunable exciton dynamics in 2D materials**|Amir Kleiner et.al.|[2507.09363](http://arxiv.org/abs/2507.09363)|null|
+|**2025-07-11**|**Anisotropic anomalous diffusion and nonequilibrium in microgravity dusty plasma. Part Two: Spectral Analysis**|Bradley R. Andrew et.al.|[2507.09053](http://arxiv.org/abs/2507.09053)|null|
 |**2025-07-10**|**Reversible local strain engineering of $\mathrm{WS}_2$ using a micro-mechanical spring**|Eric Herrmann et.al.|[2507.07784](http://arxiv.org/abs/2507.07784)|null|
 |**2025-07-10**|**Superlubricity of Borophene: Tribological Properties in Comparison to hBN**|Antoine Hinaut et.al.|[2507.07716](http://arxiv.org/abs/2507.07716)|null|
 |**2025-07-10**|**Toward All 2D-based Printed Raindrop Triboelectric Nanogenerators**|Foad Ghasemi et.al.|[2507.07504](http://arxiv.org/abs/2507.07504)|null|
@@ -214,11 +219,6 @@ layout: default
 |**2025-04-14**|**MoS2 Based 2D Material Photodetector Array with high Pixel Density**|Russell L. T. Schwartz et.al.|[2504.10711](http://arxiv.org/abs/2504.10711)|null|
 |**2025-04-14**|**Zero-shot Autonomous Microscopy for Scalable and Intelligent Characterization of 2D Materials**|Jingyun Yang et.al.|[2504.10281](http://arxiv.org/abs/2504.10281)|null|
 |**2025-04-13**|**Harnessing Machine Learning for Quantum-Accurate Predictions of Non-Equilibrium Behavior in 2D Materials**|Yue Zhang et.al.|[2504.09686](http://arxiv.org/abs/2504.09686)|null|
-|**2025-04-13**|**Organic-Inorganic Polaritonics: Linking Frenkel and Wannier-Mott Excitons**|V. G. M. Duarte et.al.|[2504.09631](http://arxiv.org/abs/2504.09631)|null|
-|**2025-04-11**|**Analog Quantum Simulation of Dirac Hamiltonians in Circuit QED Using Rabi Driven Qubits**|Gal Gumpel et.al.|[2504.08944](http://arxiv.org/abs/2504.08944)|null|
-|**2025-04-11**|**Light-Induced Spin Slanting in 2D Multiferroic Magnet**|Jiangyu Zhao et.al.|[2504.08185](http://arxiv.org/abs/2504.08185)|null|
-|**2025-04-14**|**Two-dimensional perovskites with maximum symmetry enable exciton diffusion length exceeding 2 micrometers**|Jin Hou et.al.|[2504.08121](http://arxiv.org/abs/2504.08121)|null|
-|**2025-04-08**|**Dispersion-corrected Machine Learning Potentials for 2D van der Waals Materials**|Mikkel Ohm Sauer et.al.|[2504.05754](http://arxiv.org/abs/2504.05754)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
