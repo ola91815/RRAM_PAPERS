@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -120,7 +120,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-14**|**Strain and Correlation Modulated Magnetic Anisotropy and Dzyaloshinskii--Moriya Interaction in 2D H-FeTe $_2$**|Dimple Rani et.al.|[2507.10477](http://arxiv.org/abs/2507.10477)|null|
-|**2025-07-14**|**4D-MISR: A unified model for low-dose super-resolution imaging via feature fusion**|Zifei Wang et.al.|[2507.09953](http://arxiv.org/abs/2507.09953)|null|
+|**2025-07-16**|**4D-MISR: A unified model for low-dose super-resolution imaging via feature fusion**|Zifei Wang et.al.|[2507.09953](http://arxiv.org/abs/2507.09953)|null|
 |**2025-07-13**|**Unlocking Altermagnetism in Antiferromagnetic 2D Films via Adsorption**|Dong Liu et.al.|[2507.09518](http://arxiv.org/abs/2507.09518)|null|
 |**2025-07-12**|**First-principles design for strain-tunable exciton dynamics in 2D materials**|Amir Kleiner et.al.|[2507.09363](http://arxiv.org/abs/2507.09363)|null|
 |**2025-07-11**|**Anisotropic anomalous diffusion and nonequilibrium in microgravity dusty plasma. Part Two: Spectral Analysis**|Bradley R. Andrew et.al.|[2507.09053](http://arxiv.org/abs/2507.09053)|null|
