@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,14 +119,17 @@
 |**2021-09-27**|**Superior Resistance Switching in Monolayer MoS2 Channel Based Gated Binary Resistive RAM via Gate-Bias Dependence and a Unique Forming Process**|Ansh et.al.|[2109.12937](http://arxiv.org/abs/2109.12937)|null|
 |**2021-08-30**|**Exploiting the Electrothermal Timescale in PrMnO3 RRAM for a compact, clock-less neuron exhibiting biological spiking patterns**|Omkar Phadke et.al.|[2108.13389](http://arxiv.org/abs/2108.13389)|null|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Origin of circular and triangular pores in electron-irradiated hexagonal boron nitride**|Umair Javed et.al.|[2507.13180](http://arxiv.org/abs/2507.13180)|null|
+|**2025-07-17**|**Comparative Study of Strain-Engineered Thermoelectric Performance of 2D-Xene Nanoribbons**|Kalpana Panneerselvam et.al.|[2507.13132](http://arxiv.org/abs/2507.13132)|null|
+|**2025-07-17**|**Mapping diverse hysteresis dynamics in scaled MoS $_2$ FETs using the universal method derived from TCAD modeling**|Yezhu Lv et.al.|[2507.13002](http://arxiv.org/abs/2507.13002)|null|
 |**2025-07-14**|**Strain and Correlation Modulated Magnetic Anisotropy and Dzyaloshinskii--Moriya Interaction in 2D H-FeTe $_2$**|Dimple Rani et.al.|[2507.10477](http://arxiv.org/abs/2507.10477)|null|
-|**2025-07-16**|**4D-MISR: A unified model for low-dose super-resolution imaging via feature fusion**|Zifei Wang et.al.|[2507.09953](http://arxiv.org/abs/2507.09953)|null|
+|**2025-07-17**|**4D-MISR: A unified model for low-dose super-resolution imaging via feature fusion**|Zifei Wang et.al.|[2507.09953](http://arxiv.org/abs/2507.09953)|null|
 |**2025-07-13**|**Unlocking Altermagnetism in Antiferromagnetic 2D Films via Adsorption**|Dong Liu et.al.|[2507.09518](http://arxiv.org/abs/2507.09518)|null|
 |**2025-07-12**|**First-principles design for strain-tunable exciton dynamics in 2D materials**|Amir Kleiner et.al.|[2507.09363](http://arxiv.org/abs/2507.09363)|null|
 |**2025-07-11**|**Anisotropic anomalous diffusion and nonequilibrium in microgravity dusty plasma. Part Two: Spectral Analysis**|Bradley R. Andrew et.al.|[2507.09053](http://arxiv.org/abs/2507.09053)|null|
@@ -222,11 +225,8 @@
 |**2025-04-15**|**Integrated photonics incorporating 2D materials for practical applications**|David J. Moss et.al.|[2504.11668](http://arxiv.org/abs/2504.11668)|null|
 |**2025-04-15**|**Strain effect on optical properties and quantum weight of 2D magnetic topological insulators MnBi $_2$X$_4$ (X = Te, Se, S)**|Nguyen Tuan Hung et.al.|[2504.10879](http://arxiv.org/abs/2504.10879)|null|
 |**2025-04-15**|**Room-Temperature Hybrid 2D-3D Quantum Spin System for Enhanced Magnetic Sensing and Many-Body Dynamics**|Haoyu Sun et.al.|[2504.10815](http://arxiv.org/abs/2504.10815)|null|
-|**2025-04-14**|**MoS2 Based 2D Material Photodetector Array with high Pixel Density**|Russell L. T. Schwartz et.al.|[2504.10711](http://arxiv.org/abs/2504.10711)|null|
-|**2025-04-14**|**Zero-shot Autonomous Microscopy for Scalable and Intelligent Characterization of 2D Materials**|Jingyun Yang et.al.|[2504.10281](http://arxiv.org/abs/2504.10281)|null|
-|**2025-04-13**|**Harnessing Machine Learning for Quantum-Accurate Predictions of Non-Equilibrium Behavior in 2D Materials**|Yue Zhang et.al.|[2504.09686](http://arxiv.org/abs/2504.09686)|null|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
