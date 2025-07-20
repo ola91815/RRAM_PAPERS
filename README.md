@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.19
+## Updated on 2025.07.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2021-09-27**|**Superior Resistance Switching in Monolayer MoS2 Channel Based Gated Binary Resistive RAM via Gate-Bias Dependence and a Unique Forming Process**|Ansh et.al.|[2109.12937](http://arxiv.org/abs/2109.12937)|null|
 |**2021-08-30**|**Exploiting the Electrothermal Timescale in PrMnO3 RRAM for a compact, clock-less neuron exhibiting biological spiking patterns**|Omkar Phadke et.al.|[2108.13389](http://arxiv.org/abs/2108.13389)|null|
 
-<p align=right>(<a href=#updated-on-20250719>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
 
 ## 2D MATERIAL
 
@@ -226,7 +226,7 @@
 |**2025-04-15**|**Strain effect on optical properties and quantum weight of 2D magnetic topological insulators MnBi $_2$X$_4$ (X = Te, Se, S)**|Nguyen Tuan Hung et.al.|[2504.10879](http://arxiv.org/abs/2504.10879)|null|
 |**2025-04-15**|**Room-Temperature Hybrid 2D-3D Quantum Spin System for Enhanced Magnetic Sensing and Many-Body Dynamics**|Haoyu Sun et.al.|[2504.10815](http://arxiv.org/abs/2504.10815)|null|
 
-<p align=right>(<a href=#updated-on-20250719>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
