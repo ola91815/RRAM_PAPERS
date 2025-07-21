@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Alignment behavior of 2D diopsides (d-silicates) under the influence of an AC electric field**|Himakshi Mishra et.al.|[2507.13962](http://arxiv.org/abs/2507.13962)|null|
+|**2025-07-17**|**SparseC-AFM: a deep learning method for fast and accurate characterization of MoS $_2$ with C-AFM**|Levi Harris et.al.|[2507.13527](http://arxiv.org/abs/2507.13527)|null|
 |**2025-07-17**|**Origin of circular and triangular pores in electron-irradiated hexagonal boron nitride**|Umair Javed et.al.|[2507.13180](http://arxiv.org/abs/2507.13180)|null|
 |**2025-07-17**|**Comparative Study of Strain-Engineered Thermoelectric Performance of 2D-Xene Nanoribbons**|Kalpana Panneerselvam et.al.|[2507.13132](http://arxiv.org/abs/2507.13132)|null|
 |**2025-07-17**|**Mapping diverse hysteresis dynamics in scaled MoS $_2$ FETs using the universal method derived from TCAD modeling**|Yezhu Lv et.al.|[2507.13002](http://arxiv.org/abs/2507.13002)|null|
@@ -217,8 +219,6 @@ layout: default
 |**2025-04-22**|**High-throughput screening of 2D materials identifies p-type monolayer WS $_2$ as potential ultra-high mobility semiconductor**|Viet-Anh Ha et.al.|[2504.16208](http://arxiv.org/abs/2504.16208)|null|
 |**2025-04-23**|**Full Crystallographic Imaging of Hexagonal Boron Nitride Monolayers with Phonon-Enhanced Sum-Frequency Microscopy**|Niclas S. Mueller et.al.|[2504.15939](http://arxiv.org/abs/2504.15939)|null|
 |**2025-04-15**|**Integrated photonics incorporating 2D materials for practical applications**|David J. Moss et.al.|[2504.11668](http://arxiv.org/abs/2504.11668)|null|
-|**2025-04-15**|**Strain effect on optical properties and quantum weight of 2D magnetic topological insulators MnBi $_2$X$_4$ (X = Te, Se, S)**|Nguyen Tuan Hung et.al.|[2504.10879](http://arxiv.org/abs/2504.10879)|null|
-|**2025-04-15**|**Room-Temperature Hybrid 2D-3D Quantum Spin System for Enhanced Magnetic Sensing and Many-Body Dynamics**|Haoyu Sun et.al.|[2504.10815](http://arxiv.org/abs/2504.10815)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
