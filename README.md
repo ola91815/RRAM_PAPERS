@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.21
+## Updated on 2025.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**When Pipelined In-Memory Accelerators Meet Spiking Direct Feedback Alignment: A Co-Design for Neuromorphic Edge Computing**|Haoxiong Ren et.al.|[2507.15603](http://arxiv.org/abs/2507.15603)|null|
 |**2025-06-16**|**Reconfigurable Digital RRAM Logic Enables In-Situ Pruning and Learning for Edge AI**|Songqi Wang et.al.|[2506.13151](http://arxiv.org/abs/2506.13151)|null|
 |**2025-05-20**|**Hybrid SLC-MLC RRAM Mixed-Signal Processing-in-Memory Architecture for Transformer Acceleration via Gradient Redistribution**|Chang Eun Song et.al.|[2506.00020](http://arxiv.org/abs/2506.00020)|null|
 |**2025-05-23**|**Bruno: Backpropagation Running Undersampled for Novel device Optimization**|Luca Fehlings et.al.|[2505.17791](http://arxiv.org/abs/2505.17791)|null|
@@ -117,14 +118,18 @@
 |**2021-11-02**|**Stochasticity Invariance Control in Pr $_{1-x}$Ca$_x$MnO$_3$ RRAM to enable Large-Scale Stochastic Recurrent Neural Networks**|Vivek Saraswat et.al.|[2111.02885](http://arxiv.org/abs/2111.02885)|null|
 |**2021-10-07**|**Optimization of the multi-mem response of topotactic redox La $_{1/2}$Sr$_{1/2}$Mn$_{1/2}$Co$_{1/2}$O$_{3-x}$**|W. Román Acevedo et.al.|[2110.03507](http://arxiv.org/abs/2110.03507)|null|
 |**2021-09-27**|**Superior Resistance Switching in Monolayer MoS2 Channel Based Gated Binary Resistive RAM via Gate-Bias Dependence and a Unique Forming Process**|Ansh et.al.|[2109.12937](http://arxiv.org/abs/2109.12937)|null|
-|**2021-08-30**|**Exploiting the Electrothermal Timescale in PrMnO3 RRAM for a compact, clock-less neuron exhibiting biological spiking patterns**|Omkar Phadke et.al.|[2108.13389](http://arxiv.org/abs/2108.13389)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Giant Resonance Raman Scattering via Anisotropic Excitons in ReS2**|Pritam Das et.al.|[2507.15327](http://arxiv.org/abs/2507.15327)|null|
+|**2025-07-21**|**Engineering Spin Splitting in Antiferromagnets by Superatoms with Internal Degree of Freedom**|Fengxian Ma et.al.|[2507.15213](http://arxiv.org/abs/2507.15213)|null|
+|**2025-07-20**|**Defect Engineered Layer Dependent Nonlinear Optical Response in Two Dimensional Muscovite for Efficient Optical Limiting**|Dipanwita Mitra et.al.|[2507.14786](http://arxiv.org/abs/2507.14786)|null|
+|**2025-07-19**|**Designing Two-Dimensional Octuple-Atomic-Layer M $_2$A$_2$Z$_4$ as Promising Photocatalysts for Overall Water Splitting**|Dingyanyan Zhou et.al.|[2507.14654](http://arxiv.org/abs/2507.14654)|null|
+|**2025-07-19**|**Metal-Insulator transition and Charge Transport Mechanisms in SnSe $_2$ Field-Effect Transistor**|Aarti Lakhara et.al.|[2507.14536](http://arxiv.org/abs/2507.14536)|null|
 |**2025-07-18**|**Alignment behavior of 2D diopsides (d-silicates) under the influence of an AC electric field**|Himakshi Mishra et.al.|[2507.13962](http://arxiv.org/abs/2507.13962)|null|
 |**2025-07-17**|**SparseC-AFM: a deep learning method for fast and accurate characterization of MoS $_2$ with C-AFM**|Levi Harris et.al.|[2507.13527](http://arxiv.org/abs/2507.13527)|null|
 |**2025-07-17**|**Origin of circular and triangular pores in electron-irradiated hexagonal boron nitride**|Umair Javed et.al.|[2507.13180](http://arxiv.org/abs/2507.13180)|null|
@@ -220,13 +225,8 @@
 |**2025-05-04**|**Two-dimensional M2X2 family with emerging semiconducting, semimetallic, and magnetic properties**|Yasin Yekta et.al.|[2505.02240](http://arxiv.org/abs/2505.02240)|null|
 |**2025-05-02**|**Systematic investigation of the generation of luminescent emitters in hBN via irradiation engineering**|Pooja C. Sindhuraj et.al.|[2505.01155](http://arxiv.org/abs/2505.01155)|null|
 |**2025-04-30**|**Towards a $\cos(2\varphi)$ Josephson element using aluminum junctions with well-transmitted channels**|J. Griesmar et.al.|[2504.21494](http://arxiv.org/abs/2504.21494)|null|
-|**2025-05-01**|**Planar Nernst effect from hidden band geometry in layered two-dimensional materials**|Rahul Biswas et.al.|[2504.18885](http://arxiv.org/abs/2504.18885)|null|
-|**2025-04-23**|**Terahertz field effect in a two-dimensional semiconductor MoS2**|Tomoki Hiraoka et.al.|[2504.16333](http://arxiv.org/abs/2504.16333)|null|
-|**2025-04-22**|**High-throughput screening of 2D materials identifies p-type monolayer WS $_2$ as potential ultra-high mobility semiconductor**|Viet-Anh Ha et.al.|[2504.16208](http://arxiv.org/abs/2504.16208)|null|
-|**2025-04-23**|**Full Crystallographic Imaging of Hexagonal Boron Nitride Monolayers with Phonon-Enhanced Sum-Frequency Microscopy**|Niclas S. Mueller et.al.|[2504.15939](http://arxiv.org/abs/2504.15939)|null|
-|**2025-04-15**|**Integrated photonics incorporating 2D materials for practical applications**|David J. Moss et.al.|[2504.11668](http://arxiv.org/abs/2504.11668)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
