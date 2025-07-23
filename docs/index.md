@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RRAM
@@ -119,6 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**A sublattice Stokes polarimeter for bipartite photonic lattices**|Martin Guillot et.al.|[2507.16446](http://arxiv.org/abs/2507.16446)|null|
 |**2025-07-21**|**Giant Resonance Raman Scattering via Anisotropic Excitons in ReS2**|Pritam Das et.al.|[2507.15327](http://arxiv.org/abs/2507.15327)|null|
 |**2025-07-21**|**Engineering Spin Splitting in Antiferromagnets by Superatoms with Internal Degree of Freedom**|Fengxian Ma et.al.|[2507.15213](http://arxiv.org/abs/2507.15213)|null|
 |**2025-07-20**|**Defect Engineered Layer Dependent Nonlinear Optical Response in Two Dimensional Muscovite for Efficient Optical Limiting**|Dipanwita Mitra et.al.|[2507.14786](http://arxiv.org/abs/2507.14786)|null|
@@ -218,7 +219,6 @@ layout: default
 |**2025-05-04**|**Simple scaling rules governing work functions of two-dimensional materials**|James C. Ellenbogen et.al.|[2505.02249](http://arxiv.org/abs/2505.02249)|null|
 |**2025-05-04**|**Two-dimensional M2X2 family with emerging semiconducting, semimetallic, and magnetic properties**|Yasin Yekta et.al.|[2505.02240](http://arxiv.org/abs/2505.02240)|null|
 |**2025-05-02**|**Systematic investigation of the generation of luminescent emitters in hBN via irradiation engineering**|Pooja C. Sindhuraj et.al.|[2505.01155](http://arxiv.org/abs/2505.01155)|null|
-|**2025-04-30**|**Towards a $\cos(2\varphi)$ Josephson element using aluminum junctions with well-transmitted channels**|J. Griesmar et.al.|[2504.21494](http://arxiv.org/abs/2504.21494)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
