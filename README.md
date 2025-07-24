@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,12 +119,13 @@
 |**2021-10-07**|**Optimization of the multi-mem response of topotactic redox La $_{1/2}$Sr$_{1/2}$Mn$_{1/2}$Co$_{1/2}$O$_{3-x}$**|W. Román Acevedo et.al.|[2110.03507](http://arxiv.org/abs/2110.03507)|null|
 |**2021-09-27**|**Superior Resistance Switching in Monolayer MoS2 Channel Based Gated Binary Resistive RAM via Gate-Bias Dependence and a Unique Forming Process**|Ansh et.al.|[2109.12937](http://arxiv.org/abs/2109.12937)|null|
 
-<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250724>back to top</a>)</p>
 
 ## 2D MATERIAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Modifying electronic and structural properties of 2D van der Waals materials via cavity quantum vacuum fluctuations: A first-principles QEDFT study**|Hang Liu et.al.|[2507.16992](http://arxiv.org/abs/2507.16992)|null|
 |**2025-07-22**|**A sublattice Stokes polarimeter for bipartite photonic lattices**|Martin Guillot et.al.|[2507.16446](http://arxiv.org/abs/2507.16446)|null|
 |**2025-07-21**|**Giant Resonance Raman Scattering via Anisotropic Excitons in ReS2**|Pritam Das et.al.|[2507.15327](http://arxiv.org/abs/2507.15327)|null|
 |**2025-07-21**|**Engineering Spin Splitting in Antiferromagnets by Superatoms with Internal Degree of Freedom**|Fengxian Ma et.al.|[2507.15213](http://arxiv.org/abs/2507.15213)|null|
@@ -197,7 +198,7 @@
 |**2025-05-28**|**Dual-Polarization SHG Interferometry for Imaging Antiparallel Domains and Stacking Angles of 2D Heterocrystals**|Juseung Oh et.al.|[2505.21922](http://arxiv.org/abs/2505.21922)|null|
 |**2025-05-24**|**Self-patterning of Liquid Field's Metal for Enhanced Performance of Two-dimensional Semiconductor**|Kwanghee Han et.al.|[2505.18794](http://arxiv.org/abs/2505.18794)|null|
 |**2025-05-23**|**Nucleation and Antiphase Twin Control in Bi $_2$Se$_3$ via Step-Terminated Al$_2$O$_3$ Substrates**|Alessandro R. Mazza et.al.|[2505.18103](http://arxiv.org/abs/2505.18103)|null|
-|**2025-05-22**|**Advancing Excited-State Properties of 2D Materials Using a Dielectric-Dependent Hybrid Functional**|Arghya Ghosh et.al.|[2505.17261](http://arxiv.org/abs/2505.17261)|null|
+|**2025-07-23**|**Advancing excited-state properties of two-dimensional materials using a dielectric-dependent hybrid functional**|Arghya Ghosh et.al.|[2505.17261](http://arxiv.org/abs/2505.17261)|null|
 |**2025-05-21**|**Exciton-defect interaction and optical properties from a first-principles T-matrix approach**|Yang-hao Chan et.al.|[2505.15523](http://arxiv.org/abs/2505.15523)|null|
 |**2025-05-20**|**Probing and Tuning Strain-localized Exciton Emission in 2D Material Bubbles at Room Temperature**|Junze Zhou et.al.|[2505.13783](http://arxiv.org/abs/2505.13783)|null|
 |**2025-05-19**|**Thermal transport mapping in twisted double bilayer graphene**|Jean Spièce et.al.|[2505.12957](http://arxiv.org/abs/2505.12957)|null|
@@ -224,9 +225,8 @@
 |**2025-05-05**|**Electron density modulation in monolayer $MoS_{2}$ along the phase transition of a relaxor ferroelectric substrate**|D. Hernández-Pinilla et.al.|[2505.02454](http://arxiv.org/abs/2505.02454)|null|
 |**2025-05-04**|**Simple scaling rules governing work functions of two-dimensional materials**|James C. Ellenbogen et.al.|[2505.02249](http://arxiv.org/abs/2505.02249)|null|
 |**2025-05-04**|**Two-dimensional M2X2 family with emerging semiconducting, semimetallic, and magnetic properties**|Yasin Yekta et.al.|[2505.02240](http://arxiv.org/abs/2505.02240)|null|
-|**2025-05-02**|**Systematic investigation of the generation of luminescent emitters in hBN via irradiation engineering**|Pooja C. Sindhuraj et.al.|[2505.01155](http://arxiv.org/abs/2505.01155)|null|
 
-<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250724>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
